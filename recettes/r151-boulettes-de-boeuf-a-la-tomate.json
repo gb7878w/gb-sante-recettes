@@ -1,0 +1,69 @@
+{
+ "id": "r151-boulettes-de-boeuf-a-la-tomate",
+ "nom": "Boulettes de bœuf à la tomate",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 442,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Formez des boulettes avec la viande et l'oignon haché.",
+  "Faites-les dorer puis mijotez-les dans le coulis.",
+  "Servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 456.25,
+  "proteines": 42.0,
+  "glucides": 47.67,
+  "lipides": 8.76,
+  "sucres": 9.46,
+  "fibres": 7.95,
+  "satures": 3.77,
+  "sel": 1.53,
+  "fer": 5.66,
+  "calcium": 72.3,
+  "magnesium": 58.4,
+  "potassium": 579.7,
+  "zinc": 9.11,
+  "iode": 8.23,
+  "vitd": 0.0,
+  "vitc": 1.7,
+  "b12": 3.22,
+  "b9": 49.03,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r101-porridge-poire-noisette",
+ "nom": "Porridge poire-noisette",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 80
+  },
+  {
+   "ciqual": "15004",
+   "nom": "Noisettes",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites chauffer les flocons avec le lait 4 minutes en remuant.",
+  "Ajoutez le fromage blanc et la poire en dés, parsemez de noisettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 358.9,
+  "proteines": 19.49,
+  "glucides": 43.99,
+  "lipides": 9.52,
+  "sucres": 19.18,
+  "fibres": 7.49,
+  "satures": 2.42,
+  "sel": 0.25,
+  "fer": 2.15,
+  "calcium": 355.94,
+  "magnesium": 106.59,
+  "potassium": 693.3,
+  "zinc": 2.65,
+  "iode": 28.75,
+  "vitd": 0.0,
+  "vitc": 3.36,
+  "b12": 0.97,
+  "b9": 69.37,
+  "alcool": 0.0
+ }
+}

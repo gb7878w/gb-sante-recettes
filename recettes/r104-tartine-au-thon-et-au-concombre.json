@@ -1,0 +1,63 @@
+{
+ "id": "r104-tartine-au-thon-et-au-concombre",
+ "nom": "Tartine au thon et au concombre",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 60
+  },
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Écrasez le thon avec le fromage blanc et le poivre.",
+  "Tartinez le pain, ajoutez le concombre en rondelles."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 239.0,
+  "proteines": 24.54,
+  "glucides": 29.15,
+  "lipides": 1.38,
+  "sucres": 3.54,
+  "fibres": 4.38,
+  "satures": 0.39,
+  "sel": 1.16,
+  "fer": 1.83,
+  "calcium": 88.44,
+  "magnesium": 55.32,
+  "potassium": 388.6,
+  "zinc": 1.35,
+  "iode": 13.88,
+  "vitd": 3.56,
+  "vitc": 3.3,
+  "b12": 1.68,
+  "b9": 45.66,
+  "alcool": 0.0
+ }
+}

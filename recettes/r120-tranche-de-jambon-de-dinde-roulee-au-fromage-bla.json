@@ -1,0 +1,57 @@
+{
+ "id": "r120-tranche-de-jambon-de-dinde-roulee-au-fromage-bla",
+ "nom": "Tranche de jambon de dinde roulée au fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 160,
+ "tags": [
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Étalez le fromage blanc sur le jambon.",
+  "Roulez avec un bâtonnet de concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 94.9,
+  "proteines": 16.84,
+  "glucides": 3.99,
+  "lipides": 1.08,
+  "sucres": 3.43,
+  "fibres": 0.53,
+  "satures": 0.36,
+  "sel": 1.2,
+  "fer": 0.35,
+  "calcium": 80.86,
+  "magnesium": 28.5,
+  "potassium": 372.5,
+  "zinc": 0.85,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 19.91,
+  "b12": 0.56,
+  "b9": 28.53,
+  "alcool": 0.0
+ }
+}

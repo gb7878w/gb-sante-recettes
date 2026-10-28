@@ -1,0 +1,74 @@
+{
+ "id": "r174-salade-de-crevettes-et-d-avocat",
+ "nom": "Salade de crevettes et d'avocat",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 530,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 60
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Composez la salade avec laitue, tomate et avocat.",
+  "Ajoutez les crevettes, le citron et servez avec les pommes de terre tièdes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 400.83,
+  "proteines": 29.88,
+  "glucides": 32.79,
+  "lipides": 14.54,
+  "sucres": 4.99,
+  "fibres": 6.82,
+  "satures": 3.26,
+  "sel": 1.85,
+  "fer": 4.15,
+  "calcium": 385.97,
+  "magnesium": 137.56,
+  "potassium": 1516.7,
+  "zinc": 2.95,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 35.7,
+  "b12": 2.13,
+  "b9": 159.01,
+  "alcool": 0.0
+ }
+}

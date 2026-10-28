@@ -1,0 +1,74 @@
+{
+ "id": "r150-tajine-de-poulet-aux-legumes",
+ "nom": "Tajine de poulet aux légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 502,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 60
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Faites revenir le poulet avec le cumin.",
+  "Ajoutez les légumes et les pois chiches, mijotez 30 minutes.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 471.84,
+  "proteines": 52.46,
+  "glucides": 44.28,
+  "lipides": 6.21,
+  "sucres": 10.62,
+  "fibres": 11.23,
+  "satures": 1.47,
+  "sel": 0.43,
+  "fer": 4.21,
+  "calcium": 125.7,
+  "magnesium": 133.82,
+  "potassium": 1317.8,
+  "zinc": 2.64,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 7.11,
+  "b12": 0.25,
+  "b9": 175.91,
+  "alcool": 0.0
+ }
+}

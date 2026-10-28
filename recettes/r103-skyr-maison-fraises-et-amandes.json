@@ -1,0 +1,63 @@
+{
+ "id": "r103-skyr-maison-fraises-et-amandes",
+ "nom": "Skyr maison, fraises et amandes",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 412,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 100
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le yaourt dans un bol.",
+  "Ajoutez les fraises coupées et les amandes concassées."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 266.19,
+  "proteines": 22.67,
+  "glucides": 19.68,
+  "lipides": 8.54,
+  "sucres": 18.55,
+  "fibres": 6.16,
+  "satures": 2.08,
+  "sel": 0.33,
+  "fer": 1.12,
+  "calcium": 444.2,
+  "magnesium": 80.9,
+  "potassium": 691.0,
+  "zinc": 1.91,
+  "iode": 41.6,
+  "vitd": 0.61,
+  "vitc": 54.26,
+  "b12": 1.08,
+  "b9": 182.0,
+  "alcool": 0.0
+ }
+}

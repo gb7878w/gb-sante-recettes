@@ -1,0 +1,57 @@
+{
+ "id": "r118-oeuf-dur-et-crudites",
+ "nom": "Œuf dur et crudités",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Écalez l'œuf dur.",
+  "Servez avec les bâtonnets de carotte et de concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 188.92,
+  "proteines": 15.74,
+  "glucides": 8.17,
+  "lipides": 9.55,
+  "sucres": 6.37,
+  "fibres": 2.52,
+  "satures": 2.83,
+  "sel": 0.44,
+  "fer": 2.16,
+  "calcium": 76.62,
+  "magnesium": 31.56,
+  "potassium": 410.2,
+  "zinc": 1.6,
+  "iode": 54.85,
+  "vitd": 1.23,
+  "vitc": 6.59,
+  "b12": 1.22,
+  "b9": 103.3,
+  "alcool": 0.0
+ }
+}

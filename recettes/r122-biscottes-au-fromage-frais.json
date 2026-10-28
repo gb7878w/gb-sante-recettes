@@ -1,0 +1,58 @@
+{
+ "id": "r122-biscottes-au-fromage-frais",
+ "nom": "Biscottes au fromage frais",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 160,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Tartinez les biscottes de fromage blanc.",
+  "Ajoutez les tomates cerises coupées."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 138.34,
+  "proteines": 9.49,
+  "glucides": 19.88,
+  "lipides": 1.27,
+  "sucres": 6.86,
+  "fibres": 2.49,
+  "satures": 0.55,
+  "sel": 0.34,
+  "fer": 0.97,
+  "calcium": 119.28,
+  "magnesium": 39.36,
+  "potassium": 383.2,
+  "zinc": 0.88,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 13.08,
+  "b12": 0.32,
+  "b9": 34.96,
+  "alcool": 0.0
+ }
+}

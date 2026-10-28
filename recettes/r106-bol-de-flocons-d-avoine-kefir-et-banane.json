@@ -1,0 +1,68 @@
+{
+ "id": "r106-bol-de-flocons-d-avoine-kefir-et-banane",
+ "nom": "Bol de flocons d'avoine, kéfir et banane",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 408,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "19865",
+   "nom": "Kéfir",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 80
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Versez le kéfir sur les flocons et laissez gonfler 5 minutes.",
+  "Ajoutez la banane en rondelles et les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.3,
+  "proteines": 19.97,
+  "glucides": 51.58,
+  "lipides": 15.02,
+  "sucres": 23.46,
+  "fibres": 6.78,
+  "satures": 5.65,
+  "sel": 0.33,
+  "fer": 2.18,
+  "calcium": 405.0,
+  "magnesium": 127.96,
+  "potassium": 866.4,
+  "zinc": 2.93,
+  "iode": 57.12,
+  "vitd": 0.2,
+  "vitc": 6.39,
+  "b12": 0.68,
+  "b9": 101.84,
+  "alcool": 0.0
+ }
+}

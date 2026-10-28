@@ -1,0 +1,69 @@
+{
+ "id": "r188-soupe-de-pois-chiches-et-legumes",
+ "nom": "Soupe de pois chiches et légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 600,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Faites cuire les légumes et le coulis dans l'eau 15 minutes.",
+  "Ajoutez les pois chiches et mixez à moitié.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 448.42,
+  "proteines": 29.36,
+  "glucides": 55.88,
+  "lipides": 6.57,
+  "sucres": 17.06,
+  "fibres": 22.68,
+  "satures": 1.12,
+  "sel": 1.11,
+  "fer": 3.35,
+  "calcium": 349.1,
+  "magnesium": 134.94,
+  "potassium": 980.8,
+  "zinc": 3.19,
+  "iode": 12.48,
+  "vitd": 0.0,
+  "vitc": 4.95,
+  "b12": 0.48,
+  "b9": 289.8,
+  "alcool": 0.0
+ }
+}

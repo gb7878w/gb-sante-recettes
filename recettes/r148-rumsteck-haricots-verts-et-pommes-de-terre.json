@@ -1,0 +1,63 @@
+{
+ "id": "r148-rumsteck-haricots-verts-et-pommes-de-terre",
+ "nom": "Rumsteck, haricots verts et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 515,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 130
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 180
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le rumsteck à votre goût.",
+  "Servez avec les haricots verts et les pommes de terre au four."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 421.82,
+  "proteines": 40.5,
+  "glucides": 40.08,
+  "lipides": 8.48,
+  "sucres": 7.12,
+  "fibres": 10.36,
+  "satures": 1.79,
+  "sel": 0.05,
+  "fer": 6.79,
+  "calcium": 129.0,
+  "magnesium": 102.4,
+  "potassium": 1483.0,
+  "zinc": 6.55,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 19.6,
+  "b12": 1.95,
+  "b9": 149.4,
+  "alcool": 0.0
+ }
+}

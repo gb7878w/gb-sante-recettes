@@ -1,0 +1,70 @@
+{
+ "id": "r152-filet-mignon-de-porc-moutarde-et-haricots",
+ "nom": "Filet mignon de porc moutarde et haricots",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le porc de moutarde et de crème.",
+  "Enfournez 20 minutes à 190 °C.",
+  "Servez avec les haricots verts et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 479.65,
+  "proteines": 42.25,
+  "glucides": 38.56,
+  "lipides": 15.01,
+  "sucres": 7.97,
+  "fibres": 9.64,
+  "satures": 6.41,
+  "sel": 0.93,
+  "fer": 3.18,
+  "calcium": 162.08,
+  "magnesium": 122.65,
+  "potassium": 1673.7,
+  "zinc": 3.35,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 7.61,
+  "b12": 1.33,
+  "b9": 155.73,
+  "alcool": 0.0
+ }
+}

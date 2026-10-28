@@ -1,0 +1,69 @@
+{
+ "id": "r144-lapin-mijote-a-la-moutarde-ancienne",
+ "nom": "Lapin mijoté à la moutarde ancienne",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 502,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 12
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites dorer le lapin, nappez de moutarde et de crème.",
+  "Mijotez 30 minutes.",
+  "Servez avec les pommes de terre et les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 513.44,
+  "proteines": 56.86,
+  "glucides": 39.03,
+  "lipides": 12.69,
+  "sucres": 6.1,
+  "fibres": 6.8,
+  "satures": 5.61,
+  "sel": 1.08,
+  "fer": 8.57,
+  "calcium": 142.02,
+  "magnesium": 116.5,
+  "potassium": 1569.3,
+  "zinc": 4.17,
+  "iode": 0.36,
+  "vitd": 0.0,
+  "vitc": 7.04,
+  "b12": 9.77,
+  "b9": 124.6,
+  "alcool": 0.0
+ }
+}

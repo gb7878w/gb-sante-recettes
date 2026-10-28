@@ -1,0 +1,63 @@
+{
+ "id": "r113-yaourt-grec-miel-et-noix",
+ "nom": "Yaourt grec, miel et noix",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 345,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 8
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le yaourt.",
+  "Ajoutez le miel et les noix concassées."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 280.1,
+  "proteines": 22.39,
+  "glucides": 21.05,
+  "lipides": 11.03,
+  "sucres": 20.36,
+  "fibres": 1.88,
+  "satures": 2.75,
+  "sel": 0.36,
+  "fer": 0.85,
+  "calcium": 436.38,
+  "magnesium": 56.67,
+  "potassium": 553.97,
+  "zinc": 1.81,
+  "iode": 46.84,
+  "vitd": 0.76,
+  "vitc": 0.48,
+  "b12": 1.15,
+  "b9": 88.44,
+  "alcool": 0.0
+ }
+}

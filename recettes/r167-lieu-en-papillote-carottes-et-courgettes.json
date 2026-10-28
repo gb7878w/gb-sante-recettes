@@ -1,0 +1,75 @@
+{
+ "id": "r167-lieu-en-papillote-carottes-et-courgettes",
+ "nom": "Lieu en papillote, carottes et courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 506,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Disposez poisson et légumes sur une feuille de papier cuisson.",
+  "Fermez et enfournez 20 minutes à 190 °C.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 422.86,
+  "proteines": 46.33,
+  "glucides": 38.43,
+  "lipides": 7.07,
+  "sucres": 7.47,
+  "fibres": 5.4,
+  "satures": 1.37,
+  "sel": 0.6,
+  "fer": 1.12,
+  "calcium": 90.73,
+  "magnesium": 100.77,
+  "potassium": 1163.2,
+  "zinc": 1.69,
+  "iode": 255.0,
+  "vitd": 1.24,
+  "vitc": 11.3,
+  "b12": 1.6,
+  "b9": 162.85,
+  "alcool": 0.0
+ }
+}

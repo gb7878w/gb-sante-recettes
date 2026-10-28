@@ -1,0 +1,57 @@
+{
+ "id": "r117-fromage-blanc-a-la-cannelle",
+ "nom": "Fromage blanc à la cannelle",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 156,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc avec la cannelle et le miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 92.98,
+  "proteines": 11.99,
+  "glucides": 10.2,
+  "lipides": 0.07,
+  "sucres": 9.85,
+  "fibres": 0.53,
+  "satures": 0.05,
+  "sel": 0.17,
+  "fer": 0.33,
+  "calcium": 211.4,
+  "magnesium": 19.11,
+  "potassium": 223.82,
+  "zinc": 0.76,
+  "iode": 15.62,
+  "vitd": 0.0,
+  "vitc": 0.08,
+  "b12": 0.6,
+  "b9": 36.16,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "id": "r133-concombre-feta",
+ "nom": "Concombre-feta",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez le concombre en dés.",
+  "Ajoutez la feta émiettée et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 140.62,
+  "proteines": 11.53,
+  "glucides": 5.85,
+  "lipides": 7.43,
+  "sucres": 4.78,
+  "fibres": 0.6,
+  "satures": 5.1,
+  "sel": 0.78,
+  "fer": 0.28,
+  "calcium": 192.4,
+  "magnesium": 26.96,
+  "potassium": 292.0,
+  "zinc": 0.85,
+  "iode": 32.62,
+  "vitd": 0.0,
+  "vitc": 8.25,
+  "b12": 0.48,
+  "b9": 37.17,
+  "alcool": 0.0
+ }
+}

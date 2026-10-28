@@ -1,0 +1,58 @@
+{
+ "id": "r125-kefir-et-fraises",
+ "nom": "Kéfir et fraises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 350,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19865",
+   "nom": "Kéfir",
+   "g": 200
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Versez le kéfir dans un verre.",
+  "Ajoutez les fraises coupées et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 187.9,
+  "proteines": 10.98,
+  "glucides": 16.98,
+  "lipides": 7.02,
+  "sucres": 14.79,
+  "fibres": 3.8,
+  "satures": 4.67,
+  "sel": 0.29,
+  "fer": 0.37,
+  "calcium": 339.0,
+  "magnesium": 43.5,
+  "potassium": 522.0,
+  "zinc": 1.23,
+  "iode": 53.8,
+  "vitd": 0.2,
+  "vitc": 54.6,
+  "b12": 0.56,
+  "b9": 152.9,
+  "alcool": 0.0
+ }
+}

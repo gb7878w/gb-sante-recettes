@@ -1,0 +1,75 @@
+{
+ "id": "r190-lasagnes-aux-legumes-et-a-la-dinde",
+ "nom": "Lasagnes aux légumes et à la dinde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 580,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 110
+  },
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Superposez pâtes, viande à la tomate et courgettes.",
+  "Nappez du fromage blanc et de l'emmental.",
+  "Enfournez 30 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 459.75,
+  "proteines": 52.91,
+  "glucides": 37.92,
+  "lipides": 8.6,
+  "sucres": 12.07,
+  "fibres": 8.15,
+  "satures": 4.54,
+  "sel": 1.47,
+  "fer": 2.46,
+  "calcium": 386.71,
+  "magnesium": 138.15,
+  "potassium": 1093.68,
+  "zinc": 4.03,
+  "iode": 19.08,
+  "vitd": 0.0,
+  "vitc": 5.17,
+  "b12": 1.49,
+  "b9": 90.38,
+  "alcool": 0.0
+ }
+}

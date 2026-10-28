@@ -1,0 +1,70 @@
+{
+ "id": "r158-escalope-de-dinde-panee-au-four",
+ "nom": "Escalope de dinde panée au four",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 540,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 20
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Trempez l'escalope dans l'œuf puis dans les biscottes écrasées.",
+  "Enfournez 15 minutes à 200 °C.",
+  "Servez avec les légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 470.95,
+  "proteines": 52.25,
+  "glucides": 45.31,
+  "lipides": 6.22,
+  "sucres": 7.24,
+  "fibres": 10.87,
+  "satures": 2.16,
+  "sel": 0.64,
+  "fer": 3.36,
+  "calcium": 149.49,
+  "magnesium": 166.41,
+  "potassium": 1821.5,
+  "zinc": 3.06,
+  "iode": 11.9,
+  "vitd": 0.56,
+  "vitc": 7.75,
+  "b12": 1.29,
+  "b9": 161.05,
+  "alcool": 0.0
+ }
+}

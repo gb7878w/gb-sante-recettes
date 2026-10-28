@@ -1,0 +1,69 @@
+{
+ "id": "r185-oeufs-durs-haricots-verts-et-pommes-de-terre",
+ "nom": "Œufs durs, haricots verts et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 651,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Mélangez haricots et pommes de terre tièdes.",
+  "Ajoutez les œufs durs coupés et la sauce moutarde-fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 486.74,
+  "proteines": 36.15,
+  "glucides": 44.41,
+  "lipides": 15.61,
+  "sucres": 10.79,
+  "fibres": 10.0,
+  "satures": 4.46,
+  "sel": 1.08,
+  "fer": 4.7,
+  "calcium": 293.69,
+  "magnesium": 122.36,
+  "potassium": 1568.2,
+  "zinc": 3.27,
+  "iode": 90.5,
+  "vitd": 1.85,
+  "vitc": 8.18,
+  "b12": 2.15,
+  "b9": 253.45,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r156-jambon-braise-et-chou",
+ "nom": "Jambon braisé et chou",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 533,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites braiser le chou 20 minutes avec un peu d'eau.",
+  "Ajoutez le jambon, servez avec la moutarde et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 427.96,
+  "proteines": 30.43,
+  "glucides": 44.94,
+  "lipides": 11.66,
+  "sucres": 11.84,
+  "fibres": 10.78,
+  "satures": 2.96,
+  "sel": 3.02,
+  "fer": 1.29,
+  "calcium": 148.56,
+  "magnesium": 60.46,
+  "potassium": 1647.6,
+  "zinc": 0.67,
+  "iode": 0.24,
+  "vitd": 0.0,
+  "vitc": 23.62,
+  "b12": 0.0,
+  "b9": 202.0,
+  "alcool": 0.0
+ }
+}

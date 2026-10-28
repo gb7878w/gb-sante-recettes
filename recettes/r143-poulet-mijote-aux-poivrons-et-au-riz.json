@@ -1,0 +1,74 @@
+{
+ "id": "r143-poulet-mijote-aux-poivrons-et-au-riz",
+ "nom": "Poulet mijoté aux poivrons et au riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 556,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon, les poivrons et le poulet.",
+  "Ajoutez les tomates et mijotez 25 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 482.12,
+  "proteines": 47.99,
+  "glucides": 44.4,
+  "lipides": 9.51,
+  "sucres": 10.08,
+  "fibres": 8.04,
+  "satures": 2.08,
+  "sel": 0.2,
+  "fer": 1.27,
+  "calcium": 38.98,
+  "magnesium": 81.78,
+  "potassium": 1177.6,
+  "zinc": 1.82,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 200.63,
+  "b12": 0.25,
+  "b9": 165.29,
+  "alcool": 0.0
+ }
+}

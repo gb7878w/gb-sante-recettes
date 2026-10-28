@@ -1,0 +1,64 @@
+{
+ "id": "r149-poulet-a-la-creme-et-champignons",
+ "nom": "Poulet à la crème et champignons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 460,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet puis les champignons.",
+  "Ajoutez la crème, laissez réduire.",
+  "Servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 463.4,
+  "proteines": 52.44,
+  "glucides": 38.95,
+  "lipides": 9.46,
+  "sucres": 6.21,
+  "fibres": 3.97,
+  "satures": 4.82,
+  "sel": 0.41,
+  "fer": 1.57,
+  "calcium": 79.72,
+  "magnesium": 93.25,
+  "potassium": 1257.0,
+  "zinc": 2.37,
+  "iode": 1.5,
+  "vitd": 0.45,
+  "vitc": 6.64,
+  "b12": 0.27,
+  "b9": 95.67,
+  "alcool": 0.0
+ }
+}

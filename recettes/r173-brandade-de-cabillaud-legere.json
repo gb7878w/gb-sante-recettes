@@ -1,0 +1,70 @@
+{
+ "id": "r173-brandade-de-cabillaud-legere",
+ "nom": "Brandade de cabillaud légère",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 488,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 250
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 80
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Cuisez le poisson et les pommes de terre.",
+  "Écrasez-les avec le lait chaud, l'ail et l'huile.",
+  "Gratinez 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.08,
+  "proteines": 40.81,
+  "glucides": 46.17,
+  "lipides": 7.99,
+  "sucres": 5.91,
+  "fibres": 4.67,
+  "satures": 2.01,
+  "sel": 0.54,
+  "fer": 1.18,
+  "calcium": 136.1,
+  "magnesium": 97.63,
+  "potassium": 1502.5,
+  "zinc": 1.46,
+  "iode": 204.68,
+  "vitd": 1.8,
+  "vitc": 10.0,
+  "b12": 2.6,
+  "b9": 101.12,
+  "alcool": 0.0
+ }
+}

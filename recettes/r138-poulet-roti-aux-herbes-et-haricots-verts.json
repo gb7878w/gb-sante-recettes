@@ -1,0 +1,70 @@
+{
+ "id": "r138-poulet-roti-aux-herbes-et-haricots-verts",
+ "nom": "Poulet rôti aux herbes et haricots verts",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 498,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Assaisonnez le poulet aux herbes et rôtissez-le 25 minutes à 200 °C.",
+  "Faites cuire les haricots verts.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 433.81,
+  "proteines": 48.57,
+  "glucides": 32.29,
+  "lipides": 9.45,
+  "sucres": 6.66,
+  "fibres": 9.9,
+  "satures": 1.9,
+  "sel": 0.27,
+  "fer": 3.43,
+  "calcium": 154.53,
+  "magnesium": 135.83,
+  "potassium": 1719.9,
+  "zinc": 1.78,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 9.78,
+  "b12": 0.25,
+  "b9": 164.5,
+  "alcool": 0.0
+ }
+}

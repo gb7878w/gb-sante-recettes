@@ -1,0 +1,58 @@
+{
+ "id": "r116-pomme-et-amandes",
+ "nom": "Pomme et amandes",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 2,
+ "portions": 1,
+ "poidsG": 225,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 150
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 15
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez la pomme en quartiers.",
+  "Servez avec les amandes et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 200.32,
+  "proteines": 7.96,
+  "glucides": 21.16,
+  "lipides": 8.09,
+  "sucres": 16.99,
+  "fibres": 3.98,
+  "satures": 0.71,
+  "sel": 0.07,
+  "fer": 0.76,
+  "calcium": 127.41,
+  "magnesium": 57.52,
+  "potassium": 384.9,
+  "zinc": 0.86,
+  "iode": 6.54,
+  "vitd": 0.0,
+  "vitc": 9.38,
+  "b12": 0.24,
+  "b9": 41.4,
+  "alcool": 0.0
+ }
+}

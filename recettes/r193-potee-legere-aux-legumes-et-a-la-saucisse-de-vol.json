@@ -1,0 +1,68 @@
+{
+ "id": "r193-potee-legere-aux-legumes-et-a-la-saucisse-de-vol",
+ "nom": "Potée légère aux légumes et à la saucisse de volaille",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 590,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Faites mijoter chou, carotte et jambon 30 minutes.",
+  "Ajoutez haricots et pommes de terre 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.11,
+  "proteines": 29.82,
+  "glucides": 55.23,
+  "lipides": 5.48,
+  "sucres": 14.32,
+  "fibres": 19.44,
+  "satures": 1.91,
+  "sel": 2.21,
+  "fer": 2.2,
+  "calcium": 202.16,
+  "magnesium": 78.9,
+  "potassium": 1784.0,
+  "zinc": 1.09,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 20.8,
+  "b12": 0.0,
+  "b9": 232.78,
+  "alcool": 0.0
+ }
+}

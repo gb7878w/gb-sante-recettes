@@ -1,0 +1,73 @@
+{
+ "id": "r183-dal-de-lentilles-et-fromage-blanc",
+ "nom": "Dal de lentilles et fromage blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 553,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 220
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon avec le curry, ajoutez lentilles et coulis.",
+  "Chauffez 10 minutes, servez avec le riz et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 500.83,
+  "proteines": 38.48,
+  "glucides": 68.75,
+  "lipides": 2.36,
+  "sucres": 9.73,
+  "fibres": 23.59,
+  "satures": 0.58,
+  "sel": 0.72,
+  "fer": 6.38,
+  "calcium": 317.65,
+  "magnesium": 108.59,
+  "potassium": 798.5,
+  "zinc": 3.99,
+  "iode": 15.62,
+  "vitd": 0.0,
+  "vitc": 0.85,
+  "b12": 0.6,
+  "b9": 161.0,
+  "alcool": 0.0
+ }
+}

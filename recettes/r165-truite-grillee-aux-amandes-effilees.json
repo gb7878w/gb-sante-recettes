@@ -1,0 +1,70 @@
+{
+ "id": "r165-truite-grillee-aux-amandes-effilees",
+ "nom": "Truite grillée aux amandes effilées",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 547,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 150
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Cuisez la truite au four 15 minutes.",
+  "Faites dorer les amandes dans le beurre et versez dessus.",
+  "Servez avec les légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 524.44,
+  "proteines": 41.28,
+  "glucides": 38.03,
+  "lipides": 20.34,
+  "sucres": 7.09,
+  "fibres": 11.14,
+  "satures": 5.65,
+  "sel": 0.29,
+  "fer": 2.5,
+  "calcium": 235.33,
+  "magnesium": 158.09,
+  "potassium": 1857.31,
+  "zinc": 2.02,
+  "iode": 14.33,
+  "vitd": 22.55,
+  "vitc": 11.93,
+  "b12": 6.85,
+  "b9": 186.03,
+  "alcool": 0.0
+ }
+}

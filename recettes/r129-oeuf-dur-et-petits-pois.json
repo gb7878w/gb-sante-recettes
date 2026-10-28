@@ -1,0 +1,52 @@
+{
+ "id": "r129-oeuf-dur-et-petits-pois",
+ "nom": "Œuf dur et petits pois",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 170,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Écalez l'œuf dur.",
+  "Servez-le avec les petits pois tièdes et du poivre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 195.58,
+  "proteines": 18.68,
+  "glucides": 6.53,
+  "lipides": 9.84,
+  "sucres": 1.53,
+  "fibres": 2.88,
+  "satures": 2.9,
+  "sel": 0.35,
+  "fer": 2.61,
+  "calcium": 67.9,
+  "magnesium": 32.8,
+  "potassium": 246.0,
+  "zinc": 1.83,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 6.84,
+  "b12": 1.22,
+  "b9": 71.32,
+  "alcool": 0.0
+ }
+}

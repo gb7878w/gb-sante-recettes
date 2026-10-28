@@ -1,0 +1,64 @@
+{
+ "id": "r105-oeufs-au-plat-tomates-grillees-et-pain-complet",
+ "nom": "Œufs au plat, tomates grillées et pain complet",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 284,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites griller les tomates coupées en deux dans l'huile.",
+  "Cassez les œufs dans la poêle et laissez cuire.",
+  "Servez avec le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 325.96,
+  "proteines": 19.19,
+  "glucides": 22.35,
+  "lipides": 16.51,
+  "sucres": 4.56,
+  "fibres": 3.96,
+  "satures": 3.98,
+  "sel": 0.82,
+  "fer": 3.3,
+  "calcium": 115.92,
+  "magnesium": 42.0,
+  "potassium": 508.8,
+  "zinc": 1.87,
+  "iode": 25.2,
+  "vitd": 2.6,
+  "vitc": 19.56,
+  "b12": 1.74,
+  "b9": 71.24,
+  "alcool": 0.0
+ }
+}

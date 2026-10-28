@@ -1,0 +1,70 @@
+{
+ "id": "r192-gratin-de-pates-au-jambon-et-brocoli",
+ "nom": "Gratin de pâtes au jambon et brocoli",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 80
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Mélangez pâtes, jambon et brocoli.",
+  "Nappez de fromage blanc et d'emmental.",
+  "Gratinez 20 minutes à 200 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 452.55,
+  "proteines": 42.04,
+  "glucides": 41.47,
+  "lipides": 11.55,
+  "sucres": 7.98,
+  "fibres": 5.89,
+  "satures": 6.02,
+  "sel": 1.93,
+  "fer": 1.96,
+  "calcium": 462.85,
+  "magnesium": 78.38,
+  "potassium": 1008.95,
+  "zinc": 3.0,
+  "iode": 15.75,
+  "vitd": 0.0,
+  "vitc": 31.05,
+  "b12": 0.92,
+  "b9": 185.45,
+  "alcool": 0.0
+ }
+}

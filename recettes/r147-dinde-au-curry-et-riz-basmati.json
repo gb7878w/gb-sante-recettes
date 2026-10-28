@@ -1,0 +1,74 @@
+{
+ "id": "r147-dinde-au-curry-et-riz-basmati",
+ "nom": "Dinde au curry et riz basmati",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 443,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "18041",
+   "nom": "Lait de coco",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et la dinde en dés avec le curry.",
+  "Ajoutez la courgette et le lait de coco, mijotez 10 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 421.75,
+  "proteines": 45.83,
+  "glucides": 36.77,
+  "lipides": 8.61,
+  "sucres": 2.18,
+  "fibres": 5.61,
+  "satures": 6.2,
+  "sel": 0.35,
+  "fer": 2.83,
+  "calcium": 67.54,
+  "magnesium": 117.3,
+  "potassium": 1069.3,
+  "zinc": 2.8,
+  "iode": 5.91,
+  "vitd": 0.0,
+  "vitc": 5.1,
+  "b12": 0.85,
+  "b9": 55.28,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r154-chili-de-boeuf-et-haricots-rouges",
+ "nom": "Chili de bœuf et haricots rouges",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 532,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "20503",
+   "nom": "Haricots rouges cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Faites revenir la viande et le poivron avec le cumin.",
+  "Ajoutez haricots et coulis, mijotez 20 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 523.68,
+  "proteines": 46.01,
+  "glucides": 54.85,
+  "lipides": 8.44,
+  "sucres": 11.08,
+  "fibres": 20.81,
+  "satures": 3.59,
+  "sel": 1.26,
+  "fer": 7.54,
+  "calcium": 107.16,
+  "magnesium": 91.98,
+  "potassium": 939.5,
+  "zinc": 8.81,
+  "iode": 6.71,
+  "vitd": 0.0,
+  "vitc": 96.95,
+  "b12": 2.72,
+  "b9": 176.07,
+  "alcool": 0.0
+ }
+}

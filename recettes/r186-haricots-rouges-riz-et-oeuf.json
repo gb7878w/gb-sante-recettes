@@ -1,0 +1,69 @@
+{
+ "id": "r186-haricots-rouges-riz-et-oeuf",
+ "nom": "Haricots rouges, riz et œuf",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 422,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20503",
+   "nom": "Haricots rouges cuits",
+   "g": 180
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Réchauffez les haricots avec le poivron et le cumin.",
+  "Servez avec le riz et un œuf au plat."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 447.62,
+  "proteines": 28.9,
+  "glucides": 52.16,
+  "lipides": 8.02,
+  "sucres": 4.95,
+  "fibres": 24.65,
+  "satures": 2.26,
+  "sel": 0.23,
+  "fer": 6.93,
+  "calcium": 178.54,
+  "magnesium": 97.78,
+  "potassium": 818.2,
+  "zinc": 2.91,
+  "iode": 12.6,
+  "vitd": 1.13,
+  "vitc": 96.95,
+  "b12": 0.87,
+  "b9": 235.75,
+  "alcool": 0.0
+ }
+}

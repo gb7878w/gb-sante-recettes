@@ -1,0 +1,57 @@
+{
+ "id": "r123-boisson-au-soja-et-banane",
+ "nom": "Boisson au soja et banane",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "18901",
+   "nom": "Boisson au soja nature",
+   "g": 200
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mixez tous les ingrédients."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 200.32,
+  "proteines": 14.05,
+  "glucides": 23.23,
+  "lipides": 4.13,
+  "sucres": 19.95,
+  "fibres": 4.16,
+  "satures": 0.54,
+  "sel": 0.29,
+  "fer": 1.19,
+  "calcium": 307.28,
+  "magnesium": 58.16,
+  "potassium": 543.2,
+  "zinc": 0.98,
+  "iode": 8.32,
+  "vitd": 2.32,
+  "vitc": 5.73,
+  "b12": 0.32,
+  "b9": 79.0,
+  "alcool": 0.0
+ }
+}

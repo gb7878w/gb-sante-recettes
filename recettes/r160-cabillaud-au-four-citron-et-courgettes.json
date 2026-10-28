@@ -1,0 +1,70 @@
+{
+ "id": "r160-cabillaud-au-four-citron-et-courgettes",
+ "nom": "Cabillaud au four, citron et courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 571,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Posez le cabillaud et les courgettes dans un plat avec le citron et l'huile.",
+  "Enfournez 18 minutes à 190 °C.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 394.86,
+  "proteines": 43.01,
+  "glucides": 33.09,
+  "lipides": 8.35,
+  "sucres": 4.45,
+  "fibres": 6.24,
+  "satures": 1.49,
+  "sel": 0.68,
+  "fer": 1.66,
+  "calcium": 82.02,
+  "magnesium": 126.91,
+  "potassium": 1655.3,
+  "zinc": 1.61,
+  "iode": 221.0,
+  "vitd": 2.04,
+  "vitc": 19.51,
+  "b12": 2.6,
+  "b9": 142.84,
+  "alcool": 0.0
+ }
+}

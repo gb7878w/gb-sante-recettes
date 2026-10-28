@@ -1,0 +1,69 @@
+{
+ "id": "r169-saint-jacques-et-poireaux",
+ "nom": "Saint-Jacques et poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 575,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10004",
+   "nom": "Noix de Saint-Jacques cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites fondre les poireaux dans le beurre.",
+  "Saisissez les Saint-Jacques 2 minutes par face.",
+  "Servez avec la crème et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 456.35,
+  "proteines": 36.96,
+  "glucides": 42.66,
+  "lipides": 13.14,
+  "sucres": 7.94,
+  "fibres": 9.64,
+  "satures": 7.19,
+  "sel": 0.86,
+  "fer": 3.27,
+  "calcium": 130.23,
+  "magnesium": 145.94,
+  "potassium": 1529.61,
+  "zinc": 4.81,
+  "iode": 30.08,
+  "vitd": 0.06,
+  "vitc": 7.86,
+  "b12": 12.59,
+  "b9": 127.03,
+  "alcool": 0.0
+ }
+}

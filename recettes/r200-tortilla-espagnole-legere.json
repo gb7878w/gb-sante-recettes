@@ -1,0 +1,68 @@
+{
+ "id": "r200-tortilla-espagnole-legere",
+ "nom": "Tortilla espagnole légère",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 468,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et les pommes de terre cuites.",
+  "Versez les œufs battus avec le jambon, cuisez à feu doux des deux côtés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 541.72,
+  "proteines": 35.3,
+  "glucides": 36.96,
+  "lipides": 27.03,
+  "sucres": 2.72,
+  "fibres": 4.8,
+  "satures": 6.36,
+  "sel": 1.42,
+  "fer": 4.1,
+  "calcium": 157.94,
+  "magnesium": 66.96,
+  "potassium": 1175.2,
+  "zinc": 2.53,
+  "iode": 37.8,
+  "vitd": 3.38,
+  "vitc": 17.19,
+  "b12": 2.85,
+  "b9": 135.52,
+  "alcool": 0.0
+ }
+}

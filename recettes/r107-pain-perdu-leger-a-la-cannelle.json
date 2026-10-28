@@ -1,0 +1,73 @@
+{
+ "id": "r107-pain-perdu-leger-a-la-cannelle",
+ "nom": "Pain perdu léger à la cannelle",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 325,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 60
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Battez l'œuf avec le lait et la cannelle.",
+  "Trempez le pain puis faites-le dorer dans le beurre.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 358.87,
+  "proteines": 24.04,
+  "glucides": 35.78,
+  "lipides": 11.84,
+  "sucres": 10.09,
+  "fibres": 4.67,
+  "satures": 5.15,
+  "sel": 1.06,
+  "fer": 2.67,
+  "calcium": 331.19,
+  "magnesium": 62.18,
+  "potassium": 540.84,
+  "zinc": 2.35,
+  "iode": 35.16,
+  "vitd": 1.69,
+  "vitc": 1.54,
+  "b12": 1.66,
+  "b9": 75.43,
+  "alcool": 0.0
+ }
+}

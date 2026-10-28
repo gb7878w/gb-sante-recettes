@@ -1,0 +1,74 @@
+{
+ "id": "r139-blanquette-de-dinde-aux-champignons",
+ "nom": "Blanquette de dinde aux champignons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 486,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites mijoter la dinde en dés avec la carotte 20 minutes.",
+  "Ajoutez les champignons, la crème et la farine délayée.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 455.72,
+  "proteines": 48.04,
+  "glucides": 44.78,
+  "lipides": 8.06,
+  "sucres": 9.0,
+  "fibres": 4.51,
+  "satures": 4.91,
+  "sel": 0.48,
+  "fer": 1.46,
+  "calcium": 89.86,
+  "magnesium": 94.28,
+  "potassium": 1276.5,
+  "zinc": 2.88,
+  "iode": 6.6,
+  "vitd": 0.3,
+  "vitc": 5.78,
+  "b12": 0.85,
+  "b9": 93.62,
+  "alcool": 0.0
+ }
+}

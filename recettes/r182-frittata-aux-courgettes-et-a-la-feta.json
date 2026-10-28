@@ -1,0 +1,70 @@
+{
+ "id": "r182-frittata-aux-courgettes-et-a-la-feta",
+ "nom": "Frittata aux courgettes et à la feta",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 495,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Poêlez les courgettes dans l'huile.",
+  "Versez les œufs battus avec la feta, cuisez à feu doux.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 530.85,
+  "proteines": 32.45,
+  "glucides": 22.89,
+  "lipides": 33.36,
+  "sucres": 3.6,
+  "fibres": 4.41,
+  "satures": 12.49,
+  "sel": 1.68,
+  "fer": 4.22,
+  "calcium": 262.19,
+  "magnesium": 78.81,
+  "potassium": 1060.2,
+  "zinc": 2.81,
+  "iode": 69.8,
+  "vitd": 3.38,
+  "vitc": 7.85,
+  "b12": 2.82,
+  "b9": 155.28,
+  "alcool": 0.0
+ }
+}

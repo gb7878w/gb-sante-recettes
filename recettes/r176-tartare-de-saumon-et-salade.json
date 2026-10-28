@@ -1,0 +1,74 @@
+{
+ "id": "r176-tartare-de-saumon-et-salade",
+ "nom": "Tartare de saumon et salade",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 444,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 40
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Hachez le saumon cuit refroidi avec l'avocat et le citron.",
+  "Servez sur la salade avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 544.24,
+  "proteines": 34.8,
+  "glucides": 31.61,
+  "lipides": 29.26,
+  "sucres": 2.37,
+  "fibres": 5.64,
+  "satures": 5.84,
+  "sel": 0.28,
+  "fer": 1.88,
+  "calcium": 81.98,
+  "magnesium": 89.43,
+  "potassium": 1497.3,
+  "zinc": 1.18,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 22.82,
+  "b12": 3.61,
+  "b9": 147.65,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r145-brochettes-de-poulet-et-riz-complet",
+ "nom": "Brochettes de poulet et riz complet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 475,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "9103",
+   "nom": "Riz complet cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Enfilez poulet et légumes sur des piques.",
+  "Faites griller 10 minutes.",
+  "Servez avec le riz complet."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 499.9,
+  "proteines": 48.3,
+  "glucides": 49.76,
+  "lipides": 9.46,
+  "sucres": 6.19,
+  "fibres": 7.69,
+  "satures": 1.89,
+  "sel": 0.3,
+  "fer": 1.49,
+  "calcium": 47.58,
+  "magnesium": 146.0,
+  "potassium": 1089.9,
+  "zinc": 2.17,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 125.9,
+  "b12": 0.37,
+  "b9": 166.19,
+  "alcool": 0.0
+ }
+}

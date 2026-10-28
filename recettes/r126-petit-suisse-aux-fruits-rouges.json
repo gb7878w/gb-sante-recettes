@@ -1,0 +1,57 @@
+{
+ "id": "r126-petit-suisse-aux-fruits-rouges",
+ "nom": "Petit-suisse aux fruits rouges",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19661",
+   "nom": "Petit-suisse",
+   "g": 120
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Servez le petit-suisse avec les framboises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 175.3,
+  "proteines": 12.97,
+  "glucides": 17.82,
+  "lipides": 4.02,
+  "sucres": 17.43,
+  "fibres": 4.64,
+  "satures": 2.27,
+  "sel": 0.11,
+  "fer": 0.47,
+  "calcium": 211.8,
+  "magnesium": 33.38,
+  "potassium": 376.0,
+  "zinc": 0.88,
+  "iode": 5.2,
+  "vitd": 0.0,
+  "vitc": 14.96,
+  "b12": 0.49,
+  "b9": 60.12,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r187-pates-completes-pesto-de-basilic-et-mozzarella",
+ "nom": "Pâtes complètes, pesto de basilic et mozzarella",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 444,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 90
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 8
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mixez le basilic avec l'huile et le fromage blanc.",
+  "Mêlez aux pâtes chaudes avec les tomates et la mozzarella."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 523.38,
+  "proteines": 30.75,
+  "glucides": 43.15,
+  "lipides": 23.26,
+  "sucres": 10.19,
+  "fibres": 6.1,
+  "satures": 11.62,
+  "sel": 0.65,
+  "fer": 2.72,
+  "calcium": 683.74,
+  "magnesium": 96.72,
+  "potassium": 657.0,
+  "zinc": 4.75,
+  "iode": 43.88,
+  "vitd": 0.36,
+  "vitc": 22.96,
+  "b12": 2.48,
+  "b9": 68.04,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "r134-banane-et-fromage-blanc",
+ "nom": "Banane et fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Écrasez la banane et mélangez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 164.6,
+  "proteines": 12.99,
+  "glucides": 25.54,
+  "lipides": 0.06,
+  "sucres": 21.43,
+  "fibres": 2.7,
+  "satures": 0.04,
+  "sel": 0.17,
+  "fer": 0.44,
+  "calcium": 206.1,
+  "magnesium": 46.3,
+  "potassium": 536.0,
+  "zinc": 0.88,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 7.16,
+  "b12": 0.6,
+  "b9": 55.0,
+  "alcool": 0.0
+ }
+}

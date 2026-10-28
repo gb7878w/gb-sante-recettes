@@ -1,0 +1,68 @@
+{
+ "id": "r108-salade-de-fruits-et-fromage-blanc",
+ "nom": "Salade de fruits et fromage blanc",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 412,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "13034",
+   "nom": "Orange",
+   "g": 100
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 80
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Coupez l'orange et la pomme en morceaux.",
+  "Mélangez avec le fromage blanc et ajoutez les flocons et les amandes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 332.73,
+  "proteines": 21.77,
+  "glucides": 37.81,
+  "lipides": 7.74,
+  "sucres": 23.56,
+  "fibres": 7.36,
+  "satures": 0.82,
+  "sel": 0.22,
+  "fer": 2.19,
+  "calcium": 386.33,
+  "magnesium": 106.58,
+  "potassium": 734.6,
+  "zinc": 2.34,
+  "iode": 21.06,
+  "vitd": 0.0,
+  "vitc": 52.5,
+  "b12": 0.8,
+  "b9": 101.02,
+  "alcool": 0.0
+ }
+}

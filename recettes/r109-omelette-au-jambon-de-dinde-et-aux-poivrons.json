@@ -1,0 +1,63 @@
+{
+ "id": "r109-omelette-au-jambon-de-dinde-et-aux-poivrons",
+ "nom": "Omelette au jambon de dinde et aux poivrons",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 224,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir les poivrons en lanières dans l'huile.",
+  "Versez les œufs battus, ajoutez le jambon et repliez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 267.56,
+  "proteines": 24.24,
+  "glucides": 4.43,
+  "lipides": 16.46,
+  "sucres": 3.64,
+  "fibres": 2.08,
+  "satures": 3.99,
+  "sel": 1.13,
+  "fer": 2.52,
+  "calcium": 97.88,
+  "magnesium": 28.52,
+  "potassium": 416.8,
+  "zinc": 1.66,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 83.12,
+  "b12": 1.98,
+  "b9": 96.8,
+  "alcool": 0.0
+ }
+}

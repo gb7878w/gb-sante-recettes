@@ -1,0 +1,69 @@
+{
+ "id": "r171-maquereau-lentilles-et-moutarde",
+ "nom": "Maquereau, lentilles et moutarde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 323,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26123",
+   "nom": "Maquereau au naturel égoutté",
+   "g": 110
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 180
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mélangez les lentilles chaudes avec l'échalote, la moutarde et l'huile.",
+  "Posez le maquereau émietté."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 506.38,
+  "proteines": 42.86,
+  "glucides": 31.95,
+  "lipides": 19.48,
+  "sucres": 1.15,
+  "fibres": 15.73,
+  "satures": 3.99,
+  "sel": 1.85,
+  "fer": 6.31,
+  "calcium": 220.7,
+  "magnesium": 100.11,
+  "potassium": 690.5,
+  "zinc": 3.78,
+  "iode": 24.33,
+  "vitd": 5.51,
+  "vitc": 1.62,
+  "b12": 8.05,
+  "b9": 101.79,
+  "alcool": 0.0
+ }
+}

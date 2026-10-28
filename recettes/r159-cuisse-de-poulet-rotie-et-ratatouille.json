@@ -1,0 +1,75 @@
+{
+ "id": "r159-cuisse-de-poulet-rotie-et-ratatouille",
+ "nom": "Cuisse de poulet rôtie et ratatouille",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 516,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36006",
+   "nom": "Cuisse de poulet rôtie, sans peau",
+   "g": 150
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez la cuisse de poulet 30 minutes à 200 °C.",
+  "Faites mijoter les légumes en dés dans l'huile.",
+  "Servez ensemble."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 401.36,
+  "proteines": 40.6,
+  "glucides": 12.75,
+  "lipides": 18.68,
+  "sucres": 10.48,
+  "fibres": 8.72,
+  "satures": 4.36,
+  "sel": 0.5,
+  "fer": 2.67,
+  "calcium": 66.48,
+  "magnesium": 83.12,
+  "potassium": 1057.0,
+  "zinc": 3.93,
+  "iode": 1.0,
+  "vitd": 0.2,
+  "vitc": 93.1,
+  "b12": 0.54,
+  "b9": 118.08,
+  "alcool": 0.0
+ }
+}

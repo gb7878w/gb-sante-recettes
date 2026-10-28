@@ -1,0 +1,69 @@
+{
+ "id": "r146-pot-au-feu-leger",
+ "nom": "Pot-au-feu léger",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 120
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Portez à frémissement la viande avec les légumes dans l'eau.",
+  "Laissez mijoter 45 minutes.",
+  "Servez avec un peu de moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 382.2,
+  "proteines": 35.64,
+  "glucides": 45.19,
+  "lipides": 3.88,
+  "sucres": 10.48,
+  "fibres": 10.6,
+  "satures": 1.1,
+  "sel": 0.32,
+  "fer": 4.63,
+  "calcium": 85.26,
+  "magnesium": 58.55,
+  "potassium": 1302.0,
+  "zinc": 5.66,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 11.95,
+  "b12": 1.8,
+  "b9": 171.2,
+  "alcool": 0.0
+ }
+}

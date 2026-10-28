@@ -1,0 +1,63 @@
+{
+ "id": "r170-haddock-poche-et-pommes-de-terre",
+ "nom": "Haddock poché et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 630,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 160
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 220
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Pochez le haddock dans le lait 8 minutes.",
+  "Servez avec les pommes de terre vapeur et les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 421.3,
+  "proteines": 46.12,
+  "glucides": 46.66,
+  "lipides": 3.47,
+  "sucres": 10.3,
+  "fibres": 8.76,
+  "satures": 1.45,
+  "sel": 3.26,
+  "fer": 3.68,
+  "calcium": 284.73,
+  "magnesium": 175.56,
+  "potassium": 2019.6,
+  "zinc": 1.85,
+  "iode": 420.1,
+  "vitd": 1.28,
+  "vitc": 9.66,
+  "b12": 2.94,
+  "b9": 176.16,
+  "alcool": 0.0
+ }
+}

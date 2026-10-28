@@ -1,0 +1,68 @@
+{
+ "id": "r195-gnocchis-de-pomme-de-terre-tomate-et-thon",
+ "nom": "Gnocchis de pomme de terre, tomate et thon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 220
+  },
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 100
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 40
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Écrasez les pommes de terre cuites avec la farine, formez des gnocchis et pochez-les.",
+  "Servez avec le coulis, le thon et le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 530.26,
+  "proteines": 39.95,
+  "glucides": 77.34,
+  "lipides": 4.82,
+  "sucres": 8.66,
+  "fibres": 8.08,
+  "satures": 2.5,
+  "sel": 2.1,
+  "fer": 1.84,
+  "calcium": 124.05,
+  "magnesium": 76.06,
+  "potassium": 1078.6,
+  "zinc": 1.47,
+  "iode": 25.0,
+  "vitd": 5.08,
+  "vitc": 6.42,
+  "b12": 2.79,
+  "b9": 93.52,
+  "alcool": 0.0
+ }
+}

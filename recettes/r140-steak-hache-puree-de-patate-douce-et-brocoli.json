@@ -1,0 +1,63 @@
+{
+ "id": "r140-steak-hache-puree-de-patate-douce-et-brocoli",
+ "nom": "Steak haché, purée de patate douce et brocoli",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 484,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "4102",
+   "nom": "Patate douce cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Écrasez la patate douce cuite en purée.",
+  "Poêlez le steak, cuisez le brocoli à la vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 419.5,
+  "proteines": 42.73,
+  "glucides": 28.19,
+  "lipides": 12.95,
+  "sucres": 14.47,
+  "fibres": 9.1,
+  "satures": 4.53,
+  "sel": 0.43,
+  "fer": 5.97,
+  "calcium": 128.1,
+  "magnesium": 108.1,
+  "potassium": 1667.1,
+  "zinc": 9.67,
+  "iode": 13.93,
+  "vitd": 0.0,
+  "vitc": 63.45,
+  "b12": 3.21,
+  "b9": 143.65,
+  "alcool": 0.0
+ }
+}

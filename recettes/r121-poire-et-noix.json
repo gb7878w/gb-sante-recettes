@@ -1,0 +1,58 @@
+{
+ "id": "r121-poire-et-noix",
+ "nom": "Poire et noix",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 2,
+ "portions": 1,
+ "poidsG": 242,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 150
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez la poire.",
+  "Servez avec les noix et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 203.15,
+  "proteines": 7.96,
+  "glucides": 21.04,
+  "lipides": 8.11,
+  "sucres": 17.57,
+  "fibres": 5.45,
+  "satures": 0.8,
+  "sel": 0.09,
+  "fer": 0.53,
+  "calcium": 122.05,
+  "magnesium": 34.51,
+  "potassium": 315.3,
+  "zinc": 0.82,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 2.18,
+  "b12": 0.32,
+  "b9": 52.5,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "r172-pates-au-saumon-et-aux-epinards",
+ "nom": "Pâtes au saumon et aux épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites cuire les pâtes.",
+  "Réchauffez les épinards avec la crème et le saumon émietté.",
+  "Mélangez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.45,
+  "proteines": 33.64,
+  "glucides": 34.05,
+  "lipides": 18.51,
+  "sucres": 2.1,
+  "fibres": 8.12,
+  "satures": 5.59,
+  "sel": 0.21,
+  "fer": 3.02,
+  "calcium": 313.8,
+  "magnesium": 111.7,
+  "potassium": 672.1,
+  "zinc": 2.6,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 2.79,
+  "b12": 2.81,
+  "b9": 97.3,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r175-soupe-de-poisson-et-croutons",
+ "nom": "Soupe de poisson et croûtons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites cuire les légumes dans l'eau avec le coulis 15 minutes.",
+  "Ajoutez le poisson 8 minutes, mixez à votre goût.",
+  "Servez avec le pain grillé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 416.0,
+  "proteines": 44.52,
+  "glucides": 49.23,
+  "lipides": 1.31,
+  "sucres": 13.0,
+  "fibres": 11.67,
+  "satures": 0.36,
+  "sel": 1.54,
+  "fer": 1.79,
+  "calcium": 92.65,
+  "magnesium": 104.71,
+  "potassium": 1424.6,
+  "zinc": 1.53,
+  "iode": 225.0,
+  "vitd": 1.35,
+  "vitc": 8.08,
+  "b12": 1.41,
+  "b9": 167.27,
+  "alcool": 0.0
+ }
+}

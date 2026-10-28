@@ -1,0 +1,69 @@
+{
+ "id": "r177-omelette-aux-champignons-salade-et-pommes-de-ter",
+ "nom": "Omelette aux champignons, salade et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 516,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons, ajoutez les œufs battus.",
+  "Servez avec la salade et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 469.41,
+  "proteines": 29.48,
+  "glucides": 30.11,
+  "lipides": 24.75,
+  "sucres": 5.21,
+  "fibres": 4.62,
+  "satures": 5.89,
+  "sel": 0.76,
+  "fer": 4.75,
+  "calcium": 192.98,
+  "magnesium": 67.29,
+  "potassium": 1342.5,
+  "zinc": 2.76,
+  "iode": 39.73,
+  "vitd": 3.74,
+  "vitc": 15.17,
+  "b12": 2.61,
+  "b9": 175.35,
+  "alcool": 0.0
+ }
+}

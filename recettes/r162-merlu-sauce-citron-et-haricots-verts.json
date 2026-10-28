@@ -1,0 +1,69 @@
+{
+ "id": "r162-merlu-sauce-citron-et-haricots-verts",
+ "nom": "Merlu sauce citron et haricots verts",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 590,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 170
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Cuisez le merlu à l'étouffée.",
+  "Chauffez la crème avec le citron et nappez.",
+  "Servez avec les haricots verts et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.21,
+  "proteines": 43.67,
+  "glucides": 38.29,
+  "lipides": 9.76,
+  "sucres": 7.89,
+  "fibres": 9.64,
+  "satures": 4.55,
+  "sel": 0.56,
+  "fer": 2.09,
+  "calcium": 216.15,
+  "magnesium": 136.27,
+  "potassium": 1718.5,
+  "zinc": 1.68,
+  "iode": 71.4,
+  "vitd": 5.44,
+  "vitc": 12.08,
+  "b12": 2.72,
+  "b9": 202.7,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r155-dinde-et-lentilles-a-la-carotte",
+ "nom": "Dinde et lentilles à la carotte",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 130
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 180
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez la dinde en dés avec l'oignon.",
+  "Ajoutez les lentilles et la carotte râpée, chauffez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 478.3,
+  "proteines": 56.09,
+  "glucides": 37.15,
+  "lipides": 7.46,
+  "sucres": 5.22,
+  "fibres": 18.15,
+  "satures": 1.58,
+  "sel": 0.31,
+  "fer": 5.27,
+  "calcium": 102.05,
+  "magnesium": 128.54,
+  "potassium": 1216.6,
+  "zinc": 4.01,
+  "iode": 5.2,
+  "vitd": 0.0,
+  "vitc": 3.24,
+  "b12": 0.79,
+  "b9": 142.32,
+  "alcool": 0.0
+ }
+}

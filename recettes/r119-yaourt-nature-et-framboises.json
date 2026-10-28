@@ -1,0 +1,58 @@
+{
+ "id": "r119-yaourt-nature-et-framboises",
+ "nom": "Yaourt nature et framboises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 265,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Versez le yaourt et le fromage blanc dans un bol.",
+  "Ajoutez les framboises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 140.0,
+  "proteines": 10.57,
+  "glucides": 12.91,
+  "lipides": 3.54,
+  "sucres": 12.49,
+  "fibres": 4.51,
+  "satures": 2.03,
+  "sel": 0.2,
+  "fer": 0.67,
+  "calcium": 251.95,
+  "magnesium": 38.45,
+  "potassium": 431.15,
+  "zinc": 0.99,
+  "iode": 32.24,
+  "vitd": 0.76,
+  "vitc": 15.29,
+  "b12": 0.59,
+  "b9": 70.76,
+  "alcool": 0.0
+ }
+}

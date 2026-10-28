@@ -1,0 +1,58 @@
+{
+ "id": "r131-thon-et-tomates-cerises",
+ "nom": "Thon et tomates cerises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Servez le thon égoutté avec les tomates.",
+  "Ajoutez le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 125.0,
+  "proteines": 21.36,
+  "glucides": 7.57,
+  "lipides": 0.26,
+  "sucres": 6.75,
+  "fibres": 1.2,
+  "satures": 0.07,
+  "sel": 0.5,
+  "fer": 0.91,
+  "calcium": 77.36,
+  "magnesium": 31.5,
+  "potassium": 526.2,
+  "zinc": 0.7,
+  "iode": 14.8,
+  "vitd": 3.05,
+  "vitc": 21.8,
+  "b12": 1.72,
+  "b9": 39.38,
+  "alcool": 0.0
+ }
+}

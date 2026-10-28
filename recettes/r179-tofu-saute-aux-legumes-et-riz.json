@@ -1,0 +1,70 @@
+{
+ "id": "r179-tofu-saute-aux-legumes-et-riz",
+ "nom": "Tofu sauté aux légumes et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20904",
+   "nom": "Tofu nature",
+   "g": 180
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le tofu en dés dans l'huile.",
+  "Ajoutez les légumes 6 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 540.36,
+  "proteines": 34.11,
+  "glucides": 44.31,
+  "lipides": 22.07,
+  "sucres": 8.08,
+  "fibres": 6.66,
+  "satures": 3.92,
+  "sel": 0.2,
+  "fer": 5.59,
+  "calcium": 267.2,
+  "magnesium": 231.02,
+  "potassium": 967.6,
+  "zinc": 3.76,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 32.69,
+  "b12": 0.0,
+  "b9": 225.77,
+  "alcool": 0.0
+ }
+}

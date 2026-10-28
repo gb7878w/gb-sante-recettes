@@ -1,0 +1,70 @@
+{
+ "id": "r166-sardines-grillees-et-salade-de-tomates",
+ "nom": "Sardines grillées et salade de tomates",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 536,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26136",
+   "nom": "Sardine grillée",
+   "g": 130
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 200
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Faites griller les sardines.",
+  "Préparez la salade de tomates à l'oignon et à l'huile.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 499.26,
+  "proteines": 37.11,
+  "glucides": 38.52,
+  "lipides": 20.13,
+  "sucres": 7.19,
+  "fibres": 5.76,
+  "satures": 4.84,
+  "sel": 0.55,
+  "fer": 3.06,
+  "calcium": 195.69,
+  "magnesium": 90.42,
+  "potassium": 1623.4,
+  "zinc": 2.27,
+  "iode": 41.6,
+  "vitd": 15.99,
+  "vitc": 38.27,
+  "b12": 15.6,
+  "b9": 90.78,
+  "alcool": 0.0
+ }
+}

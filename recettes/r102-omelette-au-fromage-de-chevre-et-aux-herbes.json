@@ -1,0 +1,70 @@
+{
+ "id": "r102-omelette-au-fromage-de-chevre-et-aux-herbes",
+ "nom": "Omelette au fromage de chèvre et aux herbes",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 187,
+ "tags": [
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Battez les œufs avec les herbes.",
+  "Faites cuire dans le beurre, ajoutez le chèvre en morceaux et repliez.",
+  "Servez avec le pain grillé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 325.83,
+  "proteines": 24.67,
+  "glucides": 13.76,
+  "lipides": 18.61,
+  "sucres": 1.05,
+  "fibres": 2.2,
+  "satures": 7.55,
+  "sel": 1.1,
+  "fer": 3.06,
+  "calcium": 166.01,
+  "magnesium": 34.27,
+  "potassium": 314.87,
+  "zinc": 1.66,
+  "iode": 25.26,
+  "vitd": 2.56,
+  "vitc": 5.31,
+  "b12": 1.75,
+  "b9": 55.62,
+  "alcool": 0.0
+ }
+}

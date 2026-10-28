@@ -1,0 +1,63 @@
+{
+ "id": "r161-saumon-riz-et-brocoli",
+ "nom": "Saumon, riz et brocoli",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 460,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Cuisez le saumon à la poêle ou au four.",
+  "Servez avec le riz et le brocoli à la vapeur et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 476.06,
+  "proteines": 39.42,
+  "glucides": 36.94,
+  "lipides": 17.18,
+  "sucres": 3.08,
+  "fibres": 5.7,
+  "satures": 3.89,
+  "sel": 0.24,
+  "fer": 1.82,
+  "calcium": 101.2,
+  "magnesium": 90.34,
+  "potassium": 1177.0,
+  "zinc": 2.12,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 49.25,
+  "b12": 3.34,
+  "b9": 201.52,
+  "alcool": 0.0
+ }
+}

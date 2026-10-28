@@ -214,3 +214,6 @@ R("Gratin de poisson aux poireaux", PL, 40, [("eglefin", 170), ("poireau", 150),
   ["Disposez le poisson et les poireaux fondus dans un plat, nappez de crème.", "Parsemez d'emmental et gratinez 20 minutes à 190 °C.", "Servez avec les pommes de terre vapeur."], ["poisson", "four"])
 R("Poulet citron-thym, courgettes et semoule", PL, 30, [("poulet", 140), ("courgette", 150), ("semoule", 100), ("huileolive", 5), ("citron", 15)],
   ["Marinez le poulet au citron et aux herbes.", "Poêlez-le avec les courgettes en rondelles.", "Servez avec la semoule."], ["viande"])
+
+
+import recettes_lot2  # noqa: E402,F401  (deuxième lot)

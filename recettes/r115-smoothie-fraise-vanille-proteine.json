@@ -1,0 +1,63 @@
+{
+ "id": "r115-smoothie-fraise-vanille-proteine",
+ "nom": "Smoothie fraise-vanille protéiné",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 435,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Mettez tous les ingrédients dans le mixeur.",
+  "Mixez jusqu'à obtenir une boisson onctueuse."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 245.97,
+  "proteines": 19.75,
+  "glucides": 29.0,
+  "lipides": 3.36,
+  "sucres": 19.69,
+  "fibres": 6.09,
+  "satures": 1.77,
+  "sel": 0.3,
+  "fer": 1.14,
+  "calcium": 410.75,
+  "magnesium": 73.05,
+  "potassium": 691.05,
+  "zinc": 1.95,
+  "iode": 33.83,
+  "vitd": 0.0,
+  "vitc": 67.05,
+  "b12": 1.17,
+  "b9": 174.86,
+  "alcool": 0.0
+ }
+}

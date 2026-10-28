@@ -1,0 +1,68 @@
+{
+ "id": "r111-crepes-proteinees-au-fromage-blanc",
+ "nom": "Crêpes protéinées au fromage blanc",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 350,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 30
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 80
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mixez la farine, l'œuf, le lait et la moitié du fromage blanc.",
+  "Cuisez de fines crêpes dans une poêle antiadhésive.",
+  "Garnissez avec le reste de fromage blanc et les fraises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 310.84,
+  "proteines": 22.96,
+  "glucides": 35.08,
+  "lipides": 7.43,
+  "sucres": 12.04,
+  "fibres": 3.03,
+  "satures": 2.49,
+  "sel": 0.42,
+  "fer": 1.82,
+  "calcium": 316.5,
+  "magnesium": 45.62,
+  "potassium": 517.3,
+  "zinc": 1.8,
+  "iode": 34.76,
+  "vitd": 1.13,
+  "vitc": 33.6,
+  "b12": 1.65,
+  "b9": 121.53,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r197-spaghettis-aux-moules-et-a-la-tomate",
+ "nom": "Spaghettis aux moules et à la tomate",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 396,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail dans le coulis.",
+  "Ajoutez les moules cuites et mêlez aux pâtes.",
+  "Parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.32,
+  "proteines": 33.71,
+  "glucides": 51.87,
+  "lipides": 4.12,
+  "sucres": 6.4,
+  "fibres": 5.56,
+  "satures": 0.79,
+  "sel": 2.1,
+  "fer": 6.75,
+  "calcium": 119.77,
+  "magnesium": 125.48,
+  "potassium": 330.44,
+  "zinc": 4.98,
+  "iode": 159.0,
+  "vitd": 0.0,
+  "vitc": 14.11,
+  "b12": 26.41,
+  "b9": 109.7,
+  "alcool": 0.0
+ }
+}

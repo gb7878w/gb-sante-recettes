@@ -1,0 +1,67 @@
+{
+ "id": "r124-houmous-leger-et-batonnets-de-legumes",
+ "nom": "Houmous léger et bâtonnets de légumes",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 258,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mixez les pois chiches avec le fromage blanc et le citron.",
+  "Servez avec les bâtonnets de légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 156.63,
+  "proteines": 9.85,
+  "glucides": 20.29,
+  "lipides": 1.89,
+  "sucres": 7.99,
+  "fibres": 7.44,
+  "satures": 0.32,
+  "sel": 0.17,
+  "fer": 1.14,
+  "calcium": 142.6,
+  "magnesium": 49.29,
+  "potassium": 463.4,
+  "zinc": 1.14,
+  "iode": 5.38,
+  "vitd": 0.0,
+  "vitc": 10.19,
+  "b12": 0.2,
+  "b9": 119.81,
+  "alcool": 0.0
+ }
+}

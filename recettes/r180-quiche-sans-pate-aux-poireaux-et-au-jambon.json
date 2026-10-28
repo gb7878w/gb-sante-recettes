@@ -1,0 +1,74 @@
+{
+ "id": "r180-quiche-sans-pate-aux-poireaux-et-au-jambon",
+ "nom": "Quiche sans pâte aux poireaux et au jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez œufs, lait et emmental, ajoutez poireaux et jambon.",
+  "Versez dans un plat et enfournez 30 minutes à 180 °C.",
+  "Servez avec le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 491.3,
+  "proteines": 41.0,
+  "glucides": 28.34,
+  "lipides": 22.03,
+  "sucres": 9.82,
+  "fibres": 7.65,
+  "satures": 8.79,
+  "sel": 2.25,
+  "fer": 3.95,
+  "calcium": 464.96,
+  "magnesium": 66.03,
+  "potassium": 884.58,
+  "zinc": 3.19,
+  "iode": 41.58,
+  "vitd": 2.6,
+  "vitc": 3.45,
+  "b12": 2.52,
+  "b9": 103.01,
+  "alcool": 0.0
+ }
+}

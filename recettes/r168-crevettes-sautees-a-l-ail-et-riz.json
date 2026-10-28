@@ -1,0 +1,70 @@
+{
+ "id": "r168-crevettes-sautees-a-l-ail-et-riz",
+ "nom": "Crevettes sautées à l'ail et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail et le poivron dans l'huile.",
+  "Ajoutez les crevettes 3 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.84,
+  "proteines": 33.33,
+  "glucides": 41.25,
+  "lipides": 8.51,
+  "sucres": 4.85,
+  "fibres": 4.73,
+  "satures": 1.77,
+  "sel": 2.03,
+  "fer": 3.43,
+  "calcium": 379.54,
+  "magnesium": 109.73,
+  "potassium": 605.6,
+  "zinc": 3.23,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 122.25,
+  "b12": 2.46,
+  "b9": 116.14,
+  "alcool": 0.0
+ }
+}

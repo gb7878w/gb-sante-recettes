@@ -1,0 +1,74 @@
+{
+ "id": "r163-moules-marinieres-et-pommes-de-terre",
+ "nom": "Moules marinières et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 524,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 250
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 25
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 40
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'échalote dans le beurre, ajoutez le vin et les moules.",
+  "Couvrez 5 minutes, parsemez de persil.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 513.83,
+  "proteines": 47.24,
+  "glucides": 51.05,
+  "lipides": 10.01,
+  "sucres": 2.69,
+  "fibres": 4.42,
+  "satures": 3.83,
+  "sel": 2.13,
+  "fer": 10.87,
+  "calcium": 174.98,
+  "magnesium": 207.58,
+  "potassium": 1255.05,
+  "zinc": 7.51,
+  "iode": 265.08,
+  "vitd": 0.06,
+  "vitc": 29.6,
+  "b12": 44.01,
+  "b9": 190.26,
+  "alcool": 3.1
+ }
+}

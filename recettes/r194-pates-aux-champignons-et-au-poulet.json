@@ -1,0 +1,68 @@
+{
+ "id": "r194-pates-aux-champignons-et-au-poulet",
+ "nom": "Pâtes aux champignons et au poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 423,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 110
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Poêlez poulet et champignons.",
+  "Ajoutez la crème, mêlez aux pâtes, parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.34,
+  "proteines": 43.23,
+  "glucides": 38.62,
+  "lipides": 7.52,
+  "sucres": 5.82,
+  "fibres": 4.1,
+  "satures": 3.71,
+  "sel": 0.37,
+  "fer": 1.59,
+  "calcium": 74.36,
+  "magnesium": 82.44,
+  "potassium": 1130.24,
+  "zinc": 2.18,
+  "iode": 1.5,
+  "vitd": 0.45,
+  "vitc": 11.52,
+  "b12": 0.21,
+  "b9": 96.83,
+  "alcool": 0.0
+ }
+}

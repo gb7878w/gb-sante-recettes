@@ -1,0 +1,63 @@
+{
+ "id": "r136-yaourt-flocons-et-pomme",
+ "nom": "Yaourt, flocons et pomme",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 280,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 15
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mélangez le yaourt et les flocons.",
+  "Ajoutez la pomme en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 198.73,
+  "proteines": 11.81,
+  "glucides": 26.21,
+  "lipides": 4.08,
+  "sucres": 15.8,
+  "fibres": 3.73,
+  "satures": 2.14,
+  "sel": 0.21,
+  "fer": 1.03,
+  "calcium": 256.07,
+  "magnesium": 49.82,
+  "potassium": 446.9,
+  "zinc": 1.32,
+  "iode": 32.48,
+  "vitd": 0.76,
+  "vitc": 5.33,
+  "b12": 0.59,
+  "b9": 51.02,
+  "alcool": 0.0
+ }
+}

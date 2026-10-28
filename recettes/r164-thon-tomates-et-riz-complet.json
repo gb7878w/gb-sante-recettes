@@ -1,0 +1,69 @@
+{
+ "id": "r164-thon-tomates-et-riz-complet",
+ "nom": "Thon, tomates et riz complet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 431,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 130
+  },
+  {
+   "ciqual": "9103",
+   "nom": "Riz complet cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Mélangez le riz froid, les tomates et les olives.",
+  "Ajoutez le thon émietté et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 460.06,
+  "proteines": 39.97,
+  "glucides": 47.77,
+  "lipides": 10.39,
+  "sucres": 4.2,
+  "fibres": 5.42,
+  "satures": 1.56,
+  "sel": 1.23,
+  "fer": 2.93,
+  "calcium": 47.24,
+  "magnesium": 107.8,
+  "potassium": 642.85,
+  "zinc": 1.53,
+  "iode": 20.8,
+  "vitd": 6.6,
+  "vitc": 24.45,
+  "b12": 3.41,
+  "b9": 79.66,
+  "alcool": 0.0
+ }
+}

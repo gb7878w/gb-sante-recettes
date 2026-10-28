@@ -1,0 +1,68 @@
+{
+ "id": "r153-poulet-citron-et-quinoa",
+ "nom": "Poulet citron et quinoa",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "9341",
+   "nom": "Quinoa cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "20059",
+   "nom": "Épinards frais",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet avec le citron.",
+  "Mélangez le quinoa aux épinards frais, servez avec le poulet."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 487.26,
+  "proteines": 50.7,
+  "glucides": 43.43,
+  "lipides": 9.74,
+  "sucres": 1.62,
+  "fibres": 7.12,
+  "satures": 1.82,
+  "sel": 0.31,
+  "fer": 5.13,
+  "calcium": 111.13,
+  "magnesium": 190.99,
+  "potassium": 1269.4,
+  "zinc": 3.35,
+  "iode": 2.04,
+  "vitd": 0.0,
+  "vitc": 33.41,
+  "b12": 0.25,
+  "b9": 216.68,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r141-escalope-de-veau-a-la-creme-et-riz",
+ "nom": "Escalope de veau à la crème et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 140
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez l'escalope et les champignons dans l'huile.",
+  "Ajoutez la crème et laissez réduire.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 470.4,
+  "proteines": 50.49,
+  "glucides": 34.15,
+  "lipides": 13.98,
+  "sucres": 4.18,
+  "fibres": 2.2,
+  "satures": 5.95,
+  "sel": 0.37,
+  "fer": 1.91,
+  "calcium": 76.35,
+  "magnesium": 63.92,
+  "potassium": 436.4,
+  "zinc": 5.47,
+  "iode": 9.4,
+  "vitd": 0.3,
+  "vitc": 3.09,
+  "b12": 2.8,
+  "b9": 45.02,
+  "alcool": 0.0
+ }
+}
