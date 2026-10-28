@@ -1,0 +1,72 @@
+{
+ "id": "r021-houmous-maison-et-batonnets-de-carotte",
+ "nom": "Houmous maison et bâtonnets de carotte",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 228,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 2
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 30
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mixez les pois chiches avec le citron, l'huile, l'ail et le yaourt.",
+  "Servez avec les bâtonnets de carotte."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 233.82,
+  "proteines": 8.55,
+  "glucides": 23.7,
+  "lipides": 9.08,
+  "sucres": 7.75,
+  "fibres": 9.63,
+  "satures": 1.74,
+  "sel": 0.17,
+  "fer": 1.37,
+  "calcium": 122.02,
+  "magnesium": 50.02,
+  "potassium": 440.7,
+  "zinc": 1.23,
+  "iode": 6.24,
+  "vitd": 0.18,
+  "vitc": 6.63,
+  "b12": 0.08,
+  "b9": 136.49,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r054-poulet-a-l-ail-et-legumes-d-hiver",
+ "nom": "Poulet à l'ail et légumes d'hiver",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 509,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20138",
+   "nom": "Courge butternut",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 120
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Coupez les légumes en cubes et enfournez-les avec l'huile 25 minutes à 200 °C.",
+  "Ajoutez le poulet en morceaux et l'ail, poursuivez 12 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 454.02,
+  "proteines": 50.31,
+  "glucides": 36.93,
+  "lipides": 9.3,
+  "sucres": 9.55,
+  "fibres": 7.97,
+  "satures": 1.86,
+  "sel": 0.35,
+  "fer": 3.14,
+  "calcium": 117.38,
+  "magnesium": 148.7,
+  "potassium": 2029.9,
+  "zinc": 1.9,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 46.81,
+  "b12": 0.27,
+  "b9": 136.73,
+  "alcool": 0.0
+ }
+}

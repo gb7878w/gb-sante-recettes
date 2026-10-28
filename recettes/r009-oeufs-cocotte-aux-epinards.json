@@ -1,0 +1,64 @@
+{
+ "id": "r009-oeufs-cocotte-aux-epinards",
+ "nom": "Œufs cocotte aux épinards",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 270,
+ "tags": [
+  "oeufs",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 20
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Préchauffez le four à 180 °C. Répartissez les épinards dans deux ramequins.",
+  "Cassez un œuf dans chacun, ajoutez la crème.",
+  "Enfournez 10 à 12 minutes. Servez avec la mouillette de pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 299.4,
+  "proteines": 21.73,
+  "glucides": 14.47,
+  "lipides": 15.74,
+  "sucres": 1.82,
+  "fibres": 5.57,
+  "satures": 5.33,
+  "sel": 0.77,
+  "fer": 4.19,
+  "calcium": 364.86,
+  "magnesium": 60.3,
+  "potassium": 418.2,
+  "zinc": 2.42,
+  "iode": 25.2,
+  "vitd": 2.51,
+  "vitc": 0.0,
+  "b12": 1.74,
+  "b9": 114.18,
+  "alcool": 0.0
+ }
+}

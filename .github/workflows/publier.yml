@@ -1,0 +1,29 @@
+name: Construire et publier les recettes
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recettes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Contrôler les recettes (CIQUAL, règles nutritionnelles)
+        run: python3 outils/construire.py --verifier
+      - name: Reconstruire et vérifier que les fichiers publiés sont à jour
+        run: |
+          python3 outils/construire.py
+          git diff --exit-code -- recettes recettes.json manifeste.json
+      - name: Publier la dernière liste (branche main seulement)
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete derniere-liste --yes --cleanup-tag || true
+          gh release create derniere-liste recettes.json manifeste.json \
+            --title "Dernière liste de recettes" \
+            --notes "Liste complète (recettes.json) et son empreinte sha256 (manifeste.json), à importer dans GB Santé."

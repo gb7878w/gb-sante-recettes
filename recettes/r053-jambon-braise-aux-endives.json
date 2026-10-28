@@ -1,0 +1,70 @@
+{
+ "id": "r053-jambon-braise-aux-endives",
+ "nom": "Jambon braisé aux endives",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Faites braiser les endives 15 minutes à la poêle couverte.",
+  "Enroulez-les dans le jambon, nappez de crème et d'emmental.",
+  "Passez 10 minutes au four, servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.2,
+  "proteines": 34.0,
+  "glucides": 34.36,
+  "lipides": 14.09,
+  "sucres": 9.35,
+  "fibres": 5.08,
+  "satures": 8.03,
+  "sel": 2.6,
+  "fer": 0.87,
+  "calcium": 249.59,
+  "magnesium": 51.9,
+  "potassium": 1339.51,
+  "zinc": 1.15,
+  "iode": 3.21,
+  "vitd": 0.0,
+  "vitc": 8.62,
+  "b12": 0.3,
+  "b9": 102.86,
+  "alcool": 0.0
+ }
+}

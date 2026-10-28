@@ -1,0 +1,75 @@
+{
+ "id": "r091-hachis-parmentier-leger",
+ "nom": "Hachis Parmentier léger",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 40
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et la carotte, ajoutez la viande.",
+  "Couvrez de purée de pommes de terre au lait.",
+  "Gratinez avec l'emmental 15 minutes à 200 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 475.59,
+  "proteines": 43.17,
+  "glucides": 42.44,
+  "lipides": 13.2,
+  "sucres": 7.26,
+  "fibres": 6.26,
+  "satures": 6.78,
+  "sel": 0.52,
+  "fer": 4.64,
+  "calcium": 234.61,
+  "magnesium": 81.95,
+  "potassium": 1456.51,
+  "zinc": 9.62,
+  "iode": 15.98,
+  "vitd": 0.0,
+  "vitc": 8.5,
+  "b12": 3.67,
+  "b9": 120.95,
+  "alcool": 0.0
+ }
+}

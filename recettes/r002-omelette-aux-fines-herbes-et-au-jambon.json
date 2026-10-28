@@ -1,0 +1,64 @@
+{
+ "id": "r002-omelette-aux-fines-herbes-et-au-jambon",
+ "nom": "Omelette aux fines herbes et au jambon",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 168,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Battez les œufs avec le persil ciselé.",
+  "Faites fondre le beurre dans une poêle et versez les œufs.",
+  "Garnissez de jambon coupé en lanières et repliez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 251.94,
+  "proteines": 23.23,
+  "glucides": 1.12,
+  "lipides": 17.19,
+  "sucres": 0.92,
+  "fibres": 0.19,
+  "satures": 6.37,
+  "sel": 1.18,
+  "fer": 2.4,
+  "calcium": 103.59,
+  "magnesium": 14.49,
+  "potassium": 323.35,
+  "zinc": 1.24,
+  "iode": 25.28,
+  "vitd": 2.31,
+  "vitc": 5.31,
+  "b12": 1.75,
+  "b9": 44.97,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r080-omelette-espagnole-legere",
+ "nom": "Omelette espagnole légère",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 438,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 60
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites fondre l'oignon et les pommes de terre en dés dans l'huile 10 minutes.",
+  "Versez les œufs battus avec le jambon.",
+  "Cuisez 5 minutes de chaque côté."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 509.03,
+  "proteines": 34.63,
+  "glucides": 29.89,
+  "lipides": 26.86,
+  "sucres": 2.33,
+  "fibres": 4.42,
+  "satures": 6.32,
+  "sel": 1.39,
+  "fer": 3.99,
+  "calcium": 157.63,
+  "magnesium": 59.39,
+  "potassium": 1023.7,
+  "zinc": 2.47,
+  "iode": 37.8,
+  "vitd": 3.38,
+  "vitc": 16.15,
+  "b12": 2.85,
+  "b9": 122.57,
+  "alcool": 0.0
+ }
+}

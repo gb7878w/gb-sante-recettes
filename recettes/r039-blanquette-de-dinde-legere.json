@@ -1,0 +1,79 @@
+{
+ "id": "r039-blanquette-de-dinde-legere",
+ "nom": "Blanquette de dinde légère",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 660,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Faites mijoter la dinde en morceaux avec les légumes dans le bouillon 20 minutes.",
+  "Ajoutez la crème légère hors du feu.",
+  "Servez sur le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 440.59,
+  "proteines": 50.44,
+  "glucides": 37.49,
+  "lipides": 8.28,
+  "sucres": 10.03,
+  "fibres": 5.88,
+  "satures": 5.11,
+  "sel": 1.39,
+  "fer": 1.7,
+  "calcium": 102.81,
+  "magnesium": 101.77,
+  "potassium": 1339.6,
+  "zinc": 2.83,
+  "iode": 6.8,
+  "vitd": 0.24,
+  "vitc": 6.02,
+  "b12": 0.92,
+  "b9": 98.11,
+  "alcool": 0.0
+ }
+}

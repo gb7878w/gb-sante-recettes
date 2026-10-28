@@ -1,0 +1,68 @@
+{
+ "id": "r014-omelette-aux-champignons-et-a-l-emmental",
+ "nom": "Omelette aux champignons et à l'emmental",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 254,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites dorer les champignons émincés dans le beurre.",
+  "Versez les œufs battus, parsemez d'emmental et repliez.",
+  "Servez avec le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 366.64,
+  "proteines": 25.5,
+  "glucides": 16.17,
+  "lipides": 21.6,
+  "sucres": 3.02,
+  "fibres": 2.87,
+  "satures": 9.18,
+  "sel": 0.94,
+  "fer": 3.44,
+  "calcium": 305.2,
+  "magnesium": 44.64,
+  "potassium": 544.61,
+  "zinc": 2.92,
+  "iode": 30.34,
+  "vitd": 2.8,
+  "vitc": 2.47,
+  "b12": 2.15,
+  "b9": 85.88,
+  "alcool": 0.0
+ }
+}

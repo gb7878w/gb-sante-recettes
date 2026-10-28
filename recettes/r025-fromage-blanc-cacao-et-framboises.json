@@ -1,0 +1,63 @@
+{
+ "id": "r025-fromage-blanc-cacao-et-framboises",
+ "nom": "Fromage blanc, cacao et framboises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 239,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "18100",
+   "nom": "Cacao non sucré",
+   "g": 5
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 80
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le cacao.",
+  "Ajoutez les framboises et le miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 145.97,
+  "proteines": 14.02,
+  "glucides": 14.35,
+  "lipides": 1.73,
+  "sucres": 13.39,
+  "fibres": 4.92,
+  "satures": 0.77,
+  "sel": 0.17,
+  "fer": 2.99,
+  "calcium": 221.12,
+  "magnesium": 59.47,
+  "potassium": 549.81,
+  "zinc": 1.25,
+  "iode": 15.62,
+  "vitd": 0.14,
+  "vitc": 14.99,
+  "b12": 0.6,
+  "b9": 71.91,
+  "alcool": 0.0
+ }
+}

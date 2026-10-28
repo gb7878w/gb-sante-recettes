@@ -1,0 +1,70 @@
+{
+ "id": "r038-poulet-roti-haricots-verts-et-pommes-de-terre",
+ "nom": "Poulet rôti, haricots verts et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 458,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36006",
+   "nom": "Cuisse de poulet rôtie, sans peau",
+   "g": 150
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Préchauffez le four à 200 °C. Frottez le poulet d'ail et d'herbes, enfournez 30 minutes.",
+  "Faites cuire les pommes de terre et les haricots verts à la vapeur.",
+  "Servez avec un filet d'huile d'olive."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 467.58,
+  "proteines": 42.68,
+  "glucides": 30.69,
+  "lipides": 17.55,
+  "sucres": 5.08,
+  "fibres": 7.67,
+  "satures": 4.19,
+  "sel": 0.47,
+  "fer": 3.03,
+  "calcium": 102.98,
+  "magnesium": 99.45,
+  "potassium": 1328.4,
+  "zinc": 4.03,
+  "iode": 0.0,
+  "vitd": 0.2,
+  "vitc": 6.12,
+  "b12": 0.54,
+  "b9": 130.38,
+  "alcool": 0.0
+ }
+}

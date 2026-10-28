@@ -1,0 +1,70 @@
+{
+ "id": "r058-cabillaud-brocoli-et-pommes-de-terre",
+ "nom": "Cabillaud, brocoli et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 498,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 180
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Enfournez le cabillaud 12 minutes à 180 °C avec un filet de citron.",
+  "Cuisez le brocoli et les pommes de terre à la vapeur.",
+  "Arrosez d'huile d'olive."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 422.19,
+  "proteines": 49.04,
+  "glucides": 29.0,
+  "lipides": 10.63,
+  "sucres": 3.62,
+  "fibres": 6.0,
+  "satures": 1.96,
+  "sel": 0.55,
+  "fer": 1.83,
+  "calcium": 96.97,
+  "magnesium": 114.16,
+  "potassium": 1603.1,
+  "zinc": 1.95,
+  "iode": 234.0,
+  "vitd": 2.16,
+  "vitc": 41.73,
+  "b12": 2.75,
+  "b9": 190.04,
+  "alcool": 0.0
+ }
+}

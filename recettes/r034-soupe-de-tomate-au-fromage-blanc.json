@@ -1,0 +1,58 @@
+{
+ "id": "r034-soupe-de-tomate-au-fromage-blanc",
+ "nom": "Soupe de tomate au fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 253,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Chauffez le coulis de tomates.",
+  "Hors du feu, incorporez le fromage blanc et le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 124.39,
+  "proteines": 11.13,
+  "glucides": 16.76,
+  "lipides": 0.35,
+  "sucres": 12.15,
+  "fibres": 4.0,
+  "satures": 0.15,
+  "sel": 1.43,
+  "fer": 0.32,
+  "calcium": 142.19,
+  "magnesium": 14.12,
+  "potassium": 152.85,
+  "zinc": 0.51,
+  "iode": 10.4,
+  "vitd": 0.0,
+  "vitc": 0.43,
+  "b12": 0.4,
+  "b9": 26.04,
+  "alcool": 0.0
+ }
+}

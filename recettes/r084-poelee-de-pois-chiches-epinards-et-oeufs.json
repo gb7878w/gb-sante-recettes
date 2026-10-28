@@ -1,0 +1,69 @@
+{
+ "id": "r084-poelee-de-pois-chiches-epinards-et-oeufs",
+ "nom": "Poêlée de pois chiches, épinards et œufs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 429,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail et les pois chiches dans l'huile, ajoutez les épinards.",
+  "Creusez deux puits, cassez-y les œufs et couvrez 5 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 487.98,
+  "proteines": 32.93,
+  "glucides": 27.43,
+  "lipides": 23.34,
+  "sucres": 0.81,
+  "fibres": 17.72,
+  "satures": 4.96,
+  "sel": 0.46,
+  "fer": 6.17,
+  "calcium": 560.49,
+  "magnesium": 124.8,
+  "potassium": 671.7,
+  "zinc": 4.07,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 0.0,
+  "b12": 1.74,
+  "b9": 262.23,
+  "alcool": 0.0
+ }
+}

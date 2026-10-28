@@ -1,0 +1,70 @@
+{
+ "id": "r050-dinde-gratinee-aux-courgettes",
+ "nom": "Dinde gratinée aux courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Disposez la dinde et les courgettes en rondelles dans un plat, couvrez de coulis.",
+  "Ajoutez la mozzarella et enfournez 20 minutes à 200 °C.",
+  "Servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 473.24,
+  "proteines": 56.84,
+  "glucides": 34.92,
+  "lipides": 10.15,
+  "sucres": 8.06,
+  "fibres": 6.98,
+  "satures": 5.82,
+  "sel": 1.38,
+  "fer": 1.98,
+  "calcium": 281.73,
+  "magnesium": 136.2,
+  "potassium": 1233.4,
+  "zinc": 3.91,
+  "iode": 20.88,
+  "vitd": 0.16,
+  "vitc": 6.92,
+  "b12": 1.84,
+  "b9": 91.9,
+  "alcool": 0.0
+ }
+}

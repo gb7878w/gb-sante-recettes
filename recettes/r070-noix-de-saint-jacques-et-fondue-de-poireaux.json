@@ -1,0 +1,64 @@
+{
+ "id": "r070-noix-de-saint-jacques-et-fondue-de-poireaux",
+ "nom": "Noix de Saint-Jacques et fondue de poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 470,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10004",
+   "nom": "Noix de Saint-Jacques cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites fondre les poireaux émincés à feu doux 12 minutes.",
+  "Ajoutez la crème.",
+  "Saisissez les Saint-Jacques 2 minutes par face. Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 368.0,
+  "proteines": 35.88,
+  "glucides": 32.07,
+  "lipides": 8.94,
+  "sucres": 6.35,
+  "fibres": 7.2,
+  "satures": 4.54,
+  "sel": 0.77,
+  "fer": 2.92,
+  "calcium": 127.65,
+  "magnesium": 120.38,
+  "potassium": 889.2,
+  "zinc": 4.86,
+  "iode": 30.0,
+  "vitd": 0.0,
+  "vitc": 2.6,
+  "b12": 12.59,
+  "b9": 77.92,
+  "alcool": 0.0
+ }
+}

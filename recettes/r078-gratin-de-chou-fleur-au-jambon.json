@@ -1,0 +1,70 @@
+{
+ "id": "r078-gratin-de-chou-fleur-au-jambon",
+ "nom": "Gratin de chou-fleur au jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 540,
+ "tags": [
+  "oeufs",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Faites cuire le chou-fleur 10 minutes à la vapeur.",
+  "Disposez-le avec le jambon dans un plat, nappez du mélange œuf-lait et d'emmental.",
+  "Enfournez 25 minutes à 180 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.35,
+  "proteines": 43.03,
+  "glucides": 10.6,
+  "lipides": 20.42,
+  "sucres": 10.12,
+  "fibres": 5.15,
+  "satures": 9.48,
+  "sel": 2.51,
+  "fer": 2.39,
+  "calcium": 514.78,
+  "magnesium": 62.44,
+  "potassium": 1229.62,
+  "zinc": 2.87,
+  "iode": 31.12,
+  "vitd": 1.13,
+  "vitc": 25.75,
+  "b12": 1.86,
+  "b9": 236.91,
+  "alcool": 0.0
+ }
+}

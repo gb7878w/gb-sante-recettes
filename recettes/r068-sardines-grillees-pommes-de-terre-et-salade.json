@@ -1,0 +1,70 @@
+{
+ "id": "r068-sardines-grillees-pommes-de-terre-et-salade",
+ "nom": "Sardines grillées, pommes de terre et salade",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 351,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26136",
+   "nom": "Sardine grillée",
+   "g": 130
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites griller les sardines 3 minutes par face.",
+  "Cuisez les pommes de terre à la vapeur.",
+  "Assaisonnez la salade d'huile et de vinaigre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 437.14,
+  "proteines": 36.11,
+  "glucides": 25.88,
+  "lipides": 20.15,
+  "sucres": 1.73,
+  "fibres": 3.42,
+  "satures": 4.83,
+  "sel": 0.54,
+  "fer": 3.22,
+  "calcium": 216.95,
+  "magnesium": 79.7,
+  "potassium": 1187.24,
+  "zinc": 2.17,
+  "iode": 42.33,
+  "vitd": 15.99,
+  "vitc": 11.49,
+  "b12": 15.6,
+  "b9": 77.95,
+  "alcool": 0.01
+ }
+}

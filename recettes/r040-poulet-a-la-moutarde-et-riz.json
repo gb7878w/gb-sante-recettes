@@ -1,0 +1,70 @@
+{
+ "id": "r040-poulet-a-la-moutarde-et-riz",
+ "nom": "Poulet à la moutarde et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites dorer le poulet en morceaux.",
+  "Ajoutez la moutarde et la crème, laissez napper 3 minutes.",
+  "Servez avec le riz et les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 455.3,
+  "proteines": 52.06,
+  "glucides": 34.82,
+  "lipides": 10.24,
+  "sucres": 4.35,
+  "fibres": 4.4,
+  "satures": 5.07,
+  "sel": 0.9,
+  "fer": 1.51,
+  "calcium": 121.88,
+  "magnesium": 98.45,
+  "potassium": 1007.4,
+  "zinc": 1.85,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 3.33,
+  "b12": 0.27,
+  "b9": 75.1,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r083-veloute-de-butternut-oeufs-durs-et-fromage-blanc",
+ "nom": "Velouté de butternut, œufs durs et fromage blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 730,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20138",
+   "nom": "Courge butternut",
+   "g": 250
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Cuisez la courge en cubes dans le bouillon 15 minutes, mixez avec le fromage blanc.",
+  "Servez avec les œufs durs en quartiers et le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 415.69,
+  "proteines": 31.76,
+  "glucides": 42.19,
+  "lipides": 11.0,
+  "sucres": 12.22,
+  "fibres": 8.45,
+  "satures": 3.43,
+  "sel": 2.28,
+  "fer": 5.08,
+  "calcium": 347.4,
+  "magnesium": 144.54,
+  "potassium": 1320.8,
+  "zinc": 3.06,
+  "iode": 67.15,
+  "vitd": 1.66,
+  "vitc": 52.5,
+  "b12": 1.7,
+  "b9": 164.5,
+  "alcool": 0.0
+ }
+}

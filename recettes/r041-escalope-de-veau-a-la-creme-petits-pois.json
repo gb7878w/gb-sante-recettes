@@ -1,0 +1,69 @@
+{
+ "id": "r041-escalope-de-veau-a-la-creme-petits-pois",
+ "nom": "Escalope de veau à la crème, petits pois",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Poêlez l'escalope puis réservez.",
+  "Faites revenir les champignons, ajoutez la crème et remettez la viande.",
+  "Servez avec les petits pois et les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 479.96,
+  "proteines": 59.24,
+  "glucides": 32.86,
+  "lipides": 10.5,
+  "sucres": 6.46,
+  "fibres": 8.36,
+  "satures": 5.32,
+  "sel": 0.44,
+  "fer": 3.46,
+  "calcium": 114.45,
+  "magnesium": 108.35,
+  "potassium": 933.0,
+  "zinc": 6.23,
+  "iode": 9.8,
+  "vitd": 0.24,
+  "vitc": 19.07,
+  "b12": 3.0,
+  "b9": 104.54,
+  "alcool": 0.0
+ }
+}

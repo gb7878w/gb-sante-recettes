@@ -1,0 +1,57 @@
+{
+ "id": "r018-pomme-amandes-et-fromage-blanc",
+ "nom": "Pomme, amandes et fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 245,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 150
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 15
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Croquez la pomme avec les amandes et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 210.21,
+  "proteines": 9.55,
+  "glucides": 21.94,
+  "lipides": 8.1,
+  "sucres": 17.77,
+  "fibres": 3.98,
+  "satures": 0.72,
+  "sel": 0.09,
+  "fer": 0.79,
+  "calcium": 154.21,
+  "magnesium": 59.96,
+  "potassium": 413.7,
+  "zinc": 0.96,
+  "iode": 8.62,
+  "vitd": 0.0,
+  "vitc": 9.38,
+  "b12": 0.32,
+  "b9": 46.2,
+  "alcool": 0.0
+ }
+}

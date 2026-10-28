@@ -1,0 +1,75 @@
+{
+ "id": "r061-papillote-de-lieu-aux-legumes",
+ "nom": "Papillote de lieu aux légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 586,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "20020",
+   "nom": "Courgette crue",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Coupez les légumes en fines lamelles et disposez-les sur une feuille de papier cuisson avec le poisson.",
+  "Arrosez d'huile, fermez la papillote et enfournez 20 minutes à 180 °C.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.09,
+  "proteines": 46.79,
+  "glucides": 35.32,
+  "lipides": 6.92,
+  "sucres": 9.57,
+  "fibres": 8.47,
+  "satures": 1.13,
+  "sel": 0.58,
+  "fer": 1.57,
+  "calcium": 100.06,
+  "magnesium": 117.37,
+  "potassium": 1770.9,
+  "zinc": 1.54,
+  "iode": 256.64,
+  "vitd": 1.24,
+  "vitc": 26.41,
+  "b12": 1.6,
+  "b9": 204.42,
+  "alcool": 0.0
+ }
+}

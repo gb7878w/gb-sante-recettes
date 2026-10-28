@@ -1,0 +1,70 @@
+{
+ "id": "r060-merlu-a-la-tomate-et-semoule",
+ "nom": "Merlu à la tomate et semoule",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 415,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 170
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Réchauffez le coulis avec les olives.",
+  "Déposez le merlu et laissez cuire 8 minutes à couvert.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 465.64,
+  "proteines": 42.47,
+  "glucides": 37.33,
+  "lipides": 14.7,
+  "sucres": 9.1,
+  "fibres": 6.12,
+  "satures": 3.12,
+  "sel": 1.66,
+  "fer": 3.41,
+  "calcium": 102.66,
+  "magnesium": 72.04,
+  "potassium": 612.0,
+  "zinc": 1.54,
+  "iode": 71.4,
+  "vitd": 5.44,
+  "vitc": 0.0,
+  "b12": 2.72,
+  "b9": 68.28,
+  "alcool": 0.0
+ }
+}

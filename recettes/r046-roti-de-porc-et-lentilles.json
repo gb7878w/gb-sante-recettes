@@ -1,0 +1,75 @@
+{
+ "id": "r046-roti-de-porc-et-lentilles",
+ "nom": "Rôti de porc et lentilles",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 379,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le porc de moutarde et rôtissez-le 30 minutes à 180 °C.",
+  "Faites revenir l'oignon et la carotte dans l'huile et ajoutez les lentilles cuites.",
+  "Tranchez le rôti et servez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 487.96,
+  "proteines": 50.16,
+  "glucides": 30.99,
+  "lipides": 14.66,
+  "sucres": 4.04,
+  "fibres": 15.08,
+  "satures": 4.14,
+  "sel": 0.56,
+  "fer": 5.37,
+  "calcium": 91.92,
+  "magnesium": 93.02,
+  "potassium": 960.2,
+  "zinc": 4.62,
+  "iode": 0.15,
+  "vitd": 0.0,
+  "vitc": 1.87,
+  "b12": 1.33,
+  "b9": 115.67,
+  "alcool": 0.0
+ }
+}

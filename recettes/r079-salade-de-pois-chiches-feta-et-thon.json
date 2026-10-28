@@ -1,0 +1,74 @@
+{
+ "id": "r079-salade-de-pois-chiches-feta-et-thon",
+ "nom": "Salade de pois chiches, feta et thon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez les pois chiches, le concombre et la tomate en dés.",
+  "Ajoutez la feta, le thon et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 534.38,
+  "proteines": 37.11,
+  "glucides": 32.5,
+  "lipides": 24.97,
+  "sucres": 4.59,
+  "fibres": 13.78,
+  "satures": 10.39,
+  "sel": 1.63,
+  "fer": 2.72,
+  "calcium": 243.92,
+  "magnesium": 104.28,
+  "potassium": 747.8,
+  "zinc": 2.68,
+  "iode": 49.84,
+  "vitd": 3.05,
+  "vitc": 22.9,
+  "b12": 1.78,
+  "b9": 169.17,
+  "alcool": 0.0
+ }
+}

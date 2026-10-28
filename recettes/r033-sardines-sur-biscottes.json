@@ -1,0 +1,57 @@
+{
+ "id": "r033-sardines-sur-biscottes",
+ "nom": "Sardines sur biscottes",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 68,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 40
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 20
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Posez les sardines sur les biscottes, ajoutez un filet de citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 166.01,
+  "proteines": 10.94,
+  "glucides": 13.77,
+  "lipides": 6.79,
+  "sucres": 0.93,
+  "fibres": 1.77,
+  "satures": 1.79,
+  "sel": 0.53,
+  "fer": 1.55,
+  "calcium": 52.2,
+  "magnesium": 38.43,
+  "potassium": 224.0,
+  "zinc": 1.21,
+  "iode": 16.0,
+  "vitd": 2.96,
+  "vitc": 3.6,
+  "b12": 5.44,
+  "b9": 7.47,
+  "alcool": 0.0
+ }
+}

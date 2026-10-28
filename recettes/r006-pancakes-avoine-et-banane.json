@@ -1,0 +1,68 @@
+{
+ "id": "r006-pancakes-avoine-et-banane",
+ "nom": "Pancakes avoine et banane",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 263,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 60
+  },
+  {
+   "ciqual": "17130",
+   "nom": "Huile de colza",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mixez les flocons, l'œuf, le fromage blanc et la moitié de la banane.",
+  "Faites cuire de petites galettes 2 minutes par face dans la poêle huilée.",
+  "Servez avec le reste de la banane en rondelles."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 361.5,
+  "proteines": 21.53,
+  "glucides": 39.03,
+  "lipides": 11.54,
+  "sucres": 13.8,
+  "fibres": 5.7,
+  "satures": 2.28,
+  "sel": 0.3,
+  "fer": 3.03,
+  "calcium": 216.86,
+  "magnesium": 94.8,
+  "potassium": 567.2,
+  "zinc": 2.51,
+  "iode": 23.2,
+  "vitd": 1.13,
+  "vitc": 4.3,
+  "b12": 1.27,
+  "b9": 71.64,
+  "alcool": 0.0
+ }
+}

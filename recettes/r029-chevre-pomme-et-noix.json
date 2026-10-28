@@ -1,0 +1,57 @@
+{
+ "id": "r029-chevre-pomme-et-noix",
+ "nom": "Chèvre, pomme et noix",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 146,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 40
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 100
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Servez le chèvre avec la pomme en tranches et les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 167.39,
+  "proteines": 10.09,
+  "glucides": 12.01,
+  "lipides": 8.29,
+  "sucres": 9.53,
+  "fibres": 1.8,
+  "satures": 3.16,
+  "sel": 0.5,
+  "fer": 0.27,
+  "calcium": 83.04,
+  "magnesium": 20.87,
+  "potassium": 228.8,
+  "zinc": 0.19,
+  "iode": 0.2,
+  "vitd": 0.0,
+  "vitc": 6.3,
+  "b12": 0.0,
+  "b9": 13.2,
+  "alcool": 0.0
+ }
+}

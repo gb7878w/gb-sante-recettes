@@ -1,0 +1,63 @@
+{
+ "id": "r036-crevettes-a-l-ail-et-au-citron",
+ "nom": "Crevettes à l'ail et au citron",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 95,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 80
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail dans l'huile.",
+  "Ajoutez les crevettes 2 minutes, arrosez de citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 116.58,
+  "proteines": 15.36,
+  "glucides": 2.18,
+  "lipides": 4.92,
+  "sucres": 0.1,
+  "fibres": 0.17,
+  "satures": 0.86,
+  "sel": 1.08,
+  "fer": 1.61,
+  "calcium": 193.21,
+  "magnesium": 50.03,
+  "potassium": 230.3,
+  "zinc": 1.4,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 4.26,
+  "b12": 1.31,
+  "b9": 14.73,
+  "alcool": 0.0
+ }
+}

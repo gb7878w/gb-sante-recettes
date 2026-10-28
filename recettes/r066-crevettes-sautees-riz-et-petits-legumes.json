@@ -1,0 +1,75 @@
+{
+ "id": "r066-crevettes-sautees-riz-et-petits-legumes",
+ "nom": "Crevettes sautées, riz et petits légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 419,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites sauter l'ail et le poivron en lanières dans l'huile.",
+  "Ajoutez les petits pois et les crevettes, 3 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 408.55,
+  "proteines": 37.35,
+  "glucides": 40.49,
+  "lipides": 8.81,
+  "sucres": 5.16,
+  "fibres": 7.57,
+  "satures": 1.8,
+  "sel": 2.04,
+  "fer": 4.29,
+  "calcium": 405.57,
+  "magnesium": 128.96,
+  "potassium": 710.9,
+  "zinc": 3.65,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 107.17,
+  "b12": 2.46,
+  "b9": 127.45,
+  "alcool": 0.0
+ }
+}

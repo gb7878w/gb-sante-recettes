@@ -1,0 +1,57 @@
+{
+ "id": "r019-oeufs-durs-et-crudites",
+ "nom": "Œufs durs et crudités",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 240,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Faites cuire les œufs 10 minutes à l'eau bouillante, écalez-les.",
+  "Servez avec des bâtonnets de carotte et de concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 187.36,
+  "proteines": 15.67,
+  "glucides": 7.91,
+  "lipides": 9.54,
+  "sucres": 6.21,
+  "fibres": 2.46,
+  "satures": 2.83,
+  "sel": 0.43,
+  "fer": 2.15,
+  "calcium": 74.7,
+  "magnesium": 30.2,
+  "potassium": 394.5,
+  "zinc": 1.59,
+  "iode": 54.82,
+  "vitd": 1.23,
+  "vitc": 5.76,
+  "b12": 1.22,
+  "b9": 102.07,
+  "alcool": 0.0
+ }
+}

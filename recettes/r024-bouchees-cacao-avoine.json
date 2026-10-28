@@ -1,0 +1,67 @@
+{
+ "id": "r024-bouchees-cacao-avoine",
+ "nom": "Bouchées cacao-avoine",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 75,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 20
+  },
+  {
+   "ciqual": "18100",
+   "nom": "Cacao non sucré",
+   "g": 5
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 8
+  },
+  {
+   "ciqual": "15053",
+   "nom": "Cacahuètes non salées",
+   "g": 12
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Mélangez tous les ingrédients.",
+  "Formez des boules et laissez-les durcir 30 minutes au frais."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 208.67,
+  "proteines": 9.02,
+  "glucides": 21.22,
+  "lipides": 8.57,
+  "sucres": 8.09,
+  "fibres": 4.56,
+  "satures": 1.81,
+  "sel": 0.04,
+  "fer": 3.49,
+  "calcium": 71.65,
+  "magnesium": 79.96,
+  "potassium": 395.3,
+  "zinc": 1.47,
+  "iode": 3.26,
+  "vitd": 0.14,
+  "vitc": 0.06,
+  "b12": 0.12,
+  "b9": 32.27,
+  "alcool": 0.0
+ }
+}

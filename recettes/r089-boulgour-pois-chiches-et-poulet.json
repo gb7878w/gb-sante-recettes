@@ -1,0 +1,68 @@
+{
+ "id": "r089-boulgour-pois-chiches-et-poulet",
+ "nom": "Boulgour, pois chiches et poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 435,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9691",
+   "nom": "Boulgour cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet et la courgette en dés dans l'huile.",
+  "Mélangez avec le boulgour et les pois chiches."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 485.6,
+  "proteines": 43.27,
+  "glucides": 48.11,
+  "lipides": 10.51,
+  "sucres": 1.63,
+  "fibres": 11.36,
+  "satures": 1.97,
+  "sel": 0.29,
+  "fer": 2.57,
+  "calcium": 102.6,
+  "magnesium": 127.5,
+  "potassium": 956.5,
+  "zinc": 2.92,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 4.33,
+  "b12": 0.18,
+  "b9": 126.07,
+  "alcool": 0.0
+ }
+}

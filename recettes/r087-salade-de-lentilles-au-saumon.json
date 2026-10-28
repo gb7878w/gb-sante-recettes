@@ -1,0 +1,74 @@
+{
+ "id": "r087-salade-de-lentilles-au-saumon",
+ "nom": "Salade de lentilles au saumon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 284,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mélangez les lentilles avec l'échalote hachée, l'huile et le vinaigre.",
+  "Posez le saumon émietté et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 464.64,
+  "proteines": 38.63,
+  "glucides": 26.88,
+  "lipides": 19.39,
+  "sucres": 0.99,
+  "fibres": 13.32,
+  "satures": 3.55,
+  "sel": 0.17,
+  "fer": 4.21,
+  "calcium": 79.64,
+  "magnesium": 82.9,
+  "potassium": 770.18,
+  "zinc": 2.36,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 9.73,
+  "b12": 2.78,
+  "b9": 101.71,
+  "alcool": 0.01
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "id": "r008-tartines-de-fromage-blanc-jambon-de-dinde-et-con",
+ "nom": "Tartines de fromage blanc, jambon de dinde et concombre",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 230,
+ "tags": [
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Tartinez le pain de fromage blanc.",
+  "Posez le jambon et le concombre en rondelles, poivrez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 244.16,
+  "proteines": 22.09,
+  "glucides": 31.35,
+  "lipides": 1.99,
+  "sucres": 5.64,
+  "fibres": 4.58,
+  "satures": 0.62,
+  "sel": 1.71,
+  "fer": 1.61,
+  "calcium": 141.83,
+  "magnesium": 58.8,
+  "potassium": 507.0,
+  "zinc": 1.73,
+  "iode": 8.44,
+  "vitd": 0.52,
+  "vitc": 16.45,
+  "b12": 0.62,
+  "b9": 54.13,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r051-pot-au-feu-allege",
+ "nom": "Pot-au-feu allégé",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 770,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 120
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Portez le bouillon à frémissement avec le bœuf coupé en gros morceaux.",
+  "Après 20 minutes, ajoutez les légumes et les pommes de terre.",
+  "Cuisez 25 minutes de plus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 380.41,
+  "proteines": 36.49,
+  "glucides": 41.57,
+  "lipides": 4.63,
+  "sucres": 13.98,
+  "fibres": 12.1,
+  "satures": 1.6,
+  "sel": 1.44,
+  "fer": 4.96,
+  "calcium": 120.34,
+  "magnesium": 59.4,
+  "potassium": 1181.5,
+  "zinc": 5.7,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 16.61,
+  "b12": 1.8,
+  "b9": 198.85,
+  "alcool": 0.0
+ }
+}

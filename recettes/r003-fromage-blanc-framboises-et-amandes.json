@@ -1,0 +1,63 @@
+{
+ "id": "r003-fromage-blanc-framboises-et-amandes",
+ "nom": "Fromage blanc, framboises et amandes",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 300,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 80
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 15
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Versez le fromage blanc dans un bol.",
+  "Ajoutez les framboises, les amandes concassées et un filet de miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 244.59,
+  "proteines": 19.7,
+  "glucides": 17.96,
+  "lipides": 8.42,
+  "sucres": 16.72,
+  "fibres": 5.31,
+  "satures": 0.78,
+  "sel": 0.22,
+  "fer": 1.16,
+  "calcium": 320.2,
+  "magnesium": 81.11,
+  "potassium": 547.51,
+  "zinc": 1.7,
+  "iode": 20.82,
+  "vitd": 0.0,
+  "vitc": 15.0,
+  "b12": 0.8,
+  "b9": 96.58,
+  "alcool": 0.0
+ }
+}

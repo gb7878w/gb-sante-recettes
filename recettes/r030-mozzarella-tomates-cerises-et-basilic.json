@@ -1,0 +1,63 @@
+{
+ "id": "r030-mozzarella-tomates-cerises-et-basilic",
+ "nom": "Mozzarella, tomates cerises et basilic",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 166,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 60
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Coupez la mozzarella et les tomates.",
+  "Ajoutez le basilic et un filet d'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 197.94,
+  "proteines": 11.31,
+  "glucides": 6.15,
+  "lipides": 13.63,
+  "sucres": 5.23,
+  "fibres": 1.3,
+  "satures": 7.48,
+  "sel": 0.36,
+  "fer": 0.79,
+  "calcium": 341.79,
+  "magnesium": 24.92,
+  "potassium": 384.45,
+  "zinc": 1.96,
+  "iode": 22.32,
+  "vitd": 0.24,
+  "vitc": 22.23,
+  "b12": 1.37,
+  "b9": 23.84,
+  "alcool": 0.0
+ }
+}

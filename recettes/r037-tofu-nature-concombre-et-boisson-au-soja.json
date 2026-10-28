@@ -1,0 +1,58 @@
+{
+ "id": "r037-tofu-nature-concombre-et-boisson-au-soja",
+ "nom": "Tofu nature, concombre et boisson au soja",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20904",
+   "nom": "Tofu nature",
+   "g": 60
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  },
+  {
+   "ciqual": "18901",
+   "nom": "Boisson au soja nature",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Coupez le tofu et le concombre en dés.",
+  "Servez avec le verre de boisson au soja."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 142.36,
+  "proteines": 11.84,
+  "glucides": 5.43,
+  "lipides": 7.22,
+  "sucres": 3.52,
+  "fibres": 1.36,
+  "satures": 1.09,
+  "sel": 0.12,
+  "fer": 1.97,
+  "calcium": 169.52,
+  "magnesium": 81.16,
+  "potassium": 264.2,
+  "zinc": 1.08,
+  "iode": 0.18,
+  "vitd": 1.16,
+  "vitc": 4.95,
+  "b12": 0.0,
+  "b9": 44.74,
+  "alcool": 0.0
+ }
+}

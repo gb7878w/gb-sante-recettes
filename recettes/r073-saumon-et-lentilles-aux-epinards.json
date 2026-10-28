@@ -1,0 +1,60 @@
+{
+ "id": "r073-saumon-et-lentilles-aux-epinards",
+ "nom": "Saumon et lentilles aux épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 350,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Poêlez le saumon 8 minutes.",
+  "Réchauffez les lentilles avec les épinards.",
+  "Servez ensemble."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 458.98,
+  "proteines": 45.45,
+  "glucides": 24.3,
+  "lipides": 16.43,
+  "sucres": 0.3,
+  "fibres": 15.48,
+  "satures": 3.24,
+  "sel": 0.2,
+  "fer": 5.13,
+  "calcium": 265.05,
+  "magnesium": 109.32,
+  "potassium": 910.1,
+  "zinc": 3.01,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 3.35,
+  "b12": 3.34,
+  "b9": 149.79,
+  "alcool": 0.0
+ }
+}

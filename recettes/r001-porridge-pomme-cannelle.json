@@ -1,0 +1,74 @@
+{
+ "id": "r001-porridge-pomme-cannelle",
+ "nom": "Porridge pomme-cannelle",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 379,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 80
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites chauffer les flocons avec le lait pendant 4 minutes en remuant.",
+  "Hors du feu, ajoutez le fromage blanc et la pomme coupée en dés.",
+  "Saupoudrez de cannelle et de noix concassées."
+ ],
+ "astuce": "Préparé la veille et mangé froid, c'est aussi très bon.",
+ "nutrition": {
+  "kcal": 368.15,
+  "proteines": 19.64,
+  "glucides": 44.4,
+  "lipides": 10.57,
+  "sucres": 19.01,
+  "fibres": 6.27,
+  "satures": 2.6,
+  "sel": 0.25,
+  "fer": 2.18,
+  "calcium": 363.49,
+  "magnesium": 106.53,
+  "potassium": 679.21,
+  "zinc": 2.67,
+  "iode": 28.91,
+  "vitd": 0.0,
+  "vitc": 7.35,
+  "b12": 0.97,
+  "b9": 68.53,
+  "alcool": 0.0
+ }
+}

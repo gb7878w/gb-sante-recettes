@@ -1,0 +1,69 @@
+{
+ "id": "r100-poulet-citron-thym-courgettes-et-semoule",
+ "nom": "Poulet citron-thym, courgettes et semoule",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Marinez le poulet au citron et aux herbes.",
+  "Poêlez-le avec les courgettes en rondelles.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 391.79,
+  "proteines": 46.96,
+  "glucides": 26.33,
+  "lipides": 9.13,
+  "sucres": 5.2,
+  "fibres": 4.15,
+  "satures": 1.97,
+  "sel": 0.35,
+  "fer": 2.05,
+  "calcium": 50.18,
+  "magnesium": 102.44,
+  "potassium": 1090.0,
+  "zinc": 1.87,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 13.1,
+  "b12": 0.25,
+  "b9": 86.33,
+  "alcool": 0.0
+ }
+}

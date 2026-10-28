@@ -1,0 +1,74 @@
+{
+ "id": "r049-poulet-basquaise",
+ "nom": "Poulet basquaise",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 618,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et les poivrons dans l'huile.",
+  "Ajoutez les tomates et le poulet en morceaux, mijotez 25 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 508.53,
+  "proteines": 50.94,
+  "glucides": 42.59,
+  "lipides": 11.59,
+  "sucres": 11.52,
+  "fibres": 8.86,
+  "satures": 2.39,
+  "sel": 0.21,
+  "fer": 1.39,
+  "calcium": 43.25,
+  "magnesium": 88.64,
+  "potassium": 1353.0,
+  "zinc": 1.87,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 209.34,
+  "b12": 0.27,
+  "b9": 173.85,
+  "alcool": 0.0
+ }
+}

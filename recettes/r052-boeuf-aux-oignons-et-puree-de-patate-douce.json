@@ -1,0 +1,64 @@
+{
+ "id": "r052-boeuf-aux-oignons-et-puree-de-patate-douce",
+ "nom": "Bœuf aux oignons et purée de patate douce",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 436,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 130
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 100
+  },
+  {
+   "ciqual": "4102",
+   "nom": "Patate douce cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites fondre les oignons dans l'huile 10 minutes.",
+  "Poêlez le bœuf en lamelles, mélangez.",
+  "Servez avec la patate douce écrasée."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 377.3,
+  "proteines": 37.07,
+  "glucides": 30.79,
+  "lipides": 9.54,
+  "sucres": 12.42,
+  "fibres": 8.4,
+  "satures": 1.95,
+  "sel": 0.16,
+  "fer": 5.29,
+  "calcium": 78.0,
+  "magnesium": 50.4,
+  "potassium": 856.0,
+  "zinc": 6.08,
+  "iode": 6.0,
+  "vitd": 0.0,
+  "vitc": 34.48,
+  "b12": 1.95,
+  "b9": 25.0,
+  "alcool": 0.0
+ }
+}

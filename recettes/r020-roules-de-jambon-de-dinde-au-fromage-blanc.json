@@ -1,0 +1,62 @@
+{
+ "id": "r020-roules-de-jambon-de-dinde-au-fromage-blanc",
+ "nom": "Roulés de jambon de dinde au fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 162,
+ "tags": [
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le persil.",
+  "Étalez sur les tranches, ajoutez un bâtonnet de concombre et roulez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 95.76,
+  "proteines": 16.91,
+  "glucides": 4.06,
+  "lipides": 1.09,
+  "sucres": 3.45,
+  "fibres": 0.62,
+  "satures": 0.36,
+  "sel": 1.21,
+  "fer": 0.45,
+  "calcium": 85.22,
+  "magnesium": 29.29,
+  "potassium": 384.46,
+  "zinc": 0.86,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 23.45,
+  "b12": 0.56,
+  "b9": 31.21,
+  "alcool": 0.0
+ }
+}

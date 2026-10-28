@@ -1,0 +1,52 @@
+{
+ "id": "r016-fromage-blanc-et-fraises",
+ "nom": "Fromage blanc et fraises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Coupez les fraises sur le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 112.7,
+  "proteines": 12.56,
+  "glucides": 11.87,
+  "lipides": 0.06,
+  "sucres": 11.43,
+  "fibres": 3.8,
+  "satures": 0.04,
+  "sel": 0.17,
+  "fer": 0.43,
+  "calcium": 219.0,
+  "magnesium": 30.3,
+  "potassium": 356.0,
+  "zinc": 0.84,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 54.0,
+  "b12": 0.6,
+  "b9": 134.9,
+  "alcool": 0.0
+ }
+}

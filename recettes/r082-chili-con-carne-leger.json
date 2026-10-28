@@ -1,0 +1,74 @@
+{
+ "id": "r082-chili-con-carne-leger",
+ "nom": "Chili con carne léger",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20503",
+   "nom": "Haricots rouges cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 50
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Poêlez la viande avec l'oignon et le poivron.",
+  "Ajoutez le coulis et les haricots rouges, mijotez 20 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 502.61,
+  "proteines": 43.55,
+  "glucides": 53.86,
+  "lipides": 7.35,
+  "sucres": 11.83,
+  "fibres": 21.84,
+  "satures": 3.26,
+  "sel": 1.5,
+  "fer": 5.9,
+  "calcium": 91.18,
+  "magnesium": 82.1,
+  "potassium": 904.4,
+  "zinc": 8.01,
+  "iode": 6.1,
+  "vitd": 0.0,
+  "vitc": 73.64,
+  "b12": 2.47,
+  "b9": 163.56,
+  "alcool": 0.0
+ }
+}

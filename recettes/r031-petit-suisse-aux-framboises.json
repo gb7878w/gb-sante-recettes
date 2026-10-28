@@ -1,0 +1,52 @@
+{
+ "id": "r031-petit-suisse-aux-framboises",
+ "nom": "Petit-suisse aux framboises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 2,
+ "portions": 1,
+ "poidsG": 180,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19661",
+   "nom": "Petit-suisse",
+   "g": 120
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Garnissez le petit-suisse de framboises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 140.76,
+  "proteines": 8.75,
+  "glucides": 14.71,
+  "lipides": 3.84,
+  "sucres": 14.4,
+  "fibres": 3.78,
+  "satures": 2.23,
+  "sel": 0.06,
+  "fer": 0.31,
+  "calcium": 141.6,
+  "magnesium": 23.28,
+  "potassium": 270.0,
+  "zinc": 0.59,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 11.22,
+  "b12": 0.29,
+  "b9": 40.5,
+  "alcool": 0.0
+ }
+}

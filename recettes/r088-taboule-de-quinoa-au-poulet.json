@@ -1,0 +1,74 @@
+{
+ "id": "r088-taboule-de-quinoa-au-poulet",
+ "nom": "Taboulé de quinoa au poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 471,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "9341",
+   "nom": "Quinoa cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Mélangez le quinoa froid avec les légumes en dés.",
+  "Ajoutez le poulet en lamelles, le citron et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 483.62,
+  "proteines": 44.12,
+  "glucides": 47.71,
+  "lipides": 10.13,
+  "sucres": 5.56,
+  "fibres": 7.18,
+  "satures": 1.85,
+  "sel": 0.19,
+  "fer": 3.16,
+  "calcium": 63.95,
+  "magnesium": 169.97,
+  "potassium": 1214.6,
+  "zinc": 2.87,
+  "iode": 0.24,
+  "vitd": 0.0,
+  "vitc": 31.37,
+  "b12": 0.22,
+  "b9": 113.91,
+  "alcool": 0.0
+ }
+}

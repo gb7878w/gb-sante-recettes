@@ -1,0 +1,70 @@
+{
+ "id": "r090-gratin-dauphinois-leger-au-jambon",
+ "nom": "Gratin dauphinois léger au jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 478,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 250
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Disposez les pommes de terre en rondelles et le jambon dans un plat frotté d'ail.",
+  "Versez le lait, parsemez d'emmental.",
+  "Enfournez 40 minutes à 180 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.33,
+  "proteines": 34.66,
+  "glucides": 48.75,
+  "lipides": 12.79,
+  "sucres": 8.17,
+  "fibres": 4.82,
+  "satures": 6.97,
+  "sel": 2.36,
+  "fer": 1.11,
+  "calcium": 386.65,
+  "magnesium": 65.52,
+  "potassium": 1472.75,
+  "zinc": 1.89,
+  "iode": 17.45,
+  "vitd": 0.0,
+  "vitc": 8.8,
+  "b12": 0.89,
+  "b9": 96.37,
+  "alcool": 0.0
+ }
+}

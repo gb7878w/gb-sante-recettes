@@ -1,0 +1,73 @@
+{
+ "id": "r085-soupe-de-legumes-et-poulet-effiloche",
+ "nom": "Soupe de légumes et poulet effiloché",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 760,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 80
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 250
+  }
+ ],
+ "etapes": [
+  "Cuisez les légumes en morceaux dans le bouillon 20 minutes.",
+  "Ajoutez les pâtes et le poulet effiloché 5 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 456.04,
+  "proteines": 44.25,
+  "glucides": 55.15,
+  "lipides": 3.91,
+  "sucres": 8.73,
+  "fibres": 8.94,
+  "satures": 1.29,
+  "sel": 1.86,
+  "fer": 1.93,
+  "calcium": 70.97,
+  "magnesium": 103.71,
+  "potassium": 1424.5,
+  "zinc": 1.69,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 8.78,
+  "b12": 0.22,
+  "b9": 143.89,
+  "alcool": 0.0
+ }
+}

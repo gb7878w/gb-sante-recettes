@@ -1,0 +1,80 @@
+{
+ "id": "r056-salade-de-poulet-oeuf-et-avocat",
+ "nom": "Salade de poulet, œuf et avocat",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 398,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 50
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Disposez la salade, les tomates et l'avocat en tranches.",
+  "Ajoutez le poulet en lamelles et l'œuf dur coupé.",
+  "Assaisonnez d'huile et de vinaigre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.57,
+  "proteines": 46.41,
+  "glucides": 6.29,
+  "lipides": 25.6,
+  "sucres": 4.91,
+  "fibres": 3.72,
+  "satures": 5.59,
+  "sel": 0.36,
+  "fer": 2.68,
+  "calcium": 90.3,
+  "magnesium": 83.93,
+  "potassium": 1235.74,
+  "zinc": 2.08,
+  "iode": 28.31,
+  "vitd": 0.62,
+  "vitc": 28.62,
+  "b12": 0.83,
+  "b9": 119.74,
+  "alcool": 0.01
+ }
+}

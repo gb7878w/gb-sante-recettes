@@ -1,0 +1,80 @@
+{
+ "id": "r086-salade-nicoise",
+ "nom": "Salade niçoise",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 483,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 100
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Disposez les légumes cuits et crus dans un saladier.",
+  "Ajoutez le thon, l'œuf dur et les olives.",
+  "Assaisonnez d'huile d'olive."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 420.04,
+  "proteines": 38.55,
+  "glucides": 23.97,
+  "lipides": 16.91,
+  "sucres": 6.45,
+  "fibres": 7.24,
+  "satures": 3.21,
+  "sel": 1.31,
+  "fer": 4.39,
+  "calcium": 108.44,
+  "magnesium": 85.2,
+  "potassium": 1109.8,
+  "zinc": 1.63,
+  "iode": 43.34,
+  "vitd": 5.7,
+  "vitc": 20.38,
+  "b12": 3.14,
+  "b9": 134.6,
+  "alcool": 0.0
+ }
+}

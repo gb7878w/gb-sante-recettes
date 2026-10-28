@@ -1,0 +1,70 @@
+{
+ "id": "r099-gratin-de-poisson-aux-poireaux",
+ "nom": "Gratin de poisson aux poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26008",
+   "nom": "Églefin vapeur",
+   "g": 170
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Disposez le poisson et les poireaux fondus dans un plat, nappez de crème.",
+  "Parsemez d'emmental et gratinez 20 minutes à 190 °C.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.25,
+  "proteines": 45.57,
+  "glucides": 31.7,
+  "lipides": 12.87,
+  "sucres": 6.56,
+  "fibres": 7.5,
+  "satures": 7.76,
+  "sel": 0.58,
+  "fer": 1.31,
+  "calcium": 290.69,
+  "magnesium": 89.67,
+  "potassium": 1478.11,
+  "zinc": 1.89,
+  "iode": 445.21,
+  "vitd": 0.0,
+  "vitc": 6.33,
+  "b12": 3.7,
+  "b9": 98.76,
+  "alcool": 0.0
+ }
+}

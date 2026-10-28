@@ -1,0 +1,84 @@
+{
+ "id": "r042-steak-hache-maison-et-ratatouille",
+ "nom": "Steak haché maison et ratatouille",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 618,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 80
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon puis les légumes en dés dans l'huile, couvrez 20 minutes.",
+  "Poêlez le steak à sec.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 453.36,
+  "proteines": 38.56,
+  "glucides": 31.17,
+  "lipides": 16.52,
+  "sucres": 10.74,
+  "fibres": 10.7,
+  "satures": 4.92,
+  "sel": 0.37,
+  "fer": 4.8,
+  "calcium": 65.19,
+  "magnesium": 94.28,
+  "potassium": 1528.5,
+  "zinc": 9.01,
+  "iode": 8.73,
+  "vitd": 0.0,
+  "vitc": 96.59,
+  "b12": 3.21,
+  "b9": 151.98,
+  "alcool": 0.0
+ }
+}

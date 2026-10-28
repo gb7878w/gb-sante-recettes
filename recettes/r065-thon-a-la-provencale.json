@@ -1,0 +1,74 @@
+{
+ "id": "r065-thon-a-la-provencale",
+ "nom": "Thon à la provençale",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir le poivron dans l'huile, ajoutez les tomates en dés.",
+  "Incorporez le thon et les olives, chauffez 5 minutes.",
+  "Servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 456.97,
+  "proteines": 46.86,
+  "glucides": 40.17,
+  "lipides": 9.7,
+  "sucres": 8.76,
+  "fibres": 7.58,
+  "satures": 1.44,
+  "sel": 1.46,
+  "fer": 3.78,
+  "calcium": 59.83,
+  "magnesium": 76.66,
+  "potassium": 814.1,
+  "zinc": 1.5,
+  "iode": 24.0,
+  "vitd": 7.62,
+  "vitc": 121.25,
+  "b12": 3.81,
+  "b9": 138.34,
+  "alcool": 0.0
+ }
+}

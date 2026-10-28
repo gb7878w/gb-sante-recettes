@@ -1,0 +1,57 @@
+{
+ "id": "r022-smoothie-fraise-fromage-blanc",
+ "nom": "Smoothie fraise-fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 330,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 100
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mixez les trois ingrédients."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 150.3,
+  "proteines": 15.26,
+  "glucides": 15.73,
+  "lipides": 1.3,
+  "sucres": 15.16,
+  "fibres": 3.8,
+  "satures": 0.88,
+  "sel": 0.24,
+  "fer": 0.46,
+  "calcium": 312.6,
+  "magnesium": 39.98,
+  "potassium": 489.6,
+  "zinc": 1.16,
+  "iode": 25.28,
+  "vitd": 0.0,
+  "vitc": 55.2,
+  "b12": 0.9,
+  "b9": 142.49,
+  "alcool": 0.0
+ }
+}

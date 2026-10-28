@@ -1,0 +1,70 @@
+{
+ "id": "r093-carbonara-allegee",
+ "nom": "Carbonara allégée",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 310,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "28504",
+   "nom": "Lardons nature cuits",
+   "g": 40
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Faites cuire les pâtes. Poêlez les lardons.",
+  "Mélangez l'œuf, le fromage blanc et le parmesan.",
+  "Hors du feu, enrobez les pâtes de la sauce avec les lardons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 470.9,
+  "proteines": 31.05,
+  "glucides": 38.01,
+  "lipides": 20.17,
+  "sucres": 3.01,
+  "fibres": 4.95,
+  "satures": 8.85,
+  "sel": 1.92,
+  "fer": 2.89,
+  "calcium": 247.08,
+  "magnesium": 79.5,
+  "potassium": 489.7,
+  "zinc": 3.57,
+  "iode": 31.6,
+  "vitd": 1.13,
+  "vitc": 0.0,
+  "b12": 1.63,
+  "b9": 49.75,
+  "alcool": 0.0
+ }
+}

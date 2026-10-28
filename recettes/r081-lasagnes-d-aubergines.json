@@ -1,0 +1,70 @@
+{
+ "id": "r081-lasagnes-d-aubergines",
+ "nom": "Lasagnes d'aubergines",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 50
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Faites griller les tranches d'aubergine.",
+  "Superposez aubergines, viande poêlée mêlée au coulis, mozzarella.",
+  "Enfournez 25 minutes à 190 °C avec le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 465.8,
+  "proteines": 43.26,
+  "glucides": 23.59,
+  "lipides": 18.8,
+  "sucres": 17.12,
+  "fibres": 14.65,
+  "satures": 10.83,
+  "sel": 1.96,
+  "fer": 3.69,
+  "calcium": 427.75,
+  "magnesium": 73.5,
+  "potassium": 703.5,
+  "zinc": 8.53,
+  "iode": 36.2,
+  "vitd": 0.2,
+  "vitc": 3.25,
+  "b12": 3.87,
+  "b9": 47.1,
+  "alcool": 0.0
+ }
+}

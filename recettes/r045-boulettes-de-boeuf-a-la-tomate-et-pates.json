@@ -1,0 +1,74 @@
+{
+ "id": "r045-boulettes-de-boeuf-a-la-tomate-et-pates",
+ "nom": "Boulettes de bœuf à la tomate et pâtes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 473,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Mélangez la viande avec l'oignon haché, formez des boulettes.",
+  "Poêlez-les puis laissez mijoter 10 minutes dans le coulis et l'ail.",
+  "Servez sur les pâtes avec le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 508.0,
+  "proteines": 43.41,
+  "glucides": 53.41,
+  "lipides": 11.24,
+  "sucres": 9.27,
+  "fibres": 7.96,
+  "satures": 5.55,
+  "sel": 1.67,
+  "fer": 4.11,
+  "calcium": 137.43,
+  "magnesium": 58.66,
+  "potassium": 554.3,
+  "zinc": 8.87,
+  "iode": 16.32,
+  "vitd": 0.0,
+  "vitc": 0.83,
+  "b12": 3.24,
+  "b9": 51.23,
+  "alcool": 0.0
+ }
+}

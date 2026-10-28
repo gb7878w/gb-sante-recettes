@@ -1,0 +1,75 @@
+{
+ "id": "r047-gigot-d-agneau-aux-haricots-blancs",
+ "nom": "Gigot d'agneau aux haricots blancs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 379,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 120
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 1
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau avec l'ail et les herbes 25 minutes à 200 °C.",
+  "Réchauffez les haricots avec la tomate et l'huile.",
+  "Servez ensemble."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 442.26,
+  "proteines": 43.06,
+  "glucides": 22.38,
+  "lipides": 14.94,
+  "sucres": 3.47,
+  "fibres": 22.27,
+  "satures": 4.31,
+  "sel": 0.26,
+  "fer": 5.12,
+  "calcium": 231.89,
+  "magnesium": 96.98,
+  "potassium": 996.8,
+  "zinc": 5.97,
+  "iode": 6.15,
+  "vitd": 0.0,
+  "vitc": 16.84,
+  "b12": 2.26,
+  "b9": 84.07,
+  "alcool": 0.0
+ }
+}

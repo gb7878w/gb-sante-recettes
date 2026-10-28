@@ -1,0 +1,84 @@
+{
+ "id": "r072-soupe-de-poissons-et-croutons",
+ "nom": "Soupe de poissons et croûtons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 578,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir les légumes coupés avec l'ail dans l'huile, couvrez d'eau et cuisez 20 minutes.",
+  "Ajoutez le poisson 5 minutes, mixez grossièrement.",
+  "Servez avec des croûtons de pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 460.36,
+  "proteines": 43.76,
+  "glucides": 50.24,
+  "lipides": 6.21,
+  "sucres": 10.71,
+  "fibres": 10.46,
+  "satures": 1.08,
+  "sel": 0.85,
+  "fer": 1.95,
+  "calcium": 95.05,
+  "magnesium": 114.41,
+  "potassium": 1687.2,
+  "zinc": 1.65,
+  "iode": 225.0,
+  "vitd": 1.35,
+  "vitc": 21.73,
+  "b12": 1.41,
+  "b9": 183.94,
+  "alcool": 0.0
+ }
+}

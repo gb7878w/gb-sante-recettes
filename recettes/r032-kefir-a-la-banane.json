@@ -1,0 +1,52 @@
+{
+ "id": "r032-kefir-a-la-banane",
+ "nom": "Kéfir à la banane",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 260,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19865",
+   "nom": "Kéfir",
+   "g": 200
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mixez le kéfir et la banane."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 178.9,
+  "proteines": 7.02,
+  "glucides": 20.82,
+  "lipides": 7.0,
+  "sucres": 16.6,
+  "fibres": 1.62,
+  "satures": 4.66,
+  "sel": 0.24,
+  "fer": 0.22,
+  "calcium": 257.06,
+  "magnesium": 42.2,
+  "potassium": 502.0,
+  "zinc": 0.96,
+  "iode": 48.6,
+  "vitd": 0.2,
+  "vitc": 4.9,
+  "b12": 0.36,
+  "b9": 53.4,
+  "alcool": 0.0
+ }
+}

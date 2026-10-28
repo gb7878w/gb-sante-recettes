@@ -1,0 +1,75 @@
+{
+ "id": "r098-endives-au-jambon-gratinees",
+ "nom": "Endives au jambon gratinées",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 673,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 300
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 8
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Faites braiser les endives 15 minutes, enroulez-les dans le jambon.",
+  "Préparez une béchamel allégée avec le lait et la farine, nappez.",
+  "Gratinez avec l'emmental, servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 461.23,
+  "proteines": 40.38,
+  "glucides": 41.36,
+  "lipides": 13.06,
+  "sucres": 14.51,
+  "fibres": 5.84,
+  "satures": 7.1,
+  "sel": 2.7,
+  "fer": 1.19,
+  "calcium": 442.14,
+  "magnesium": 69.34,
+  "potassium": 1518.95,
+  "zinc": 2.12,
+  "iode": 17.45,
+  "vitd": 0.0,
+  "vitc": 11.36,
+  "b12": 0.89,
+  "b9": 133.4,
+  "alcool": 0.0
+ }
+}

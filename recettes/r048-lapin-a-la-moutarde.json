@@ -1,0 +1,69 @@
+{
+ "id": "r048-lapin-a-la-moutarde",
+ "nom": "Lapin à la moutarde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Faites dorer le lapin avec les champignons.",
+  "Ajoutez la moutarde, la crème et un peu d'eau, mijotez 15 minutes.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 464.55,
+  "proteines": 56.17,
+  "glucides": 29.72,
+  "lipides": 12.58,
+  "sucres": 5.14,
+  "fibres": 3.5,
+  "satures": 5.6,
+  "sel": 1.01,
+  "fer": 8.11,
+  "calcium": 91.2,
+  "magnesium": 89.28,
+  "potassium": 1416.0,
+  "zinc": 4.26,
+  "iode": 1.1,
+  "vitd": 0.24,
+  "vitc": 6.88,
+  "b12": 9.77,
+  "b9": 87.0,
+  "alcool": 0.0
+ }
+}

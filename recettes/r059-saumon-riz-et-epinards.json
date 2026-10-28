@@ -1,0 +1,64 @@
+{
+ "id": "r059-saumon-riz-et-epinards",
+ "nom": "Saumon, riz et épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Cuisez le saumon à la poêle ou au four 10 minutes.",
+  "Faites tomber les épinards 3 minutes.",
+  "Servez avec le riz et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 428.41,
+  "proteines": 37.71,
+  "glucides": 24.56,
+  "lipides": 17.9,
+  "sucres": 0.08,
+  "fibres": 6.25,
+  "satures": 3.74,
+  "sel": 0.21,
+  "fer": 2.59,
+  "calcium": 387.05,
+  "magnesium": 90.07,
+  "potassium": 769.9,
+  "zinc": 2.16,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 8.13,
+  "b12": 3.61,
+  "b9": 131.53,
+  "alcool": 0.0
+ }
+}

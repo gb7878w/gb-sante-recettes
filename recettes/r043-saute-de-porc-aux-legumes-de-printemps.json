@@ -1,0 +1,74 @@
+{
+ "id": "r043-saute-de-porc-aux-legumes-de-printemps",
+ "nom": "Sauté de porc aux légumes de printemps",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 446,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites dorer le porc en lamelles dans l'huile.",
+  "Ajoutez l'oignon, la carotte et 100 ml d'eau, cuisez 12 minutes puis les petits pois.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 517.72,
+  "proteines": 45.36,
+  "glucides": 40.97,
+  "lipides": 17.01,
+  "sucres": 6.16,
+  "fibres": 8.04,
+  "satures": 4.94,
+  "sel": 0.29,
+  "fer": 2.9,
+  "calcium": 76.78,
+  "magnesium": 74.9,
+  "potassium": 895.6,
+  "zinc": 3.93,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 11.59,
+  "b12": 1.43,
+  "b9": 92.05,
+  "alcool": 0.0
+ }
+}

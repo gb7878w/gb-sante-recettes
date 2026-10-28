@@ -1,0 +1,79 @@
+{
+ "id": "r096-risotto-de-riz-aux-champignons-et-au-poulet",
+ "nom": "Risotto de riz aux champignons et au poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 540,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 100
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et les champignons dans l'huile.",
+  "Ajoutez le riz cuit, le poulet en dés et le bouillon, réduisez 5 minutes.",
+  "Terminez avec le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 440.31,
+  "proteines": 42.06,
+  "glucides": 35.95,
+  "lipides": 13.04,
+  "sucres": 3.35,
+  "fibres": 3.18,
+  "satures": 5.08,
+  "sel": 1.41,
+  "fer": 1.16,
+  "calcium": 177.54,
+  "magnesium": 68.74,
+  "potassium": 971.9,
+  "zinc": 2.41,
+  "iode": 14.7,
+  "vitd": 0.36,
+  "vitc": 5.76,
+  "b12": 0.58,
+  "b9": 69.27,
+  "alcool": 0.0
+ }
+}

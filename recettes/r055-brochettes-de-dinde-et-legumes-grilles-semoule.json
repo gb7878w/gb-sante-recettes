@@ -1,0 +1,74 @@
+{
+ "id": "r055-brochettes-de-dinde-et-legumes-grilles-semoule",
+ "nom": "Brochettes de dinde et légumes grillés, semoule",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 486,
+ "tags": [
+  "viande"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "20020",
+   "nom": "Courgette crue",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Enfilez la dinde et les légumes en brochettes, huilez-les.",
+  "Faites cuire 12 minutes à la plancha ou au four.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 434.9,
+  "proteines": 46.56,
+  "glucides": 37.94,
+  "lipides": 8.74,
+  "sucres": 9.31,
+  "fibres": 6.93,
+  "satures": 1.99,
+  "sel": 0.24,
+  "fer": 2.45,
+  "calcium": 50.93,
+  "magnesium": 107.58,
+  "potassium": 1228.0,
+  "zinc": 2.75,
+  "iode": 7.24,
+  "vitd": 0.0,
+  "vitc": 116.18,
+  "b12": 0.85,
+  "b9": 130.04,
+  "alcool": 0.0
+ }
+}

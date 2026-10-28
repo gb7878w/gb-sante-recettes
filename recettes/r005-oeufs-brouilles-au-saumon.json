@@ -1,0 +1,65 @@
+{
+ "id": "r005-oeufs-brouilles-au-saumon",
+ "nom": "Œufs brouillés au saumon",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 195,
+ "tags": [
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 110
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 50
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites fondre le beurre à feu doux.",
+  "Ajoutez les œufs battus et remuez jusqu'à une texture crémeuse.",
+  "Servez avec le saumon émietté et le pain toasté."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 366.75,
+  "proteines": 28.02,
+  "glucides": 13.64,
+  "lipides": 21.68,
+  "sucres": 1.0,
+  "fibres": 2.07,
+  "satures": 7.03,
+  "sel": 0.75,
+  "fer": 2.87,
+  "calcium": 102.82,
+  "magnesium": 41.8,
+  "potassium": 412.31,
+  "zinc": 1.75,
+  "iode": 23.18,
+  "vitd": 2.38,
+  "vitc": 1.4,
+  "b12": 2.99,
+  "b9": 58.18,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "id": "r011-galettes-d-avoine-a-la-pomme",
+ "nom": "Galettes d'avoine à la pomme",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 290,
+ "tags": [
+  "vegetarien"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 30
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mélangez les flocons, l'œuf et la moitié de la pomme râpée.",
+  "Faites dorer en galettes à la poêle antiadhésive.",
+  "Servez avec le fromage blanc et le reste de pomme."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 297.3,
+  "proteines": 19.81,
+  "glucides": 33.02,
+  "lipides": 8.14,
+  "sucres": 13.69,
+  "fibres": 4.46,
+  "satures": 2.0,
+  "sel": 0.3,
+  "fer": 2.6,
+  "calcium": 210.71,
+  "magnesium": 69.67,
+  "potassium": 456.5,
+  "zinc": 2.12,
+  "iode": 23.35,
+  "vitd": 1.13,
+  "vitc": 6.25,
+  "b12": 1.27,
+  "b9": 62.28,
+  "alcool": 0.0
+ }
+}

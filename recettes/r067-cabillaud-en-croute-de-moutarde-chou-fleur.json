@@ -1,0 +1,75 @@
+{
+ "id": "r067-cabillaud-en-croute-de-moutarde-chou-fleur",
+ "nom": "Cabillaud en croûte de moutarde, chou-fleur",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 501,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 15
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le cabillaud de moutarde et recouvrez de chapelure de pain.",
+  "Enfournez 15 minutes à 200 °C.",
+  "Servez avec le chou-fleur et les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 388.92,
+  "proteines": 44.86,
+  "glucides": 26.98,
+  "lipides": 9.66,
+  "sucres": 4.54,
+  "fibres": 6.83,
+  "satures": 1.58,
+  "sel": 1.28,
+  "fer": 1.9,
+  "calcium": 89.99,
+  "magnesium": 105.56,
+  "potassium": 1394.9,
+  "zinc": 1.72,
+  "iode": 221.3,
+  "vitd": 2.17,
+  "vitc": 24.05,
+  "b12": 2.6,
+  "b9": 211.79,
+  "alcool": 0.0
+ }
+}

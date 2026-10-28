@@ -1,0 +1,79 @@
+{
+ "id": "r063-moules-marinieres-et-pommes-de-terre-au-four",
+ "nom": "Moules marinières et pommes de terre au four",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 458,
+ "tags": [
+  "poisson"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 150
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 50
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Faites suer l'échalote dans le beurre, ajoutez le vin blanc.",
+  "Versez les moules, couvrez 5 minutes jusqu'à ouverture.",
+  "Ajoutez la crème et le persil. Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 472.82,
+  "proteines": 39.43,
+  "glucides": 44.68,
+  "lipides": 11.17,
+  "sucres": 3.76,
+  "fibres": 4.21,
+  "satures": 5.41,
+  "sel": 1.7,
+  "fer": 9.95,
+  "calcium": 176.13,
+  "magnesium": 184.19,
+  "potassium": 1287.4,
+  "zinc": 6.33,
+  "iode": 212.08,
+  "vitd": 0.06,
+  "vitc": 33.85,
+  "b12": 35.21,
+  "b9": 145.23,
+  "alcool": 3.88
+ }
+}

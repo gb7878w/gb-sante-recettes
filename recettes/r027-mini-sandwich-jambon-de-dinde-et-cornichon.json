@@ -1,0 +1,56 @@
+{
+ "id": "r027-mini-sandwich-jambon-de-dinde-et-cornichon",
+ "nom": "Mini-sandwich jambon de dinde et cornichon",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 95,
+ "tags": [
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Garnissez le pain de jambon et de cornichons émincés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 142.11,
+  "proteines": 11.87,
+  "glucides": 18.35,
+  "lipides": 1.39,
+  "sucres": 1.4,
+  "fibres": 3.14,
+  "satures": 0.42,
+  "sel": 1.47,
+  "fer": 1.02,
+  "calcium": 28.19,
+  "magnesium": 34.25,
+  "potassium": 262.0,
+  "zinc": 0.95,
+  "iode": 0.0,
+  "vitd": 0.34,
+  "vitc": 10.52,
+  "b12": 0.24,
+  "b9": 22.89,
+  "alcool": 0.0
+ }
+}

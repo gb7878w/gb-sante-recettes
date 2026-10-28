@@ -1,0 +1,80 @@
+{
+ "id": "r044-dinde-au-curry-et-au-lait-de-coco",
+ "nom": "Dinde au curry et au lait de coco",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 426,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 150
+  },
+  {
+   "ciqual": "18041",
+   "nom": "Lait de coco",
+   "g": 40
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 50
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et le poivron avec le curry.",
+  "Ajoutez la dinde en dés et le lait de coco, mijotez 10 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 462.41,
+  "proteines": 48.08,
+  "glucides": 33.82,
+  "lipides": 13.01,
+  "sucres": 4.86,
+  "fibres": 6.68,
+  "satures": 8.17,
+  "sel": 0.27,
+  "fer": 3.02,
+  "calcium": 52.42,
+  "magnesium": 109.01,
+  "potassium": 1053.1,
+  "zinc": 2.76,
+  "iode": 6.42,
+  "vitd": 0.0,
+  "vitc": 99.39,
+  "b12": 0.92,
+  "b9": 87.99,
+  "alcool": 0.0
+ }
+}

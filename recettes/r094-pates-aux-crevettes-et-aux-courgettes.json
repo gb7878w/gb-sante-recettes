@@ -1,0 +1,75 @@
+{
+ "id": "r094-pates-aux-crevettes-et-aux-courgettes",
+ "nom": "Pâtes aux crevettes et aux courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 441,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail et les courgettes en rondelles dans l'huile.",
+  "Ajoutez les crevettes 2 minutes.",
+  "Mêlez aux pâtes avec le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 402.9,
+  "proteines": 30.34,
+  "glucides": 42.56,
+  "lipides": 10.75,
+  "sucres": 3.1,
+  "fibres": 5.27,
+  "satures": 1.9,
+  "sel": 1.77,
+  "fer": 3.53,
+  "calcium": 343.88,
+  "magnesium": 133.54,
+  "potassium": 742.7,
+  "zinc": 3.12,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 9.85,
+  "b12": 1.98,
+  "b9": 105.59,
+  "alcool": 0.0
+ }
+}

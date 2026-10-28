@@ -1,0 +1,57 @@
+{
+ "id": "r026-creme-de-fromage-blanc-au-citron",
+ "nom": "Crème de fromage blanc au citron",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 166,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Fouettez le fromage blanc avec le jus de citron et le miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 96.6,
+  "proteines": 11.96,
+  "glucides": 10.89,
+  "lipides": 0.06,
+  "sucres": 10.7,
+  "fibres": 0.0,
+  "satures": 0.04,
+  "sel": 0.17,
+  "fer": 0.27,
+  "calcium": 202.58,
+  "magnesium": 19.35,
+  "potassium": 234.22,
+  "zinc": 0.77,
+  "iode": 15.63,
+  "vitd": 0.0,
+  "vitc": 4.55,
+  "b12": 0.6,
+  "b9": 38.96,
+  "alcool": 0.0
+ }
+}

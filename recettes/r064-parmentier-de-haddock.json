@@ -1,0 +1,70 @@
+{
+ "id": "r064-parmentier-de-haddock",
+ "nom": "Parmentier de haddock",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 515,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 80
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Écrasez les pommes de terre cuites avec le lait et le beurre.",
+  "Disposez le haddock émietté et les épinards dans un plat, couvrez de purée.",
+  "Gratinez 15 minutes à 200 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 403.63,
+  "proteines": 42.94,
+  "glucides": 37.31,
+  "lipides": 7.65,
+  "sucres": 5.49,
+  "fibres": 6.4,
+  "satures": 4.04,
+  "sel": 3.06,
+  "fer": 3.71,
+  "calcium": 371.65,
+  "magnesium": 149.38,
+  "potassium": 1611.51,
+  "zinc": 2.0,
+  "iode": 392.26,
+  "vitd": 1.25,
+  "vitc": 7.04,
+  "b12": 2.71,
+  "b9": 142.6,
+  "alcool": 0.0
+ }
+}

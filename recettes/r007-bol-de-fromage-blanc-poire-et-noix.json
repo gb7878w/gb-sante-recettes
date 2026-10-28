@@ -1,0 +1,63 @@
+{
+ "id": "r007-bol-de-fromage-blanc-poire-et-noix",
+ "nom": "Bol de fromage blanc, poire et noix",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 437,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 100
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le yaourt.",
+  "Ajoutez la poire en dés et les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 306.88,
+  "proteines": 22.35,
+  "glucides": 25.92,
+  "lipides": 11.03,
+  "sucres": 23.38,
+  "fibres": 4.98,
+  "satures": 2.75,
+  "sel": 0.36,
+  "fer": 0.92,
+  "calcium": 439.65,
+  "magnesium": 61.62,
+  "potassium": 647.35,
+  "zinc": 1.87,
+  "iode": 46.8,
+  "vitd": 0.76,
+  "vitc": 1.81,
+  "b12": 1.15,
+  "b9": 100.88,
+  "alcool": 0.0
+ }
+}

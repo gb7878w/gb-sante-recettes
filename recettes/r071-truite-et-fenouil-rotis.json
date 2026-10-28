@@ -1,0 +1,65 @@
+{
+ "id": "r071-truite-et-fenouil-rotis",
+ "nom": "Truite et fenouil rôtis",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 506,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 150
+  },
+  {
+   "ciqual": "20028",
+   "nom": "Fenouil",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Coupez le fenouil en quartiers, huilez et enfournez 20 minutes à 200 °C.",
+  "Ajoutez la truite pour les 12 dernières minutes.",
+  "Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 432.85,
+  "proteines": 36.95,
+  "glucides": 30.31,
+  "lipides": 16.0,
+  "sucres": 5.69,
+  "fibres": 7.9,
+  "satures": 3.31,
+  "sel": 0.39,
+  "fer": 1.33,
+  "calcium": 173.5,
+  "magnesium": 90.4,
+  "potassium": 1771.0,
+  "zinc": 1.49,
+  "iode": 14.25,
+  "vitd": 22.5,
+  "vitc": 13.87,
+  "b12": 6.84,
+  "b9": 102.35,
+  "alcool": 0.0
+ }
+}

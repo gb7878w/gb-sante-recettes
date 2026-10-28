@@ -1,0 +1,58 @@
+{
+ "id": "r028-oeufs-mimosa-legers",
+ "nom": "Œufs mimosa légers",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 145,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 30
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Coupez les œufs durs en deux et retirez les jaunes.",
+  "Écrasez les jaunes avec le yaourt et la moutarde.",
+  "Remplissez les blancs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 172.04,
+  "proteines": 16.36,
+  "glucides": 2.21,
+  "lipides": 10.73,
+  "sucres": 2.06,
+  "fibres": 0.26,
+  "satures": 3.3,
+  "sel": 0.69,
+  "fer": 2.04,
+  "calcium": 87.52,
+  "magnesium": 21.45,
+  "potassium": 189.6,
+  "zinc": 1.55,
+  "iode": 61.06,
+  "vitd": 1.42,
+  "vitc": 0.09,
+  "b12": 1.31,
+  "b9": 54.98,
+  "alcool": 0.0
+ }
+}

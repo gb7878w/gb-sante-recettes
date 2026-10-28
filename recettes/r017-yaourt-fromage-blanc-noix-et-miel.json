@@ -1,0 +1,63 @@
+{
+ "id": "r017-yaourt-fromage-blanc-noix-et-miel",
+ "nom": "Yaourt, fromage blanc, noix et miel",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 217,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mélangez le yaourt et le fromage blanc.",
+  "Parsemez de noix et de miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 179.66,
+  "proteines": 12.3,
+  "glucides": 12.84,
+  "lipides": 8.29,
+  "sucres": 12.38,
+  "fibres": 1.61,
+  "satures": 2.45,
+  "sel": 0.23,
+  "fer": 0.56,
+  "calcium": 272.27,
+  "magnesium": 36.26,
+  "potassium": 361.16,
+  "zinc": 1.11,
+  "iode": 34.34,
+  "vitd": 0.76,
+  "vitc": 0.42,
+  "b12": 0.67,
+  "b9": 54.76,
+  "alcool": 0.0
+ }
+}

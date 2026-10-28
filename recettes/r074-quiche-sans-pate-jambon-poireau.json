@@ -1,0 +1,70 @@
+{
+ "id": "r074-quiche-sans-pate-jambon-poireau",
+ "nom": "Quiche sans pâte jambon-poireau",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 435,
+ "tags": [
+  "oeufs",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 150
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Faites revenir le poireau émincé quelques minutes.",
+  "Battez les œufs avec le lait, ajoutez le jambon, le poireau et l'emmental.",
+  "Versez dans un plat et enfournez 25 minutes à 180 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 441.75,
+  "proteines": 42.32,
+  "glucides": 9.2,
+  "lipides": 25.59,
+  "sucres": 7.97,
+  "fibres": 3.29,
+  "satures": 10.26,
+  "sel": 1.93,
+  "fer": 3.57,
+  "calcium": 508.55,
+  "magnesium": 46.62,
+  "potassium": 758.15,
+  "zinc": 3.1,
+  "iode": 48.95,
+  "vitd": 2.82,
+  "vitc": 2.8,
+  "b12": 3.06,
+  "b9": 90.04,
+  "alcool": 0.0
+ }
+}

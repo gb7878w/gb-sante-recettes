@@ -1,0 +1,70 @@
+{
+ "id": "r062-truite-aux-amandes",
+ "nom": "Truite aux amandes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 455,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 140
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites cuire la truite au four 12 minutes.",
+  "Faites dorer les amandes dans le beurre et nappez-en le poisson.",
+  "Servez avec les haricots verts et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 459.99,
+  "proteines": 37.34,
+  "glucides": 31.14,
+  "lipides": 18.58,
+  "sucres": 5.5,
+  "fibres": 8.75,
+  "satures": 5.38,
+  "sel": 0.26,
+  "fer": 2.05,
+  "calcium": 196.83,
+  "magnesium": 131.67,
+  "potassium": 1563.31,
+  "zinc": 1.74,
+  "iode": 13.38,
+  "vitd": 21.05,
+  "vitc": 10.18,
+  "b12": 6.39,
+  "b9": 148.45,
+  "alcool": 0.0
+ }
+}

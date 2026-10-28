@@ -1,0 +1,79 @@
+{
+ "id": "r075-frittata-aux-legumes-et-au-chevre",
+ "nom": "Frittata aux légumes et au chèvre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 515,
+ "tags": [
+  "oeufs"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "20020",
+   "nom": "Courgette crue",
+   "g": 100
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon, la courgette et le poivron en dés dans l'huile.",
+  "Versez les œufs battus et ajoutez le chèvre en morceaux.",
+  "Cuisez 10 minutes à couvert. Servez avec les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 484.78,
+  "proteines": 33.78,
+  "glucides": 25.13,
+  "lipides": 26.29,
+  "sucres": 6.1,
+  "fibres": 5.81,
+  "satures": 7.7,
+  "sel": 1.0,
+  "fer": 4.21,
+  "calcium": 225.75,
+  "magnesium": 66.18,
+  "potassium": 1097.2,
+  "zinc": 2.4,
+  "iode": 39.44,
+  "vitd": 3.38,
+  "vitc": 93.85,
+  "b12": 2.61,
+  "b9": 182.58,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "r076-tofu-saute-brocoli-et-riz-complet",
+ "nom": "Tofu sauté, brocoli et riz complet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 424,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "20904",
+   "nom": "Tofu nature",
+   "g": 200
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 120
+  },
+  {
+   "ciqual": "9103",
+   "nom": "Riz complet cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez le tofu en cubes jusqu'à ce qu'il soit doré.",
+  "Ajoutez le brocoli cuit à la vapeur.",
+  "Servez avec le riz complet."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 535.12,
+  "proteines": 34.97,
+  "glucides": 41.38,
+  "lipides": 22.84,
+  "sucres": 2.94,
+  "fibres": 4.94,
+  "satures": 3.78,
+  "sel": 0.11,
+  "fer": 5.82,
+  "calcium": 256.2,
+  "magnesium": 276.6,
+  "potassium": 731.0,
+  "zinc": 3.86,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 24.84,
+  "b12": 0.09,
+  "b9": 177.64,
+  "alcool": 0.0
+ }
+}

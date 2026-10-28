@@ -1,0 +1,63 @@
+{
+ "id": "r010-smoothie-banane-cacao-proteine",
+ "nom": "Smoothie banane-cacao protéiné",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 405,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "ingredients": [
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "18100",
+   "nom": "Cacao non sucré",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Épluchez la banane et versez le lait dans le mixeur.",
+  "Ajoutez le fromage blanc et le cacao, mixez jusqu'à obtenir une texture lisse."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 254.45,
+  "proteines": 19.18,
+  "glucides": 33.36,
+  "lipides": 3.42,
+  "sucres": 28.47,
+  "fibres": 4.18,
+  "satures": 2.23,
+  "sel": 0.31,
+  "fer": 2.92,
+  "calcium": 388.6,
+  "magnesium": 89.45,
+  "potassium": 981.5,
+  "zinc": 1.78,
+  "iode": 33.75,
+  "vitd": 0.14,
+  "vitc": 9.41,
+  "b12": 1.17,
+  "b9": 74.58,
+  "alcool": 0.0
+ }
+}
