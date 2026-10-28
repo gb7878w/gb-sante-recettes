@@ -1,0 +1,62 @@
+{
+ "id": "r723-oeuf-dur-et-saucisse-seche-slovaquie",
+ "nom": "Œuf dur et saucisse sèche (Slovaquie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 110,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 35
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Servez œuf dur, salami et cornichon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 217.58,
+  "proteines": 15.55,
+  "glucides": 1.0,
+  "lipides": 16.54,
+  "sucres": 0.41,
+  "fibres": 0.3,
+  "satures": 5.57,
+  "sel": 2.49,
+  "fer": 1.45,
+  "calcium": 40.1,
+  "magnesium": 20.0,
+  "potassium": 222.3,
+  "zinc": 2.19,
+  "iode": 27.34,
+  "vitd": 0.62,
+  "vitc": 0.0,
+  "b12": 1.59,
+  "b9": 27.2,
+  "alcool": 0.0
+ }
+}

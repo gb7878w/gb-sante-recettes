@@ -1,0 +1,82 @@
+{
+ "id": "r732-salade-bulgare-shopska-a-la-feta-et-aux-oeufs-bu",
+ "nom": "Salade bulgare (shopska) à la feta et aux œufs (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 581,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 80
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Coupez les légumes en dés.",
+  "Ajoutez feta, œufs durs et huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 571.23,
+  "proteines": 36.42,
+  "glucides": 12.46,
+  "lipides": 40.25,
+  "sucres": 9.25,
+  "fibres": 3.24,
+  "satures": 18.66,
+  "sel": 3.02,
+  "fer": 3.69,
+  "calcium": 291.89,
+  "magnesium": 67.02,
+  "potassium": 847.8,
+  "zinc": 3.39,
+  "iode": 146.37,
+  "vitd": 1.85,
+  "vitc": 99.75,
+  "b12": 2.26,
+  "b9": 143.13,
+  "alcool": 0.0
+ }
+}

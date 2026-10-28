@@ -1,0 +1,76 @@
+{
+ "id": "r788-gratin-de-courgettes-et-de-viande-hachee-roumani",
+ "nom": "Gratin de courgettes et de viande hachée (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 40
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Disposez courgettes et viande cuite.",
+  "Nappez d'œuf, fromage blanc et fromage, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 409.17,
+  "proteines": 52.53,
+  "glucides": 6.72,
+  "lipides": 18.19,
+  "sucres": 6.69,
+  "fibres": 3.75,
+  "satures": 8.42,
+  "sel": 0.82,
+  "fer": 5.66,
+  "calcium": 391.07,
+  "magnesium": 106.17,
+  "potassium": 1234.38,
+  "zinc": 10.59,
+  "iode": 28.93,
+  "vitd": 0.75,
+  "vitc": 7.25,
+  "b12": 4.51,
+  "b9": 130.58,
+  "alcool": 0.0
+ }
+}

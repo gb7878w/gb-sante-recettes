@@ -1,0 +1,70 @@
+{
+ "id": "r719-sardines-au-citron-croatie",
+ "nom": "Sardines au citron (Croatie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 120,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Écrasez les sardines avec citron et persil.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 139.21,
+  "proteines": 15.59,
+  "glucides": 2.84,
+  "lipides": 6.99,
+  "sucres": 2.42,
+  "fibres": 0.09,
+  "satures": 1.6,
+  "sel": 0.43,
+  "fer": 1.35,
+  "calcium": 139.64,
+  "magnesium": 27.24,
+  "potassium": 288.06,
+  "zinc": 1.34,
+  "iode": 26.24,
+  "vitd": 3.7,
+  "vitc": 7.14,
+  "b12": 7.04,
+  "b9": 19.35,
+  "alcool": 0.0
+ }
+}

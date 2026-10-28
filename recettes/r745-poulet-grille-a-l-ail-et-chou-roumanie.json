@@ -1,0 +1,69 @@
+{
+ "id": "r745-poulet-grille-a-l-ail-et-chou-roumanie",
+ "nom": "Poulet grillé à l'ail et chou (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 372,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Grillez le poulet à l'ail.",
+  "Braisez le chou au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 362.32,
+  "proteines": 51.19,
+  "glucides": 10.08,
+  "lipides": 10.92,
+  "sucres": 8.52,
+  "fibres": 7.23,
+  "satures": 5.83,
+  "sel": 0.29,
+  "fer": 1.25,
+  "calcium": 127.38,
+  "magnesium": 82.16,
+  "potassium": 1207.46,
+  "zinc": 1.51,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 20.05,
+  "b12": 0.3,
+  "b9": 155.76,
+  "alcool": 0.0
+ }
+}

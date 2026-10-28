@@ -1,0 +1,75 @@
+{
+ "id": "r738-truite-grillee-et-salade-de-concombre-bulgarie",
+ "nom": "Truite grillée et salade de concombre (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 409,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 150
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez la truite.",
+  "Servez avec concombre au yaourt et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 367.39,
+  "proteines": 40.73,
+  "glucides": 7.71,
+  "lipides": 18.79,
+  "sucres": 6.28,
+  "fibres": 1.69,
+  "satures": 4.77,
+  "sel": 0.33,
+  "fer": 1.11,
+  "calcium": 239.31,
+  "magnesium": 79.03,
+  "potassium": 1053.21,
+  "zinc": 1.53,
+  "iode": 33.36,
+  "vitd": 25.99,
+  "vitc": 19.61,
+  "b12": 7.98,
+  "b9": 57.19,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "r781-soupe-froide-au-yaourt-et-aux-oeufs-lituanie",
+ "nom": "Soupe froide au yaourt et aux œufs (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 553,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 250
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre, aneth.",
+  "Ajoutez œufs durs et jambon en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.37,
+  "proteines": 39.16,
+  "glucides": 16.69,
+  "lipides": 17.66,
+  "sucres": 15.21,
+  "fibres": 3.08,
+  "satures": 7.51,
+  "sel": 2.0,
+  "fer": 2.71,
+  "calcium": 398.7,
+  "magnesium": 62.81,
+  "potassium": 1007.91,
+  "zinc": 2.57,
+  "iode": 107.15,
+  "vitd": 2.76,
+  "vitc": 12.65,
+  "b12": 1.92,
+  "b9": 118.39,
+  "alcool": 0.0
+ }
+}

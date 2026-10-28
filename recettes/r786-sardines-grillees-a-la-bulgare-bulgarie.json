@@ -1,0 +1,75 @@
+{
+ "id": "r786-sardines-grillees-a-la-bulgare-bulgarie",
+ "nom": "Sardines grillées à la bulgare (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 398,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 130
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Réchauffez les sardines.",
+  "Servez avec salade de tomate et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 397.71,
+  "proteines": 29.34,
+  "glucides": 8.89,
+  "lipides": 26.17,
+  "sucres": 5.95,
+  "fibres": 2.1,
+  "satures": 5.36,
+  "sel": 0.92,
+  "fer": 3.39,
+  "calcium": 170.9,
+  "magnesium": 72.99,
+  "potassium": 950.1,
+  "zinc": 2.85,
+  "iode": 52.3,
+  "vitd": 9.62,
+  "vitc": 37.2,
+  "b12": 17.68,
+  "b9": 35.39,
+  "alcool": 0.0
+ }
+}

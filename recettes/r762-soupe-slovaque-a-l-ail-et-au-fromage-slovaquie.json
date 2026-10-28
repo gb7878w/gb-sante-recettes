@@ -1,0 +1,77 @@
+{
+ "id": "r762-soupe-slovaque-a-l-ail-et-au-fromage-slovaquie",
+ "nom": "Soupe slovaque à l'ail et au fromage (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 428,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "viande",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 250
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 8
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 80
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Chauffez le bouillon à l'ail.",
+  "Ajoutez jambon, œuf battu et fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 307.63,
+  "proteines": 33.0,
+  "glucides": 4.56,
+  "lipides": 17.47,
+  "sucres": 1.79,
+  "fibres": 0.58,
+  "satures": 8.31,
+  "sel": 3.51,
+  "fer": 1.88,
+  "calcium": 351.16,
+  "magnesium": 24.69,
+  "potassium": 458.42,
+  "zinc": 1.99,
+  "iode": 19.02,
+  "vitd": 1.13,
+  "vitc": 0.0,
+  "b12": 1.48,
+  "b9": 35.01,
+  "alcool": 0.0
+ }
+}

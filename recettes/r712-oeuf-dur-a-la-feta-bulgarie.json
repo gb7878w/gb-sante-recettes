@@ -1,0 +1,64 @@
+{
+ "id": "r712-oeuf-dur-a-la-feta-bulgarie",
+ "nom": "Œuf dur à la feta (Bulgarie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 142,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec la feta émiettée et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 233.76,
+  "proteines": 19.45,
+  "glucides": 0.84,
+  "lipides": 16.78,
+  "sucres": 0.59,
+  "fibres": 0.09,
+  "satures": 7.85,
+  "sel": 1.03,
+  "fer": 2.01,
+  "calcium": 115.46,
+  "magnesium": 19.79,
+  "potassium": 163.76,
+  "zinc": 1.77,
+  "iode": 78.67,
+  "vitd": 1.23,
+  "vitc": 3.54,
+  "b12": 1.38,
+  "b9": 56.75,
+  "alcool": 0.0
+ }
+}

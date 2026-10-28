@@ -1,0 +1,71 @@
+{
+ "id": "r703-omelette-aux-courgettes-et-au-fromage-croatie",
+ "nom": "Omelette aux courgettes et au fromage (Croatie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 245,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 80
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez les courgettes.",
+  "Ajoutez œufs et feta."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 324.9,
+  "proteines": 21.78,
+  "glucides": 1.67,
+  "lipides": 25.35,
+  "sucres": 1.46,
+  "fibres": 1.2,
+  "satures": 9.31,
+  "sel": 1.16,
+  "fer": 2.72,
+  "calcium": 181.28,
+  "magnesium": 35.74,
+  "potassium": 384.4,
+  "zinc": 1.85,
+  "iode": 51.3,
+  "vitd": 2.44,
+  "vitc": 2.32,
+  "b12": 2.04,
+  "b9": 76.11,
+  "alcool": 0.0
+ }
+}

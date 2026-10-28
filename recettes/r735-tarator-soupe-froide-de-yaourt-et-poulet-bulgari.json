@@ -1,0 +1,81 @@
+{
+ "id": "r735-tarator-soupe-froide-de-yaourt-et-poulet-bulgari",
+ "nom": "Tarator, soupe froide de yaourt et poulet (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 508,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 250
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre et ail.",
+  "Ajoutez le poulet cuit en dés, noix et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.67,
+  "proteines": 48.46,
+  "glucides": 16.37,
+  "lipides": 16.39,
+  "sucres": 14.11,
+  "fibres": 3.95,
+  "satures": 5.35,
+  "sel": 0.46,
+  "fer": 1.57,
+  "calcium": 361.57,
+  "magnesium": 109.21,
+  "potassium": 1220.81,
+  "zinc": 2.38,
+  "iode": 52.48,
+  "vitd": 1.52,
+  "vitc": 14.46,
+  "b12": 0.92,
+  "b9": 96.63,
+  "alcool": 0.0
+ }
+}

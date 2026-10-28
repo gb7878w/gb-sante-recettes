@@ -1,0 +1,75 @@
+{
+ "id": "r784-lapin-braise-a-la-moutarde-lituanie",
+ "nom": "Lapin braisé à la moutarde (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 480,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 60
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le lapin.",
+  "Ajoutez moutarde, fromage blanc et champignons, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 393.74,
+  "proteines": 63.55,
+  "glucides": 10.74,
+  "lipides": 9.05,
+  "sucres": 8.49,
+  "fibres": 5.8,
+  "satures": 3.1,
+  "sel": 0.97,
+  "fer": 9.14,
+  "calcium": 197.96,
+  "magnesium": 110.05,
+  "potassium": 1397.0,
+  "zinc": 5.02,
+  "iode": 10.0,
+  "vitd": 1.2,
+  "vitc": 4.86,
+  "b12": 10.66,
+  "b9": 137.9,
+  "alcool": 0.0
+ }
+}

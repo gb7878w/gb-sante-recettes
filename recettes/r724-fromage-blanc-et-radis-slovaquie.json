@@ -1,0 +1,63 @@
+{
+ "id": "r724-fromage-blanc-et-radis-slovaquie",
+ "nom": "Fromage blanc et radis (Slovaquie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 242,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 180
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez le fromage blanc aux herbes avec les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 98.21,
+  "proteines": 14.93,
+  "glucides": 7.96,
+  "lipides": 0.08,
+  "sucres": 7.7,
+  "fibres": 0.9,
+  "satures": 0.06,
+  "sel": 0.22,
+  "fer": 0.55,
+  "calcium": 252.06,
+  "magnesium": 26.16,
+  "potassium": 414.7,
+  "zinc": 0.94,
+  "iode": 18.76,
+  "vitd": 0.0,
+  "vitc": 8.11,
+  "b12": 0.72,
+  "b9": 102.01,
+  "alcool": 0.0
+ }
+}

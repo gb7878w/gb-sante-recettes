@@ -1,0 +1,80 @@
+{
+ "id": "r780-boulettes-de-porc-lituaniennes-et-chou-lituanie",
+ "nom": "Boulettes de porc lituaniennes et chou (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes, œuf et oignon.",
+  "Poêlez les boulettes, servez avec le chou braisé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 422.5,
+  "proteines": 48.3,
+  "glucides": 10.99,
+  "lipides": 18.83,
+  "sucres": 8.57,
+  "fibres": 7.65,
+  "satures": 8.24,
+  "sel": 0.38,
+  "fer": 3.99,
+  "calcium": 156.65,
+  "magnesium": 64.55,
+  "potassium": 1111.31,
+  "zinc": 6.49,
+  "iode": 10.04,
+  "vitd": 0.62,
+  "vitc": 18.28,
+  "b12": 2.95,
+  "b9": 157.0,
+  "alcool": 0.0
+ }
+}

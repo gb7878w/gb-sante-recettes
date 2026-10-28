@@ -1,0 +1,70 @@
+{
+ "id": "r704-prosciutto-fromage-frais-et-oeuf-croatie",
+ "nom": "Prosciutto, fromage frais et œuf (Croatie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 330,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez le jambon et le fromage blanc.",
+  "Ajoutez œufs durs et tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 326.1,
+  "proteines": 36.06,
+  "glucides": 8.73,
+  "lipides": 15.69,
+  "sucres": 8.24,
+  "fibres": 0.72,
+  "satures": 5.01,
+  "sel": 2.69,
+  "fer": 2.59,
+  "calcium": 216.26,
+  "magnesium": 36.64,
+  "potassium": 502.8,
+  "zinc": 2.09,
+  "iode": 67.15,
+  "vitd": 1.23,
+  "vitc": 18.28,
+  "b12": 1.7,
+  "b9": 87.76,
+  "alcool": 0.0
+ }
+}

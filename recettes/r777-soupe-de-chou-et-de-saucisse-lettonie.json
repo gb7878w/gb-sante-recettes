@@ -1,0 +1,79 @@
+{
+ "id": "r777-soupe-de-chou-et-de-saucisse-lettonie",
+ "nom": "Soupe de chou et de saucisse (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mijotez les légumes et la saucisse 25 minutes.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 503.12,
+  "proteines": 38.43,
+  "glucides": 21.85,
+  "lipides": 26.59,
+  "sucres": 17.92,
+  "fibres": 9.22,
+  "satures": 10.28,
+  "sel": 3.42,
+  "fer": 1.85,
+  "calcium": 317.7,
+  "magnesium": 55.16,
+  "potassium": 1191.6,
+  "zinc": 2.43,
+  "iode": 26.48,
+  "vitd": 0.26,
+  "vitc": 19.41,
+  "b12": 0.9,
+  "b9": 203.2,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r736-poivrons-farcis-a-la-bulgare-bulgarie",
+ "nom": "Poivrons farcis à la bulgare (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 454,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 200
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Farcissez les poivrons de viande, œuf et persil.",
+  "Mijotez dans le coulis 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 363.36,
+  "proteines": 43.12,
+  "glucides": 15.88,
+  "lipides": 12.86,
+  "sucres": 11.8,
+  "fibres": 5.65,
+  "satures": 4.78,
+  "sel": 3.32,
+  "fer": 5.97,
+  "calcium": 91.56,
+  "magnesium": 60.68,
+  "potassium": 861.92,
+  "zinc": 9.64,
+  "iode": 14.84,
+  "vitd": 0.56,
+  "vitc": 225.08,
+  "b12": 3.89,
+  "b9": 93.36,
+  "alcool": 0.0
+ }
+}

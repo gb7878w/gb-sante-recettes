@@ -1,0 +1,79 @@
+{
+ "id": "r741-mici-boulettes-grillees-et-salade-roumanie",
+ "nom": "Mici, boulettes grillées et salade (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 392,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 70
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes et ail, formez des saucisses.",
+  "Grillez 12 minutes, servez avec la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 340.6,
+  "proteines": 48.23,
+  "glucides": 7.22,
+  "lipides": 12.41,
+  "sucres": 4.65,
+  "fibres": 1.83,
+  "satures": 4.84,
+  "sel": 0.78,
+  "fer": 4.35,
+  "calcium": 46.13,
+  "magnesium": 66.68,
+  "potassium": 1022.7,
+  "zinc": 8.72,
+  "iode": 7.25,
+  "vitd": 0.0,
+  "vitc": 24.57,
+  "b12": 3.43,
+  "b9": 35.14,
+  "alcool": 0.0
+ }
+}

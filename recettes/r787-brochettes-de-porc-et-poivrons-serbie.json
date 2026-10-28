@@ -1,0 +1,74 @@
+{
+ "id": "r787-brochettes-de-porc-et-poivrons-serbie",
+ "nom": "Brochettes de porc et poivrons (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 402,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Enfilez porc, poivrons et oignon sur des piques.",
+  "Grillez 15 minutes, servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 367.74,
+  "proteines": 49.97,
+  "glucides": 11.35,
+  "lipides": 12.57,
+  "sucres": 7.77,
+  "fibres": 3.78,
+  "satures": 4.3,
+  "sel": 1.67,
+  "fer": 3.11,
+  "calcium": 158.61,
+  "magnesium": 69.84,
+  "potassium": 958.4,
+  "zinc": 3.87,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 131.65,
+  "b12": 1.95,
+  "b9": 66.18,
+  "alcool": 0.0
+ }
+}

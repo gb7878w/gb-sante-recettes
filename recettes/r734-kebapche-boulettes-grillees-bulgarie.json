@@ -1,0 +1,79 @@
+{
+ "id": "r734-kebapche-boulettes-grillees-bulgarie",
+ "nom": "Kebapche, boulettes grillées (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 354,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 70
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes et épices, formez des boulettes allongées.",
+  "Grillez 12 minutes, servez avec concombre et yaourt."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 348.56,
+  "proteines": 48.15,
+  "glucides": 7.38,
+  "lipides": 13.47,
+  "sucres": 5.66,
+  "fibres": 2.2,
+  "satures": 5.81,
+  "sel": 0.36,
+  "fer": 5.64,
+  "calcium": 156.09,
+  "magnesium": 73.38,
+  "potassium": 959.8,
+  "zinc": 8.42,
+  "iode": 23.04,
+  "vitd": 0.49,
+  "vitc": 8.63,
+  "b12": 3.41,
+  "b9": 37.04,
+  "alcool": 0.0
+ }
+}

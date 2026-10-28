@@ -1,0 +1,71 @@
+{
+ "id": "r771-saumon-roti-a-l-aneth-estonie",
+ "nom": "Saumon rôti à l'aneth (Estonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 322,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le saumon.",
+  "Servez avec asperges, beurre et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.11,
+  "proteines": 41.05,
+  "glucides": 2.83,
+  "lipides": 27.01,
+  "sucres": 2.07,
+  "fibres": 3.44,
+  "satures": 8.48,
+  "sel": 0.22,
+  "fer": 1.74,
+  "calcium": 59.4,
+  "magnesium": 62.04,
+  "potassium": 970.94,
+  "zinc": 1.49,
+  "iode": 0.29,
+  "vitd": 0.09,
+  "vitc": 14.36,
+  "b12": 4.46,
+  "b9": 141.57,
+  "alcool": 0.0
+ }
+}

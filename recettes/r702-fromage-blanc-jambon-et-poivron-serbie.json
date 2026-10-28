@@ -1,0 +1,70 @@
+{
+ "id": "r702-fromage-blanc-jambon-et-poivron-serbie",
+ "nom": "Fromage blanc, jambon et poivron (Serbie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 365,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Coupez le jambon et le poivron.",
+  "Servez avec le fromage blanc et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 248.46,
+  "proteines": 33.67,
+  "glucides": 11.52,
+  "lipides": 6.9,
+  "sucres": 10.91,
+  "fibres": 1.09,
+  "satures": 2.11,
+  "sel": 2.05,
+  "fer": 1.64,
+  "calcium": 310.55,
+  "magnesium": 39.6,
+  "potassium": 626.6,
+  "zinc": 1.77,
+  "iode": 48.14,
+  "vitd": 0.62,
+  "vitc": 65.4,
+  "b12": 1.41,
+  "b9": 92.6,
+  "alcool": 0.0
+ }
+}

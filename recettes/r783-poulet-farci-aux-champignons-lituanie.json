@@ -1,0 +1,70 @@
+{
+ "id": "r783-poulet-farci-aux-champignons-lituanie",
+ "nom": "Poulet farci aux champignons (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de champignons poêlés et de fromage.",
+  "Enfournez 25 minutes, servez avec brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 393.25,
+  "proteines": 61.51,
+  "glucides": 7.57,
+  "lipides": 11.63,
+  "sucres": 5.25,
+  "fibres": 4.5,
+  "satures": 5.85,
+  "sel": 0.58,
+  "fer": 2.2,
+  "calcium": 313.04,
+  "magnesium": 112.17,
+  "potassium": 1631.15,
+  "zinc": 3.58,
+  "iode": 6.55,
+  "vitd": 0.36,
+  "vitc": 36.9,
+  "b12": 0.78,
+  "b9": 186.62,
+  "alcool": 0.0
+ }
+}

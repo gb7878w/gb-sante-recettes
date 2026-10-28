@@ -1,0 +1,78 @@
+{
+ "id": "r779-hareng-a-la-creme-et-aux-oeufs-lituanie",
+ "nom": "Hareng à la crème et aux œufs (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 368,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 130
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mêlez fromage blanc, oignon et aneth.",
+  "Servez avec hareng et œufs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.3,
+  "proteines": 46.75,
+  "glucides": 6.18,
+  "lipides": 22.42,
+  "sucres": 4.55,
+  "fibres": 0.76,
+  "satures": 5.76,
+  "sel": 5.37,
+  "fer": 3.15,
+  "calcium": 269.01,
+  "magnesium": 80.49,
+  "potassium": 826.91,
+  "zinc": 2.63,
+  "iode": 65.19,
+  "vitd": 24.24,
+  "vitc": 2.62,
+  "b12": 19.04,
+  "b9": 93.17,
+  "alcool": 0.0
+ }
+}

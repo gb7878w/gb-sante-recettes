@@ -1,0 +1,70 @@
+{
+ "id": "r782-saumon-grille-et-haricots-verts-lituanie",
+ "nom": "Saumon grillé et haricots verts (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 376,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Grillez le saumon.",
+  "Servez avec haricots verts et beurre citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.49,
+  "proteines": 40.36,
+  "glucides": 6.98,
+  "lipides": 26.52,
+  "sucres": 5.13,
+  "fibres": 6.4,
+  "satures": 8.36,
+  "sel": 0.21,
+  "fer": 1.65,
+  "calcium": 122.7,
+  "magnesium": 98.56,
+  "potassium": 1146.26,
+  "zinc": 1.15,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 10.38,
+  "b12": 4.46,
+  "b9": 133.35,
+  "alcool": 0.0
+ }
+}

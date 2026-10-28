@@ -1,0 +1,73 @@
+{
+ "id": "r737-agneau-au-four-et-aubergines-bulgarie",
+ "nom": "Agneau au four et aubergines (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 412,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Disposez agneau et légumes dans un plat.",
+  "Enfournez 40 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.75,
+  "proteines": 42.88,
+  "glucides": 10.37,
+  "lipides": 20.77,
+  "sucres": 8.0,
+  "fibres": 8.3,
+  "satures": 5.57,
+  "sel": 0.3,
+  "fer": 3.38,
+  "calcium": 101.65,
+  "magnesium": 80.95,
+  "potassium": 871.2,
+  "zinc": 6.3,
+  "iode": 9.0,
+  "vitd": 0.0,
+  "vitc": 18.3,
+  "b12": 2.82,
+  "b9": 64.74,
+  "alcool": 0.0
+ }
+}

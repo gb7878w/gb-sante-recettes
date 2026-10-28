@@ -1,0 +1,79 @@
+{
+ "id": "r766-goulache-de-boeuf-slovaque-slovaquie",
+ "nom": "Goulache de bœuf slovaque (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 384,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf et oignons.",
+  "Ajoutez paprika et coulis, mijotez 50 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 355.1,
+  "proteines": 40.61,
+  "glucides": 14.41,
+  "lipides": 13.51,
+  "sucres": 6.98,
+  "fibres": 5.04,
+  "satures": 2.88,
+  "sel": 0.62,
+  "fer": 1.05,
+  "calcium": 126.76,
+  "magnesium": 21.2,
+  "potassium": 326.4,
+  "zinc": 0.65,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 1.7,
+  "b12": 0.32,
+  "b9": 31.56,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r774-porc-aux-choux-et-au-carvi-lettonie",
+ "nom": "Porc aux choux et au carvi (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Dorez le porc.",
+  "Ajoutez chou, oignon et cumin, mijotez 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.39,
+  "proteines": 45.96,
+  "glucides": 14.23,
+  "lipides": 18.2,
+  "sucres": 10.66,
+  "fibres": 9.74,
+  "satures": 8.1,
+  "sel": 0.3,
+  "fer": 3.87,
+  "calcium": 182.72,
+  "magnesium": 75.92,
+  "potassium": 1232.89,
+  "zinc": 3.7,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 22.98,
+  "b12": 1.64,
+  "b9": 178.28,
+  "alcool": 0.0
+ }
+}

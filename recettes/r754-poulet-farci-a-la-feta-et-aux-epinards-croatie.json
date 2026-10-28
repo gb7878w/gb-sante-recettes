@@ -1,0 +1,70 @@
+{
+ "id": "r754-poulet-farci-a-la-feta-et-aux-epinards-croatie",
+ "nom": "Poulet farci à la feta et aux épinards (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 296,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de feta et d'épinards.",
+  "Enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.6,
+  "proteines": 54.57,
+  "glucides": 0.26,
+  "lipides": 19.41,
+  "sucres": 0.0,
+  "fibres": 3.5,
+  "satures": 8.63,
+  "sel": 1.15,
+  "fer": 1.92,
+  "calcium": 335.05,
+  "magnesium": 90.3,
+  "potassium": 846.4,
+  "zinc": 2.35,
+  "iode": 32.0,
+  "vitd": 0.0,
+  "vitc": 2.15,
+  "b12": 0.48,
+  "b9": 84.59,
+  "alcool": 0.0
+ }
+}

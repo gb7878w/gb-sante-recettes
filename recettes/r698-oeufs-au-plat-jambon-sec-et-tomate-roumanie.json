@@ -1,0 +1,70 @@
+{
+ "id": "r698-oeufs-au-plat-jambon-sec-et-tomate-roumanie",
+ "nom": "Œufs au plat, jambon sec et tomate (Roumanie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 264,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites cuire les œufs au plat.",
+  "Servez avec le jambon sec et la tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 311.94,
+  "proteines": 27.93,
+  "glucides": 4.26,
+  "lipides": 19.98,
+  "sucres": 3.3,
+  "fibres": 1.0,
+  "satures": 7.43,
+  "sel": 2.38,
+  "fer": 2.43,
+  "calcium": 99.67,
+  "magnesium": 20.28,
+  "potassium": 371.93,
+  "zinc": 1.3,
+  "iode": 25.26,
+  "vitd": 2.3,
+  "vitc": 16.3,
+  "b12": 1.75,
+  "b9": 54.42,
+  "alcool": 0.0
+ }
+}

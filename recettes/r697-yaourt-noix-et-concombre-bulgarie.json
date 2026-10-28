@@ -1,0 +1,77 @@
+{
+ "id": "r697-yaourt-noix-et-concombre-bulgarie",
+ "nom": "Yaourt, noix et concombre (Bulgarie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 369,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 220
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre et aneth.",
+  "Parsemez de noix, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 296.08,
+  "proteines": 18.15,
+  "glucides": 13.63,
+  "lipides": 17.99,
+  "sucres": 12.28,
+  "fibres": 3.25,
+  "satures": 5.58,
+  "sel": 0.42,
+  "fer": 1.86,
+  "calcium": 330.35,
+  "magnesium": 62.56,
+  "potassium": 623.54,
+  "zinc": 2.02,
+  "iode": 73.41,
+  "vitd": 1.96,
+  "vitc": 8.66,
+  "b12": 1.23,
+  "b9": 96.3,
+  "alcool": 0.0
+ }
+}

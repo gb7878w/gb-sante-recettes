@@ -1,0 +1,75 @@
+{
+ "id": "r709-fromage-frais-aux-herbes-et-jambon-lituanie",
+ "nom": "Fromage frais aux herbes et jambon (Lituanie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 368,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et l'aneth.",
+  "Servez avec jambon, concombre et œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 240.31,
+  "proteines": 33.63,
+  "glucides": 10.51,
+  "lipides": 6.54,
+  "sucres": 9.76,
+  "fibres": 0.54,
+  "satures": 2.08,
+  "sel": 1.38,
+  "fer": 1.51,
+  "calcium": 313.13,
+  "magnesium": 41.1,
+  "potassium": 646.61,
+  "zinc": 1.79,
+  "iode": 48.43,
+  "vitd": 0.62,
+  "vitc": 7.05,
+  "b12": 1.41,
+  "b9": 83.06,
+  "alcool": 0.0
+ }
+}

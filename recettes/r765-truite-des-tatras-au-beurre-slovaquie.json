@@ -1,0 +1,75 @@
+{
+ "id": "r765-truite-des-tatras-au-beurre-slovaquie",
+ "nom": "Truite des Tatras au beurre (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 342,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite au beurre.",
+  "Servez avec épinards, citron et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 363.28,
+  "proteines": 41.84,
+  "glucides": 0.36,
+  "lipides": 19.99,
+  "sucres": 0.19,
+  "fibres": 5.42,
+  "satures": 8.22,
+  "sel": 0.3,
+  "fer": 2.75,
+  "calcium": 474.23,
+  "magnesium": 95.53,
+  "potassium": 942.64,
+  "zinc": 2.25,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 15.61,
+  "b12": 7.77,
+  "b9": 120.68,
+  "alcool": 0.0
+ }
+}

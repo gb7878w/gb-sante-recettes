@@ -1,0 +1,76 @@
+{
+ "id": "r746-carpe-ou-truite-rotie-sauce-a-l-ail-roumanie",
+ "nom": "Carpe ou truite rôtie, sauce à l'ail (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 407,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Rôtissez la truite 15 minutes.",
+  "Servez avec sauce fromage blanc-ail et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 329.67,
+  "proteines": 45.84,
+  "glucides": 8.89,
+  "lipides": 10.82,
+  "sucres": 6.94,
+  "fibres": 5.15,
+  "satures": 2.59,
+  "sel": 0.33,
+  "fer": 1.74,
+  "calcium": 295.6,
+  "magnesium": 99.05,
+  "potassium": 1209.72,
+  "zinc": 1.78,
+  "iode": 24.47,
+  "vitd": 25.5,
+  "vitc": 13.75,
+  "b12": 8.07,
+  "b9": 118.29,
+  "alcool": 0.0
+ }
+}

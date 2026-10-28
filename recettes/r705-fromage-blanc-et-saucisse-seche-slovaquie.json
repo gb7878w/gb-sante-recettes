@@ -1,0 +1,70 @@
+{
+ "id": "r705-fromage-blanc-et-saucisse-seche-slovaquie",
+ "nom": "Fromage blanc et saucisse sèche (Slovaquie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 340,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 35
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 50
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Tranchez le salami et les radis.",
+  "Servez avec le fromage blanc et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 319.75,
+  "proteines": 31.71,
+  "glucides": 9.39,
+  "lipides": 16.62,
+  "sucres": 8.62,
+  "fibres": 0.7,
+  "satures": 5.63,
+  "sel": 2.39,
+  "fer": 1.92,
+  "calcium": 302.6,
+  "magnesium": 42.9,
+  "potassium": 611.3,
+  "zinc": 3.19,
+  "iode": 48.14,
+  "vitd": 0.62,
+  "vitc": 6.1,
+  "b12": 2.39,
+  "b9": 120.6,
+  "alcool": 0.0
+ }
+}

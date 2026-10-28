@@ -1,0 +1,71 @@
+{
+ "id": "r701-oeufs-brouilles-aux-poivrons-serbie",
+ "nom": "Œufs brouillés aux poivrons (Serbie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 255,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le poivron dans l'huile.",
+  "Ajoutez les œufs et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 272.04,
+  "proteines": 20.42,
+  "glucides": 5.44,
+  "lipides": 18.41,
+  "sucres": 4.82,
+  "fibres": 1.36,
+  "satures": 4.28,
+  "sel": 1.36,
+  "fer": 3.01,
+  "calcium": 173.44,
+  "magnesium": 29.18,
+  "potassium": 356.6,
+  "zinc": 1.63,
+  "iode": 31.46,
+  "vitd": 2.44,
+  "vitc": 87.2,
+  "b12": 2.04,
+  "b9": 81.0,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "id": "r728-fromage-et-cornichon-lettonie",
+ "nom": "Fromage et cornichon (Lettonie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 140,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Servez le fromage avec cornichon et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 155.44,
+  "proteines": 15.11,
+  "glucides": 3.35,
+  "lipides": 8.61,
+  "sucres": 3.29,
+  "fibres": 0.45,
+  "satures": 5.45,
+  "sel": 0.83,
+  "fer": 0.65,
+  "calcium": 420.4,
+  "magnesium": 28.15,
+  "potassium": 180.42,
+  "zinc": 1.75,
+  "iode": 14.74,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.93,
+  "b9": 32.67,
+  "alcool": 0.0
+ }
+}

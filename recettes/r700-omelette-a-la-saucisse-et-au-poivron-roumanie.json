@@ -1,0 +1,70 @@
+{
+ "id": "r700-omelette-a-la-saucisse-et-au-poivron-roumanie",
+ "nom": "Omelette à la saucisse et au poivron (Roumanie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 234,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 40
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez saucisse et poivron.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 339.0,
+  "proteines": 22.56,
+  "glucides": 3.54,
+  "lipides": 25.86,
+  "sucres": 2.97,
+  "fibres": 1.02,
+  "satures": 9.27,
+  "sel": 1.89,
+  "fer": 3.19,
+  "calcium": 122.15,
+  "magnesium": 26.64,
+  "potassium": 334.53,
+  "zinc": 1.97,
+  "iode": 32.96,
+  "vitd": 2.59,
+  "vitc": 65.4,
+  "b12": 2.06,
+  "b9": 65.36,
+  "alcool": 0.0
+ }
+}

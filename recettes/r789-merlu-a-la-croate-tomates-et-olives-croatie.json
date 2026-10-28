@@ -1,0 +1,74 @@
+{
+ "id": "r789-merlu-a-la-croate-tomates-et-olives-croatie",
+ "nom": "Merlu à la croate, tomates et olives (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 372,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mijotez tomates et olives.",
+  "Posez le poisson, cuisez 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.51,
+  "proteines": 41.45,
+  "glucides": 5.52,
+  "lipides": 17.16,
+  "sucres": 4.24,
+  "fibres": 2.91,
+  "satures": 3.38,
+  "sel": 0.85,
+  "fer": 2.71,
+  "calcium": 114.34,
+  "magnesium": 70.76,
+  "potassium": 893.72,
+  "zinc": 1.22,
+  "iode": 79.8,
+  "vitd": 6.08,
+  "vitc": 31.53,
+  "b12": 3.04,
+  "b9": 75.77,
+  "alcool": 0.0
+ }
+}

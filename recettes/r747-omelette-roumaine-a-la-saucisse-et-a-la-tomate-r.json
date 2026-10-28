@@ -1,0 +1,70 @@
+{
+ "id": "r747-omelette-roumaine-a-la-saucisse-et-a-la-tomate-r",
+ "nom": "Omelette roumaine à la saucisse et à la tomate (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 356,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 60
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez saucisse et tomate.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 493.36,
+  "proteines": 32.89,
+  "glucides": 4.91,
+  "lipides": 37.61,
+  "sucres": 3.96,
+  "fibres": 1.0,
+  "satures": 13.69,
+  "sel": 1.79,
+  "fer": 4.29,
+  "calcium": 163.69,
+  "magnesium": 35.16,
+  "potassium": 564.69,
+  "zinc": 2.84,
+  "iode": 48.4,
+  "vitd": 3.79,
+  "vitc": 16.3,
+  "b12": 3.02,
+  "b9": 79.24,
+  "alcool": 0.0
+ }
+}

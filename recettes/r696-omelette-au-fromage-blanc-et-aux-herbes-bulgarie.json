@@ -1,0 +1,76 @@
+{
+ "id": "r696-omelette-au-fromage-blanc-et-aux-herbes-bulgarie",
+ "nom": "Omelette au fromage blanc et aux herbes (Bulgarie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 219,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Battez œufs, fromage blanc et herbes.",
+  "Cuisez en omelette dans le beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 253.6,
+  "proteines": 23.08,
+  "glucides": 3.71,
+  "lipides": 16.11,
+  "sucres": 3.63,
+  "fibres": 0.28,
+  "satures": 5.64,
+  "sel": 0.51,
+  "fer": 2.88,
+  "calcium": 218.71,
+  "magnesium": 26.76,
+  "potassium": 318.75,
+  "zinc": 1.75,
+  "iode": 35.68,
+  "vitd": 2.49,
+  "vitc": 5.76,
+  "b12": 2.21,
+  "b9": 69.74,
+  "alcool": 0.0
+ }
+}

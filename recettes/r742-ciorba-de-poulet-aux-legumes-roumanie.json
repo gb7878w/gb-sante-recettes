@@ -1,0 +1,80 @@
+{
+ "id": "r742-ciorba-de-poulet-aux-legumes-roumanie",
+ "nom": "Ciorbă de poulet aux légumes (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande"
+ ],
+ "allergenes": [
+  "celeri",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20025",
+   "nom": "Céleri-rave cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mijotez poulet et légumes 25 minutes.",
+  "Liez avec le fromage blanc, parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 338.44,
+  "proteines": 54.83,
+  "glucides": 12.18,
+  "lipides": 6.16,
+  "sucres": 9.58,
+  "fibres": 4.37,
+  "satures": 2.26,
+  "sel": 1.15,
+  "fer": 1.6,
+  "calcium": 155.68,
+  "magnesium": 89.46,
+  "potassium": 1222.32,
+  "zinc": 1.84,
+  "iode": 8.7,
+  "vitd": 0.9,
+  "vitc": 77.62,
+  "b12": 0.53,
+  "b9": 132.72,
+  "alcool": 0.0
+ }
+}

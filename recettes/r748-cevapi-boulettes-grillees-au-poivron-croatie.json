@@ -1,0 +1,74 @@
+{
+ "id": "r748-cevapi-boulettes-grillees-au-poivron-croatie",
+ "nom": "Ćevapi, boulettes grillées au poivron (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 395,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes et oignon, formez des rouleaux.",
+  "Grillez 12 minutes, servez avec poivron et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 358.79,
+  "proteines": 51.88,
+  "glucides": 10.01,
+  "lipides": 11.5,
+  "sucres": 7.53,
+  "fibres": 2.69,
+  "satures": 4.65,
+  "sel": 1.75,
+  "fer": 4.86,
+  "calcium": 161.23,
+  "magnesium": 68.73,
+  "potassium": 902.2,
+  "zinc": 10.08,
+  "iode": 18.03,
+  "vitd": 0.0,
+  "vitc": 131.32,
+  "b12": 4.17,
+  "b9": 81.15,
+  "alcool": 0.0
+ }
+}

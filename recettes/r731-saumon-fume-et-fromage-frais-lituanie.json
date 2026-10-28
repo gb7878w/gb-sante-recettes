@@ -1,0 +1,64 @@
+{
+ "id": "r731-saumon-fume-et-fromage-frais-lituanie",
+ "nom": "Saumon fumé et fromage frais (Lituanie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 125,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Servez le saumon avec le fromage blanc citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 112.1,
+  "proteines": 15.16,
+  "glucides": 3.55,
+  "lipides": 3.83,
+  "sucres": 3.15,
+  "fibres": 0.0,
+  "satures": 0.85,
+  "sel": 1.49,
+  "fer": 0.2,
+  "calcium": 110.14,
+  "magnesium": 25.47,
+  "potassium": 342.6,
+  "zinc": 0.5,
+  "iode": 24.32,
+  "vitd": 2.18,
+  "vitc": 2.25,
+  "b12": 1.66,
+  "b9": 31.02,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r753-moules-a-la-dalmate-croatie",
+ "nom": "Moules à la dalmate (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 437,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 300
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec ail, vin et tomate.",
+  "Parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 370.47,
+  "proteines": 52.41,
+  "glucides": 20.86,
+  "lipides": 6.3,
+  "sucres": 2.92,
+  "fibres": 1.35,
+  "satures": 1.11,
+  "sel": 2.43,
+  "fer": 12.45,
+  "calcium": 196.18,
+  "magnesium": 211.17,
+  "potassium": 773.11,
+  "zinc": 8.68,
+  "iode": 318.0,
+  "vitd": 0.0,
+  "vitc": 40.99,
+  "b12": 52.8,
+  "b9": 163.64,
+  "alcool": 2.33
+ }
+}

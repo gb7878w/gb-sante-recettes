@@ -1,0 +1,75 @@
+{
+ "id": "r785-cabillaud-a-la-creme-d-aneth-lettonie",
+ "nom": "Cabillaud à la crème d'aneth (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 190
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Pochez le cabillaud.",
+  "Nappez de crème à l'aneth, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 343.53,
+  "proteines": 49.12,
+  "glucides": 2.37,
+  "lipides": 13.87,
+  "sucres": 2.2,
+  "fibres": 5.39,
+  "satures": 8.42,
+  "sel": 0.57,
+  "fer": 2.74,
+  "calcium": 456.61,
+  "magnesium": 106.6,
+  "potassium": 895.37,
+  "zinc": 2.21,
+  "iode": 247.25,
+  "vitd": 2.35,
+  "vitc": 4.7,
+  "b12": 2.92,
+  "b9": 117.87,
+  "alcool": 0.0
+ }
+}

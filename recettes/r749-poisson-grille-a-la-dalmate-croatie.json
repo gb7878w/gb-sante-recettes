@@ -1,0 +1,79 @@
+{
+ "id": "r749-poisson-grille-a-la-dalmate-croatie",
+ "nom": "Poisson grillé à la dalmate (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 366,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 190
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Grillez la dorade.",
+  "Servez avec huile citronnée à l'ail et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 419.9,
+  "proteines": 47.72,
+  "glucides": 5.75,
+  "lipides": 21.23,
+  "sucres": 3.89,
+  "fibres": 5.09,
+  "satures": 3.99,
+  "sel": 0.37,
+  "fer": 1.4,
+  "calcium": 111.24,
+  "magnesium": 96.87,
+  "potassium": 1236.52,
+  "zinc": 1.32,
+  "iode": 0.0,
+  "vitd": 10.85,
+  "vitc": 14.44,
+  "b12": 4.5,
+  "b9": 115.65,
+  "alcool": 0.0
+ }
+}

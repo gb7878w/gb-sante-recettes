@@ -1,0 +1,64 @@
+{
+ "id": "r725-hareng-et-fromage-blanc-estonie",
+ "nom": "Hareng et fromage blanc (Estonie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 142,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez le hareng avec le fromage blanc à l'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 137.68,
+  "proteines": 17.3,
+  "glucides": 3.19,
+  "lipides": 5.99,
+  "sucres": 3.14,
+  "fibres": 0.07,
+  "satures": 1.37,
+  "sel": 2.36,
+  "fer": 0.66,
+  "calcium": 148.44,
+  "magnesium": 33.72,
+  "potassium": 356.14,
+  "zinc": 0.73,
+  "iode": 8.4,
+  "vitd": 10.62,
+  "vitc": 1.4,
+  "b12": 8.36,
+  "b9": 28.0,
+  "alcool": 0.0
+ }
+}

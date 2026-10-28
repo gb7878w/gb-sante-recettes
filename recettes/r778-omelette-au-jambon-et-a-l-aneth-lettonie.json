@@ -1,0 +1,71 @@
+{
+ "id": "r778-omelette-au-jambon-et-a-l-aneth-lettonie",
+ "nom": "Omelette au jambon et à l'aneth (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 269,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Cuisez l'omelette avec le jambon.",
+  "Parsemez d'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 391.71,
+  "proteines": 38.01,
+  "glucides": 1.82,
+  "lipides": 25.87,
+  "sucres": 1.52,
+  "fibres": 0.21,
+  "satures": 9.12,
+  "sel": 1.97,
+  "fer": 3.74,
+  "calcium": 160.05,
+  "magnesium": 21.86,
+  "potassium": 526.3,
+  "zinc": 1.98,
+  "iode": 40.11,
+  "vitd": 3.64,
+  "vitc": 2.1,
+  "b12": 2.77,
+  "b9": 68.26,
+  "alcool": 0.0
+ }
+}

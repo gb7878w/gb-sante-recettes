@@ -1,0 +1,75 @@
+{
+ "id": "r772-boulettes-de-boeuf-a-la-creme-estonie",
+ "nom": "Boulettes de bœuf à la crème (Estonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Formez des boulettes avec viande, œuf et oignon.",
+  "Poêlez, nappez de crème, servez avec le chou-fleur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 385.95,
+  "proteines": 46.74,
+  "glucides": 6.6,
+  "lipides": 18.04,
+  "sucres": 4.99,
+  "fibres": 4.65,
+  "satures": 8.76,
+  "sel": 0.43,
+  "fer": 5.45,
+  "calcium": 117.19,
+  "magnesium": 67.05,
+  "potassium": 1125.0,
+  "zinc": 10.41,
+  "iode": 15.45,
+  "vitd": 0.56,
+  "vitc": 19.92,
+  "b12": 4.14,
+  "b9": 181.55,
+  "alcool": 0.0
+ }
+}

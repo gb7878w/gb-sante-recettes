@@ -1,0 +1,62 @@
+{
+ "id": "r716-jambon-sec-et-fromage-roumanie",
+ "nom": "Jambon sec et fromage (Roumanie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 80,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 35
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Disposez jambon sec, fromage et cornichon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 177.88,
+  "proteines": 17.88,
+  "glucides": 0.42,
+  "lipides": 11.46,
+  "sucres": 0.25,
+  "fibres": 0.3,
+  "satures": 6.35,
+  "sel": 2.29,
+  "fer": 0.42,
+  "calcium": 257.75,
+  "magnesium": 14.17,
+  "potassium": 48.35,
+  "zinc": 1.13,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.51,
+  "b9": 10.65,
+  "alcool": 0.0
+ }
+}

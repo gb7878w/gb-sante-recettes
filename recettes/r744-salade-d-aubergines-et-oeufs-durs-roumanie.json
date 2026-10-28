@@ -1,0 +1,77 @@
+{
+ "id": "r744-salade-d-aubergines-et-oeufs-durs-roumanie",
+ "nom": "Salade d'aubergines et œufs durs (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "vegetarien",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Rôtissez les aubergines, écrasez-les.",
+  "Mêlez huile, oignon et fromage blanc, servez avec les œufs durs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 462.58,
+  "proteines": 35.44,
+  "glucides": 17.55,
+  "lipides": 24.96,
+  "sucres": 14.1,
+  "fibres": 11.4,
+  "satures": 5.89,
+  "sel": 0.67,
+  "fer": 3.68,
+  "calcium": 281.95,
+  "magnesium": 76.59,
+  "potassium": 715.8,
+  "zinc": 2.96,
+  "iode": 96.98,
+  "vitd": 1.85,
+  "vitc": 3.77,
+  "b12": 2.31,
+  "b9": 139.65,
+  "alcool": 0.0
+ }
+}

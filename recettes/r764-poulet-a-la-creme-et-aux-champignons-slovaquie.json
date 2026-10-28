@@ -1,0 +1,69 @@
+{
+ "id": "r764-poulet-a-la-creme-et-aux-champignons-slovaquie",
+ "nom": "Poulet à la crème et aux champignons (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 394,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez champignons et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 330.84,
+  "proteines": 58.66,
+  "glucides": 7.63,
+  "lipides": 6.37,
+  "sucres": 6.56,
+  "fibres": 1.67,
+  "satures": 2.73,
+  "sel": 0.49,
+  "fer": 1.38,
+  "calcium": 129.28,
+  "magnesium": 84.69,
+  "potassium": 1379.52,
+  "zinc": 2.35,
+  "iode": 13.1,
+  "vitd": 1.65,
+  "vitc": 14.0,
+  "b12": 0.61,
+  "b9": 93.19,
+  "alcool": 0.0
+ }
+}

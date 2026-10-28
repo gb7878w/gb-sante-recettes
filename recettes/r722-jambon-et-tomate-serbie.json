@@ -1,0 +1,62 @@
+{
+ "id": "r722-jambon-et-tomate-serbie",
+ "nom": "Jambon et tomate (Serbie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez le jambon avec la tomate et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 118.34,
+  "proteines": 17.03,
+  "glucides": 6.89,
+  "lipides": 1.97,
+  "sucres": 5.93,
+  "fibres": 1.09,
+  "satures": 0.73,
+  "sel": 1.24,
+  "fer": 0.27,
+  "calcium": 93.2,
+  "magnesium": 14.32,
+  "potassium": 511.2,
+  "zinc": 0.37,
+  "iode": 6.24,
+  "vitd": 0.0,
+  "vitc": 16.3,
+  "b12": 0.24,
+  "b9": 27.9,
+  "alcool": 0.0
+ }
+}

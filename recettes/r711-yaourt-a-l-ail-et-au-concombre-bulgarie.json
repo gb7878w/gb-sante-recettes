@@ -1,0 +1,70 @@
+{
+ "id": "r711-yaourt-a-l-ail-et-au-concombre-bulgarie",
+ "nom": "Yaourt à l'ail et au concombre (Bulgarie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 270,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 180
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 2
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre râpé et ail.",
+  "Parsemez de noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 172.92,
+  "proteines": 8.67,
+  "glucides": 11.47,
+  "lipides": 9.61,
+  "sucres": 10.01,
+  "fibres": 2.68,
+  "satures": 3.3,
+  "sel": 0.21,
+  "fer": 0.65,
+  "calcium": 250.18,
+  "magnesium": 44.26,
+  "potassium": 471.2,
+  "zinc": 1.03,
+  "iode": 37.68,
+  "vitd": 1.1,
+  "vitc": 7.13,
+  "b12": 0.5,
+  "b9": 57.22,
+  "alcool": 0.0
+ }
+}

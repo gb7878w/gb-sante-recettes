@@ -1,0 +1,64 @@
+{
+ "id": "r721-poivron-grille-et-fromage-serbie",
+ "nom": "Poivron grillé et fromage (Serbie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 215,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 35
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Grillez le poivron.",
+  "Servez avec la feta et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 167.31,
+  "proteines": 11.15,
+  "glucides": 7.87,
+  "lipides": 9.45,
+  "sucres": 6.7,
+  "fibres": 2.04,
+  "satures": 6.01,
+  "sel": 2.23,
+  "fer": 0.88,
+  "calcium": 187.4,
+  "magnesium": 26.52,
+  "potassium": 296.7,
+  "zinc": 0.89,
+  "iode": 34.24,
+  "vitd": 0.0,
+  "vitc": 130.8,
+  "b12": 0.43,
+  "b9": 61.81,
+  "alcool": 0.0
+ }
+}

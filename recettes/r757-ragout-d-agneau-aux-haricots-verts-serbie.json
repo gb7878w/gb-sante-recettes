@@ -1,0 +1,72 @@
+{
+ "id": "r757-ragout-d-agneau-aux-haricots-verts-serbie",
+ "nom": "Ragoût d'agneau aux haricots verts (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 458,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez l'agneau.",
+  "Ajoutez oignon, coulis, haricots, mijotez 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 426.2,
+  "proteines": 45.41,
+  "glucides": 14.45,
+  "lipides": 18.39,
+  "sucres": 8.38,
+  "fibres": 9.0,
+  "satures": 5.21,
+  "sel": 0.81,
+  "fer": 3.22,
+  "calcium": 139.9,
+  "magnesium": 100.21,
+  "potassium": 1031.5,
+  "zinc": 6.5,
+  "iode": 7.5,
+  "vitd": 0.0,
+  "vitc": 3.15,
+  "b12": 2.82,
+  "b9": 129.7,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "r730-oeuf-dur-farci-a-l-aneth-lituanie",
+ "nom": "Œuf dur farci à l'aneth (Lituanie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 156,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Écrasez les jaunes avec fromage blanc, moutarde et aneth.",
+  "Garnissez les blancs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 174.2,
+  "proteines": 18.39,
+  "glucides": 2.38,
+  "lipides": 9.97,
+  "sucres": 2.22,
+  "fibres": 0.07,
+  "satures": 2.85,
+  "sel": 0.64,
+  "fer": 2.14,
+  "calcium": 106.19,
+  "magnesium": 22.77,
+  "potassium": 208.54,
+  "zinc": 1.66,
+  "iode": 59.03,
+  "vitd": 1.23,
+  "vitc": 1.41,
+  "b12": 1.38,
+  "b9": 60.62,
+  "alcool": 0.0
+ }
+}

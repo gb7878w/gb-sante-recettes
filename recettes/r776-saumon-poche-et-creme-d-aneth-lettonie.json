@@ -1,0 +1,70 @@
+{
+ "id": "r776-saumon-poche-et-creme-d-aneth-lettonie",
+ "nom": "Saumon poché et crème d'aneth (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 444,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Pochez le saumon.",
+  "Servez avec sauce fromage blanc-aneth et brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 444.65,
+  "proteines": 51.58,
+  "glucides": 8.33,
+  "lipides": 21.48,
+  "sucres": 6.16,
+  "fibres": 4.54,
+  "satures": 4.53,
+  "sel": 0.38,
+  "fer": 2.07,
+  "calcium": 205.68,
+  "magnesium": 102.64,
+  "potassium": 1433.88,
+  "zinc": 2.2,
+  "iode": 8.48,
+  "vitd": 0.0,
+  "vitc": 48.66,
+  "b12": 4.77,
+  "b9": 219.08,
+  "alcool": 0.0
+ }
+}

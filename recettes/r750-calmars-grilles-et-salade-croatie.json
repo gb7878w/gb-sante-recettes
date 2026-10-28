@@ -1,0 +1,75 @@
+{
+ "id": "r750-calmars-grilles-et-salade-croatie",
+ "nom": "Calmars grillés et salade (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Saisissez les calmars.",
+  "Servez sur la salade avec citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 423.14,
+  "proteines": 66.54,
+  "glucides": 8.09,
+  "lipides": 12.95,
+  "sucres": 3.46,
+  "fibres": 1.96,
+  "satures": 2.02,
+  "sel": 3.74,
+  "fer": 12.51,
+  "calcium": 419.58,
+  "magnesium": 139.71,
+  "potassium": 1658.0,
+  "zinc": 7.19,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 47.24,
+  "b12": 10.8,
+  "b9": 99.14,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r733-poulet-a-la-bulgare-tomate-et-poivron-bulgarie",
+ "nom": "Poulet à la bulgare, tomate et poivron (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 450,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez légumes, mijotez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 388.99,
+  "proteines": 50.18,
+  "glucides": 11.72,
+  "lipides": 13.96,
+  "sucres": 7.9,
+  "fibres": 3.98,
+  "satures": 2.54,
+  "sel": 1.36,
+  "fer": 1.54,
+  "calcium": 46.62,
+  "magnesium": 83.82,
+  "potassium": 1220.0,
+  "zinc": 1.45,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 136.36,
+  "b12": 0.29,
+  "b9": 73.43,
+  "alcool": 0.0
+ }
+}

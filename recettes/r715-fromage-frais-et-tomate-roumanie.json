@@ -1,0 +1,70 @@
+{
+ "id": "r715-fromage-frais-et-tomate-roumanie",
+ "nom": "Fromage frais et tomate (Roumanie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 308,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Servez le fromage blanc avec tomate, persil et œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 169.39,
+  "proteines": 19.96,
+  "glucides": 9.82,
+  "lipides": 4.82,
+  "sucres": 8.95,
+  "fibres": 1.13,
+  "satures": 1.45,
+  "sel": 0.35,
+  "fer": 1.5,
+  "calcium": 236.89,
+  "magnesium": 34.19,
+  "potassium": 509.94,
+  "zinc": 1.54,
+  "iode": 42.94,
+  "vitd": 0.62,
+  "vitc": 21.61,
+  "b12": 1.21,
+  "b9": 77.72,
+  "alcool": 0.0
+ }
+}

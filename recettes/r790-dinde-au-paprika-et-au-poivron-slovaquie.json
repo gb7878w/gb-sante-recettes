@@ -1,0 +1,74 @@
+{
+ "id": "r790-dinde-au-paprika-et-au-poivron-slovaquie",
+ "nom": "Dinde au paprika et au poivron (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 160
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 3
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 70
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez la dinde avec l'oignon.",
+  "Ajoutez poivron, paprika et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 311.06,
+  "proteines": 53.09,
+  "glucides": 10.22,
+  "lipides": 5.34,
+  "sucres": 7.16,
+  "fibres": 3.87,
+  "satures": 2.47,
+  "sel": 1.71,
+  "fer": 2.29,
+  "calcium": 140.44,
+  "magnesium": 100.14,
+  "potassium": 1132.2,
+  "zinc": 2.66,
+  "iode": 16.55,
+  "vitd": 1.05,
+  "vitc": 132.65,
+  "b12": 1.26,
+  "b9": 64.37,
+  "alcool": 0.0
+ }
+}

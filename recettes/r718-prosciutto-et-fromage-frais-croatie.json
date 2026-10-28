@@ -1,0 +1,62 @@
+{
+ "id": "r718-prosciutto-et-fromage-frais-croatie",
+ "nom": "Prosciutto et fromage frais (Croatie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez le jambon avec le fromage blanc et les tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 168.82,
+  "proteines": 19.62,
+  "glucides": 7.38,
+  "lipides": 6.2,
+  "sucres": 6.89,
+  "fibres": 0.72,
+  "satures": 2.2,
+  "sel": 2.32,
+  "fer": 0.66,
+  "calcium": 144.36,
+  "magnesium": 18.8,
+  "potassium": 342.0,
+  "zinc": 0.6,
+  "iode": 10.4,
+  "vitd": 0.0,
+  "vitc": 18.28,
+  "b12": 0.4,
+  "b9": 34.56,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "id": "r713-fromage-et-poivron-bulgarie",
+ "nom": "Fromage et poivron (Bulgarie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 175,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 35
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez la feta avec les lanières de poivron et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 154.67,
+  "proteines": 10.78,
+  "glucides": 6.1,
+  "lipides": 9.14,
+  "sucres": 5.25,
+  "fibres": 1.36,
+  "satures": 5.97,
+  "sel": 1.77,
+  "fer": 0.63,
+  "calcium": 177.4,
+  "magnesium": 21.52,
+  "potassium": 234.3,
+  "zinc": 0.83,
+  "iode": 34.24,
+  "vitd": 0.0,
+  "vitc": 87.2,
+  "b12": 0.43,
+  "b9": 48.21,
+  "alcool": 0.0
+ }
+}

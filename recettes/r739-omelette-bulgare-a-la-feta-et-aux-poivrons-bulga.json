@@ -1,0 +1,71 @@
+{
+ "id": "r739-omelette-bulgare-a-la-feta-et-aux-poivrons-bulga",
+ "nom": "Omelette bulgare à la feta et aux poivrons (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 328,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 50
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez les poivrons.",
+  "Ajoutez œufs battus et feta."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 505.78,
+  "proteines": 32.41,
+  "glucides": 4.37,
+  "lipides": 39.44,
+  "sucres": 3.42,
+  "fibres": 1.36,
+  "satures": 14.7,
+  "sel": 2.64,
+  "fer": 4.12,
+  "calcium": 275.92,
+  "magnesium": 36.9,
+  "potassium": 412.4,
+  "zinc": 2.64,
+  "iode": 79.9,
+  "vitd": 3.57,
+  "vitc": 87.2,
+  "b12": 3.02,
+  "b9": 101.25,
+  "alcool": 0.0
+ }
+}

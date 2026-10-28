@@ -1,0 +1,63 @@
+{
+ "id": "r714-saucisse-et-cornichon-roumanie",
+ "nom": "Saucisse et cornichon (Roumanie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 95,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 50
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Réchauffez la saucisse.",
+  "Servez avec cornichons et moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 150.86,
+  "proteines": 7.62,
+  "glucides": 1.15,
+  "lipides": 12.26,
+  "sucres": 0.82,
+  "fibres": 0.6,
+  "satures": 4.54,
+  "sel": 2.0,
+  "fer": 0.65,
+  "calcium": 38.56,
+  "magnesium": 17.56,
+  "potassium": 137.5,
+  "zinc": 0.79,
+  "iode": 7.15,
+  "vitd": 0.13,
+  "vitc": 0.01,
+  "b12": 0.21,
+  "b9": 5.77,
+  "alcool": 0.0
+ }
+}

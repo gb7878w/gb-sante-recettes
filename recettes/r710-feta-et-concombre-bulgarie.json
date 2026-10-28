@@ -1,0 +1,64 @@
+{
+ "id": "r710-feta-et-concombre-bulgarie",
+ "nom": "Feta et concombre (Bulgarie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez feta et concombre en dés.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 159.24,
+  "proteines": 11.45,
+  "glucides": 5.13,
+  "lipides": 9.85,
+  "sucres": 4.0,
+  "fibres": 0.6,
+  "satures": 6.78,
+  "sel": 0.98,
+  "fer": 0.26,
+  "calcium": 187.6,
+  "magnesium": 25.72,
+  "potassium": 269.8,
+  "zinc": 0.87,
+  "iode": 38.54,
+  "vitd": 0.0,
+  "vitc": 8.25,
+  "b12": 0.45,
+  "b9": 34.26,
+  "alcool": 0.0
+ }
+}

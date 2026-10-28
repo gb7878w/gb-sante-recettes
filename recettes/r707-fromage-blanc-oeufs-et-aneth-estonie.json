@@ -1,0 +1,72 @@
+{
+ "id": "r707-fromage-blanc-oeufs-et-aneth-estonie",
+ "nom": "Fromage blanc, œufs et aneth (Estonie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 343,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Mêlez le fromage blanc et l'aneth.",
+  "Servez avec œufs durs et saumon fumé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 301.05,
+  "proteines": 37.47,
+  "glucides": 8.74,
+  "lipides": 12.44,
+  "sucres": 8.39,
+  "fibres": 0.1,
+  "satures": 3.49,
+  "sel": 1.62,
+  "fer": 2.42,
+  "calcium": 320.95,
+  "magnesium": 52.13,
+  "potassium": 604.71,
+  "zinc": 2.5,
+  "iode": 87.59,
+  "vitd": 2.87,
+  "vitc": 2.1,
+  "b12": 3.03,
+  "b9": 107.68,
+  "alcool": 0.0
+ }
+}

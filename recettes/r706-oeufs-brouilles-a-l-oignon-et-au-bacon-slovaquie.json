@@ -1,0 +1,69 @@
+{
+ "id": "r706-oeufs-brouilles-a-l-oignon-et-au-bacon-slovaquie",
+ "nom": "Œufs brouillés à l'oignon et au bacon (Slovaquie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 198,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Poêlez bacon et oignon.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 239.54,
+  "proteines": 26.12,
+  "glucides": 2.29,
+  "lipides": 13.83,
+  "sucres": 0.45,
+  "fibres": 0.75,
+  "satures": 3.84,
+  "sel": 1.68,
+  "fer": 2.67,
+  "calcium": 107.39,
+  "magnesium": 25.56,
+  "potassium": 407.95,
+  "zinc": 1.91,
+  "iode": 27.37,
+  "vitd": 2.44,
+  "vitc": 4.33,
+  "b12": 2.04,
+  "b9": 69.44,
+  "alcool": 0.0
+ }
+}

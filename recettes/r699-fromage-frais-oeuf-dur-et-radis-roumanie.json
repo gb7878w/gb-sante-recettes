@@ -1,0 +1,71 @@
+{
+ "id": "r699-fromage-frais-oeuf-dur-et-radis-roumanie",
+ "nom": "Fromage frais, œuf dur et radis (Roumanie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Servez le fromage blanc avec ciboulette.",
+  "Ajoutez œufs durs et radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 255.79,
+  "proteines": 31.39,
+  "glucides": 9.33,
+  "lipides": 9.58,
+  "sucres": 9.06,
+  "fibres": 0.94,
+  "satures": 2.87,
+  "sel": 0.59,
+  "fer": 2.49,
+  "calcium": 324.88,
+  "magnesium": 44.23,
+  "potassium": 578.25,
+  "zinc": 2.44,
+  "iode": 75.54,
+  "vitd": 1.23,
+  "vitc": 8.51,
+  "b12": 2.02,
+  "b9": 155.99,
+  "alcool": 0.0
+ }
+}

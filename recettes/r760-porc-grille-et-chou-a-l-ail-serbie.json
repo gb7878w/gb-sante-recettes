@@ -1,0 +1,69 @@
+{
+ "id": "r760-porc-grille-et-chou-a-l-ail-serbie",
+ "nom": "Porc grillé et chou à l'ail (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 371,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Grillez le porc.",
+  "Poêlez le chou à l'ail."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 404.41,
+  "proteines": 44.73,
+  "glucides": 9.9,
+  "lipides": 19.08,
+  "sucres": 8.5,
+  "fibres": 7.18,
+  "satures": 9.03,
+  "sel": 0.27,
+  "fer": 2.38,
+  "calcium": 131.39,
+  "magnesium": 62.12,
+  "potassium": 1048.56,
+  "zinc": 3.52,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 17.76,
+  "b12": 1.65,
+  "b9": 140.22,
+  "alcool": 0.0
+ }
+}

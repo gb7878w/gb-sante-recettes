@@ -1,0 +1,80 @@
+{
+ "id": "r769-soupe-de-poisson-estonienne-estonie",
+ "nom": "Soupe de poisson estonienne (Estonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "26008",
+   "nom": "Églefin vapeur",
+   "g": 100
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mijotez les légumes 12 minutes.",
+  "Ajoutez poissons et crème, cuisez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 359.35,
+  "proteines": 42.02,
+  "glucides": 8.63,
+  "lipides": 16.23,
+  "sucres": 6.83,
+  "fibres": 4.66,
+  "satures": 5.9,
+  "sel": 0.41,
+  "fer": 1.0,
+  "calcium": 121.36,
+  "magnesium": 64.77,
+  "potassium": 1012.61,
+  "zinc": 1.08,
+  "iode": 260.12,
+  "vitd": 0.0,
+  "vitc": 6.66,
+  "b12": 4.22,
+  "b9": 79.3,
+  "alcool": 0.0
+ }
+}

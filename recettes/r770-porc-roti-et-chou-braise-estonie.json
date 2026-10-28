@@ -1,0 +1,70 @@
+{
+ "id": "r770-porc-roti-et-chou-braise-estonie",
+ "nom": "Porc rôti et chou braisé (Estonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 368,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 200
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc 35 minutes.",
+  "Braisez la choucroute au cumin."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 472.4,
+  "proteines": 44.92,
+  "glucides": 0.73,
+  "lipides": 29.9,
+  "sucres": 0.1,
+  "fibres": 9.21,
+  "satures": 11.47,
+  "sel": 2.74,
+  "fer": 3.69,
+  "calcium": 117.32,
+  "magnesium": 60.4,
+  "potassium": 753.89,
+  "zinc": 3.57,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 34.55,
+  "b12": 1.7,
+  "b9": 38.58,
+  "alcool": 0.0
+ }
+}

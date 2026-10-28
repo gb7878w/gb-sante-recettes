@@ -1,0 +1,72 @@
+{
+ "id": "r740-sarmale-rouleaux-de-chou-farcis-roumanie",
+ "nom": "Sarmale, rouleaux de chou farcis (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 443,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 200
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Garnissez les feuilles de viande hachée.",
+  "Mijotez dans le coulis 40 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 444.69,
+  "proteines": 45.56,
+  "glucides": 6.94,
+  "lipides": 23.25,
+  "sucres": 4.44,
+  "fibres": 11.19,
+  "satures": 8.35,
+  "sel": 3.47,
+  "fer": 4.6,
+  "calcium": 103.37,
+  "magnesium": 50.68,
+  "potassium": 739.41,
+  "zinc": 8.86,
+  "iode": 7.44,
+  "vitd": 0.0,
+  "vitc": 36.5,
+  "b12": 3.43,
+  "b9": 50.08,
+  "alcool": 0.0
+ }
+}

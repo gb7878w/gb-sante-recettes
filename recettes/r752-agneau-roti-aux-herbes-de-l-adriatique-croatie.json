@@ -1,0 +1,68 @@
+{
+ "id": "r752-agneau-roti-aux-herbes-de-l-adriatique-croatie",
+ "nom": "Agneau rôti aux herbes de l'Adriatique (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 310,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau au romarin.",
+  "Ajoutez les courgettes pour les 15 dernières minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.17,
+  "proteines": 41.66,
+  "glucides": 2.23,
+  "lipides": 18.92,
+  "sucres": 2.08,
+  "fibres": 2.53,
+  "satures": 5.37,
+  "sel": 0.44,
+  "fer": 2.71,
+  "calcium": 67.99,
+  "magnesium": 81.32,
+  "potassium": 821.86,
+  "zinc": 6.36,
+  "iode": 7.5,
+  "vitd": 0.0,
+  "vitc": 4.79,
+  "b12": 2.82,
+  "b9": 76.88,
+  "alcool": 0.0
+ }
+}

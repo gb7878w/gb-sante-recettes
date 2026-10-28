@@ -1,0 +1,78 @@
+{
+ "id": "r775-hareng-fume-oeufs-et-aneth-en-salade-lettonie",
+ "nom": "Hareng fumé, œufs et aneth en salade (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 413,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mêlez fromage blanc et aneth.",
+  "Ajoutez hareng, œufs et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 398.37,
+  "proteines": 43.69,
+  "glucides": 6.34,
+  "lipides": 21.54,
+  "sucres": 5.39,
+  "fibres": 0.7,
+  "satures": 5.57,
+  "sel": 4.98,
+  "fer": 3.15,
+  "calcium": 251.96,
+  "magnesium": 86.4,
+  "potassium": 879.61,
+  "zinc": 2.55,
+  "iode": 63.41,
+  "vitd": 22.47,
+  "vitc": 10.35,
+  "b12": 17.62,
+  "b9": 96.34,
+  "alcool": 0.0
+ }
+}

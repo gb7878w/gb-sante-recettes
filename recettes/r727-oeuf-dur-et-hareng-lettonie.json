@@ -1,0 +1,59 @@
+{
+ "id": "r727-oeuf-dur-et-hareng-lettonie",
+ "nom": "Œuf dur et hareng (Lettonie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 150,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec le hareng."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 212.2,
+  "proteines": 22.09,
+  "glucides": 0.57,
+  "lipides": 13.44,
+  "sucres": 0.57,
+  "fibres": 0.0,
+  "satures": 3.7,
+  "sel": 1.85,
+  "fer": 2.17,
+  "calcium": 69.9,
+  "magnesium": 31.0,
+  "potassium": 284.0,
+  "zinc": 1.6,
+  "iode": 54.67,
+  "vitd": 8.31,
+  "vitc": 0.0,
+  "b12": 6.58,
+  "b9": 52.72,
+  "alcool": 0.0
+ }
+}

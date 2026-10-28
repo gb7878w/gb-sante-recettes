@@ -1,0 +1,71 @@
+{
+ "id": "r767-oeufs-aux-champignons-et-au-fromage-slovaquie",
+ "nom": "Œufs aux champignons et au fromage (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 346,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons.",
+  "Ajoutez œufs et fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 454.16,
+  "proteines": 35.75,
+  "glucides": 4.35,
+  "lipides": 32.58,
+  "sucres": 3.56,
+  "fibres": 1.2,
+  "satures": 13.8,
+  "sel": 0.94,
+  "fer": 4.4,
+  "calcium": 447.92,
+  "magnesium": 45.11,
+  "potassium": 722.31,
+  "zinc": 3.84,
+  "iode": 47.62,
+  "vitd": 4.0,
+  "vitc": 3.71,
+  "b12": 3.37,
+  "b9": 116.2,
+  "alcool": 0.0
+ }
+}

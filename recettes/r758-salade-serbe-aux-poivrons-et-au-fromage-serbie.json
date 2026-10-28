@@ -1,0 +1,77 @@
+{
+ "id": "r758-salade-serbe-aux-poivrons-et-au-fromage-serbie",
+ "nom": "Salade serbe aux poivrons et au fromage (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 523,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 80
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Coupez les légumes.",
+  "Ajoutez feta, œufs durs et huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 592.86,
+  "proteines": 36.32,
+  "glucides": 12.32,
+  "lipides": 42.81,
+  "sucres": 9.68,
+  "fibres": 3.75,
+  "satures": 19.0,
+  "sel": 4.04,
+  "fer": 4.05,
+  "calcium": 289.31,
+  "magnesium": 59.85,
+  "potassium": 736.8,
+  "zinc": 3.38,
+  "iode": 146.0,
+  "vitd": 1.85,
+  "vitc": 183.06,
+  "b12": 2.26,
+  "b9": 154.92,
+  "alcool": 0.0
+ }
+}

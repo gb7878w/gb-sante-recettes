@@ -1,0 +1,76 @@
+{
+ "id": "r761-halusky-alleges-chou-et-lardons-slovaquie",
+ "nom": "Halušky allégés, chou et lardons (Slovaquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "lowcarb",
+  "Slovaquie",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "28504",
+   "nom": "Lardons nature cuits",
+   "g": 70
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Poêlez lardons et oignon, ajoutez le chou.",
+  "Servez avec le fromage blanc et l'œuf poché."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 452.91,
+  "proteines": 34.45,
+  "glucides": 18.17,
+  "lipides": 24.58,
+  "sucres": 13.83,
+  "fibres": 9.53,
+  "satures": 11.1,
+  "sel": 3.01,
+  "fer": 2.39,
+  "calcium": 309.93,
+  "magnesium": 60.88,
+  "potassium": 1241.0,
+  "zinc": 2.9,
+  "iode": 29.32,
+  "vitd": 1.13,
+  "vitc": 22.82,
+  "b12": 1.66,
+  "b9": 217.5,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "r726-saumon-fume-et-concombre-estonie",
+ "nom": "Saumon fumé et concombre (Estonie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 180,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Roulez le saumon avec le concombre.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 113.32,
+  "proteines": 14.08,
+  "glucides": 4.73,
+  "lipides": 3.91,
+  "sucres": 3.67,
+  "fibres": 0.48,
+  "satures": 0.87,
+  "sel": 1.48,
+  "fer": 0.26,
+  "calcium": 98.15,
+  "magnesium": 33.52,
+  "potassium": 432.4,
+  "zinc": 0.47,
+  "iode": 22.48,
+  "vitd": 2.18,
+  "vitc": 6.6,
+  "b12": 1.58,
+  "b9": 34.64,
+  "alcool": 0.0
+ }
+}

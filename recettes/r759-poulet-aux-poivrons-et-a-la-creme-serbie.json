@@ -1,0 +1,74 @@
+{
+ "id": "r759-poulet-aux-poivrons-et-a-la-creme-serbie",
+ "nom": "Poulet aux poivrons et à la crème (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 392,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez poulet et oignon.",
+  "Ajoutez poivron, paprika et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 342.76,
+  "proteines": 56.31,
+  "glucides": 10.37,
+  "lipides": 6.99,
+  "sucres": 7.4,
+  "fibres": 3.52,
+  "satures": 2.77,
+  "sel": 1.68,
+  "fer": 1.94,
+  "calcium": 150.0,
+  "magnesium": 87.54,
+  "potassium": 1087.4,
+  "zinc": 1.86,
+  "iode": 11.6,
+  "vitd": 1.2,
+  "vitc": 133.73,
+  "b12": 0.61,
+  "b9": 81.76,
+  "alcool": 0.0
+ }
+}
