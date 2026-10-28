@@ -1,0 +1,64 @@
+{
+ "id": "r515-gruyere-et-pomme-suisse",
+ "nom": "Gruyère et pomme (Suisse)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 150,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 30
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez gruyère et pomme en tranches.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 188.82,
+  "proteines": 13.44,
+  "glucides": 9.29,
+  "lipides": 10.55,
+  "sucres": 7.94,
+  "fibres": 0.84,
+  "satures": 5.99,
+  "sel": 0.31,
+  "fer": 0.24,
+  "calcium": 410.6,
+  "magnesium": 22.96,
+  "potassium": 188.1,
+  "zinc": 1.78,
+  "iode": 10.5,
+  "vitd": 0.13,
+  "vitc": 3.75,
+  "b12": 0.71,
+  "b9": 22.5,
+  "alcool": 0.0
+ }
+}

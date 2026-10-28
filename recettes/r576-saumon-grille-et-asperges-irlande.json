@@ -1,0 +1,70 @@
+{
+ "id": "r576-saumon-grille-et-asperges-irlande",
+ "nom": "Saumon grillé et asperges (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Grillez le saumon.",
+  "Servez avec les asperges au beurre citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 443.24,
+  "proteines": 42.24,
+  "glucides": 3.7,
+  "lipides": 27.12,
+  "sucres": 2.75,
+  "fibres": 4.4,
+  "satures": 8.5,
+  "sel": 0.21,
+  "fer": 1.86,
+  "calcium": 62.92,
+  "magnesium": 66.71,
+  "potassium": 1069.06,
+  "zinc": 1.69,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 18.42,
+  "b12": 4.46,
+  "b9": 174.72,
+  "alcool": 0.0
+ }
+}

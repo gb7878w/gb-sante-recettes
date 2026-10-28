@@ -1,0 +1,75 @@
+{
+ "id": "r555-boulettes-de-boeuf-neerlandaises-gehaktballen-et",
+ "nom": "Boulettes de bœuf néerlandaises (gehaktballen) et chou-fleur (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 418,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez viande, œuf et oignon, formez des boulettes.",
+  "Poêlez 10 minutes, servez avec le chou-fleur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 339.8,
+  "proteines": 46.17,
+  "glucides": 5.54,
+  "lipides": 13.54,
+  "sucres": 3.45,
+  "fibres": 4.78,
+  "satures": 5.06,
+  "sel": 0.88,
+  "fer": 5.61,
+  "calcium": 82.74,
+  "magnesium": 67.58,
+  "potassium": 1093.7,
+  "zinc": 10.47,
+  "iode": 15.69,
+  "vitd": 0.56,
+  "vitc": 20.05,
+  "b12": 4.14,
+  "b9": 182.8,
+  "alcool": 0.0
+ }
+}

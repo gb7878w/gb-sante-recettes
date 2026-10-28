@@ -1,0 +1,79 @@
+{
+ "id": "r535-fondue-au-fromage-allegee-et-crudites-suisse",
+ "nom": "Fondue au fromage allégée et crudités (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 50
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 40
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 40
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Faites fondre les fromages avec le vin à feu doux.",
+  "Servez avec chou-fleur et champignons cuits et le jambon sec."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 539.81,
+  "proteines": 42.62,
+  "glucides": 7.47,
+  "lipides": 34.71,
+  "sucres": 5.1,
+  "fibres": 4.0,
+  "satures": 19.44,
+  "sel": 2.84,
+  "fer": 1.66,
+  "calcium": 974.27,
+  "magnesium": 67.69,
+  "potassium": 844.18,
+  "zinc": 5.04,
+  "iode": 16.46,
+  "vitd": 0.52,
+  "vitc": 17.64,
+  "b12": 1.58,
+  "b9": 173.56,
+  "alcool": 3.1
+ }
+}

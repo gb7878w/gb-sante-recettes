@@ -1,0 +1,58 @@
+{
+ "id": "r534-oeuf-dur-et-bacon-croustillant-irlande",
+ "nom": "Œuf dur et bacon croustillant (Irlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 140,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites griller le bacon.",
+  "Servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 182.8,
+  "proteines": 21.78,
+  "glucides": 0.78,
+  "lipides": 10.26,
+  "sucres": 0.57,
+  "fibres": 0.0,
+  "satures": 3.11,
+  "sel": 1.3,
+  "fer": 2.01,
+  "calcium": 46.24,
+  "magnesium": 22.3,
+  "potassium": 273.0,
+  "zinc": 1.82,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 1.97,
+  "b12": 1.34,
+  "b9": 63.13,
+  "alcool": 0.0
+ }
+}

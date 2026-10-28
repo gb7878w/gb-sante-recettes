@@ -1,0 +1,72 @@
+{
+ "id": "r571-irish-stew-sans-pommes-de-terre-irlande",
+ "nom": "Irish stew sans pommes de terre (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 374,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20321",
+   "nom": "Navet cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mijotez agneau, carotte, navet et oignon 45 minutes.",
+  "Parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 323.6,
+  "proteines": 42.08,
+  "glucides": 12.0,
+  "lipides": 10.3,
+  "sucres": 7.72,
+  "fibres": 5.47,
+  "satures": 3.95,
+  "sel": 0.43,
+  "fer": 2.6,
+  "calcium": 98.62,
+  "magnesium": 63.59,
+  "potassium": 889.42,
+  "zinc": 6.29,
+  "iode": 7.5,
+  "vitd": 0.0,
+  "vitc": 16.8,
+  "b12": 2.82,
+  "b9": 100.68,
+  "alcool": 0.0
+ }
+}

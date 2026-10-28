@@ -1,0 +1,69 @@
+{
+ "id": "r594-boeuf-hache-chou-et-oignons-a-l-irlandaise-irlan",
+ "nom": "Bœuf haché, chou et oignons à l'irlandaise (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf et oignon.",
+  "Ajoutez le chou, couvrez 12 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 375.92,
+  "proteines": 42.21,
+  "glucides": 14.18,
+  "lipides": 14.35,
+  "sucres": 10.62,
+  "fibres": 9.79,
+  "satures": 7.4,
+  "sel": 0.32,
+  "fer": 5.04,
+  "calcium": 164.09,
+  "magnesium": 62.76,
+  "potassium": 1181.91,
+  "zinc": 10.09,
+  "iode": 9.23,
+  "vitd": 0.06,
+  "vitc": 23.03,
+  "b12": 3.71,
+  "b9": 189.85,
+  "alcool": 0.0
+ }
+}

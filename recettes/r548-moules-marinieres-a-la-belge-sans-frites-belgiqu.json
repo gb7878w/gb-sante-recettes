@@ -1,0 +1,75 @@
+{
+ "id": "r548-moules-marinieres-a-la-belge-sans-frites-belgiqu",
+ "nom": "Moules marinières à la belge sans frites (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 394,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "poisson"
+ ],
+ "allergenes": [
+  "celeri",
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 300
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 40
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec céleri, échalote et vin.",
+  "Parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 366.6,
+  "proteines": 52.36,
+  "glucides": 20.12,
+  "lipides": 6.3,
+  "sucres": 1.27,
+  "fibres": 1.57,
+  "satures": 1.11,
+  "sel": 2.51,
+  "fer": 12.31,
+  "calcium": 209.35,
+  "magnesium": 209.47,
+  "potassium": 747.21,
+  "zinc": 8.66,
+  "iode": 318.0,
+  "vitd": 0.0,
+  "vitc": 28.49,
+  "b12": 52.8,
+  "b9": 174.12,
+  "alcool": 2.33
+ }
+}

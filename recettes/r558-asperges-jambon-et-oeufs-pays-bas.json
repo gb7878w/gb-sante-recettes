@@ -1,0 +1,70 @@
+{
+ "id": "r558-asperges-jambon-et-oeufs-pays-bas",
+ "nom": "Asperges, jambon et œufs (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 468,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 250
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Cuisez les asperges.",
+  "Servez avec jambon, œufs durs et beurre fondu."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.18,
+  "proteines": 41.23,
+  "glucides": 6.59,
+  "lipides": 19.99,
+  "sucres": 5.21,
+  "fibres": 5.65,
+  "satures": 8.52,
+  "sel": 2.31,
+  "fer": 3.49,
+  "calcium": 109.02,
+  "magnesium": 40.56,
+  "potassium": 1042.26,
+  "zinc": 2.63,
+  "iode": 54.8,
+  "vitd": 1.32,
+  "vitc": 11.83,
+  "b12": 1.23,
+  "b9": 223.39,
+  "alcool": 0.0
+ }
+}

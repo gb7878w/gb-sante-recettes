@@ -1,0 +1,74 @@
+{
+ "id": "r508-fromage-blanc-et-jambon-d-ardenne-belgique",
+ "nom": "Fromage blanc et jambon d'Ardenne (Belgique)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 301,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 50
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et la ciboulette.",
+  "Servez avec le jambon sec et les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 278.98,
+  "proteines": 32.62,
+  "glucides": 9.39,
+  "lipides": 11.63,
+  "sucres": 8.69,
+  "fibres": 1.19,
+  "satures": 3.18,
+  "sel": 2.75,
+  "fer": 0.7,
+  "calcium": 282.78,
+  "magnesium": 38.79,
+  "potassium": 430.65,
+  "zinc": 1.24,
+  "iode": 20.87,
+  "vitd": 0.0,
+  "vitc": 6.13,
+  "b12": 0.8,
+  "b9": 98.11,
+  "alcool": 0.0
+ }
+}

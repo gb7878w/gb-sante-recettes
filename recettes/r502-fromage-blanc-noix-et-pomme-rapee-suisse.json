@@ -1,0 +1,77 @@
+{
+ "id": "r502-fromage-blanc-noix-et-pomme-rapee-suisse",
+ "nom": "Fromage blanc, noix et pomme râpée (Suisse)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 346,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 60
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et la pomme râpée.",
+  "Ajoutez noix et cannelle, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 287.07,
+  "proteines": 26.43,
+  "glucides": 16.77,
+  "lipides": 11.72,
+  "sucres": 14.78,
+  "fibres": 2.04,
+  "satures": 2.15,
+  "sel": 0.41,
+  "fer": 1.66,
+  "calcium": 338.05,
+  "magnesium": 53.02,
+  "potassium": 501.51,
+  "zinc": 2.08,
+  "iode": 50.34,
+  "vitd": 0.62,
+  "vitc": 3.86,
+  "b12": 1.49,
+  "b9": 92.66,
+  "alcool": 0.0
+ }
+}

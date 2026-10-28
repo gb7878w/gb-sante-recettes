@@ -1,0 +1,75 @@
+{
+ "id": "r593-cabillaud-brocoli-et-sauce-persil-royaume-uni",
+ "nom": "Cabillaud, brocoli et sauce persil (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 463,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 200
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Pochez le cabillaud.",
+  "Servez avec le brocoli et la sauce crème-persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.8,
+  "proteines": 54.53,
+  "glucides": 7.38,
+  "lipides": 17.37,
+  "sucres": 5.15,
+  "fibres": 4.62,
+  "satures": 6.68,
+  "sel": 0.64,
+  "fer": 1.99,
+  "calcium": 172.2,
+  "magnesium": 111.27,
+  "potassium": 1367.4,
+  "zinc": 2.1,
+  "iode": 260.0,
+  "vitd": 2.4,
+  "vitc": 52.25,
+  "b12": 3.06,
+  "b9": 190.1,
+  "alcool": 0.0
+ }
+}

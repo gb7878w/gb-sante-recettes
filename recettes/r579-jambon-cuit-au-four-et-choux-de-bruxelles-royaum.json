@@ -1,0 +1,71 @@
+{
+ "id": "r579-jambon-cuit-au-four-et-choux-de-bruxelles-royaum",
+ "nom": "Jambon cuit au four et choux de Bruxelles (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 413,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 150
+  },
+  {
+   "ciqual": "20309",
+   "nom": "Choux de Bruxelles cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Réchauffez le jambon au four.",
+  "Servez avec les choux de Bruxelles et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 347.66,
+  "proteines": 43.76,
+  "glucides": 13.85,
+  "lipides": 10.5,
+  "sucres": 10.6,
+  "fibres": 9.82,
+  "satures": 3.23,
+  "sel": 3.65,
+  "fer": 2.11,
+  "calcium": 114.45,
+  "magnesium": 49.56,
+  "potassium": 1435.0,
+  "zinc": 1.37,
+  "iode": 27.57,
+  "vitd": 0.62,
+  "vitc": 110.82,
+  "b12": 0.61,
+  "b9": 123.4,
+  "alcool": 0.0
+ }
+}

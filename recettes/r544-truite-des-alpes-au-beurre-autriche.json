@@ -1,0 +1,75 @@
+{
+ "id": "r544-truite-des-alpes-au-beurre-autriche",
+ "nom": "Truite des Alpes au beurre (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 344,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite au beurre.",
+  "Servez avec les épinards, citron et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 363.83,
+  "proteines": 41.84,
+  "glucides": 0.39,
+  "lipides": 19.99,
+  "sucres": 0.2,
+  "fibres": 5.42,
+  "satures": 8.22,
+  "sel": 0.3,
+  "fer": 2.75,
+  "calcium": 474.45,
+  "magnesium": 95.69,
+  "potassium": 945.44,
+  "zinc": 2.26,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 16.51,
+  "b12": 7.77,
+  "b9": 121.25,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "r528-cheddar-et-celeri-royaume-uni",
+ "nom": "Cheddar et céleri (Royaume-Uni)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 150,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "celeri",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 30
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez céleri et fromage.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 159.9,
+  "proteines": 12.35,
+  "glucides": 3.78,
+  "lipides": 10.16,
+  "sucres": 3.11,
+  "fibres": 1.32,
+  "satures": 5.87,
+  "sel": 0.67,
+  "fer": 0.18,
+  "calcium": 310.5,
+  "magnesium": 22.02,
+  "potassium": 343.2,
+  "zinc": 1.38,
+  "iode": 17.49,
+  "vitd": 0.18,
+  "vitc": 3.31,
+  "b12": 0.5,
+  "b9": 56.28,
+  "alcool": 0.0
+ }
+}

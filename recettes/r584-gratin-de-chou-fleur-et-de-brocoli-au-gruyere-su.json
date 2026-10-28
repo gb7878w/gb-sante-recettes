@@ -1,0 +1,76 @@
+{
+ "id": "r584-gratin-de-chou-fleur-et-de-brocoli-au-gruyere-su",
+ "nom": "Gratin de chou-fleur et de brocoli au gruyère (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 40
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez les légumes cuits avec le jambon.",
+  "Nappez d'œufs battus et de gruyère, enfournez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 493.35,
+  "proteines": 46.95,
+  "glucides": 7.48,
+  "lipides": 29.32,
+  "sucres": 5.75,
+  "fibres": 6.39,
+  "satures": 12.32,
+  "sel": 1.96,
+  "fer": 3.71,
+  "calcium": 616.96,
+  "magnesium": 82.73,
+  "potassium": 1283.0,
+  "zinc": 4.29,
+  "iode": 30.72,
+  "vitd": 2.43,
+  "vitc": 45.6,
+  "b12": 2.36,
+  "b9": 287.55,
+  "alcool": 0.0
+ }
+}

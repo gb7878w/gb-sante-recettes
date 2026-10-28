@@ -1,0 +1,75 @@
+{
+ "id": "r511-plateau-de-fromages-et-de-noix-pays-bas",
+ "nom": "Plateau de fromages et de noix (Pays-Bas)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 260,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 25
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Disposez fromages, noix et concombre.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 343.38,
+  "proteines": 26.6,
+  "glucides": 7.79,
+  "lipides": 22.45,
+  "sucres": 6.97,
+  "fibres": 0.97,
+  "satures": 10.11,
+  "sel": 0.76,
+  "fer": 0.94,
+  "calcium": 631.6,
+  "magnesium": 55.42,
+  "potassium": 380.85,
+  "zinc": 3.01,
+  "iode": 30.47,
+  "vitd": 0.15,
+  "vitc": 4.2,
+  "b12": 1.32,
+  "b9": 69.0,
+  "alcool": 0.0
+ }
+}

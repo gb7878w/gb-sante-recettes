@@ -1,0 +1,75 @@
+{
+ "id": "r564-shepherd-s-pie-au-chou-fleur-royaume-uni",
+ "nom": "Shepherd's pie au chou-fleur (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 130
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'agneau avec carotte et coulis.",
+  "Couvrez de purée de chou-fleur et de cheddar, gratinez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 405.45,
+  "proteines": 45.25,
+  "glucides": 13.67,
+  "lipides": 16.93,
+  "sucres": 10.88,
+  "fibres": 8.18,
+  "satures": 7.62,
+  "sel": 1.21,
+  "fer": 2.77,
+  "calcium": 226.34,
+  "magnesium": 83.56,
+  "potassium": 1139.5,
+  "zinc": 6.56,
+  "iode": 14.0,
+  "vitd": 0.12,
+  "vitc": 25.48,
+  "b12": 2.62,
+  "b9": 259.94,
+  "alcool": 0.0
+ }
+}

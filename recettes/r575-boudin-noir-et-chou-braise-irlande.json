@@ -1,0 +1,69 @@
+{
+ "id": "r575-boudin-noir-et-chou-braise-irlande",
+ "nom": "Boudin noir et chou braisé (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "8704",
+   "nom": "Boudin noir poêlé",
+   "g": 130
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez le boudin noir et le bacon.",
+  "Servez avec le chou braisé et la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 452.16,
+  "proteines": 28.02,
+  "glucides": 14.8,
+  "lipides": 29.53,
+  "sucres": 12.25,
+  "fibres": 7.0,
+  "satures": 10.71,
+  "sel": 3.54,
+  "fer": 30.55,
+  "calcium": 161.78,
+  "magnesium": 46.11,
+  "potassium": 881.5,
+  "zinc": 1.84,
+  "iode": 52.24,
+  "vitd": 0.97,
+  "vitc": 20.4,
+  "b12": 0.41,
+  "b9": 192.46,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "id": "r551-filet-americain-tartare-de-boeuf-et-salade-belgi",
+ "nom": "Filet américain, tartare de bœuf et salade (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 444,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "11040",
+   "nom": "Câpres",
+   "g": 8
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mêlez le bœuf haché cuit refroidi, l'œuf, cornichons, câpres et moutarde.",
+  "Servez sur la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 406.44,
+  "proteines": 49.02,
+  "glucides": 6.19,
+  "lipides": 19.68,
+  "sucres": 4.95,
+  "fibres": 1.7,
+  "satures": 4.41,
+  "sel": 1.53,
+  "fer": 2.39,
+  "calcium": 259.64,
+  "magnesium": 43.16,
+  "potassium": 432.6,
+  "zinc": 1.36,
+  "iode": 24.16,
+  "vitd": 1.13,
+  "vitc": 9.8,
+  "b12": 1.27,
+  "b9": 84.94,
+  "alcool": 0.0
+ }
+}

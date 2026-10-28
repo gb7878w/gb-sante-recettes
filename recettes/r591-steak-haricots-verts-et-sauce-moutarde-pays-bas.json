@@ -1,0 +1,71 @@
+{
+ "id": "r591-steak-haricots-verts-et-sauce-moutarde-pays-bas",
+ "nom": "Steak, haricots verts et sauce moutarde (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6100",
+   "nom": "Entrecôte grillée",
+   "g": 150
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Grillez l'entrecôte.",
+  "Servez avec haricots verts et sauce crème-moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 402.79,
+  "proteines": 43.04,
+  "glucides": 8.2,
+  "lipides": 20.32,
+  "sucres": 6.18,
+  "fibres": 6.4,
+  "satures": 9.54,
+  "sel": 0.77,
+  "fer": 5.05,
+  "calcium": 153.15,
+  "magnesium": 92.61,
+  "potassium": 982.25,
+  "zinc": 10.0,
+  "iode": 9.24,
+  "vitd": 0.15,
+  "vitc": 2.34,
+  "b12": 2.77,
+  "b9": 108.6,
+  "alcool": 0.0
+ }
+}

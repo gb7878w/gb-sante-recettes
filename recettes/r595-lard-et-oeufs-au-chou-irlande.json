@@ -1,0 +1,71 @@
+{
+ "id": "r595-lard-et-oeufs-au-chou-irlande",
+ "nom": "Lard et œufs au chou (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez bacon et chou.",
+  "Ajoutez les œufs et couvrez 3 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 396.05,
+  "proteines": 41.13,
+  "glucides": 10.33,
+  "lipides": 19.67,
+  "sucres": 8.77,
+  "fibres": 7.0,
+  "satures": 7.45,
+  "sel": 3.62,
+  "fer": 3.26,
+  "calcium": 214.85,
+  "magnesium": 58.3,
+  "potassium": 1112.21,
+  "zinc": 2.94,
+  "iode": 25.28,
+  "vitd": 2.31,
+  "vitc": 24.31,
+  "b12": 2.13,
+  "b9": 229.25,
+  "alcool": 0.0
+ }
+}

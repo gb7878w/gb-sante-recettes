@@ -1,0 +1,72 @@
+{
+ "id": "r507-oeufs-brouilles-aux-crevettes-grises-belgique",
+ "nom": "Œufs brouillés aux crevettes grises (Belgique)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 188,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs dans le beurre.",
+  "Ajoutez les crevettes et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 262.62,
+  "proteines": 26.79,
+  "glucides": 1.6,
+  "lipides": 16.59,
+  "sucres": 0.39,
+  "fibres": 0.13,
+  "satures": 6.08,
+  "sel": 1.2,
+  "fer": 3.59,
+  "calcium": 243.59,
+  "magnesium": 51.09,
+  "potassium": 332.55,
+  "zinc": 2.25,
+  "iode": 25.28,
+  "vitd": 2.31,
+  "vitc": 5.81,
+  "b12": 2.73,
+  "b9": 53.73,
+  "alcool": 0.0
+ }
+}

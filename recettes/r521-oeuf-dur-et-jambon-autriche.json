@@ -1,0 +1,62 @@
+{
+ "id": "r521-oeuf-dur-et-jambon-autriche",
+ "nom": "Œuf dur et jambon (Autriche)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 170,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec le jambon et les cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 196.88,
+  "proteines": 22.9,
+  "glucides": 1.37,
+  "lipides": 10.78,
+  "sucres": 1.22,
+  "fibres": 0.36,
+  "satures": 3.28,
+  "sel": 1.47,
+  "fer": 1.94,
+  "calcium": 62.1,
+  "magnesium": 20.0,
+  "potassium": 299.2,
+  "zinc": 1.42,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 0.0,
+  "b12": 1.22,
+  "b9": 50.7,
+  "alcool": 0.0
+ }
+}

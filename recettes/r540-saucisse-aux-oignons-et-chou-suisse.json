@@ -1,0 +1,74 @@
+{
+ "id": "r540-saucisse-aux-oignons-et-chou-suisse",
+ "nom": "Saucisse aux oignons et chou (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon, ajoutez le chou, braisez 15 minutes.",
+  "Servez avec saucisses et jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 532.38,
+  "proteines": 35.32,
+  "glucides": 14.9,
+  "lipides": 34.78,
+  "sucres": 10.84,
+  "fibres": 8.14,
+  "satures": 13.13,
+  "sel": 4.54,
+  "fer": 1.97,
+  "calcium": 158.55,
+  "magnesium": 43.49,
+  "potassium": 1015.8,
+  "zinc": 2.23,
+  "iode": 18.44,
+  "vitd": 0.34,
+  "vitc": 18.62,
+  "b12": 0.55,
+  "b9": 147.08,
+  "alcool": 0.0
+ }
+}

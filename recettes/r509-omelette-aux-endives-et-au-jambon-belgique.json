@@ -1,0 +1,70 @@
+{
+ "id": "r509-omelette-aux-endives-et-au-jambon-belgique",
+ "nom": "Omelette aux endives et au jambon (Belgique)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 275,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir les endives émincées dans le beurre.",
+  "Ajoutez les œufs battus et le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 284.85,
+  "proteines": 25.57,
+  "glucides": 3.87,
+  "lipides": 18.15,
+  "sucres": 3.32,
+  "fibres": 1.16,
+  "satures": 6.63,
+  "sel": 1.19,
+  "fer": 2.57,
+  "calcium": 124.73,
+  "magnesium": 22.7,
+  "potassium": 468.81,
+  "zinc": 1.45,
+  "iode": 27.38,
+  "vitd": 2.5,
+  "vitc": 2.12,
+  "b12": 1.89,
+  "b9": 69.95,
+  "alcool": 0.0
+ }
+}

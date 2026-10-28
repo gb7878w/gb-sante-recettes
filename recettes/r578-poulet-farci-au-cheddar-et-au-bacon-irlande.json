@@ -1,0 +1,70 @@
+{
+ "id": "r578-poulet-farci-au-cheddar-et-au-bacon-irlande",
+ "nom": "Poulet farci au cheddar et au bacon (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 30
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Ouvrez le poulet, garnissez de cheddar, enveloppez de bacon.",
+  "Enfournez 25 minutes à 200 °C, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 453.6,
+  "proteines": 69.85,
+  "glucides": 5.34,
+  "lipides": 15.58,
+  "sucres": 3.0,
+  "fibres": 4.4,
+  "satures": 7.63,
+  "sel": 2.04,
+  "fer": 1.95,
+  "calcium": 283.07,
+  "magnesium": 118.8,
+  "potassium": 1550.8,
+  "zinc": 3.73,
+  "iode": 11.25,
+  "vitd": 0.18,
+  "vitc": 46.16,
+  "b12": 0.69,
+  "b9": 205.17,
+  "alcool": 0.0
+ }
+}

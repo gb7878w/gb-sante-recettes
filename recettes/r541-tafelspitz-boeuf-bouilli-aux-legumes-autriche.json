@@ -1,0 +1,86 @@
+{
+ "id": "r541-tafelspitz-boeuf-bouilli-aux-legumes-autriche",
+ "nom": "Tafelspitz, bœuf bouilli aux légumes (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 536,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "viande"
+ ],
+ "allergenes": [
+  "celeri",
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 180
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20025",
+   "nom": "Céleri-rave cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mijotez le bœuf avec les légumes 45 minutes.",
+  "Servez avec la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 380.52,
+  "proteines": 47.41,
+  "glucides": 16.65,
+  "lipides": 11.76,
+  "sucres": 12.46,
+  "fibres": 7.44,
+  "satures": 5.91,
+  "sel": 0.82,
+  "fer": 1.06,
+  "calcium": 203.05,
+  "magnesium": 42.32,
+  "potassium": 709.26,
+  "zinc": 0.89,
+  "iode": 8.69,
+  "vitd": 0.09,
+  "vitc": 5.12,
+  "b12": 0.33,
+  "b9": 142.68,
+  "alcool": 0.0
+ }
+}

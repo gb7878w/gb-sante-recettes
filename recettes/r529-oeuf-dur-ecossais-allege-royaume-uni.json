@@ -1,0 +1,64 @@
+{
+ "id": "r529-oeuf-dur-ecossais-allege-royaume-uni",
+ "nom": "Œuf dur écossais allégé (Royaume-Uni)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 99,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "four"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Enrobez l'œuf dur de saucisse écrasée.",
+  "Enfournez 12 minutes à 200 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 188.18,
+  "proteines": 13.18,
+  "glucides": 0.96,
+  "lipides": 14.55,
+  "sucres": 0.75,
+  "fibres": 0.0,
+  "satures": 5.03,
+  "sel": 1.22,
+  "fer": 1.38,
+  "calcium": 32.6,
+  "magnesium": 14.39,
+  "potassium": 137.6,
+  "zinc": 1.29,
+  "iode": 33.05,
+  "vitd": 0.72,
+  "vitc": 0.01,
+  "b12": 0.78,
+  "b9": 25.14,
+  "alcool": 0.0
+ }
+}

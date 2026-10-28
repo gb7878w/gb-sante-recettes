@@ -1,0 +1,74 @@
+{
+ "id": "r506-assiette-de-jambon-fromage-et-oeuf-dur-autriche",
+ "nom": "Assiette de jambon, fromage et œuf dur (Autriche)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 25
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Disposez jambon, fromage, œuf dur, cornichons et radis.",
+  "Assaisonnez de poivre et servez frais."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 248.07,
+  "proteines": 25.02,
+  "glucides": 1.94,
+  "lipides": 15.01,
+  "sucres": 1.57,
+  "fibres": 1.08,
+  "satures": 6.94,
+  "sel": 1.88,
+  "fer": 1.25,
+  "calcium": 325.55,
+  "magnesium": 26.88,
+  "potassium": 406.25,
+  "zinc": 1.99,
+  "iode": 30.79,
+  "vitd": 0.73,
+  "vitc": 4.88,
+  "b12": 1.0,
+  "b9": 69.56,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": "r583-perche-et-crevettes-sauce-citron-suisse",
+ "nom": "Perche et crevettes sauce citron (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 438,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 70
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Pochez le poisson.",
+  "Ajoutez crevettes, crème et citron, servez avec les asperges."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.85,
+  "proteines": 55.47,
+  "glucides": 6.29,
+  "lipides": 14.53,
+  "sucres": 4.2,
+  "fibres": 3.3,
+  "satures": 9.38,
+  "sel": 1.37,
+  "fer": 2.66,
+  "calcium": 282.87,
+  "magnesium": 115.35,
+  "potassium": 1169.56,
+  "zinc": 2.65,
+  "iode": 225.13,
+  "vitd": 1.18,
+  "vitc": 13.81,
+  "b12": 2.57,
+  "b9": 168.7,
+  "alcool": 0.0
+ }
+}

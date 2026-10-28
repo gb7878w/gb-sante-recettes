@@ -1,0 +1,74 @@
+{
+ "id": "r546-fricassee-de-poulet-au-paprika-autriche",
+ "nom": "Fricassée de poulet au paprika (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 394,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet avec l'oignon et le paprika.",
+  "Ajoutez courgettes et crème, mijotez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 336.93,
+  "proteines": 51.78,
+  "glucides": 7.14,
+  "lipides": 9.66,
+  "sucres": 4.26,
+  "fibres": 4.69,
+  "satures": 4.92,
+  "sel": 0.44,
+  "fer": 1.99,
+  "calcium": 92.83,
+  "magnesium": 105.53,
+  "potassium": 1263.0,
+  "zinc": 1.7,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 7.51,
+  "b12": 0.29,
+  "b9": 71.64,
+  "alcool": 0.0
+ }
+}

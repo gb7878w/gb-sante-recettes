@@ -1,0 +1,70 @@
+{
+ "id": "r547-gratin-d-endives-au-jambon-a-la-belge-belgique",
+ "nom": "Gratin d'endives au jambon à la belge (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 300
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 140
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Braisez les endives, enroulez-les dans le jambon.",
+  "Nappez de crème et d'emmental, gratinez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 375.45,
+  "proteines": 40.33,
+  "glucides": 12.03,
+  "lipides": 17.17,
+  "sucres": 10.31,
+  "fibres": 3.51,
+  "satures": 9.9,
+  "sel": 3.01,
+  "fer": 0.81,
+  "calcium": 399.2,
+  "magnesium": 39.09,
+  "potassium": 1018.52,
+  "zinc": 1.71,
+  "iode": 6.42,
+  "vitd": 0.0,
+  "vitc": 6.36,
+  "b12": 0.61,
+  "b9": 86.82,
+  "alcool": 0.0
+ }
+}

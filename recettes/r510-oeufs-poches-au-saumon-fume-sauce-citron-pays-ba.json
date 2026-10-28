@@ -1,0 +1,72 @@
+{
+ "id": "r510-oeufs-poches-au-saumon-fume-sauce-citron-pays-ba",
+ "nom": "Œufs pochés au saumon fumé, sauce citron (Pays-Bas)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 205,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Pochez les œufs 3 minutes.",
+  "Servez sur le saumon avec une sauce fromage blanc-citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 260.34,
+  "proteines": 27.22,
+  "glucides": 2.32,
+  "lipides": 15.61,
+  "sucres": 1.92,
+  "fibres": 0.0,
+  "satures": 4.0,
+  "sel": 1.82,
+  "fer": 2.39,
+  "calcium": 148.7,
+  "magnesium": 33.8,
+  "potassium": 445.8,
+  "zinc": 1.52,
+  "iode": 45.36,
+  "vitd": 4.44,
+  "vitc": 2.25,
+  "b12": 3.24,
+  "b9": 62.22,
+  "alcool": 0.0
+ }
+}

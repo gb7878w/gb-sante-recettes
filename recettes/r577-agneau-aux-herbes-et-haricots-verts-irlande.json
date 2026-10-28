@@ -1,0 +1,70 @@
+{
+ "id": "r577-agneau-aux-herbes-et-haricots-verts-irlande",
+ "nom": "Agneau aux herbes et haricots verts (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 358,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau au thym 20 minutes à 200 °C.",
+  "Servez avec les haricots verts au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 356.1,
+  "proteines": 43.85,
+  "glucides": 7.05,
+  "lipides": 15.2,
+  "sucres": 5.05,
+  "fibres": 6.68,
+  "satures": 7.22,
+  "sel": 0.29,
+  "fer": 3.53,
+  "calcium": 143.87,
+  "magnesium": 101.37,
+  "potassium": 985.37,
+  "zinc": 6.5,
+  "iode": 7.6,
+  "vitd": 0.07,
+  "vitc": 5.52,
+  "b12": 2.83,
+  "b9": 125.58,
+  "alcool": 0.0
+ }
+}

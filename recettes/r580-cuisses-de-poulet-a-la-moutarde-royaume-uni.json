@@ -1,0 +1,71 @@
+{
+ "id": "r580-cuisses-de-poulet-a-la-moutarde-royaume-uni",
+ "nom": "Cuisses de poulet à la moutarde (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 387,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36006",
+   "nom": "Cuisse de poulet rôtie, sans peau",
+   "g": 170
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 12
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le poulet de moutarde.",
+  "Rôtissez 30 minutes à 200 °C, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 421.19,
+  "proteines": 51.28,
+  "glucides": 5.63,
+  "lipides": 20.47,
+  "sucres": 3.24,
+  "fibres": 4.4,
+  "satures": 7.06,
+  "sel": 1.28,
+  "fer": 3.42,
+  "calcium": 102.97,
+  "magnesium": 90.32,
+  "potassium": 1127.81,
+  "zinc": 5.05,
+  "iode": 0.44,
+  "vitd": 0.28,
+  "vitc": 41.44,
+  "b12": 0.62,
+  "b9": 174.31,
+  "alcool": 0.0
+ }
+}

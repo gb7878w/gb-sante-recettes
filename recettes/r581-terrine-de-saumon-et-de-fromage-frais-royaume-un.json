@@ -1,0 +1,76 @@
+{
+ "id": "r581-terrine-de-saumon-et-de-fromage-frais-royaume-un",
+ "nom": "Terrine de saumon et de fromage frais (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mixez saumon cuit, fromage blanc et citron.",
+  "Entourez de saumon fumé, servez avec le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 404.91,
+  "proteines": 47.29,
+  "glucides": 6.92,
+  "lipides": 20.2,
+  "sucres": 5.62,
+  "fibres": 0.6,
+  "satures": 4.14,
+  "sel": 1.69,
+  "fer": 0.82,
+  "calcium": 171.42,
+  "magnesium": 78.93,
+  "potassium": 1030.5,
+  "zinc": 1.26,
+  "iode": 26.7,
+  "vitd": 2.18,
+  "vitc": 15.48,
+  "b12": 5.35,
+  "b9": 74.84,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r545-saucisses-au-chou-rouge-autriche",
+ "nom": "Saucisses au chou rouge (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 398,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "20095",
+   "nom": "Chou rouge cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Braisez le chou rouge.",
+  "Réchauffez les saucisses et servez avec le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 467.76,
+  "proteines": 33.73,
+  "glucides": 9.6,
+  "lipides": 31.42,
+  "sucres": 8.9,
+  "fibres": 5.31,
+  "satures": 11.71,
+  "sel": 4.42,
+  "fer": 2.56,
+  "calcium": 142.9,
+  "magnesium": 41.74,
+  "potassium": 983.4,
+  "zinc": 2.01,
+  "iode": 19.74,
+  "vitd": 0.31,
+  "vitc": 68.82,
+  "b12": 0.5,
+  "b9": 50.52,
+  "alcool": 0.0
+ }
+}

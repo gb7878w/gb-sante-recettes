@@ -1,0 +1,63 @@
+{
+ "id": "r518-saucisse-grillee-et-radis-suisse",
+ "nom": "Saucisse grillée et radis (Suisse)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 116,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 50
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez la saucisse.",
+  "Servez avec les radis et la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 153.32,
+  "proteines": 7.83,
+  "glucides": 1.8,
+  "lipides": 12.37,
+  "sucres": 1.26,
+  "fibres": 0.84,
+  "satures": 4.55,
+  "sel": 1.4,
+  "fer": 0.8,
+  "calcium": 22.43,
+  "magnesium": 12.57,
+  "potassium": 241.0,
+  "zinc": 0.79,
+  "iode": 7.18,
+  "vitd": 0.13,
+  "vitc": 7.34,
+  "b12": 0.21,
+  "b9": 58.49,
+  "alcool": 0.0
+ }
+}

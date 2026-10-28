@@ -1,0 +1,75 @@
+{
+ "id": "r549-waterzooi-de-poulet-belgique",
+ "nom": "Waterzooi de poulet (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande"
+ ],
+ "allergenes": [
+  "celeri",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 40
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mijotez poulet et légumes dans un peu de bouillon 25 minutes.",
+  "Liez avec la crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 341.56,
+  "proteines": 51.07,
+  "glucides": 10.24,
+  "lipides": 8.8,
+  "sucres": 7.91,
+  "fibres": 5.7,
+  "satures": 4.72,
+  "sel": 0.44,
+  "fer": 1.13,
+  "calcium": 108.52,
+  "magnesium": 81.65,
+  "potassium": 1199.8,
+  "zinc": 1.4,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 7.02,
+  "b12": 0.29,
+  "b9": 94.84,
+  "alcool": 0.0
+ }
+}

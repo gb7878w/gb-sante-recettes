@@ -1,0 +1,70 @@
+{
+ "id": "r569-oeufs-ecossais-au-four-et-salade-royaume-uni",
+ "nom": "Œufs écossais au four et salade (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Enrobez les œufs durs de viande hachée assaisonnée.",
+  "Enfournez 20 minutes à 200 °C, servez avec la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 377.48,
+  "proteines": 44.21,
+  "glucides": 5.51,
+  "lipides": 19.06,
+  "sucres": 4.24,
+  "fibres": 1.96,
+  "satures": 6.36,
+  "sel": 0.66,
+  "fer": 6.06,
+  "calcium": 131.73,
+  "magnesium": 59.62,
+  "potassium": 845.6,
+  "zinc": 7.48,
+  "iode": 87.86,
+  "vitd": 1.85,
+  "vitc": 25.74,
+  "b12": 3.81,
+  "b9": 126.5,
+  "alcool": 0.0
+ }
+}

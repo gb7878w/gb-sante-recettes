@@ -1,0 +1,70 @@
+{
+ "id": "r559-poulet-roti-brocoli-au-fromage-pays-bas",
+ "nom": "Poulet rôti, brocoli au fromage (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 395,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 25 minutes.",
+  "Gratinez le brocoli avec le fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.55,
+  "proteines": 63.65,
+  "glucides": 5.11,
+  "lipides": 18.81,
+  "sucres": 3.04,
+  "fibres": 4.4,
+  "satures": 10.0,
+  "sel": 0.79,
+  "fer": 1.83,
+  "calcium": 282.91,
+  "magnesium": 113.4,
+  "potassium": 1408.21,
+  "zinc": 3.25,
+  "iode": 11.33,
+  "vitd": 0.23,
+  "vitc": 43.69,
+  "b12": 0.56,
+  "b9": 186.63,
+  "alcool": 0.0
+ }
+}

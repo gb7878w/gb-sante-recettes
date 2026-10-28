@@ -1,0 +1,73 @@
+{
+ "id": "r590-omelette-a-l-aneth-et-au-saumon-pays-bas",
+ "nom": "Omelette à l'aneth et au saumon (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 303,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 60
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Battez les œufs avec l'aneth.",
+  "Cuisez en omelette, garnissez de saumon et de fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.89,
+  "proteines": 40.95,
+  "glucides": 3.48,
+  "lipides": 23.45,
+  "sucres": 2.86,
+  "fibres": 0.1,
+  "satures": 6.01,
+  "sel": 2.73,
+  "fer": 3.74,
+  "calcium": 228.28,
+  "magnesium": 50.94,
+  "potassium": 677.61,
+  "zinc": 2.31,
+  "iode": 68.16,
+  "vitd": 6.65,
+  "vitc": 2.1,
+  "b12": 4.86,
+  "b9": 94.68,
+  "alcool": 0.0
+ }
+}

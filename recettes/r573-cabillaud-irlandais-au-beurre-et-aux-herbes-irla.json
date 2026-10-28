@@ -1,0 +1,75 @@
+{
+ "id": "r573-cabillaud-irlandais-au-beurre-et-aux-herbes-irla",
+ "nom": "Cabillaud irlandais au beurre et aux herbes (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 180
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Poêlez le cabillaud au beurre aux herbes.",
+  "Servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 324.06,
+  "proteines": 48.62,
+  "glucides": 5.45,
+  "lipides": 10.66,
+  "sucres": 3.2,
+  "fibres": 4.57,
+  "satures": 6.19,
+  "sel": 0.52,
+  "fer": 1.9,
+  "calcium": 116.72,
+  "magnesium": 101.5,
+  "potassium": 1255.34,
+  "zinc": 2.03,
+  "iode": 234.16,
+  "vitd": 2.27,
+  "vitc": 54.78,
+  "b12": 2.77,
+  "b9": 189.9,
+  "alcool": 0.0
+ }
+}

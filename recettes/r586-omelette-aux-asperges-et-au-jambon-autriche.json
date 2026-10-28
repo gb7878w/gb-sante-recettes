@@ -1,0 +1,70 @@
+{
+ "id": "r586-omelette-aux-asperges-et-au-jambon-autriche",
+ "nom": "Omelette aux asperges et au jambon (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 406,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez les asperges au beurre.",
+  "Ajoutez le jambon et les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.76,
+  "proteines": 39.97,
+  "glucides": 4.13,
+  "lipides": 25.96,
+  "sucres": 3.31,
+  "fibres": 3.39,
+  "satures": 9.1,
+  "sel": 1.77,
+  "fer": 4.53,
+  "calcium": 184.49,
+  "magnesium": 36.02,
+  "potassium": 801.09,
+  "zinc": 2.66,
+  "iode": 40.0,
+  "vitd": 3.64,
+  "vitc": 7.1,
+  "b12": 2.77,
+  "b9": 169.63,
+  "alcool": 0.0
+ }
+}

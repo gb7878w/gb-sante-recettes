@@ -1,0 +1,70 @@
+{
+ "id": "r572-chou-et-bacon-a-l-irlandaise-irlande",
+ "nom": "Chou et bacon à l'irlandaise (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 413,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 150
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites cuire le chou 12 minutes.",
+  "Poêlez le bacon, servez avec la moutarde et un peu de beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 317.46,
+  "proteines": 38.69,
+  "glucides": 13.02,
+  "lipides": 10.37,
+  "sucres": 10.67,
+  "fibres": 8.75,
+  "satures": 4.99,
+  "sel": 5.35,
+  "fer": 1.5,
+  "calcium": 160.99,
+  "magnesium": 65.97,
+  "potassium": 1318.41,
+  "zinc": 2.56,
+  "iode": 0.32,
+  "vitd": 0.06,
+  "vitc": 32.05,
+  "b12": 0.58,
+  "b9": 248.4,
+  "alcool": 0.0
+ }
+}

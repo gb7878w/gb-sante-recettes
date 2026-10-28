@@ -1,0 +1,76 @@
+{
+ "id": "r560-cabillaud-et-crevettes-au-beurre-citronne-pays-b",
+ "nom": "Cabillaud et crevettes au beurre citronné (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 150
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 70
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez cabillaud et crevettes au beurre.",
+  "Servez avec les épinards et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 326.57,
+  "proteines": 51.89,
+  "glucides": 1.56,
+  "lipides": 10.91,
+  "sucres": 0.16,
+  "fibres": 5.25,
+  "satures": 6.06,
+  "sel": 1.34,
+  "fer": 3.8,
+  "calcium": 558.48,
+  "magnesium": 132.8,
+  "potassium": 880.12,
+  "zinc": 3.16,
+  "iode": 195.16,
+  "vitd": 1.91,
+  "vitc": 6.58,
+  "b12": 3.46,
+  "b9": 122.41,
+  "alcool": 0.0
+ }
+}

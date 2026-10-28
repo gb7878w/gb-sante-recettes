@@ -1,0 +1,90 @@
+{
+ "id": "r550-carbonade-flamande-allegee-belgique",
+ "nom": "Carbonade flamande allégée (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 476,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 80
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 8
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf et oignons.",
+  "Ajoutez moutarde, vinaigre et champignons, mijotez 50 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 437.13,
+  "proteines": 45.87,
+  "glucides": 13.03,
+  "lipides": 21.08,
+  "sucres": 6.79,
+  "fibres": 3.08,
+  "satures": 7.34,
+  "sel": 0.85,
+  "fer": 0.77,
+  "calcium": 161.2,
+  "magnesium": 33.0,
+  "potassium": 649.64,
+  "zinc": 1.15,
+  "iode": 11.83,
+  "vitd": 0.39,
+  "vitc": 4.82,
+  "b12": 0.41,
+  "b9": 69.89,
+  "alcool": 0.02
+ }
+}

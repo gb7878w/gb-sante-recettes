@@ -1,0 +1,69 @@
+{
+ "id": "r539-poulet-a-la-creme-de-gruyere-suisse",
+ "nom": "Poulet à la crème de gruyère (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet, nappez de crème et de gruyère.",
+  "Servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 473.8,
+  "proteines": 63.11,
+  "glucides": 6.78,
+  "lipides": 20.18,
+  "sucres": 4.68,
+  "fibres": 4.4,
+  "satures": 11.07,
+  "sel": 0.59,
+  "fer": 1.83,
+  "calcium": 448.05,
+  "magnesium": 116.86,
+  "potassium": 1421.1,
+  "zinc": 3.61,
+  "iode": 4.14,
+  "vitd": 0.13,
+  "vitc": 43.55,
+  "b12": 0.74,
+  "b9": 182.22,
+  "alcool": 0.0
+ }
+}

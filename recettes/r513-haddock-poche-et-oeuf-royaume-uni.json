@@ -1,0 +1,71 @@
+{
+ "id": "r513-haddock-poche-et-oeuf-royaume-uni",
+ "nom": "Haddock poché et œuf (Royaume-Uni)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 213,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 50
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Pochez le haddock dans le lait.",
+  "Servez avec l'œuf poché et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 205.79,
+  "proteines": 32.02,
+  "glucides": 2.68,
+  "lipides": 7.42,
+  "sucres": 2.52,
+  "fibres": 0.13,
+  "satures": 2.24,
+  "sel": 2.16,
+  "fer": 2.69,
+  "calcium": 160.12,
+  "magnesium": 67.84,
+  "potassium": 596.84,
+  "zinc": 1.32,
+  "iode": 273.65,
+  "vitd": 1.93,
+  "vitc": 6.06,
+  "b12": 2.66,
+  "b9": 44.16,
+  "alcool": 0.0
+ }
+}

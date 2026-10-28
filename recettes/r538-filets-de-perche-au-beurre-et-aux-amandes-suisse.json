@@ -1,0 +1,76 @@
+{
+ "id": "r538-filets-de-perche-au-beurre-et-aux-amandes-suisse",
+ "nom": "Filets de perche au beurre et aux amandes (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 414,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "poisson"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 180
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Poêlez le poisson au beurre.",
+  "Ajoutez amandes effilées et citron, servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 399.67,
+  "proteines": 49.76,
+  "glucides": 8.2,
+  "lipides": 15.94,
+  "sucres": 5.68,
+  "fibres": 7.9,
+  "satures": 7.03,
+  "sel": 0.42,
+  "fer": 1.87,
+  "calcium": 170.46,
+  "magnesium": 148.08,
+  "potassium": 1331.78,
+  "zinc": 1.73,
+  "iode": 270.19,
+  "vitd": 1.45,
+  "vitc": 8.78,
+  "b12": 1.71,
+  "b9": 177.26,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "id": "r554-hareng-frais-et-salade-tiede-pays-bas",
+ "nom": "Hareng frais et salade tiède (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 345,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Émincez l'oignon et les cornichons.",
+  "Servez le hareng avec l'œuf dur sur la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 345.94,
+  "proteines": 36.29,
+  "glucides": 3.5,
+  "lipides": 19.75,
+  "sucres": 1.11,
+  "fibres": 2.19,
+  "satures": 4.78,
+  "sel": 6.37,
+  "fer": 2.88,
+  "calcium": 190.63,
+  "magnesium": 86.64,
+  "potassium": 877.0,
+  "zinc": 1.69,
+  "iode": 28.31,
+  "vitd": 27.17,
+  "vitc": 10.06,
+  "b12": 20.71,
+  "b9": 82.55,
+  "alcool": 0.0
+ }
+}

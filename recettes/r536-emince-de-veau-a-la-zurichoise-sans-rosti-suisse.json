@@ -1,0 +1,74 @@
+{
+ "id": "r536-emince-de-veau-a-la-zurichoise-sans-rosti-suisse",
+ "nom": "Émincé de veau à la zurichoise sans rösti (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 384,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Saisissez le veau en lanières.",
+  "Ajoutez champignons, vin et crème, mijotez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 360.24,
+  "proteines": 54.86,
+  "glucides": 7.8,
+  "lipides": 9.97,
+  "sucres": 5.52,
+  "fibres": 1.67,
+  "satures": 5.18,
+  "sel": 0.48,
+  "fer": 2.35,
+  "calcium": 79.17,
+  "magnesium": 70.32,
+  "potassium": 646.01,
+  "zinc": 5.92,
+  "iode": 11.1,
+  "vitd": 0.45,
+  "vitc": 11.71,
+  "b12": 3.2,
+  "b9": 57.11,
+  "alcool": 2.33
+ }
+}

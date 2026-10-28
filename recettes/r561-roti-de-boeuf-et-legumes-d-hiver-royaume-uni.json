@@ -1,0 +1,81 @@
+{
+ "id": "r561-roti-de-boeuf-et-legumes-d-hiver-royaume-uni",
+ "nom": "Rôti de bœuf et légumes d'hiver (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 528,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20309",
+   "nom": "Choux de Bruxelles cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "20321",
+   "nom": "Navet cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Rôtissez le bœuf 30 minutes à 190 °C.",
+  "Servez avec choux de Bruxelles et navet."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 388.06,
+  "proteines": 47.71,
+  "glucides": 15.99,
+  "lipides": 12.13,
+  "sucres": 13.06,
+  "fibres": 9.3,
+  "satures": 6.82,
+  "sel": 0.68,
+  "fer": 1.15,
+  "calcium": 227.18,
+  "magnesium": 50.57,
+  "potassium": 943.82,
+  "zinc": 1.08,
+  "iode": 10.8,
+  "vitd": 0.11,
+  "vitc": 90.38,
+  "b12": 0.42,
+  "b9": 115.95,
+  "alcool": 0.0
+ }
+}

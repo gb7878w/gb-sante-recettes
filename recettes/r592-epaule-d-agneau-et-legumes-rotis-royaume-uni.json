@@ -1,0 +1,73 @@
+{
+ "id": "r592-epaule-d-agneau-et-legumes-rotis-royaume-uni",
+ "nom": "Épaule d'agneau et légumes rôtis (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 408,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau au romarin 30 minutes à 190 °C.",
+  "Ajoutez les légumes en dés pour les 20 dernières minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 366.27,
+  "proteines": 42.99,
+  "glucides": 6.4,
+  "lipides": 17.21,
+  "sucres": 5.49,
+  "fibres": 6.83,
+  "satures": 5.11,
+  "sel": 0.45,
+  "fer": 2.96,
+  "calcium": 88.09,
+  "magnesium": 96.32,
+  "potassium": 944.86,
+  "zinc": 6.46,
+  "iode": 8.5,
+  "vitd": 0.0,
+  "vitc": 6.09,
+  "b12": 2.82,
+  "b9": 90.88,
+  "alcool": 0.0
+ }
+}

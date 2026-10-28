@@ -1,0 +1,77 @@
+{
+ "id": "r567-haddock-au-four-sauce-moutardee-royaume-uni",
+ "nom": "Haddock au four, sauce moutardée (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 418,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Enfournez le haddock 12 minutes.",
+  "Nappez de crème moutardée, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 385.88,
+  "proteines": 52.5,
+  "glucides": 2.66,
+  "lipides": 16.9,
+  "sucres": 2.33,
+  "fibres": 5.25,
+  "satures": 9.59,
+  "sel": 4.58,
+  "fer": 4.94,
+  "calcium": 520.55,
+  "magnesium": 162.49,
+  "potassium": 1150.76,
+  "zinc": 2.26,
+  "iode": 510.43,
+  "vitd": 1.69,
+  "vitc": 0.03,
+  "b12": 3.21,
+  "b9": 125.04,
+  "alcool": 0.0
+ }
+}

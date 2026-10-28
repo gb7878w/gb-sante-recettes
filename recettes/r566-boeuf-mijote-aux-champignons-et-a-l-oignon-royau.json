@@ -1,0 +1,80 @@
+{
+ "id": "r566-boeuf-mijote-aux-champignons-et-a-l-oignon-royau",
+ "nom": "Bœuf mijoté aux champignons et à l'oignon (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 65,
+ "portions": 1,
+ "poidsG": 488,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 60
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf, oignon et champignons.",
+  "Ajoutez moutarde et un peu d'eau, mijotez 45 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 379.44,
+  "proteines": 46.75,
+  "glucides": 13.12,
+  "lipides": 14.51,
+  "sucres": 7.89,
+  "fibres": 3.06,
+  "satures": 3.0,
+  "sel": 0.76,
+  "fer": 0.83,
+  "calcium": 157.75,
+  "magnesium": 35.05,
+  "potassium": 792.0,
+  "zinc": 1.35,
+  "iode": 12.14,
+  "vitd": 0.45,
+  "vitc": 5.91,
+  "b12": 0.4,
+  "b9": 84.15,
+  "alcool": 0.0
+ }
+}

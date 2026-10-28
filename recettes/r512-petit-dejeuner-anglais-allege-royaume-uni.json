@@ -1,0 +1,74 @@
+{
+ "id": "r512-petit-dejeuner-anglais-allege-royaume-uni",
+ "nom": "Petit-déjeuner anglais allégé (Royaume-Uni)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 324,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez bacon et champignons.",
+  "Ajoutez la tomate et les œufs au plat."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 283.48,
+  "proteines": 27.0,
+  "glucides": 6.04,
+  "lipides": 16.38,
+  "sucres": 4.6,
+  "fibres": 1.6,
+  "satures": 5.81,
+  "sel": 1.73,
+  "fer": 2.8,
+  "calcium": 104.66,
+  "magnesium": 36.48,
+  "potassium": 809.13,
+  "zinc": 2.24,
+  "iode": 26.06,
+  "vitd": 2.54,
+  "vitc": 18.13,
+  "b12": 1.9,
+  "b9": 98.96,
+  "alcool": 0.0
+ }
+}

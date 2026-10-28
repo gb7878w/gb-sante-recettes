@@ -1,0 +1,59 @@
+{
+ "id": "r527-oeuf-dur-et-saumon-fume-pays-bas",
+ "nom": "Œuf dur et saumon fumé (Pays-Bas)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 140,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf avec le saumon fumé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 200.8,
+  "proteines": 21.45,
+  "glucides": 0.85,
+  "lipides": 12.33,
+  "sucres": 0.57,
+  "fibres": 0.0,
+  "satures": 3.42,
+  "sel": 1.39,
+  "fer": 1.94,
+  "calcium": 46.89,
+  "magnesium": 26.89,
+  "potassium": 297.3,
+  "zinc": 1.47,
+  "iode": 66.67,
+  "vitd": 2.87,
+  "vitc": 0.0,
+  "b12": 2.23,
+  "b9": 56.2,
+  "alcool": 0.0
+ }
+}

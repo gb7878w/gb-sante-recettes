@@ -1,0 +1,70 @@
+{
+ "id": "r553-poireaux-gratines-au-jambon-belgique",
+ "nom": "Poireaux gratinés au jambon (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 300
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 130
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez les poireaux, enroulez-les dans le jambon.",
+  "Nappez de crème et d'emmental, gratinez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 377.25,
+  "proteines": 38.1,
+  "glucides": 12.38,
+  "lipides": 17.44,
+  "sucres": 9.31,
+  "fibres": 9.79,
+  "satures": 9.87,
+  "sel": 2.85,
+  "fer": 1.47,
+  "calcium": 415.0,
+  "magnesium": 39.54,
+  "potassium": 985.72,
+  "zinc": 1.62,
+  "iode": 6.42,
+  "vitd": 0.0,
+  "vitc": 3.9,
+  "b12": 0.61,
+  "b9": 73.62,
+  "alcool": 0.0
+ }
+}

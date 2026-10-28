@@ -1,0 +1,73 @@
+{
+ "id": "r570-saumon-fume-d-irlande-oeufs-brouilles-et-epinard",
+ "nom": "Saumon fumé d'Irlande, œufs brouillés et épinards (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 336,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 80
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 150
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs au beurre avec les épinards.",
+  "Servez avec le saumon fumé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.96,
+  "proteines": 40.07,
+  "glucides": 1.19,
+  "lipides": 27.93,
+  "sucres": 0.46,
+  "fibres": 3.5,
+  "satures": 9.01,
+  "sel": 3.31,
+  "fer": 4.25,
+  "calcium": 361.04,
+  "magnesium": 77.26,
+  "potassium": 803.49,
+  "zinc": 2.5,
+  "iode": 63.6,
+  "vitd": 7.25,
+  "vitc": 0.0,
+  "b12": 4.87,
+  "b9": 134.68,
+  "alcool": 0.0
+ }
+}

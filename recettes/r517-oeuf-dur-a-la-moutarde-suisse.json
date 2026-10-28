@@ -1,0 +1,66 @@
+{
+ "id": "r517-oeuf-dur-a-la-moutarde-suisse",
+ "nom": "Œuf dur à la moutarde (Suisse)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 146,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Coupez l'œuf en deux.",
+  "Garnissez de moutarde mêlée au fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 171.34,
+  "proteines": 17.65,
+  "glucides": 2.0,
+  "lipides": 10.17,
+  "sucres": 1.84,
+  "fibres": 0.0,
+  "satures": 2.86,
+  "sel": 0.75,
+  "fer": 2.05,
+  "calcium": 90.48,
+  "magnesium": 21.96,
+  "potassium": 184.2,
+  "zinc": 1.58,
+  "iode": 57.97,
+  "vitd": 1.23,
+  "vitc": 0.02,
+  "b12": 1.34,
+  "b9": 56.05,
+  "alcool": 0.0
+ }
+}

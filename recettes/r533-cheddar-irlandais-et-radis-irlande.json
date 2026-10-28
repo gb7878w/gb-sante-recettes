@@ -1,0 +1,63 @@
+{
+ "id": "r533-cheddar-irlandais-et-radis-irlande",
+ "nom": "Cheddar irlandais et radis (Irlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 150,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 30
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez le cheddar avec les radis et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 158.04,
+  "proteines": 12.53,
+  "glucides": 3.25,
+  "lipides": 10.16,
+  "sucres": 2.99,
+  "fibres": 0.84,
+  "satures": 5.87,
+  "sel": 0.57,
+  "fer": 0.38,
+  "calcium": 291.9,
+  "magnesium": 19.14,
+  "potassium": 259.2,
+  "zinc": 1.37,
+  "iode": 17.49,
+  "vitd": 0.18,
+  "vitc": 7.32,
+  "b12": 0.5,
+  "b9": 79.44,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r563-poulet-roti-aux-herbes-et-chou-de-bruxelles-roya",
+ "nom": "Poulet rôti aux herbes et chou de Bruxelles (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20309",
+   "nom": "Choux de Bruxelles cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet au thym.",
+  "Poêlez les choux de Bruxelles au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 377.82,
+  "proteines": 54.71,
+  "glucides": 11.09,
+  "lipides": 9.75,
+  "sucres": 8.27,
+  "fibres": 9.88,
+  "satures": 5.3,
+  "sel": 0.27,
+  "fer": 2.0,
+  "calcium": 87.04,
+  "magnesium": 100.56,
+  "potassium": 1538.44,
+  "zinc": 1.82,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 116.29,
+  "b12": 0.3,
+  "b9": 115.02,
+  "alcool": 0.0
+ }
+}

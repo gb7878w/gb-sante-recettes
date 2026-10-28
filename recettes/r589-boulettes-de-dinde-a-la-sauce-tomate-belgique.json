@@ -1,0 +1,74 @@
+{
+ "id": "r589-boulettes-de-dinde-a-la-sauce-tomate-belgique",
+ "nom": "Boulettes de dinde à la sauce tomate (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 460,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 150
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Formez des boulettes de dinde hachée avec l'œuf et l'oignon.",
+  "Mijotez dans le coulis avec les courgettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 311.89,
+  "proteines": 50.36,
+  "glucides": 12.63,
+  "lipides": 5.32,
+  "sucres": 7.73,
+  "fibres": 5.63,
+  "satures": 1.79,
+  "sel": 1.36,
+  "fer": 1.81,
+  "calcium": 64.02,
+  "magnesium": 104.97,
+  "potassium": 1135.2,
+  "zinc": 2.49,
+  "iode": 12.3,
+  "vitd": 0.56,
+  "vitc": 6.1,
+  "b12": 1.35,
+  "b9": 63.3,
+  "alcool": 0.0
+ }
+}

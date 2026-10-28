@@ -1,0 +1,74 @@
+{
+ "id": "r537-raclette-suisse-de-legumes-et-de-viande-des-gris",
+ "nom": "Raclette suisse de légumes et de viande des Grisons (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "12749",
+   "nom": "Fromage à raclette",
+   "g": 90
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez chou-fleur et courgette.",
+  "Faites fondre le fromage dessus, servez avec jambon et cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 454.47,
+  "proteines": 36.87,
+  "glucides": 4.34,
+  "lipides": 30.72,
+  "sucres": 4.1,
+  "fibres": 4.95,
+  "satures": 18.98,
+  "sel": 4.17,
+  "fer": 0.86,
+  "calcium": 634.6,
+  "magnesium": 70.6,
+  "potassium": 699.31,
+  "zinc": 3.29,
+  "iode": 18.0,
+  "vitd": 0.0,
+  "vitc": 17.45,
+  "b12": 0.0,
+  "b9": 200.35,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r532-saumon-fume-irlandais-et-citron-irlande",
+ "nom": "Saumon fumé irlandais et citron (Irlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 110,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez le saumon avec le citron et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 116.87,
+  "proteines": 15.05,
+  "glucides": 2.6,
+  "lipides": 4.79,
+  "sucres": 2.03,
+  "fibres": 0.07,
+  "satures": 1.05,
+  "sel": 1.81,
+  "fer": 0.28,
+  "calcium": 74.91,
+  "magnesium": 26.44,
+  "potassium": 371.64,
+  "zinc": 0.43,
+  "iode": 25.28,
+  "vitd": 2.73,
+  "vitc": 5.0,
+  "b12": 1.88,
+  "b9": 29.59,
+  "alcool": 0.0
+ }
+}

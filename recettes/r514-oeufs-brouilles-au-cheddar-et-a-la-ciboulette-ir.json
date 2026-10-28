@@ -1,0 +1,71 @@
+{
+ "id": "r514-oeufs-brouilles-au-cheddar-et-a-la-ciboulette-ir",
+ "nom": "Œufs brouillés au cheddar et à la ciboulette (Irlande)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 152,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 25
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs dans le beurre.",
+  "Ajoutez cheddar et ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 298.28,
+  "proteines": 21.34,
+  "glucides": 0.43,
+  "lipides": 23.52,
+  "sucres": 0.41,
+  "fibres": 0.1,
+  "satures": 10.23,
+  "sel": 0.78,
+  "fer": 2.34,
+  "calcium": 264.41,
+  "magnesium": 20.75,
+  "potassium": 189.18,
+  "zinc": 2.09,
+  "iode": 34.71,
+  "vitd": 2.45,
+  "vitc": 1.19,
+  "b12": 1.97,
+  "b9": 49.77,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r568-saucisses-grillees-et-chou-royaume-uni",
+ "nom": "Saucisses grillées et chou (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 403,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez le chou au beurre.",
+  "Grillez les saucisses, servez avec jambon et moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 527.21,
+  "proteines": 33.51,
+  "glucides": 12.27,
+  "lipides": 36.52,
+  "sucres": 10.7,
+  "fibres": 7.11,
+  "satures": 14.95,
+  "sel": 4.34,
+  "fer": 1.84,
+  "calcium": 152.59,
+  "magnesium": 40.25,
+  "potassium": 940.81,
+  "zinc": 2.06,
+  "iode": 17.12,
+  "vitd": 0.37,
+  "vitc": 17.78,
+  "b12": 0.51,
+  "b9": 141.87,
+  "alcool": 0.0
+ }
+}

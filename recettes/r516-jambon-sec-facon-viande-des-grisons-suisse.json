@@ -1,0 +1,63 @@
+{
+ "id": "r516-jambon-sec-facon-viande-des-grisons-suisse",
+ "nom": "Jambon sec façon viande des Grisons (Suisse)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 125,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 35
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Roulez le jambon sec avec les cornichons.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 117.71,
+  "proteines": 15.73,
+  "glucides": 2.83,
+  "lipides": 4.33,
+  "sucres": 2.64,
+  "fibres": 0.45,
+  "satures": 1.84,
+  "sel": 2.34,
+  "fer": 0.17,
+  "calcium": 99.9,
+  "magnesium": 14.22,
+  "potassium": 122.4,
+  "zinc": 0.33,
+  "iode": 6.24,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.24,
+  "b9": 17.85,
+  "alcool": 0.0
+ }
+}

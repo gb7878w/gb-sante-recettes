@@ -1,0 +1,63 @@
+{
+ "id": "r531-jambon-et-moutarde-en-roules-royaume-uni",
+ "nom": "Jambon et moutarde en roulés (Royaume-Uni)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 116,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Étalez la moutarde sur le jambon.",
+  "Roulez avec le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 85.32,
+  "proteines": 12.5,
+  "glucides": 2.5,
+  "lipides": 2.67,
+  "sucres": 1.73,
+  "fibres": 0.39,
+  "satures": 0.77,
+  "sel": 1.56,
+  "fer": 0.17,
+  "calcium": 20.78,
+  "magnesium": 9.7,
+  "potassium": 302.3,
+  "zinc": 0.09,
+  "iode": 0.33,
+  "vitd": 0.0,
+  "vitc": 4.14,
+  "b12": 0.0,
+  "b9": 6.6,
+  "alcool": 0.0
+ }
+}

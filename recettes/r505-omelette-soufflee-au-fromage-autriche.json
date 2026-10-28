@@ -1,0 +1,70 @@
+{
+ "id": "r505-omelette-soufflee-au-fromage-autriche",
+ "nom": "Omelette soufflée au fromage (Autriche)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 213,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Séparez blancs et jaunes, mêlez jaunes, fromage blanc et emmental.",
+  "Incorporez les blancs montés, cuisez à couvert 6 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 285.93,
+  "proteines": 26.98,
+  "glucides": 2.75,
+  "lipides": 18.54,
+  "sucres": 2.74,
+  "fibres": 0.1,
+  "satures": 7.07,
+  "sel": 0.62,
+  "fer": 2.88,
+  "calcium": 378.82,
+  "magnesium": 29.99,
+  "potassium": 288.33,
+  "zinc": 2.5,
+  "iode": 37.89,
+  "vitd": 2.44,
+  "vitc": 1.19,
+  "b12": 2.53,
+  "b9": 67.63,
+  "alcool": 0.0
+ }
+}

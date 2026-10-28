@@ -1,0 +1,64 @@
+{
+ "id": "r503-oeufs-au-plat-et-lard-grille-suisse",
+ "nom": "Œufs au plat et lard grillé (Suisse)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 50
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Grillez le bacon.",
+  "Faites cuire les œufs au plat, servez avec la tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 243.24,
+  "proteines": 27.19,
+  "glucides": 3.55,
+  "lipides": 13.1,
+  "sucres": 2.56,
+  "fibres": 0.8,
+  "satures": 3.68,
+  "sel": 1.96,
+  "fer": 2.59,
+  "calcium": 99.5,
+  "magnesium": 30.3,
+  "potassium": 563.8,
+  "zinc": 1.98,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 16.31,
+  "b12": 1.93,
+  "b9": 76.15,
+  "alcool": 0.0
+ }
+}

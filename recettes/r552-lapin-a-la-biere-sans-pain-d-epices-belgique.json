@@ -1,0 +1,75 @@
+{
+ "id": "r552-lapin-a-la-biere-sans-pain-d-epices-belgique",
+ "nom": "Lapin à la bière sans pain d'épices (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 460,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le lapin avec l'oignon.",
+  "Ajoutez moutarde et champignons, mijotez 30 minutes avec un peu d'eau.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 362.72,
+  "proteines": 59.21,
+  "glucides": 11.22,
+  "lipides": 7.1,
+  "sucres": 6.5,
+  "fibres": 6.84,
+  "satures": 1.83,
+  "sel": 0.91,
+  "fer": 9.1,
+  "calcium": 125.16,
+  "magnesium": 106.09,
+  "potassium": 1377.8,
+  "zinc": 4.74,
+  "iode": 1.3,
+  "vitd": 0.3,
+  "vitc": 5.69,
+  "b12": 10.42,
+  "b9": 127.5,
+  "alcool": 0.0
+ }
+}

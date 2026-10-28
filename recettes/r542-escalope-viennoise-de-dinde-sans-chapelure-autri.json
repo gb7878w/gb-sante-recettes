@@ -1,0 +1,76 @@
+{
+ "id": "r542-escalope-viennoise-de-dinde-sans-chapelure-autri",
+ "nom": "Escalope viennoise de dinde sans chapelure (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 305,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 160
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 40
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Trempez l'escalope dans l'œuf et le parmesan.",
+  "Poêlez 3 minutes par face.",
+  "Servez avec citron et salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 330.14,
+  "proteines": 56.38,
+  "glucides": 1.33,
+  "lipides": 10.49,
+  "sucres": 0.77,
+  "fibres": 0.96,
+  "satures": 4.98,
+  "sel": 0.63,
+  "fer": 2.35,
+  "calcium": 239.17,
+  "magnesium": 94.15,
+  "potassium": 983.3,
+  "zinc": 3.13,
+  "iode": 29.28,
+  "vitd": 0.75,
+  "vitc": 15.14,
+  "b12": 1.95,
+  "b9": 53.64,
+  "alcool": 0.0
+ }
+}
