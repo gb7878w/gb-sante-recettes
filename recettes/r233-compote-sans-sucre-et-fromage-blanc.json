@@ -1,0 +1,62 @@
+{
+ "id": "r233-compote-sans-sucre-et-fromage-blanc",
+ "nom": "Compote sans sucre et fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 301,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Écrasez la pomme cuite.",
+  "Mélangez avec le fromage blanc et la cannelle."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 157.23,
+  "proteines": 12.34,
+  "glucides": 23.51,
+  "lipides": 0.45,
+  "sucres": 19.88,
+  "fibres": 2.63,
+  "satures": 0.12,
+  "sel": 0.17,
+  "fer": 0.47,
+  "calcium": 219.01,
+  "magnesium": 28.61,
+  "potassium": 398.81,
+  "zinc": 0.8,
+  "iode": 15.9,
+  "vitd": 0.0,
+  "vitc": 9.41,
+  "b12": 0.6,
+  "b9": 45.06,
+  "alcool": 0.0
+ }
+}

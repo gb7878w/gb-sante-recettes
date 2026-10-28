@@ -1,0 +1,77 @@
+{
+ "id": "r295-soupe-au-pistou-et-jambon",
+ "nom": "Soupe au pistou et jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 466,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 6
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Cuisez les légumes et les haricots dans l'eau.",
+  "Ajoutez les pâtes, puis le basilic haché et le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 373.75,
+  "proteines": 31.73,
+  "glucides": 38.63,
+  "lipides": 5.28,
+  "sucres": 8.25,
+  "fibres": 21.72,
+  "satures": 1.65,
+  "sel": 2.17,
+  "fer": 3.12,
+  "calcium": 219.88,
+  "magnesium": 83.94,
+  "potassium": 1130.1,
+  "zinc": 1.5,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 5.41,
+  "b12": 0.01,
+  "b9": 135.82,
+  "alcool": 0.0
+ }
+}

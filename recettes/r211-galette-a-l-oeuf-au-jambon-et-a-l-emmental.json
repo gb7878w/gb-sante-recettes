@@ -1,0 +1,73 @@
+{
+ "id": "r211-galette-a-l-oeuf-au-jambon-et-a-l-emmental",
+ "nom": "Galette à l'œuf, au jambon et à l'emmental",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "oeufs"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 35
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Préparez une pâte fine avec la farine, le lait et un peu d'eau.",
+  "Cuisez la galette, garnissez d'œuf, de jambon et d'emmental."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 337.45,
+  "proteines": 24.87,
+  "glucides": 30.27,
+  "lipides": 12.7,
+  "sucres": 3.63,
+  "fibres": 0.94,
+  "satures": 5.44,
+  "sel": 1.17,
+  "fer": 1.79,
+  "calcium": 273.22,
+  "magnesium": 28.35,
+  "potassium": 392.66,
+  "zinc": 1.77,
+  "iode": 23.07,
+  "vitd": 1.13,
+  "vitc": 0.9,
+  "b12": 1.4,
+  "b9": 37.4,
+  "alcool": 0.0
+ }
+}

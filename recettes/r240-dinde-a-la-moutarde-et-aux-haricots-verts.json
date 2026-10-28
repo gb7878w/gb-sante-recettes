@@ -1,0 +1,73 @@
+{
+ "id": "r240-dinde-a-la-moutarde-et-aux-haricots-verts",
+ "nom": "Dinde à la moutarde et aux haricots verts",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 480,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Poêlez la dinde, ajoutez la moutarde et la crème.",
+  "Servez avec les haricots verts et le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 406.95,
+  "proteines": 47.72,
+  "glucides": 32.9,
+  "lipides": 7.3,
+  "sucres": 6.43,
+  "fibres": 7.4,
+  "satures": 3.91,
+  "sel": 0.9,
+  "fer": 2.12,
+  "calcium": 160.72,
+  "magnesium": 128.79,
+  "potassium": 1237.9,
+  "zinc": 2.61,
+  "iode": 5.9,
+  "vitd": 0.0,
+  "vitc": 3.4,
+  "b12": 0.85,
+  "b9": 108.52,
+  "alcool": 0.0
+ }
+}

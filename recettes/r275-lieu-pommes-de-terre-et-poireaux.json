@@ -1,0 +1,68 @@
+{
+ "id": "r275-lieu-pommes-de-terre-et-poireaux",
+ "nom": "Lieu, pommes de terre et poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez poireaux et pommes de terre.",
+  "Pochez le poisson, nappez de crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.05,
+  "proteines": 47.62,
+  "glucides": 39.19,
+  "lipides": 5.03,
+  "sucres": 6.14,
+  "fibres": 8.4,
+  "satures": 3.04,
+  "sel": 0.55,
+  "fer": 1.39,
+  "calcium": 113.69,
+  "magnesium": 109.14,
+  "potassium": 1650.2,
+  "zinc": 1.23,
+  "iode": 255.0,
+  "vitd": 1.24,
+  "vitc": 9.64,
+  "b12": 1.6,
+  "b9": 151.29,
+  "alcool": 0.0
+ }
+}

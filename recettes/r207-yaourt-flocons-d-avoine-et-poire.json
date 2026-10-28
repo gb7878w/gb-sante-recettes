@@ -1,0 +1,68 @@
+{
+ "id": "r207-yaourt-flocons-d-avoine-et-poire",
+ "nom": "Yaourt, flocons d'avoine et poire",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 35
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mélangez yaourt, fromage blanc et flocons.",
+  "Ajoutez la poire en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 301.95,
+  "proteines": 17.46,
+  "glucides": 41.47,
+  "lipides": 5.19,
+  "sucres": 19.47,
+  "fibres": 7.74,
+  "satures": 2.34,
+  "sel": 0.25,
+  "fer": 1.92,
+  "calcium": 326.15,
+  "magnesium": 84.42,
+  "potassium": 583.7,
+  "zinc": 2.23,
+  "iode": 36.57,
+  "vitd": 0.76,
+  "vitc": 1.71,
+  "b12": 0.75,
+  "b9": 76.33,
+  "alcool": 0.0
+ }
+}

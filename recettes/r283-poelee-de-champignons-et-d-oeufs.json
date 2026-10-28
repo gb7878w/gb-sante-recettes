@@ -1,0 +1,79 @@
+{
+ "id": "r283-poelee-de-champignons-et-d-oeufs",
+ "nom": "Poêlée de champignons et d'œufs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 18,
+ "portions": 1,
+ "poidsG": 541,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 200
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez champignons et ail.",
+  "Ajoutez les œufs battus et le persil.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 478.37,
+  "proteines": 31.07,
+  "glucides": 32.5,
+  "lipides": 23.94,
+  "sucres": 6.84,
+  "fibres": 5.0,
+  "satures": 5.79,
+  "sel": 0.85,
+  "fer": 4.57,
+  "calcium": 165.92,
+  "magnesium": 68.53,
+  "potassium": 1547.54,
+  "zinc": 3.09,
+  "iode": 39.8,
+  "vitd": 3.98,
+  "vitc": 15.87,
+  "b12": 2.61,
+  "b9": 181.65,
+  "alcool": 0.0
+ }
+}

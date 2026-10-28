@@ -1,0 +1,68 @@
+{
+ "id": "r222-thon-et-concombre-en-salade",
+ "nom": "Thon et concombre en salade",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 205,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Coupez le concombre en dés.",
+  "Mêlez le thon, le citron et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 103.34,
+  "proteines": 19.9,
+  "glucides": 4.17,
+  "lipides": 0.37,
+  "sucres": 3.27,
+  "fibres": 0.6,
+  "satures": 0.11,
+  "sel": 0.5,
+  "fer": 0.66,
+  "calcium": 77.11,
+  "magnesium": 33.27,
+  "potassium": 345.8,
+  "zinc": 0.58,
+  "iode": 14.06,
+  "vitd": 3.05,
+  "vitc": 10.5,
+  "b12": 1.68,
+  "b9": 33.1,
+  "alcool": 0.0
+ }
+}

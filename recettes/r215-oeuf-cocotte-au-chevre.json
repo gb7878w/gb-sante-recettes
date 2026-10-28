@@ -1,0 +1,76 @@
+{
+ "id": "r215-oeuf-cocotte-au-chevre",
+ "nom": "Œuf cocotte au chèvre",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 212,
+ "tags": [
+  "vegetarien",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 20
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Préchauffez le four à 180 °C.",
+  "Cassez les œufs dans des ramequins avec le chèvre et la crème.",
+  "Enfournez 12 minutes, servez avec le pain grillé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 350.26,
+  "proteines": 26.04,
+  "glucides": 18.97,
+  "lipides": 18.23,
+  "sucres": 2.06,
+  "fibres": 2.85,
+  "satures": 7.3,
+  "sel": 1.23,
+  "fer": 3.22,
+  "calcium": 188.02,
+  "magnesium": 40.69,
+  "potassium": 357.16,
+  "zinc": 1.79,
+  "iode": 25.2,
+  "vitd": 2.6,
+  "vitc": 3.54,
+  "b12": 1.74,
+  "b9": 57.72,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r243-veau-aux-champignons-et-pates",
+ "nom": "Veau aux champignons et pâtes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 440,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 130
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  }
+ ],
+ "etapes": [
+  "Poêlez le veau puis les champignons.",
+  "Ajoutez la crème et servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 442.05,
+  "proteines": 50.3,
+  "glucides": 38.52,
+  "lipides": 8.55,
+  "sucres": 5.79,
+  "fibres": 3.97,
+  "satures": 4.13,
+  "sel": 0.39,
+  "fer": 2.32,
+  "calcium": 76.69,
+  "magnesium": 78.9,
+  "potassium": 628.3,
+  "zinc": 5.53,
+  "iode": 9.3,
+  "vitd": 0.45,
+  "vitc": 4.63,
+  "b12": 2.61,
+  "b9": 82.3,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r296-blanc-de-poulet-a-l-italienne",
+ "nom": "Blanc de poulet à l'italienne",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 433,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 130
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 40
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 110
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet, posez tomate et mozzarella.",
+  "Couvrez 5 minutes pour faire fondre.",
+  "Servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 446.39,
+  "proteines": 51.59,
+  "glucides": 31.5,
+  "lipides": 10.68,
+  "sucres": 5.15,
+  "fibres": 5.23,
+  "satures": 5.55,
+  "sel": 0.42,
+  "fer": 2.17,
+  "calcium": 266.7,
+  "magnesium": 108.12,
+  "potassium": 997.75,
+  "zinc": 3.34,
+  "iode": 14.88,
+  "vitd": 0.16,
+  "vitc": 26.74,
+  "b12": 1.17,
+  "b9": 49.05,
+  "alcool": 0.0
+ }
+}

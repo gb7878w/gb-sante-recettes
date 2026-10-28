@@ -1,0 +1,80 @@
+{
+ "id": "r287-soupe-de-legumes-oeuf-et-fromage",
+ "nom": "Soupe de légumes, œuf et fromage",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Cuisez les légumes dans l'eau 20 minutes et mixez.",
+  "Servez avec l'œuf dur, l'emmental et le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 522.3,
+  "proteines": 29.66,
+  "glucides": 53.93,
+  "lipides": 18.06,
+  "sucres": 10.85,
+  "fibres": 11.36,
+  "satures": 7.7,
+  "sel": 1.17,
+  "fer": 4.09,
+  "calcium": 364.8,
+  "magnesium": 89.78,
+  "potassium": 1177.85,
+  "zinc": 3.56,
+  "iode": 60.02,
+  "vitd": 1.58,
+  "vitc": 7.73,
+  "b12": 1.73,
+  "b9": 198.24,
+  "alcool": 0.0
+ }
+}

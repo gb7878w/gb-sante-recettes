@@ -1,0 +1,70 @@
+{
+ "id": "r294-cassoulet-de-dinde-et-haricots-blancs",
+ "nom": "Cassoulet de dinde et haricots blancs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 120
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "28504",
+   "nom": "Lardons nature cuits",
+   "g": 20
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Faites revenir lardons et dinde en dés.",
+  "Ajoutez coulis, carotte et haricots, mijotez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 511.02,
+  "proteines": 54.89,
+  "glucides": 37.48,
+  "lipides": 8.61,
+  "sucres": 9.7,
+  "fibres": 31.82,
+  "satures": 3.71,
+  "sel": 1.94,
+  "fer": 4.23,
+  "calcium": 263.0,
+  "magnesium": 129.68,
+  "potassium": 1326.8,
+  "zinc": 3.33,
+  "iode": 7.2,
+  "vitd": 0.0,
+  "vitc": 2.13,
+  "b12": 0.87,
+  "b9": 97.84,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r202-omelette-aux-epinards-et-a-la-feta",
+ "nom": "Omelette aux épinards et à la feta",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 229,
+ "tags": [
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 25
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites tomber les épinards dans l'huile.",
+  "Versez les œufs battus, ajoutez la feta émiettée et repliez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 297.73,
+  "proteines": 21.72,
+  "glucides": 0.49,
+  "lipides": 22.43,
+  "sucres": 0.32,
+  "fibres": 2.8,
+  "satures": 8.08,
+  "sel": 0.96,
+  "fer": 3.32,
+  "calcium": 339.16,
+  "magnesium": 40.2,
+  "potassium": 305.3,
+  "zinc": 2.14,
+  "iode": 45.2,
+  "vitd": 2.26,
+  "vitc": 0.0,
+  "b12": 1.87,
+  "b9": 95.68,
+  "alcool": 0.0
+ }
+}

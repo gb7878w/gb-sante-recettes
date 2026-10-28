@@ -1,0 +1,67 @@
+{
+ "id": "r229-biscotte-jambon-de-dinde-et-cornichons",
+ "nom": "Biscotte, jambon de dinde et cornichons",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 135,
+ "tags": [
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 15
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 50
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Tartinez la biscotte de fromage blanc.",
+  "Ajoutez le jambon et les cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 139.53,
+  "proteines": 16.39,
+  "glucides": 12.8,
+  "lipides": 1.78,
+  "sucres": 3.25,
+  "fibres": 1.82,
+  "satures": 0.68,
+  "sel": 1.54,
+  "fer": 0.77,
+  "calcium": 89.64,
+  "magnesium": 40.95,
+  "potassium": 333.5,
+  "zinc": 1.02,
+  "iode": 5.2,
+  "vitd": 0.0,
+  "vitc": 13.15,
+  "b12": 0.5,
+  "b9": 26.85,
+  "alcool": 0.0
+ }
+}

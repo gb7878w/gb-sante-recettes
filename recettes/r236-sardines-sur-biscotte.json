@@ -1,0 +1,69 @@
+{
+ "id": "r236-sardines-sur-biscotte",
+ "nom": "Sardines sur biscotte",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 100,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 40
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 15
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Écrasez les sardines avec le citron.",
+  "Tartinez sur les biscottes avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 165.29,
+  "proteines": 13.54,
+  "glucides": 11.93,
+  "lipides": 6.5,
+  "sucres": 2.24,
+  "fibres": 1.33,
+  "satures": 1.67,
+  "sel": 0.51,
+  "fer": 1.46,
+  "calcium": 103.44,
+  "magnesium": 37.33,
+  "potassium": 259.9,
+  "zinc": 1.3,
+  "iode": 20.16,
+  "vitd": 2.96,
+  "vitc": 2.25,
+  "b12": 5.6,
+  "b9": 14.92,
+  "alcool": 0.0
+ }
+}

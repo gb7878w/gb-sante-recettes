@@ -1,0 +1,75 @@
+{
+ "id": "r208-oeufs-brouilles-a-la-tomate",
+ "nom": "Œufs brouillés à la tomate",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 286,
+ "tags": [
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Faites revenir la tomate en dés dans l'huile 4 minutes.",
+  "Ajoutez les œufs et remuez doucement.",
+  "Servez avec le pain grillé et le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 326.66,
+  "proteines": 19.26,
+  "glucides": 22.4,
+  "lipides": 16.52,
+  "sucres": 4.57,
+  "fibres": 4.03,
+  "satures": 3.99,
+  "sel": 0.82,
+  "fer": 3.4,
+  "calcium": 121.38,
+  "magnesium": 43.28,
+  "potassium": 514.7,
+  "zinc": 1.88,
+  "iode": 25.2,
+  "vitd": 2.6,
+  "vitc": 19.85,
+  "b12": 1.74,
+  "b9": 72.6,
+  "alcool": 0.0
+ }
+}

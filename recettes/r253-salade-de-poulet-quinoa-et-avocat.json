@@ -1,0 +1,71 @@
+{
+ "id": "r253-salade-de-poulet-quinoa-et-avocat",
+ "nom": "Salade de poulet, quinoa et avocat",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "9341",
+   "nom": "Quinoa cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 50
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Mélangez le quinoa avec la tomate et l'avocat.",
+  "Ajoutez le poulet en lamelles et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 488.46,
+  "proteines": 43.46,
+  "glucides": 40.43,
+  "lipides": 14.13,
+  "sucres": 4.21,
+  "fibres": 7.74,
+  "satures": 3.13,
+  "sel": 0.19,
+  "fer": 2.9,
+  "calcium": 48.14,
+  "magnesium": 154.99,
+  "potassium": 1253.0,
+  "zinc": 2.75,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 22.52,
+  "b12": 0.22,
+  "b9": 127.87,
+  "alcool": 0.0
+ }
+}

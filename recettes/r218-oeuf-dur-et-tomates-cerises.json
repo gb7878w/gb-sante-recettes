@@ -1,0 +1,56 @@
+{
+ "id": "r218-oeuf-dur-et-tomates-cerises",
+ "nom": "Œuf dur et tomates cerises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Écalez l'œuf dur.",
+  "Servez avec les tomates cerises et du poivre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 181.1,
+  "proteines": 16.16,
+  "glucides": 6.19,
+  "lipides": 9.48,
+  "sucres": 5.37,
+  "fibres": 1.2,
+  "satures": 2.81,
+  "sel": 0.34,
+  "fer": 2.26,
+  "calcium": 51.7,
+  "magnesium": 26.4,
+  "potassium": 462.0,
+  "zinc": 1.58,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 21.8,
+  "b12": 1.22,
+  "b9": 66.0,
+  "alcool": 0.0
+ }
+}

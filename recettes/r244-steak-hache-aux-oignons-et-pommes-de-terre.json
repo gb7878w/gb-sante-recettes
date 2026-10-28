@@ -1,0 +1,71 @@
+{
+ "id": "r244-steak-hache-aux-oignons-et-pommes-de-terre",
+ "nom": "Steak haché aux oignons et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 514,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 80
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites fondre l'oignon dans l'huile.",
+  "Poêlez le steak.",
+  "Servez avec les pommes de terre au four et les haricots."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 474.54,
+  "proteines": 40.85,
+  "glucides": 45.5,
+  "lipides": 11.86,
+  "sucres": 5.02,
+  "fibres": 9.68,
+  "satures": 4.16,
+  "sel": 0.27,
+  "fer": 6.46,
+  "calcium": 100.5,
+  "magnesium": 114.92,
+  "potassium": 1901.1,
+  "zinc": 9.38,
+  "iode": 7.93,
+  "vitd": 0.0,
+  "vitc": 22.02,
+  "b12": 3.21,
+  "b9": 125.0,
+  "alcool": 0.0
+ }
+}

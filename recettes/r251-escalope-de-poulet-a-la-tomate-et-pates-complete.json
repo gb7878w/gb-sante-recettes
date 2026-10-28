@@ -1,0 +1,67 @@
+{
+ "id": "r251-escalope-de-poulet-a-la-tomate-et-pates-complete",
+ "nom": "Escalope de poulet à la tomate et pâtes complètes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 130
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet, ajoutez le coulis.",
+  "Servez sur les pâtes avec le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 409.9,
+  "proteines": 47.61,
+  "glucides": 40.73,
+  "lipides": 4.02,
+  "sucres": 7.39,
+  "fibres": 7.51,
+  "satures": 0.98,
+  "sel": 1.24,
+  "fer": 1.94,
+  "calcium": 42.9,
+  "magnesium": 96.82,
+  "potassium": 665.35,
+  "zinc": 2.25,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 2.29,
+  "b12": 0.26,
+  "b9": 28.1,
+  "alcool": 0.0
+ }
+}

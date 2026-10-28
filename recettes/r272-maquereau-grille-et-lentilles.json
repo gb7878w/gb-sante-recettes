@@ -1,0 +1,72 @@
+{
+ "id": "r272-maquereau-grille-et-lentilles",
+ "nom": "Maquereau grillé et lentilles",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 309,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26123",
+   "nom": "Maquereau au naturel égoutté",
+   "g": 110
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 170
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Grillez le maquereau.",
+  "Mélangez les lentilles à l'échalote et au vinaigre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 473.65,
+  "proteines": 41.29,
+  "glucides": 30.01,
+  "lipides": 17.53,
+  "sucres": 1.0,
+  "fibres": 14.88,
+  "satures": 3.76,
+  "sel": 1.35,
+  "fer": 5.93,
+  "calcium": 210.3,
+  "magnesium": 93.46,
+  "potassium": 659.74,
+  "zinc": 3.61,
+  "iode": 24.09,
+  "vitd": 5.51,
+  "vitc": 1.62,
+  "b12": 8.05,
+  "b9": 96.14,
+  "alcool": 0.01
+ }
+}

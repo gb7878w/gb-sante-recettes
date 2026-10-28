@@ -1,0 +1,74 @@
+{
+ "id": "r277-omelette-aux-tomates-et-au-basilic",
+ "nom": "Omelette aux tomates et au basilic",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 508,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 200
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir les tomates dans l'huile.",
+  "Versez les œufs, ajoutez le basilic.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 477.24,
+  "proteines": 28.95,
+  "glucides": 31.05,
+  "lipides": 25.18,
+  "sucres": 6.04,
+  "fibres": 4.3,
+  "satures": 6.18,
+  "sel": 0.7,
+  "fer": 4.58,
+  "calcium": 180.73,
+  "magnesium": 60.37,
+  "potassium": 1136.35,
+  "zinc": 2.39,
+  "iode": 42.0,
+  "vitd": 3.76,
+  "vitc": 29.26,
+  "b12": 2.9,
+  "b9": 136.94,
+  "alcool": 0.0
+ }
+}

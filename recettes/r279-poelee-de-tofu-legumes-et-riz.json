@@ -1,0 +1,74 @@
+{
+ "id": "r279-poelee-de-tofu-legumes-et-riz",
+ "nom": "Poêlée de tofu, légumes et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "soja"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20904",
+   "nom": "Tofu nature",
+   "g": 200
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le tofu en cubes.",
+  "Ajoutez les légumes en dés 8 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 529.28,
+  "proteines": 32.05,
+  "glucides": 41.48,
+  "lipides": 23.15,
+  "sucres": 6.65,
+  "fibres": 5.56,
+  "satures": 3.94,
+  "sel": 0.18,
+  "fer": 5.56,
+  "calcium": 240.2,
+  "magnesium": 241.84,
+  "potassium": 731.2,
+  "zinc": 3.46,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 100.28,
+  "b12": 0.0,
+  "b9": 165.52,
+  "alcool": 0.0
+ }
+}

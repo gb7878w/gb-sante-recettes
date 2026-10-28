@@ -1,0 +1,83 @@
+{
+ "id": "r299-salade-perigourdine-legere",
+ "nom": "Salade périgourdine légère",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 460,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 110
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Composez la salade avec laitue, tomate et pommes de terre tièdes.",
+  "Ajoutez le poulet émincé et les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.34,
+  "proteines": 38.68,
+  "glucides": 30.42,
+  "lipides": 14.6,
+  "sucres": 4.98,
+  "fibres": 5.33,
+  "satures": 2.19,
+  "sel": 0.25,
+  "fer": 2.03,
+  "calcium": 80.35,
+  "magnesium": 100.19,
+  "potassium": 1444.24,
+  "zinc": 1.53,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 31.8,
+  "b12": 0.2,
+  "b9": 117.46,
+  "alcool": 0.01
+ }
+}

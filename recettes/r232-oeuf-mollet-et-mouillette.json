@@ -1,0 +1,58 @@
+{
+ "id": "r232-oeuf-mollet-et-mouillette",
+ "nom": "Œuf mollet et mouillette",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 130,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Plongez l'œuf 6 minutes dans l'eau bouillante.",
+  "Servez avec la mouillette de pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 196.2,
+  "proteines": 16.53,
+  "glucides": 9.43,
+  "lipides": 9.84,
+  "sucres": 1.01,
+  "fibres": 1.38,
+  "satures": 2.91,
+  "sel": 0.57,
+  "fer": 2.31,
+  "calcium": 52.9,
+  "magnesium": 25.6,
+  "potassium": 180.0,
+  "zinc": 1.68,
+  "iode": 54.67,
+  "vitd": 1.4,
+  "vitc": 0.0,
+  "b12": 1.22,
+  "b9": 55.52,
+  "alcool": 0.0
+ }
+}

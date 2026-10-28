@@ -1,0 +1,73 @@
+{
+ "id": "r271-saumon-quinoa-et-courgettes",
+ "nom": "Saumon, quinoa et courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "9341",
+   "nom": "Quinoa cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Poêlez les courgettes.",
+  "Cuisez le saumon.",
+  "Servez avec le quinoa et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 481.21,
+  "proteines": 32.75,
+  "glucides": 38.53,
+  "lipides": 19.72,
+  "sucres": 3.3,
+  "fibres": 7.19,
+  "satures": 3.69,
+  "sel": 0.31,
+  "fer": 2.96,
+  "calcium": 72.6,
+  "magnesium": 158.0,
+  "potassium": 1078.3,
+  "zinc": 2.39,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 11.92,
+  "b12": 3.06,
+  "b9": 138.8,
+  "alcool": 0.0
+ }
+}

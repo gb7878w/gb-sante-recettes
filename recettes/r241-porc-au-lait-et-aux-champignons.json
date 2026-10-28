@@ -1,0 +1,67 @@
+{
+ "id": "r241-porc-au-lait-et-aux-champignons",
+ "nom": "Porc au lait et aux champignons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Faites dorer le porc, ajoutez le lait et les champignons.",
+  "Mijotez 20 minutes, servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 460.0,
+  "proteines": 44.05,
+  "glucides": 42.01,
+  "lipides": 11.89,
+  "sucres": 9.38,
+  "fibres": 4.8,
+  "satures": 4.66,
+  "sel": 0.48,
+  "fer": 2.38,
+  "calcium": 145.35,
+  "magnesium": 91.28,
+  "potassium": 1777.0,
+  "zinc": 3.86,
+  "iode": 13.3,
+  "vitd": 0.36,
+  "vitc": 11.05,
+  "b12": 1.71,
+  "b9": 113.09,
+  "alcool": 0.0
+ }
+}

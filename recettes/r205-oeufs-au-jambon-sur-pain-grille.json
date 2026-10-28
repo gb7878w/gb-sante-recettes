@@ -1,0 +1,69 @@
+{
+ "id": "r205-oeufs-au-jambon-sur-pain-grille",
+ "nom": "Œufs au jambon sur pain grillé",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 204,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites cuire les œufs dans le beurre.",
+  "Posez-les sur le pain grillé avec le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 340.84,
+  "proteines": 26.46,
+  "glucides": 18.73,
+  "lipides": 17.07,
+  "sucres": 1.77,
+  "fibres": 2.82,
+  "satures": 6.03,
+  "sel": 1.61,
+  "fer": 3.1,
+  "calcium": 112.47,
+  "magnesium": 33.68,
+  "potassium": 401.13,
+  "zinc": 1.78,
+  "iode": 25.26,
+  "vitd": 2.64,
+  "vitc": 0.0,
+  "b12": 1.75,
+  "b9": 55.16,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r242-cuisse-de-poulet-au-citron-et-pommes-de-terre",
+ "nom": "Cuisse de poulet au citron et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 472,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36006",
+   "nom": "Cuisse de poulet rôtie, sans peau",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 20
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Disposez le poulet, les pommes de terre et le citron dans un plat.",
+  "Enfournez 35 minutes à 200 °C.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 456.68,
+  "proteines": 42.78,
+  "glucides": 37.56,
+  "lipides": 12.87,
+  "sucres": 4.75,
+  "fibres": 7.6,
+  "satures": 3.52,
+  "sel": 0.49,
+  "fer": 4.31,
+  "calcium": 119.46,
+  "magnesium": 102.16,
+  "potassium": 1431.4,
+  "zinc": 4.15,
+  "iode": 0.3,
+  "vitd": 0.2,
+  "vitc": 17.08,
+  "b12": 0.54,
+  "b9": 131.56,
+  "alcool": 0.0
+ }
+}

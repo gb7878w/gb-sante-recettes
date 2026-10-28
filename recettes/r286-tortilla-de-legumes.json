@@ -1,0 +1,73 @@
+{
+ "id": "r286-tortilla-de-legumes",
+ "nom": "Tortilla de légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 486,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir les légumes en dés.",
+  "Versez les œufs battus et cuisez à feu doux des deux côtés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 481.59,
+  "proteines": 29.39,
+  "glucides": 28.91,
+  "lipides": 26.52,
+  "sucres": 3.28,
+  "fibres": 4.98,
+  "satures": 6.43,
+  "sel": 0.79,
+  "fer": 4.52,
+  "calcium": 185.55,
+  "magnesium": 71.87,
+  "potassium": 1095.5,
+  "zinc": 2.5,
+  "iode": 42.0,
+  "vitd": 3.76,
+  "vitc": 7.9,
+  "b12": 2.9,
+  "b9": 151.35,
+  "alcool": 0.0
+ }
+}

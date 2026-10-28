@@ -1,0 +1,74 @@
+{
+ "id": "r204-tartine-de-saumon-fume-avocat-et-citron",
+ "nom": "Tartine de saumon fumé, avocat et citron",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 185,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 50
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 40
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Écrasez l'avocat avec le fromage blanc et le citron.",
+  "Tartinez le pain, posez le saumon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.64,
+  "proteines": 19.49,
+  "glucides": 24.12,
+  "lipides": 15.41,
+  "sucres": 2.86,
+  "fibres": 4.89,
+  "satures": 3.33,
+  "sel": 0.67,
+  "fer": 1.43,
+  "calcium": 83.16,
+  "magnesium": 53.48,
+  "potassium": 548.1,
+  "zinc": 1.29,
+  "iode": 4.16,
+  "vitd": 0.43,
+  "vitc": 3.65,
+  "b12": 1.55,
+  "b9": 66.93,
+  "alcool": 0.0
+ }
+}

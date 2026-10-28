@@ -1,0 +1,76 @@
+{
+ "id": "r298-poulet-facon-cacciatore",
+ "nom": "Poulet façon cacciatore",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 589,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir le poulet.",
+  "Ajoutez tomate, poivron et olives, mijotez 25 minutes.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 480.03,
+  "proteines": 47.55,
+  "glucides": 43.57,
+  "lipides": 10.06,
+  "sucres": 9.76,
+  "fibres": 8.59,
+  "satures": 1.91,
+  "sel": 0.56,
+  "fer": 2.78,
+  "calcium": 44.28,
+  "magnesium": 105.86,
+  "potassium": 1803.85,
+  "zinc": 1.56,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 129.09,
+  "b12": 0.25,
+  "b9": 161.26,
+  "alcool": 0.0
+ }
+}

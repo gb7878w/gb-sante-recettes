@@ -1,0 +1,77 @@
+{
+ "id": "r249-poulet-grille-salade-de-pommes-de-terre",
+ "nom": "Poulet grillé, salade de pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 377,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez le poulet.",
+  "Mélangez les pommes de terre tièdes avec l'échalote et la vinaigrette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 435.37,
+  "proteines": 46.52,
+  "glucides": 36.13,
+  "lipides": 10.15,
+  "sucres": 2.48,
+  "fibres": 4.12,
+  "satures": 1.95,
+  "sel": 0.68,
+  "fer": 1.24,
+  "calcium": 25.77,
+  "magnesium": 91.41,
+  "potassium": 1397.74,
+  "zinc": 1.39,
+  "iode": 0.18,
+  "vitd": 0.0,
+  "vitc": 9.49,
+  "b12": 0.25,
+  "b9": 78.06,
+  "alcool": 0.01
+ }
+}

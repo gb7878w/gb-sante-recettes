@@ -1,0 +1,71 @@
+{
+ "id": "r248-boulettes-de-dinde-sauce-tomate-et-riz",
+ "nom": "Boulettes de dinde, sauce tomate et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 432,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 130
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 150
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Formez des boulettes avec la dinde hachée et l'oignon.",
+  "Faites-les dorer et mijoter dans le coulis.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.55,
+  "proteines": 44.0,
+  "glucides": 44.45,
+  "lipides": 2.58,
+  "sucres": 8.68,
+  "fibres": 6.68,
+  "satures": 1.18,
+  "sel": 1.53,
+  "fer": 2.27,
+  "calcium": 61.35,
+  "magnesium": 73.94,
+  "potassium": 706.6,
+  "zinc": 2.21,
+  "iode": 5.5,
+  "vitd": 0.0,
+  "vitc": 2.68,
+  "b12": 0.79,
+  "b9": 19.9,
+  "alcool": 0.0
+ }
+}

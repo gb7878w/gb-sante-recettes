@@ -1,0 +1,72 @@
+{
+ "id": "r252-saute-de-boeuf-aux-poivrons",
+ "nom": "Sauté de bœuf aux poivrons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Saisissez le bœuf en lanières.",
+  "Ajoutez poivrons et oignon, cuisez 8 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 399.24,
+  "proteines": 35.23,
+  "glucides": 40.17,
+  "lipides": 8.71,
+  "sucres": 7.26,
+  "fibres": 6.78,
+  "satures": 2.01,
+  "sel": 0.0,
+  "fer": 4.03,
+  "calcium": 24.3,
+  "magnesium": 22.44,
+  "potassium": 336.6,
+  "zinc": 5.76,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 182.12,
+  "b12": 1.8,
+  "b9": 137.12,
+  "alcool": 0.0
+ }
+}

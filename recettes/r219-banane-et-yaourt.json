@@ -1,0 +1,62 @@
+{
+ "id": "r219-banane-et-yaourt",
+ "nom": "Banane et yaourt",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 295,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 90
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez la banane en rondelles.",
+  "Servez sur le yaourt mêlé au fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 191.97,
+  "proteines": 12.16,
+  "glucides": 26.75,
+  "lipides": 2.91,
+  "sucres": 22.99,
+  "fibres": 3.5,
+  "satures": 1.94,
+  "sel": 0.23,
+  "fer": 0.56,
+  "calcium": 270.54,
+  "magnesium": 50.09,
+  "potassium": 611.95,
+  "zinc": 1.02,
+  "iode": 34.32,
+  "vitd": 0.76,
+  "vitc": 6.77,
+  "b12": 0.67,
+  "b9": 62.17,
+  "alcool": 0.0
+ }
+}

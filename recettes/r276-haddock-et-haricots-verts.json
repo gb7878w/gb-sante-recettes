@@ -1,0 +1,69 @@
+{
+ "id": "r276-haddock-et-haricots-verts",
+ "nom": "Haddock et haricots verts",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 620,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 160
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Pochez le haddock 8 minutes.",
+  "Servez avec haricots, pommes de terre et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 401.84,
+  "proteines": 48.03,
+  "glucides": 42.51,
+  "lipides": 1.87,
+  "sucres": 9.05,
+  "fibres": 10.0,
+  "satures": 0.41,
+  "sel": 3.22,
+  "fer": 3.96,
+  "calcium": 272.46,
+  "magnesium": 180.32,
+  "potassium": 1996.4,
+  "zinc": 1.83,
+  "iode": 414.24,
+  "vitd": 1.28,
+  "vitc": 8.16,
+  "b12": 2.8,
+  "b9": 199.6,
+  "alcool": 0.0
+ }
+}

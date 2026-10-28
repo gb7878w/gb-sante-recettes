@@ -1,0 +1,72 @@
+{
+ "id": "r255-lapin-aux-herbes-et-pommes-de-terre",
+ "nom": "Lapin aux herbes et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 457,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le lapin d'huile et d'herbes.",
+  "Rôtissez-le 30 minutes à 190 °C avec les pommes de terre.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 485.66,
+  "proteines": 55.08,
+  "glucides": 37.25,
+  "lipides": 11.08,
+  "sucres": 4.59,
+  "fibres": 7.6,
+  "satures": 2.55,
+  "sel": 0.27,
+  "fer": 9.75,
+  "calcium": 126.86,
+  "magnesium": 113.18,
+  "potassium": 1539.9,
+  "zinc": 4.2,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 8.08,
+  "b12": 9.77,
+  "b9": 129.18,
+  "alcool": 0.0
+ }
+}

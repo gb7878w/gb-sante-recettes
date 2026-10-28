@@ -1,0 +1,72 @@
+{
+ "id": "r245-poulet-au-curry-et-lentilles",
+ "nom": "Poulet au curry et lentilles",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 393,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 130
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet en dés avec l'oignon et le curry.",
+  "Ajoutez les lentilles, servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 433.69,
+  "proteines": 61.43,
+  "glucides": 29.41,
+  "lipides": 3.92,
+  "sucres": 3.55,
+  "fibres": 15.05,
+  "satures": 0.96,
+  "sel": 0.29,
+  "fer": 4.91,
+  "calcium": 192.21,
+  "magnesium": 118.13,
+  "potassium": 1089.8,
+  "zinc": 3.37,
+  "iode": 8.34,
+  "vitd": 0.0,
+  "vitc": 2.5,
+  "b12": 0.55,
+  "b9": 112.95,
+  "alcool": 0.0
+ }
+}

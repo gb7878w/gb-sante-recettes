@@ -1,0 +1,57 @@
+{
+ "id": "r221-salade-d-orange-et-fromage-blanc",
+ "nom": "Salade d'orange et fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 280,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13034",
+   "nom": "Orange",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Pelez l'orange et coupez-la en dés.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 133.25,
+  "proteines": 12.9,
+  "glucides": 16.27,
+  "lipides": 0.06,
+  "sucres": 15.71,
+  "fibres": 3.51,
+  "satures": 0.04,
+  "sel": 0.17,
+  "fer": 0.98,
+  "calcium": 286.8,
+  "magnesium": 37.8,
+  "potassium": 450.0,
+  "zinc": 1.06,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 61.75,
+  "b12": 0.6,
+  "b9": 69.67,
+  "alcool": 0.0
+ }
+}

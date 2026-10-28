@@ -1,0 +1,72 @@
+{
+ "id": "r260-cabillaud-sauce-tomate-basilic-et-riz",
+ "nom": "Cabillaud sauce tomate-basilic et riz",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 397,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Pochez le cabillaud dans le coulis 10 minutes.",
+  "Servez avec le basilic et le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.56,
+  "proteines": 43.35,
+  "glucides": 37.89,
+  "lipides": 5.95,
+  "sucres": 5.51,
+  "fibres": 3.9,
+  "satures": 1.27,
+  "sel": 1.27,
+  "fer": 0.87,
+  "calcium": 52.67,
+  "magnesium": 60.42,
+  "potassium": 535.35,
+  "zinc": 1.35,
+  "iode": 221.0,
+  "vitd": 2.04,
+  "vitc": 2.13,
+  "b12": 2.6,
+  "b9": 29.56,
+  "alcool": 0.0
+ }
+}

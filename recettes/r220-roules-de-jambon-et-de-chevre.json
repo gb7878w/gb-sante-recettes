@@ -1,0 +1,61 @@
+{
+ "id": "r220-roules-de-jambon-et-de-chevre",
+ "nom": "Roulés de jambon et de chèvre",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 115,
+ "tags": [
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 25
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Étalez le chèvre sur le jambon.",
+  "Ajoutez un bâtonnet de concombre et roulez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 107.99,
+  "proteines": 15.71,
+  "glucides": 1.82,
+  "lipides": 4.16,
+  "sucres": 1.33,
+  "fibres": 0.32,
+  "satures": 2.31,
+  "sel": 1.29,
+  "fer": 0.08,
+  "calcium": 58.43,
+  "magnesium": 9.19,
+  "potassium": 294.3,
+  "zinc": 0.04,
+  "iode": 0.12,
+  "vitd": 0.0,
+  "vitc": 3.3,
+  "b12": 0.0,
+  "b9": 4.92,
+  "alcool": 0.0
+ }
+}

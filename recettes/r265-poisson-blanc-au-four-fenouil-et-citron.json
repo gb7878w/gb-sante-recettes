@@ -1,0 +1,74 @@
+{
+ "id": "r265-poisson-blanc-au-four-fenouil-et-citron",
+ "nom": "Poisson blanc au four, fenouil et citron",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 461,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "20028",
+   "nom": "Fenouil",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Disposez le poisson et le fenouil émincé dans un plat.",
+  "Arrosez de citron et d'huile, enfournez 20 minutes à 190 °C.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 401.24,
+  "proteines": 46.27,
+  "glucides": 33.46,
+  "lipides": 6.71,
+  "sucres": 3.42,
+  "fibres": 5.1,
+  "satures": 1.27,
+  "sel": 0.48,
+  "fer": 0.87,
+  "calcium": 102.48,
+  "magnesium": 85.36,
+  "potassium": 1182.2,
+  "zinc": 1.6,
+  "iode": 255.0,
+  "vitd": 1.24,
+  "vitc": 12.46,
+  "b12": 1.6,
+  "b9": 101.47,
+  "alcool": 0.0
+ }
+}

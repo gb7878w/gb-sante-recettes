@@ -1,0 +1,74 @@
+{
+ "id": "r261-saumon-sauce-citron-et-pommes-de-terre-vapeur",
+ "nom": "Saumon sauce citron et pommes de terre vapeur",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 540,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Cuisez le saumon à la vapeur ou au four.",
+  "Mélangez le fromage blanc et le citron en sauce.",
+  "Servez avec les légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 481.4,
+  "proteines": 38.6,
+  "glucides": 40.98,
+  "lipides": 15.7,
+  "sucres": 7.88,
+  "fibres": 8.4,
+  "satures": 3.2,
+  "sel": 0.32,
+  "fer": 1.88,
+  "calcium": 183.46,
+  "magnesium": 116.03,
+  "potassium": 1676.0,
+  "zinc": 1.46,
+  "iode": 6.24,
+  "vitd": 0.0,
+  "vitc": 15.43,
+  "b12": 3.58,
+  "b9": 177.57,
+  "alcool": 0.0
+ }
+}

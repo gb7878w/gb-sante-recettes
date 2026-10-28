@@ -1,0 +1,76 @@
+{
+ "id": "r300-boeuf-bourguignon-allege",
+ "nom": "Boeuf bourguignon allégé",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 610,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 130
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 120
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 40
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Faites dorer la viande avec l'oignon.",
+  "Ajoutez vin, carottes et champignons, mijotez 50 minutes.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.32,
+  "proteines": 39.59,
+  "glucides": 46.49,
+  "lipides": 4.22,
+  "sucres": 11.4,
+  "fibres": 8.52,
+  "satures": 1.19,
+  "sel": 0.33,
+  "fer": 5.03,
+  "calcium": 54.56,
+  "magnesium": 58.72,
+  "potassium": 1387.12,
+  "zinc": 6.49,
+  "iode": 1.0,
+  "vitd": 0.3,
+  "vitc": 11.64,
+  "b12": 1.95,
+  "b9": 166.96,
+  "alcool": 3.1
+ }
+}

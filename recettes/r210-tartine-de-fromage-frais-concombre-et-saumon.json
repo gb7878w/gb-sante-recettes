@@ -1,0 +1,69 @@
+{
+ "id": "r210-tartine-de-fromage-frais-concombre-et-saumon",
+ "nom": "Tartine de fromage frais, concombre et saumon",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Tartinez le pain de fromage blanc.",
+  "Ajoutez le concombre et le saumon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 251.32,
+  "proteines": 20.07,
+  "glucides": 26.53,
+  "lipides": 5.99,
+  "sucres": 5.05,
+  "fibres": 3.75,
+  "satures": 1.3,
+  "sel": 0.71,
+  "fer": 1.38,
+  "calcium": 140.9,
+  "magnesium": 53.5,
+  "potassium": 466.9,
+  "zinc": 1.31,
+  "iode": 8.47,
+  "vitd": 0.43,
+  "vitc": 5.24,
+  "b12": 1.43,
+  "b9": 51.11,
+  "alcool": 0.0
+ }
+}

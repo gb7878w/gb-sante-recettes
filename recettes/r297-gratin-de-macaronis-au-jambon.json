@@ -1,0 +1,74 @@
+{
+ "id": "r297-gratin-de-macaronis-au-jambon",
+ "nom": "Gratin de macaronis au jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 90
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mélangez pâtes, jambon et épinards.",
+  "Nappez de fromage blanc et d'emmental, gratinez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.91,
+  "proteines": 42.1,
+  "glucides": 38.62,
+  "lipides": 11.39,
+  "sucres": 6.64,
+  "fibres": 5.41,
+  "satures": 5.87,
+  "sel": 2.11,
+  "fer": 2.17,
+  "calcium": 628.65,
+  "magnesium": 70.31,
+  "potassium": 691.55,
+  "zinc": 2.93,
+  "iode": 17.83,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 1.0,
+  "b9": 117.86,
+  "alcool": 0.0
+ }
+}

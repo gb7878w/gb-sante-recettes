@@ -1,0 +1,73 @@
+{
+ "id": "r266-crevettes-pois-chiches-et-epinards",
+ "nom": "Crevettes, pois chiches et épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 359,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail et les épinards dans l'huile.",
+  "Ajoutez les pois chiches et les crevettes 3 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 383.77,
+  "proteines": 38.21,
+  "glucides": 24.23,
+  "lipides": 11.8,
+  "sucres": 0.4,
+  "fibres": 13.51,
+  "satures": 2.0,
+  "sel": 1.82,
+  "fer": 5.45,
+  "calcium": 638.73,
+  "magnesium": 162.7,
+  "potassium": 710.1,
+  "zinc": 4.33,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 1.08,
+  "b12": 2.13,
+  "b9": 183.74,
+  "alcool": 0.0
+ }
+}

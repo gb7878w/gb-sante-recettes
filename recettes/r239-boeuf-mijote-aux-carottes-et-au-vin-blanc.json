@@ -1,0 +1,71 @@
+{
+ "id": "r239-boeuf-mijote-aux-carottes-et-au-vin-blanc",
+ "nom": "Bœuf mijoté aux carottes et au vin blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 130
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 200
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites dorer la viande avec l'oignon.",
+  "Ajoutez carottes, vin et un peu d'eau, mijotez 40 minutes.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 397.29,
+  "proteines": 36.94,
+  "glucides": 44.0,
+  "lipides": 3.76,
+  "sucres": 13.42,
+  "fibres": 9.14,
+  "satures": 1.1,
+  "sel": 0.3,
+  "fer": 4.8,
+  "calcium": 66.08,
+  "magnesium": 50.3,
+  "potassium": 1089.79,
+  "zinc": 6.08,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 9.31,
+  "b12": 1.95,
+  "b9": 170.65,
+  "alcool": 2.33
+ }
+}

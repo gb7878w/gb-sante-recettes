@@ -1,0 +1,66 @@
+{
+ "id": "r250-roti-de-porc-lentilles-et-carottes",
+ "nom": "Rôti de porc, lentilles et carottes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 384,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc 30 minutes à 190 °C.",
+  "Servez avec les lentilles et les carottes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 485.1,
+  "proteines": 49.71,
+  "glucides": 31.89,
+  "lipides": 14.1,
+  "sucres": 6.3,
+  "fibres": 15.38,
+  "satures": 4.1,
+  "sel": 0.29,
+  "fer": 5.34,
+  "calcium": 93.7,
+  "magnesium": 92.98,
+  "potassium": 999.7,
+  "zinc": 4.63,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 2.05,
+  "b12": 1.33,
+  "b9": 135.15,
+  "alcool": 0.0
+ }
+}

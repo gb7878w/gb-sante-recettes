@@ -1,0 +1,74 @@
+{
+ "id": "r290-spaghettis-aux-boulettes",
+ "nom": "Spaghettis aux boulettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Formez de petites boulettes avec la viande et l'oignon.",
+  "Faites-les mijoter dans le coulis.",
+  "Servez sur les pâtes avec le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 458.0,
+  "proteines": 39.56,
+  "glucides": 47.15,
+  "lipides": 10.54,
+  "sucres": 7.5,
+  "fibres": 6.56,
+  "satures": 5.25,
+  "sel": 1.39,
+  "fer": 3.75,
+  "calcium": 133.4,
+  "magnesium": 53.62,
+  "potassium": 485.3,
+  "zinc": 8.15,
+  "iode": 15.71,
+  "vitd": 0.0,
+  "vitc": 0.62,
+  "b12": 3.0,
+  "b9": 46.1,
+  "alcool": 0.0
+ }
+}

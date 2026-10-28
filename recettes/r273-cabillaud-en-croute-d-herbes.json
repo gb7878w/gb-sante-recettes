@@ -1,0 +1,80 @@
+{
+ "id": "r273-cabillaud-en-croute-d-herbes",
+ "nom": "Cabillaud en croûte d'herbes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 15
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mélangez biscotte écrasée et herbes, déposez sur le poisson.",
+  "Enfournez 15 minutes à 200 °C.",
+  "Servez avec les légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.68,
+  "proteines": 45.2,
+  "glucides": 47.17,
+  "lipides": 2.66,
+  "sucres": 5.0,
+  "fibres": 8.34,
+  "satures": 0.8,
+  "sel": 0.71,
+  "fer": 2.3,
+  "calcium": 112.03,
+  "magnesium": 130.59,
+  "potassium": 1587.3,
+  "zinc": 1.73,
+  "iode": 221.0,
+  "vitd": 2.04,
+  "vitc": 22.05,
+  "b12": 2.6,
+  "b9": 142.14,
+  "alcool": 0.0
+ }
+}

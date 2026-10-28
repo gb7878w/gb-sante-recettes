@@ -1,0 +1,75 @@
+{
+ "id": "r280-gratin-de-chou-fleur-au-fromage-blanc",
+ "nom": "Gratin de chou-fleur au fromage blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 610,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Cuisez le chou-fleur 10 minutes.",
+  "Mélangez fromage blanc, œuf et emmental, nappez.",
+  "Gratinez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 417.05,
+  "proteines": 34.14,
+  "glucides": 30.04,
+  "lipides": 16.1,
+  "sucres": 11.0,
+  "fibres": 7.16,
+  "satures": 7.42,
+  "sel": 0.69,
+  "fer": 2.92,
+  "calcium": 595.78,
+  "magnesium": 89.4,
+  "potassium": 1356.22,
+  "zinc": 3.39,
+  "iode": 34.62,
+  "vitd": 1.13,
+  "vitc": 27.75,
+  "b12": 2.08,
+  "b9": 300.74,
+  "alcool": 0.0
+ }
+}

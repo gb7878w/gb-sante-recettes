@@ -1,0 +1,73 @@
+{
+ "id": "r201-porridge-banane-cacao",
+ "nom": "Porridge banane-cacao",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 354,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 60
+  },
+  {
+   "ciqual": "18100",
+   "nom": "Cacao non sucré",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites chauffer les flocons avec le lait 4 minutes.",
+  "Ajoutez le cacao, le fromage blanc et la banane écrasée."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 336.48,
+  "proteines": 19.87,
+  "glucides": 46.58,
+  "lipides": 5.79,
+  "sucres": 20.66,
+  "fibres": 6.88,
+  "satures": 2.54,
+  "sel": 0.25,
+  "fer": 3.9,
+  "calcium": 351.88,
+  "magnesium": 126.35,
+  "potassium": 893.3,
+  "zinc": 2.75,
+  "iode": 28.75,
+  "vitd": 0.11,
+  "vitc": 6.55,
+  "b12": 0.97,
+  "b9": 69.76,
+  "alcool": 0.0
+ }
+}

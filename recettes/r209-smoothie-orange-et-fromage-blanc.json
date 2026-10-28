@@ -1,0 +1,68 @@
+{
+ "id": "r209-smoothie-orange-et-fromage-blanc",
+ "nom": "Smoothie orange et fromage blanc",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 435,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "13034",
+   "nom": "Orange",
+   "g": 120
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Pressez ou coupez l'orange.",
+  "Mixez avec le fromage blanc, le lait et les flocons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 255.45,
+  "proteines": 22.18,
+  "glucides": 30.93,
+  "lipides": 2.61,
+  "sucres": 21.71,
+  "fibres": 4.77,
+  "satures": 1.27,
+  "sel": 0.31,
+  "fer": 1.65,
+  "calcium": 476.84,
+  "magnesium": 76.7,
+  "potassium": 727.55,
+  "zinc": 2.17,
+  "iode": 32.98,
+  "vitd": 0.0,
+  "vitc": 58.5,
+  "b12": 1.18,
+  "b9": 94.51,
+  "alcool": 0.0
+ }
+}

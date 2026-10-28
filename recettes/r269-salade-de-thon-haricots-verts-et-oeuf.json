@@ -1,0 +1,79 @@
+{
+ "id": "r269-salade-de-thon-haricots-verts-et-oeuf",
+ "nom": "Salade de thon, haricots verts et œuf",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 571,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 110
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Composez la salade avec haricots, pommes de terre et tomate.",
+  "Ajoutez le thon, l'œuf dur et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 432.85,
+  "proteines": 42.73,
+  "glucides": 34.01,
+  "lipides": 11.69,
+  "sucres": 8.13,
+  "fibres": 8.5,
+  "satures": 2.55,
+  "sel": 1.06,
+  "fer": 3.17,
+  "calcium": 121.48,
+  "magnesium": 106.05,
+  "potassium": 1438.2,
+  "zinc": 1.83,
+  "iode": 44.94,
+  "vitd": 6.2,
+  "vitc": 22.42,
+  "b12": 3.39,
+  "b9": 176.53,
+  "alcool": 0.0
+ }
+}

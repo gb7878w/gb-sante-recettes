@@ -1,0 +1,70 @@
+{
+ "id": "r247-agneau-et-haricots-blancs",
+ "nom": "Agneau et haricots blancs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 395,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 110
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 180
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'agneau avec l'ail.",
+  "Ajoutez haricots, coulis et herbes, mijotez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.79,
+  "proteines": 44.07,
+  "glucides": 31.15,
+  "lipides": 9.86,
+  "sucres": 6.45,
+  "fibres": 28.42,
+  "satures": 3.46,
+  "sel": 1.13,
+  "fer": 6.01,
+  "calcium": 277.51,
+  "magnesium": 99.85,
+  "potassium": 854.4,
+  "zinc": 5.75,
+  "iode": 5.8,
+  "vitd": 0.0,
+  "vitc": 1.08,
+  "b12": 2.07,
+  "b9": 80.94,
+  "alcool": 0.0
+ }
+}

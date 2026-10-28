@@ -1,0 +1,66 @@
+{
+ "id": "r254-jambon-haricots-blancs-et-tomate",
+ "nom": "Jambon, haricots blancs et tomate",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 180
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon, ajoutez coulis et haricots.",
+  "Terminez avec le jambon en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.24,
+  "proteines": 34.16,
+  "glucides": 33.66,
+  "lipides": 5.42,
+  "sucres": 7.42,
+  "fibres": 28.37,
+  "satures": 1.71,
+  "sel": 2.88,
+  "fer": 3.09,
+  "calcium": 229.9,
+  "magnesium": 61.02,
+  "potassium": 871.0,
+  "zinc": 1.24,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 0.62,
+  "b12": 0.0,
+  "b9": 59.88,
+  "alcool": 0.0
+ }
+}

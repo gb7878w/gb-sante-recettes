@@ -1,0 +1,73 @@
+{
+ "id": "r258-boeuf-hache-courgettes-farcies",
+ "nom": "Bœuf haché, courgettes farcies",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Évidez les courgettes et remplissez-les de viande, de riz et de coulis.",
+  "Parsemez d'emmental, enfournez 30 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 404.94,
+  "proteines": 42.97,
+  "glucides": 24.96,
+  "lipides": 13.32,
+  "sucres": 7.88,
+  "fibres": 6.43,
+  "satures": 6.68,
+  "sel": 1.27,
+  "fer": 4.81,
+  "calcium": 210.8,
+  "magnesium": 94.36,
+  "potassium": 1071.51,
+  "zinc": 9.81,
+  "iode": 11.14,
+  "vitd": 0.0,
+  "vitc": 7.25,
+  "b12": 3.51,
+  "b9": 101.37,
+  "alcool": 0.0
+ }
+}

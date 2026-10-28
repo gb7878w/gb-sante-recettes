@@ -1,0 +1,62 @@
+{
+ "id": "r217-batonnets-de-carotte-et-fromage-blanc-aux-herbes",
+ "nom": "Bâtonnets de carotte et fromage blanc aux herbes",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 273,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le persil haché.",
+  "Servez avec les bâtonnets de carotte."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 123.63,
+  "proteines": 12.79,
+  "glucides": 15.05,
+  "lipides": 0.08,
+  "sucres": 13.06,
+  "fibres": 3.37,
+  "satures": 0.05,
+  "sel": 0.31,
+  "fer": 0.67,
+  "calcium": 237.54,
+  "magnesium": 31.48,
+  "potassium": 509.94,
+  "zinc": 0.97,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 7.77,
+  "b12": 0.6,
+  "b9": 111.3,
+  "alcool": 0.0
+ }
+}

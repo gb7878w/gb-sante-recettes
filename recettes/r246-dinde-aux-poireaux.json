@@ -1,0 +1,68 @@
+{
+ "id": "r246-dinde-aux-poireaux",
+ "nom": "Dinde aux poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Faites fondre les poireaux.",
+  "Ajoutez la dinde en dés et la crème, cuisez 10 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 408.35,
+  "proteines": 46.28,
+  "glucides": 36.57,
+  "lipides": 6.7,
+  "sucres": 5.48,
+  "fibres": 7.6,
+  "satures": 3.95,
+  "sel": 0.29,
+  "fer": 1.57,
+  "calcium": 103.49,
+  "magnesium": 90.28,
+  "potassium": 1008.5,
+  "zinc": 2.39,
+  "iode": 5.6,
+  "vitd": 0.0,
+  "vitc": 3.65,
+  "b12": 0.85,
+  "b9": 52.92,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r268-moules-a-la-creme-et-frites-au-four",
+ "nom": "Moules à la crème et frites au four",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 513,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 250
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 200
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec l'échalote.",
+  "Ajoutez la crème et le persil.",
+  "Servez avec les pommes de terre au four."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 523.01,
+  "proteines": 49.66,
+  "glucides": 54.06,
+  "lipides": 10.9,
+  "sucres": 4.73,
+  "fibres": 5.05,
+  "satures": 4.77,
+  "sel": 2.14,
+  "fer": 12.3,
+  "calcium": 228.94,
+  "magnesium": 228.78,
+  "potassium": 1597.74,
+  "zinc": 7.91,
+  "iode": 265.0,
+  "vitd": 0.0,
+  "vitc": 40.79,
+  "b12": 44.0,
+  "b9": 182.06,
+  "alcool": 0.0
+ }
+}

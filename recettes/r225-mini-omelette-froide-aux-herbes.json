@@ -1,0 +1,62 @@
+{
+ "id": "r225-mini-omelette-froide-aux-herbes",
+ "nom": "Mini-omelette froide aux herbes",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 133,
+ "tags": [
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Battez les œufs avec le persil et le fromage blanc.",
+  "Cuisez en omelette, laissez refroidir et coupez en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 156.11,
+  "proteines": 15.2,
+  "glucides": 1.54,
+  "lipides": 9.86,
+  "sucres": 1.47,
+  "fibres": 0.13,
+  "satures": 2.65,
+  "sel": 0.36,
+  "fer": 2.07,
+  "calcium": 123.54,
+  "magnesium": 15.85,
+  "potassium": 195.14,
+  "zinc": 1.18,
+  "iode": 24.12,
+  "vitd": 1.88,
+  "vitc": 5.31,
+  "b12": 1.57,
+  "b9": 45.22,
+  "alcool": 0.0
+ }
+}

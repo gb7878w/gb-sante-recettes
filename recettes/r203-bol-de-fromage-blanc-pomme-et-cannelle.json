@@ -1,0 +1,74 @@
+{
+ "id": "r203-bol-de-fromage-blanc-pomme-et-cannelle",
+ "nom": "Bol de fromage blanc, pomme et cannelle",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 349,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 100
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 20
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et la cannelle.",
+  "Ajoutez la pomme en dés, les flocons et les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 294.29,
+  "proteines": 21.5,
+  "glucides": 32.56,
+  "lipides": 7.04,
+  "sucres": 18.36,
+  "fibres": 4.51,
+  "satures": 0.86,
+  "sel": 0.24,
+  "fer": 1.52,
+  "calcium": 333.0,
+  "magnesium": 74.71,
+  "potassium": 549.91,
+  "zinc": 2.01,
+  "iode": 23.18,
+  "vitd": 0.0,
+  "vitc": 6.35,
+  "b12": 0.88,
+  "b9": 76.38,
+  "alcool": 0.0
+ }
+}

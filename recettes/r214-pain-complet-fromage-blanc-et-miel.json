@@ -1,0 +1,69 @@
+{
+ "id": "r214-pain-complet-fromage-blanc-et-miel",
+ "nom": "Pain complet, fromage blanc et miel",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 276,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 8
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Tartinez le pain de la moitié du fromage blanc et d'un filet de miel.",
+  "Servez le reste avec les noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.5,
+  "proteines": 22.04,
+  "glucides": 41.45,
+  "lipides": 6.54,
+  "sucres": 15.72,
+  "fibres": 4.68,
+  "satures": 0.89,
+  "sel": 0.89,
+  "fer": 1.77,
+  "calcium": 298.03,
+  "magnesium": 66.54,
+  "potassium": 472.02,
+  "zinc": 2.04,
+  "iode": 20.84,
+  "vitd": 0.52,
+  "vitc": 0.13,
+  "b12": 0.8,
+  "b9": 79.12,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "id": "r238-poulet-roti-ratatouille-et-semoule",
+ "nom": "Poulet rôti, ratatouille et semoule",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 80
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 25 minutes à 200 °C.",
+  "Faites mijoter les légumes dans l'huile.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 426.68,
+  "proteines": 48.05,
+  "glucides": 32.33,
+  "lipides": 9.18,
+  "sucres": 9.92,
+  "fibres": 7.84,
+  "satures": 1.96,
+  "sel": 0.3,
+  "fer": 2.24,
+  "calcium": 61.76,
+  "magnesium": 109.1,
+  "potassium": 1258.4,
+  "zinc": 1.87,
+  "iode": 0.8,
+  "vitd": 0.0,
+  "vitc": 22.24,
+  "b12": 0.25,
+  "b9": 90.37,
+  "alcool": 0.0
+ }
+}

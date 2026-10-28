@@ -1,0 +1,79 @@
+{
+ "id": "r292-risotto-de-riz-aux-courgettes-et-aux-crevettes",
+ "nom": "Risotto de riz aux courgettes et aux crevettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 547,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 110
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 12
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites revenir les courgettes dans l'huile.",
+  "Ajoutez le riz cuit et le bouillon, réduisez.",
+  "Ajoutez les crevettes et le parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 368.62,
+  "proteines": 29.82,
+  "glucides": 34.41,
+  "lipides": 11.49,
+  "sucres": 2.37,
+  "fibres": 3.45,
+  "satures": 4.29,
+  "sel": 2.74,
+  "fer": 3.02,
+  "calcium": 425.25,
+  "magnesium": 116.87,
+  "potassium": 683.2,
+  "zinc": 3.14,
+  "iode": 10.8,
+  "vitd": 0.0,
+  "vitc": 5.26,
+  "b12": 2.12,
+  "b9": 79.2,
+  "alcool": 0.0
+ }
+}

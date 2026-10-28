@@ -1,0 +1,74 @@
+{
+ "id": "r274-wok-de-crevettes-et-legumes",
+ "nom": "Wok de crevettes et légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Saisissez les crevettes 2 minutes.",
+  "Ajoutez les légumes 6 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 395.9,
+  "proteines": 34.69,
+  "glucides": 41.58,
+  "lipides": 8.27,
+  "sucres": 7.05,
+  "fibres": 6.66,
+  "satures": 1.9,
+  "sel": 1.9,
+  "fer": 3.84,
+  "calcium": 399.2,
+  "magnesium": 130.32,
+  "potassium": 1045.8,
+  "zinc": 3.62,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 33.77,
+  "b12": 2.13,
+  "b9": 199.57,
+  "alcool": 0.0
+ }
+}

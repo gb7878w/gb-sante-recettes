@@ -1,0 +1,63 @@
+{
+ "id": "r235-soja-vanille-et-framboises",
+ "nom": "Soja vanille et framboises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 380,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "soja"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "18901",
+   "nom": "Boisson au soja nature",
+   "g": 200
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Servez le soja nature avec les framboises.",
+  "Ajoutez le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 177.16,
+  "proteines": 15.74,
+  "glucides": 12.91,
+  "lipides": 4.78,
+  "sucres": 12.57,
+  "fibres": 5.44,
+  "satures": 0.65,
+  "sel": 0.31,
+  "fer": 1.38,
+  "calcium": 342.8,
+  "magnesium": 54.2,
+  "potassium": 452.0,
+  "zinc": 1.16,
+  "iode": 10.4,
+  "vitd": 2.32,
+  "vitc": 14.96,
+  "b12": 0.4,
+  "b9": 99.08,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "id": "r291-gratin-d-endives-et-de-jambon",
+ "nom": "Gratin d'endives et de jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 703,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 300
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 8
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Faites braiser les endives, enroulez-les dans le jambon.",
+  "Nappez d'une béchamel légère.",
+  "Gratinez et servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 485.38,
+  "proteines": 40.92,
+  "glucides": 46.37,
+  "lipides": 13.16,
+  "sucres": 14.77,
+  "fibres": 6.38,
+  "satures": 7.13,
+  "sel": 2.71,
+  "fer": 1.27,
+  "calcium": 443.89,
+  "magnesium": 74.53,
+  "potassium": 1627.85,
+  "zinc": 2.17,
+  "iode": 17.45,
+  "vitd": 0.0,
+  "vitc": 12.24,
+  "b12": 0.89,
+  "b9": 142.73,
+  "alcool": 0.0
+ }
+}

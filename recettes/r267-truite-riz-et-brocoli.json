@@ -1,0 +1,68 @@
+{
+ "id": "r267-truite-riz-et-brocoli",
+ "nom": "Truite, riz et brocoli",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 470,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 140
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Cuisez la truite au four 15 minutes.",
+  "Servez avec le riz, le brocoli et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.56,
+  "proteines": 41.65,
+  "glucides": 34.5,
+  "lipides": 10.98,
+  "sucres": 3.08,
+  "fibres": 5.6,
+  "satures": 2.97,
+  "sel": 0.26,
+  "fer": 1.87,
+  "calcium": 171.0,
+  "magnesium": 94.93,
+  "potassium": 1263.0,
+  "zinc": 2.4,
+  "iode": 13.3,
+  "vitd": 21.0,
+  "vitc": 49.96,
+  "b12": 6.38,
+  "b9": 192.16,
+  "alcool": 0.0
+ }
+}

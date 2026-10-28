@@ -1,0 +1,74 @@
+{
+ "id": "r206-pancakes-au-fromage-blanc-et-aux-framboises",
+ "nom": "Pancakes au fromage blanc et aux framboises",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "vegetarien"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9440",
+   "nom": "Farine de blé T45",
+   "g": 30
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 50
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 70
+  }
+ ],
+ "etapes": [
+  "Mélangez farine, œuf, lait et la moitié du fromage blanc.",
+  "Faites cuire de petits pancakes.",
+  "Servez avec le reste de fromage blanc et les framboises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 322.84,
+  "proteines": 24.79,
+  "glucides": 35.26,
+  "lipides": 7.54,
+  "sucres": 12.23,
+  "fibres": 3.76,
+  "satures": 2.28,
+  "sel": 0.43,
+  "fer": 2.02,
+  "calcium": 322.0,
+  "magnesium": 52.45,
+  "potassium": 545.4,
+  "zinc": 1.93,
+  "iode": 34.25,
+  "vitd": 1.13,
+  "vitc": 13.84,
+  "b12": 1.66,
+  "b9": 93.22,
+  "alcool": 0.0
+ }
+}

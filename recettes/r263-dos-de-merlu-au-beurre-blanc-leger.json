@@ -1,0 +1,74 @@
+{
+ "id": "r263-dos-de-merlu-au-beurre-blanc-leger",
+ "nom": "Dos de merlu au beurre blanc léger",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 428,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 170
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Pochez le merlu.",
+  "Réduisez l'échalote et le vin, montez au beurre.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 444.52,
+  "proteines": 40.06,
+  "glucides": 37.13,
+  "lipides": 12.3,
+  "sucres": 2.5,
+  "fibres": 4.12,
+  "satures": 6.1,
+  "sel": 0.54,
+  "fer": 1.18,
+  "calcium": 88.17,
+  "magnesium": 88.09,
+  "potassium": 1290.55,
+  "zinc": 1.28,
+  "iode": 71.53,
+  "vitd": 5.53,
+  "vitc": 7.44,
+  "b12": 2.73,
+  "b9": 109.36,
+  "alcool": 2.33
+ }
+}

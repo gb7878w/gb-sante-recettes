@@ -1,0 +1,65 @@
+{
+ "id": "r257-dinde-brocoli-et-pommes-de-terre-vapeur",
+ "nom": "Dinde, brocoli et pommes de terre vapeur",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 545,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez la dinde dans l'huile.",
+  "Servez avec le brocoli et les pommes de terre vapeur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 454.8,
+  "proteines": 51.76,
+  "glucides": 38.46,
+  "lipides": 8.6,
+  "sucres": 4.72,
+  "fibres": 8.0,
+  "satures": 2.15,
+  "sel": 0.4,
+  "fer": 2.39,
+  "calcium": 91.25,
+  "magnesium": 142.76,
+  "potassium": 2052.8,
+  "zinc": 3.07,
+  "iode": 5.6,
+  "vitd": 0.0,
+  "vitc": 48.29,
+  "b12": 0.85,
+  "b9": 225.6,
+  "alcool": 0.0
+ }
+}

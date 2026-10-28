@@ -1,0 +1,62 @@
+{
+ "id": "r228-poire-et-fromage-blanc-au-miel",
+ "nom": "Poire et fromage blanc au miel",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 265,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 130
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Coupez la poire.",
+  "Servez avec le fromage blanc et le miel."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 149.7,
+  "proteines": 10.36,
+  "glucides": 23.96,
+  "lipides": 0.05,
+  "sucres": 21.27,
+  "fibres": 4.03,
+  "satures": 0.04,
+  "sel": 0.14,
+  "fer": 0.33,
+  "calcium": 179.67,
+  "magnesium": 22.96,
+  "potassium": 319.41,
+  "zinc": 0.73,
+  "iode": 13.54,
+  "vitd": 0.0,
+  "vitc": 1.85,
+  "b12": 0.52,
+  "b9": 47.68,
+  "alcool": 0.0
+ }
+}

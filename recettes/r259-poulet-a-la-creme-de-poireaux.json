@@ -1,0 +1,68 @@
+{
+ "id": "r259-poulet-a-la-creme-de-poireaux",
+ "nom": "Poulet à la crème de poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 450,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet puis les poireaux.",
+  "Ajoutez la crème, servez avec les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.7,
+  "proteines": 49.76,
+  "glucides": 36.22,
+  "lipides": 9.16,
+  "sucres": 5.56,
+  "fibres": 7.08,
+  "satures": 4.75,
+  "sel": 0.27,
+  "fer": 1.57,
+  "calcium": 107.38,
+  "magnesium": 88.47,
+  "potassium": 934.1,
+  "zinc": 1.72,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 3.95,
+  "b12": 0.26,
+  "b9": 73.37,
+  "alcool": 0.0
+ }
+}

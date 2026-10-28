@@ -1,0 +1,77 @@
+{
+ "id": "r285-curry-de-legumes-et-de-pois-chiches",
+ "nom": "Curry de légumes et de pois chiches",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 633,
+ "tags": [
+  "vegetarien"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites mijoter les légumes avec le curry.",
+  "Ajoutez les pois chiches, servez avec le riz et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 472.69,
+  "proteines": 32.61,
+  "glucides": 61.68,
+  "lipides": 5.91,
+  "sucres": 14.78,
+  "fibres": 18.66,
+  "satures": 1.16,
+  "sel": 0.48,
+  "fer": 3.56,
+  "calcium": 443.71,
+  "magnesium": 138.49,
+  "potassium": 1062.1,
+  "zinc": 3.5,
+  "iode": 20.82,
+  "vitd": 0.0,
+  "vitc": 5.14,
+  "b12": 0.8,
+  "b9": 270.18,
+  "alcool": 0.0
+ }
+}
