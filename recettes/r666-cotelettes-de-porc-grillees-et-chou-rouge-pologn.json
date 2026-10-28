@@ -1,0 +1,70 @@
+{
+ "id": "r666-cotelettes-de-porc-grillees-et-chou-rouge-pologn",
+ "nom": "Côtelettes de porc grillées et chou rouge (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 374,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20095",
+   "nom": "Chou rouge cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez le porc.",
+  "Servez avec le chou rouge braisé au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.02,
+  "proteines": 45.38,
+  "glucides": 7.05,
+  "lipides": 17.33,
+  "sucres": 6.82,
+  "fibres": 5.2,
+  "satures": 7.48,
+  "sel": 0.86,
+  "fer": 3.23,
+  "calcium": 128.8,
+  "magnesium": 66.95,
+  "potassium": 1088.09,
+  "zinc": 3.51,
+  "iode": 3.04,
+  "vitd": 0.07,
+  "vitc": 68.82,
+  "b12": 1.64,
+  "b9": 48.78,
+  "alcool": 0.0
+ }
+}

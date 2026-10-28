@@ -1,0 +1,76 @@
+{
+ "id": "r685-soupe-a-l-ail-et-aux-oeufs-tchequie",
+ "nom": "Soupe à l'ail et aux œufs (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 428,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 8
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 200
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Chauffez le bouillon avec l'ail.",
+  "Ajoutez les œufs battus, le jambon et le fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 380.14,
+  "proteines": 37.8,
+  "glucides": 4.11,
+  "lipides": 23.62,
+  "sucres": 1.62,
+  "fibres": 0.55,
+  "satures": 9.85,
+  "sel": 3.03,
+  "fer": 3.14,
+  "calcium": 402.42,
+  "magnesium": 31.39,
+  "potassium": 476.62,
+  "zinc": 2.69,
+  "iode": 33.72,
+  "vitd": 2.44,
+  "vitc": 0.0,
+  "b12": 2.49,
+  "b9": 58.31,
+  "alcool": 0.0
+ }
+}

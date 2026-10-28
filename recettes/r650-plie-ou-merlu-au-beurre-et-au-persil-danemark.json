@@ -1,0 +1,75 @@
+{
+ "id": "r650-plie-ou-merlu-au-beurre-et-au-persil-danemark",
+ "nom": "Plie ou merlu au beurre et au persil (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 367,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le poisson au beurre.",
+  "Servez avec persil, citron et épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 348.78,
+  "proteines": 45.62,
+  "glucides": 0.45,
+  "lipides": 16.56,
+  "sucres": 0.23,
+  "fibres": 5.47,
+  "satures": 8.49,
+  "sel": 0.56,
+  "fer": 2.77,
+  "calcium": 453.56,
+  "magnesium": 103.49,
+  "potassium": 838.28,
+  "zinc": 2.31,
+  "iode": 79.99,
+  "vitd": 6.21,
+  "vitc": 13.35,
+  "b12": 3.06,
+  "b9": 154.11,
+  "alcool": 0.0
+ }
+}

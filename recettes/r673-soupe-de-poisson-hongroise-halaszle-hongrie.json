@@ -1,0 +1,79 @@
+{
+ "id": "r673-soupe-de-poisson-hongroise-halaszle-hongrie",
+ "nom": "Soupe de poisson hongroise (halászlé) (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 322,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 130
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites revenir oignon et paprika.",
+  "Ajoutez coulis et poissons, mijotez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.92,
+  "proteines": 44.04,
+  "glucides": 10.14,
+  "lipides": 20.07,
+  "sucres": 4.89,
+  "fibres": 4.52,
+  "satures": 4.06,
+  "sel": 1.11,
+  "fer": 1.48,
+  "calcium": 75.6,
+  "magnesium": 64.4,
+  "potassium": 758.0,
+  "zinc": 1.18,
+  "iode": 54.6,
+  "vitd": 4.16,
+  "vitc": 2.54,
+  "b12": 3.75,
+  "b9": 53.42,
+  "alcool": 0.0
+ }
+}

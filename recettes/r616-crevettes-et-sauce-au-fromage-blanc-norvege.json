@@ -1,0 +1,70 @@
+{
+ "id": "r616-crevettes-et-sauce-au-fromage-blanc-norvege",
+ "nom": "Crevettes et sauce au fromage blanc (Norvège)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 160,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 70
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mêlez le fromage blanc, citron et aneth.",
+  "Ajoutez les crevettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 108.35,
+  "proteines": 19.74,
+  "glucides": 4.62,
+  "lipides": 0.87,
+  "sucres": 3.2,
+  "fibres": 0.07,
+  "satures": 0.25,
+  "sel": 1.04,
+  "fer": 1.64,
+  "calcium": 280.12,
+  "magnesium": 53.65,
+  "potassium": 317.14,
+  "zinc": 1.64,
+  "iode": 8.4,
+  "vitd": 0.0,
+  "vitc": 5.58,
+  "b12": 1.47,
+  "b9": 34.01,
+  "alcool": 0.0
+ }
+}

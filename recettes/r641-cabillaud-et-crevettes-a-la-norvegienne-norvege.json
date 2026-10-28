@@ -1,0 +1,76 @@
+{
+ "id": "r641-cabillaud-et-crevettes-a-la-norvegienne-norvege",
+ "nom": "Cabillaud et crevettes à la norvégienne (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 70
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez cabillaud et crevettes au beurre.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 344.3,
+  "proteines": 54.05,
+  "glucides": 6.63,
+  "lipides": 10.01,
+  "sucres": 3.87,
+  "fibres": 4.97,
+  "satures": 5.89,
+  "sel": 1.37,
+  "fer": 2.9,
+  "calcium": 286.28,
+  "magnesium": 133.47,
+  "potassium": 1099.44,
+  "zinc": 2.4,
+  "iode": 221.16,
+  "vitd": 2.15,
+  "vitc": 11.1,
+  "b12": 3.77,
+  "b9": 107.13,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r652-saumon-a-la-finlandaise-lohikeitto-allege-finlan",
+ "nom": "Saumon à la finlandaise (lohikeitto allégé) (Finlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 363,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mijotez poireau et carotte 12 minutes.",
+  "Ajoutez le saumon en dés et la crème, cuisez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 432.92,
+  "proteines": 37.58,
+  "glucides": 9.82,
+  "lipides": 25.73,
+  "sucres": 7.85,
+  "fibres": 4.93,
+  "satures": 8.49,
+  "sel": 0.35,
+  "fer": 1.17,
+  "calcium": 116.41,
+  "magnesium": 62.69,
+  "potassium": 946.41,
+  "zinc": 0.89,
+  "iode": 0.12,
+  "vitd": 0.0,
+  "vitc": 8.81,
+  "b12": 4.17,
+  "b9": 90.17,
+  "alcool": 0.0
+ }
+}

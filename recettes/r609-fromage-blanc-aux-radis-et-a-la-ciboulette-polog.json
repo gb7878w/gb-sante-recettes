@@ -1,0 +1,75 @@
+{
+ "id": "r609-fromage-blanc-aux-radis-et-a-la-ciboulette-polog",
+ "nom": "Fromage blanc aux radis et à la ciboulette (Pologne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc, radis et ciboulette.",
+  "Servez avec jambon et œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 237.57,
+  "proteines": 33.4,
+  "glucides": 10.47,
+  "lipides": 6.14,
+  "sucres": 10.08,
+  "fibres": 1.0,
+  "satures": 1.95,
+  "sel": 1.22,
+  "fer": 1.58,
+  "calcium": 333.13,
+  "magnesium": 38.97,
+  "potassium": 684.25,
+  "zinc": 1.84,
+  "iode": 50.28,
+  "vitd": 0.62,
+  "vitc": 8.51,
+  "b12": 1.49,
+  "b9": 136.59,
+  "alcool": 0.0
+ }
+}

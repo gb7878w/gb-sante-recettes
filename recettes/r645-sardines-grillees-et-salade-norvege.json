@@ -1,0 +1,81 @@
+{
+ "id": "r645-sardines-grillees-et-salade-norvege",
+ "nom": "Sardines grillées et salade (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 381,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 130
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Réchauffez les sardines.",
+  "Servez sur la salade avec l'œuf dur et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.74,
+  "proteines": 36.91,
+  "glucides": 5.9,
+  "lipides": 28.96,
+  "sucres": 3.75,
+  "fibres": 1.96,
+  "satures": 6.44,
+  "sel": 1.1,
+  "fer": 4.91,
+  "calcium": 222.53,
+  "magnesium": 75.51,
+  "potassium": 914.1,
+  "zinc": 3.57,
+  "iode": 80.31,
+  "vitd": 10.24,
+  "vitc": 30.24,
+  "b12": 18.29,
+  "b9": 75.34,
+  "alcool": 0.0
+ }
+}

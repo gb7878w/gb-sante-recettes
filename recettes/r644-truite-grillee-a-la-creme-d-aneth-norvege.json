@@ -1,0 +1,75 @@
+{
+ "id": "r644-truite-grillee-a-la-creme-d-aneth-norvege",
+ "nom": "Truite grillée à la crème d'aneth (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez la truite.",
+  "Servez avec sauce fromage blanc-aneth et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 354.15,
+  "proteines": 43.71,
+  "glucides": 5.81,
+  "lipides": 16.94,
+  "sucres": 4.83,
+  "fibres": 0.74,
+  "satures": 3.55,
+  "sel": 0.33,
+  "fer": 1.07,
+  "calcium": 237.33,
+  "magnesium": 72.59,
+  "potassium": 962.78,
+  "zinc": 1.57,
+  "iode": 24.93,
+  "vitd": 25.5,
+  "vitc": 15.98,
+  "b12": 8.07,
+  "b9": 54.84,
+  "alcool": 0.0
+ }
+}

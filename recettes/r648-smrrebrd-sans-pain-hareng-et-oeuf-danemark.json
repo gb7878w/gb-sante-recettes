@@ -1,0 +1,84 @@
+{
+ "id": "r648-smrrebrd-sans-pain-hareng-et-oeuf-danemark",
+ "nom": "Smørrebrød sans pain, hareng et œuf (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 381,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 100
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Disposez hareng, œufs et oignon sur la salade.",
+  "Servez avec une sauce fromage blanc-moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.55,
+  "proteines": 40.8,
+  "glucides": 6.34,
+  "lipides": 20.21,
+  "sucres": 4.27,
+  "fibres": 1.37,
+  "satures": 5.13,
+  "sel": 4.6,
+  "fer": 3.44,
+  "calcium": 261.49,
+  "magnesium": 77.35,
+  "potassium": 793.7,
+  "zinc": 2.48,
+  "iode": 63.9,
+  "vitd": 18.93,
+  "vitc": 7.62,
+  "b12": 14.94,
+  "b9": 108.2,
+  "alcool": 0.0
+ }
+}

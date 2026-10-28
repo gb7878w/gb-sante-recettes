@@ -1,0 +1,76 @@
+{
+ "id": "r640-saumon-roti-et-epinards-a-la-creme-norvege",
+ "nom": "Saumon rôti et épinards à la crème (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 414,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le saumon.",
+  "Cuisez les épinards avec la crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 491.07,
+  "proteines": 44.79,
+  "glucides": 1.9,
+  "lipides": 31.69,
+  "sucres": 1.79,
+  "fibres": 7.0,
+  "satures": 11.29,
+  "sel": 0.33,
+  "fer": 3.17,
+  "calcium": 542.35,
+  "magnesium": 110.11,
+  "potassium": 996.49,
+  "zinc": 2.28,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 8.06,
+  "b12": 4.46,
+  "b9": 159.69,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r614-truite-fumee-et-concombre-norvege",
+ "nom": "Truite fumée et concombre (Norvège)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 215,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Roulez la truite avec le concombre.",
+  "Servez avec le fromage blanc citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 124.88,
+  "proteines": 17.62,
+  "glucides": 5.22,
+  "lipides": 3.29,
+  "sucres": 4.49,
+  "fibres": 0.48,
+  "satures": 0.81,
+  "sel": 0.16,
+  "fer": 0.41,
+  "calcium": 153.36,
+  "magnesium": 35.19,
+  "potassium": 443.3,
+  "zinc": 0.78,
+  "iode": 13.31,
+  "vitd": 7.5,
+  "vitc": 10.3,
+  "b12": 2.6,
+  "b9": 35.96,
+  "alcool": 0.0
+ }
+}

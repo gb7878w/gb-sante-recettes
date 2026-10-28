@@ -1,0 +1,80 @@
+{
+ "id": "r678-lecso-aux-oeufs-et-a-la-saucisse-hongrie",
+ "nom": "Lécsó aux œufs et à la saucisse (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 506,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 50
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites mijoter poivron, tomate et oignon 10 minutes.",
+  "Ajoutez salami et œufs, couvrez 5 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 511.19,
+  "proteines": 29.01,
+  "glucides": 15.06,
+  "lipides": 35.8,
+  "sucres": 10.04,
+  "fibres": 4.83,
+  "satures": 10.16,
+  "sel": 4.91,
+  "fer": 4.14,
+  "calcium": 150.26,
+  "magnesium": 55.07,
+  "potassium": 943.8,
+  "zinc": 3.69,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 188.57,
+  "b12": 3.14,
+  "b9": 116.95,
+  "alcool": 0.0
+ }
+}

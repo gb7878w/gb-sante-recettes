@@ -1,0 +1,63 @@
+{
+ "id": "r624-cornichons-et-saucisse-pologne",
+ "nom": "Cornichons et saucisse (Pologne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 106,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 60
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Réchauffez la saucisse.",
+  "Servez avec cornichons et moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 179.48,
+  "proteines": 9.06,
+  "glucides": 1.32,
+  "lipides": 14.71,
+  "sucres": 0.94,
+  "fibres": 0.6,
+  "satures": 5.45,
+  "sel": 2.27,
+  "fer": 0.76,
+  "calcium": 41.08,
+  "magnesium": 19.24,
+  "potassium": 155.4,
+  "zinc": 0.93,
+  "iode": 8.58,
+  "vitd": 0.16,
+  "vitc": 0.02,
+  "b12": 0.25,
+  "b9": 6.01,
+  "alcool": 0.0
+ }
+}

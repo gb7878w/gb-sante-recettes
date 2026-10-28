@@ -1,0 +1,62 @@
+{
+ "id": "r626-radis-fromage-blanc-et-jambon-pologne",
+ "nom": "Radis, fromage blanc et jambon (Pologne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Servez les radis avec le fromage blanc et le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 106.6,
+  "proteines": 16.54,
+  "glucides": 5.76,
+  "lipides": 1.34,
+  "sucres": 5.3,
+  "fibres": 1.18,
+  "satures": 0.5,
+  "sel": 0.93,
+  "fer": 0.48,
+  "calcium": 150.0,
+  "magnesium": 17.16,
+  "potassium": 487.2,
+  "zinc": 0.55,
+  "iode": 10.4,
+  "vitd": 0.0,
+  "vitc": 9.76,
+  "b12": 0.4,
+  "b9": 100.32,
+  "alcool": 0.0
+ }
+}

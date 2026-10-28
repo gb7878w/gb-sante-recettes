@@ -1,0 +1,69 @@
+{
+ "id": "r602-oeufs-brouilles-au-bacon-croustillant-danemark",
+ "nom": "Œufs brouillés au bacon croustillant (Danemark)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 223,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Grillez le bacon.",
+  "Brouillez les œufs, servez avec le bacon et les tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 236.31,
+  "proteines": 25.34,
+  "glucides": 4.04,
+  "lipides": 12.85,
+  "sucres": 3.26,
+  "fibres": 0.82,
+  "satures": 3.58,
+  "sel": 1.64,
+  "fer": 2.68,
+  "calcium": 100.42,
+  "magnesium": 29.71,
+  "potassium": 555.05,
+  "zinc": 1.89,
+  "iode": 25.27,
+  "vitd": 2.26,
+  "vitc": 16.89,
+  "b12": 1.89,
+  "b9": 73.35,
+  "alcool": 0.0
+ }
+}

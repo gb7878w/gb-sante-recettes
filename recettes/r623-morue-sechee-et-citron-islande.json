@@ -1,0 +1,70 @@
+{
+ "id": "r623-morue-sechee-et-citron-islande",
+ "nom": "Morue séchée et citron (Islande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 140,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26024",
+   "nom": "Morue salée dessalée cuite",
+   "g": 70
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Poêlez la morue.",
+  "Servez avec le fromage blanc citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 111.81,
+  "proteines": 23.04,
+  "glucides": 2.53,
+  "lipides": 0.74,
+  "sucres": 2.42,
+  "fibres": 0.09,
+  "satures": 0.11,
+  "sel": 4.14,
+  "fer": 0.45,
+  "calcium": 131.07,
+  "magnesium": 18.33,
+  "potassium": 186.56,
+  "zinc": 0.92,
+  "iode": 58.04,
+  "vitd": 0.88,
+  "vitc": 7.14,
+  "b12": 1.78,
+  "b9": 35.8,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r643-agneau-mijote-au-chou-norvege",
+ "nom": "Agneau mijoté au chou (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 438,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Superposez agneau et chou dans une cocotte.",
+  "Mijotez 50 minutes avec un peu d'eau."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 449.18,
+  "proteines": 44.59,
+  "glucides": 12.94,
+  "lipides": 22.35,
+  "sucres": 11.83,
+  "fibres": 8.75,
+  "satures": 11.8,
+  "sel": 0.41,
+  "fer": 2.85,
+  "calcium": 213.12,
+  "magnesium": 76.41,
+  "potassium": 1091.86,
+  "zinc": 6.42,
+  "iode": 7.63,
+  "vitd": 0.09,
+  "vitc": 22.2,
+  "b12": 2.83,
+  "b9": 199.74,
+  "alcool": 0.0
+ }
+}

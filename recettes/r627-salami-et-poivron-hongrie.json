@@ -1,0 +1,63 @@
+{
+ "id": "r627-salami-et-poivron-hongrie",
+ "nom": "Salami et poivron (Hongrie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 40
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez poivron et salami.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 224.8,
+  "proteines": 16.13,
+  "glucides": 7.29,
+  "lipides": 14.13,
+  "sucres": 6.02,
+  "fibres": 1.36,
+  "satures": 4.86,
+  "sel": 3.26,
+  "fer": 1.15,
+  "calcium": 132.4,
+  "magnesium": 28.56,
+  "potassium": 391.2,
+  "zinc": 2.19,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 87.2,
+  "b12": 1.44,
+  "b9": 47.2,
+  "alcool": 0.0
+ }
+}

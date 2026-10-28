@@ -1,0 +1,74 @@
+{
+ "id": "r628-fromage-blanc-au-paprika-hongrie",
+ "nom": "Fromage blanc au paprika (Hongrie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 238,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 180
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 15
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc, paprika, oignon haché et ciboulette.",
+  "Servez avec les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 104.17,
+  "proteines": 15.06,
+  "glucides": 8.81,
+  "lipides": 0.21,
+  "sucres": 7.61,
+  "fibres": 1.36,
+  "satures": 0.08,
+  "sel": 0.22,
+  "fer": 0.7,
+  "calcium": 253.3,
+  "magnesium": 27.51,
+  "potassium": 410.0,
+  "zinc": 0.98,
+  "iode": 18.76,
+  "vitd": 0.0,
+  "vitc": 6.0,
+  "b12": 0.72,
+  "b9": 85.37,
+  "alcool": 0.0
+ }
+}

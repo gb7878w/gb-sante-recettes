@@ -1,0 +1,76 @@
+{
+ "id": "r669-fromage-blanc-oeufs-et-radis-en-salade-pologne",
+ "nom": "Fromage blanc, œufs et radis en salade (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 499,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 165
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 4
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc et ciboulette.",
+  "Ajoutez radis, œufs durs et jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.69,
+  "proteines": 48.83,
+  "glucides": 10.75,
+  "lipides": 15.94,
+  "sucres": 10.25,
+  "fibres": 1.32,
+  "satures": 4.86,
+  "sel": 1.74,
+  "fer": 3.53,
+  "calcium": 356.36,
+  "magnesium": 53.41,
+  "potassium": 876.0,
+  "zinc": 3.16,
+  "iode": 102.89,
+  "vitd": 1.85,
+  "vitc": 11.35,
+  "b12": 2.63,
+  "b9": 200.05,
+  "alcool": 0.0
+ }
+}

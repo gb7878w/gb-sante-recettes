@@ -1,0 +1,76 @@
+{
+ "id": "r687-saumon-et-crevettes-a-la-creme-d-aneth-suede",
+ "nom": "Saumon et crevettes à la crème d'aneth (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 394,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez saumon et crevettes.",
+  "Nappez de crème d'aneth, servez avec les asperges."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.31,
+  "proteines": 48.98,
+  "glucides": 5.59,
+  "lipides": 24.09,
+  "sucres": 3.68,
+  "fibres": 3.44,
+  "satures": 7.56,
+  "sel": 1.06,
+  "fer": 2.86,
+  "calcium": 241.68,
+  "magnesium": 96.36,
+  "potassium": 1095.28,
+  "zinc": 2.41,
+  "iode": 0.16,
+  "vitd": 0.0,
+  "vitc": 14.3,
+  "b12": 4.88,
+  "b9": 146.11,
+  "alcool": 0.0
+ }
+}

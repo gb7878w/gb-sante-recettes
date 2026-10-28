@@ -1,0 +1,72 @@
+{
+ "id": "r662-bigos-allege-chou-et-saucisse-pologne",
+ "nom": "Bigos allégé, chou et saucisse (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 470,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 200
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 80
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites revenir viandes et oignon.",
+  "Ajoutez choucroute et champignons, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 535.54,
+  "proteines": 37.05,
+  "glucides": 5.43,
+  "lipides": 37.89,
+  "sucres": 2.86,
+  "fibres": 10.58,
+  "satures": 13.36,
+  "sel": 4.3,
+  "fer": 2.49,
+  "calcium": 113.74,
+  "magnesium": 52.82,
+  "potassium": 908.6,
+  "zinc": 3.43,
+  "iode": 12.0,
+  "vitd": 0.45,
+  "vitc": 37.5,
+  "b12": 1.21,
+  "b9": 70.98,
+  "alcool": 0.0
+ }
+}

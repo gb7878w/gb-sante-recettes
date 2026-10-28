@@ -1,0 +1,64 @@
+{
+ "id": "r612-oeuf-dur-a-la-crevette-suede",
+ "nom": "Œuf dur à la crevette (Suède)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 162,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "crustaces",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Coupez l'œuf en deux, garnissez de crevettes et d'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 195.26,
+  "proteines": 24.43,
+  "glucides": 1.59,
+  "lipides": 10.08,
+  "sucres": 0.6,
+  "fibres": 0.07,
+  "satures": 2.97,
+  "sel": 1.02,
+  "fer": 2.99,
+  "calcium": 169.14,
+  "magnesium": 46.46,
+  "potassium": 271.94,
+  "zinc": 2.28,
+  "iode": 54.75,
+  "vitd": 1.23,
+  "vitc": 1.81,
+  "b12": 2.04,
+  "b9": 58.02,
+  "alcool": 0.0
+ }
+}

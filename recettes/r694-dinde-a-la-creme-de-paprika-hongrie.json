@@ -1,0 +1,74 @@
+{
+ "id": "r694-dinde-a-la-creme-de-paprika-hongrie",
+ "nom": "Dinde à la crème de paprika (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 160
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 3
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 80
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez la dinde avec l'oignon.",
+  "Ajoutez poivron, paprika et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 312.43,
+  "proteines": 53.71,
+  "glucides": 9.68,
+  "lipides": 5.51,
+  "sucres": 6.78,
+  "fibres": 3.53,
+  "satures": 2.67,
+  "sel": 1.49,
+  "fer": 2.18,
+  "calcium": 148.44,
+  "magnesium": 98.66,
+  "potassium": 1114.2,
+  "zinc": 2.68,
+  "iode": 18.0,
+  "vitd": 1.2,
+  "vitc": 110.85,
+  "b12": 1.3,
+  "b9": 60.17,
+  "alcool": 0.0
+ }
+}

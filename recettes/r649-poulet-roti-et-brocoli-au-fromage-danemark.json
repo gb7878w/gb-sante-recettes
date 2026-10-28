@@ -1,0 +1,70 @@
+{
+ "id": "r649-poulet-roti-et-brocoli-au-fromage-danemark",
+ "nom": "Poulet rôti et brocoli au fromage (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 391,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 25 minutes.",
+  "Gratinez le brocoli au fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 437.01,
+  "proteines": 63.49,
+  "glucides": 5.12,
+  "lipides": 16.64,
+  "sucres": 3.05,
+  "fibres": 4.4,
+  "satures": 9.22,
+  "sel": 0.5,
+  "fer": 2.16,
+  "calcium": 325.34,
+  "magnesium": 114.9,
+  "potassium": 1410.04,
+  "zinc": 3.32,
+  "iode": 5.45,
+  "vitd": 0.07,
+  "vitc": 43.69,
+  "b12": 0.8,
+  "b9": 187.21,
+  "alcool": 0.0
+ }
+}

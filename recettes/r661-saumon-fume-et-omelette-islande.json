@@ -1,0 +1,73 @@
+{
+ "id": "r661-saumon-fume-et-omelette-islande",
+ "nom": "Saumon fumé et omelette (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 269,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Cuisez l'omelette.",
+  "Garnissez de saumon et de ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.75,
+  "proteines": 40.58,
+  "glucides": 1.34,
+  "lipides": 30.19,
+  "sucres": 0.59,
+  "fibres": 0.1,
+  "satures": 9.67,
+  "sel": 3.37,
+  "fer": 3.55,
+  "calcium": 146.87,
+  "magnesium": 51.28,
+  "potassium": 691.94,
+  "zinc": 2.03,
+  "iode": 69.96,
+  "vitd": 7.81,
+  "vitc": 1.19,
+  "b12": 5.3,
+  "b9": 84.53,
+  "alcool": 0.0
+ }
+}

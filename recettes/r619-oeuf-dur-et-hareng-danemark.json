@@ -1,0 +1,64 @@
+{
+ "id": "r619-oeuf-dur-et-hareng-danemark",
+ "nom": "Œuf dur et hareng (Danemark)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 152,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec le hareng et la ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 212.79,
+  "proteines": 22.14,
+  "glucides": 0.61,
+  "lipides": 13.45,
+  "sucres": 0.61,
+  "fibres": 0.06,
+  "satures": 3.7,
+  "sel": 1.85,
+  "fer": 2.2,
+  "calcium": 71.76,
+  "magnesium": 31.48,
+  "potassium": 289.5,
+  "zinc": 1.61,
+  "iode": 54.71,
+  "vitd": 8.31,
+  "vitc": 0.79,
+  "b12": 6.58,
+  "b9": 54.29,
+  "alcool": 0.0
+ }
+}

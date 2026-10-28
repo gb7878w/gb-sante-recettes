@@ -1,0 +1,70 @@
+{
+ "id": "r654-omelette-au-fromage-et-aux-champignons-finlande",
+ "nom": "Omelette au fromage et aux champignons (Finlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 328,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons.",
+  "Ajoutez les œufs battus et le fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 463.38,
+  "proteines": 35.24,
+  "glucides": 3.74,
+  "lipides": 34.14,
+  "sucres": 3.08,
+  "fibres": 1.0,
+  "satures": 14.88,
+  "sel": 0.92,
+  "fer": 4.33,
+  "calcium": 447.07,
+  "magnesium": 43.05,
+  "potassium": 650.08,
+  "zinc": 3.75,
+  "iode": 47.45,
+  "vitd": 3.96,
+  "vitc": 3.09,
+  "b12": 3.37,
+  "b9": 109.36,
+  "alcool": 0.0
+ }
+}

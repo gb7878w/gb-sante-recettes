@@ -1,0 +1,72 @@
+{
+ "id": "r605-fromage-blanc-framboises-et-amandes-finlande",
+ "nom": "Fromage blanc, framboises et amandes (Finlande)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 357,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 70
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc et framboises.",
+  "Parsemez d'amandes, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 288.81,
+  "proteines": 28.0,
+  "glucides": 14.07,
+  "lipides": 11.54,
+  "sucres": 13.13,
+  "fibres": 4.51,
+  "satures": 2.05,
+  "sel": 0.41,
+  "fer": 1.99,
+  "calcium": 359.75,
+  "magnesium": 80.94,
+  "potassium": 597.8,
+  "zinc": 2.36,
+  "iode": 50.22,
+  "vitd": 0.62,
+  "vitc": 13.09,
+  "b12": 1.49,
+  "b9": 118.07,
+  "alcool": 0.0
+ }
+}

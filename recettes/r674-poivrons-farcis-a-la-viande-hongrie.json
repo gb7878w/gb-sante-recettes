@@ -1,0 +1,74 @@
+{
+ "id": "r674-poivrons-farcis-a-la-viande-hongrie",
+ "nom": "Poivrons farcis à la viande (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 452,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 200
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mêlez viande, œuf et paprika.",
+  "Farcissez les poivrons, mijotez dans le coulis 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 368.02,
+  "proteines": 43.25,
+  "glucides": 16.13,
+  "lipides": 13.1,
+  "sucres": 11.97,
+  "fibres": 6.18,
+  "satures": 4.82,
+  "sel": 3.3,
+  "fer": 6.21,
+  "calcium": 87.42,
+  "magnesium": 62.66,
+  "potassium": 883.6,
+  "zinc": 9.69,
+  "iode": 14.84,
+  "vitd": 0.56,
+  "vitc": 218.02,
+  "b12": 3.89,
+  "b9": 88.98,
+  "alcool": 0.0
+ }
+}

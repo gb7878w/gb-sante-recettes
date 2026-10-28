@@ -1,0 +1,76 @@
+{
+ "id": "r682-fromage-poele-et-salade-tchequie",
+ "nom": "Fromage poêlé et salade (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "12006",
+   "nom": "Camembert",
+   "g": 90
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Panez le fromage à l'œuf et poêlez-le.",
+  "Servez avec la salade, le jambon et la tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.5,
+  "proteines": 41.77,
+  "glucides": 6.21,
+  "lipides": 26.64,
+  "sucres": 4.62,
+  "fibres": 2.3,
+  "satures": 15.12,
+  "sel": 2.88,
+  "fer": 2.36,
+  "calcium": 466.48,
+  "magnesium": 44.7,
+  "potassium": 885.0,
+  "zinc": 3.41,
+  "iode": 31.82,
+  "vitd": 1.13,
+  "vitc": 28.1,
+  "b12": 2.32,
+  "b9": 156.6,
+  "alcool": 0.0
+ }
+}

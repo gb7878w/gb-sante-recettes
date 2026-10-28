@@ -1,0 +1,75 @@
+{
+ "id": "r638-cabillaud-a-la-creme-d-aneth-suede",
+ "nom": "Cabillaud à la crème d'aneth (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 450,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 190
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Pochez le cabillaud.",
+  "Nappez de crème à l'aneth, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.58,
+  "proteines": 52.31,
+  "glucides": 7.43,
+  "lipides": 14.22,
+  "sucres": 5.2,
+  "fibres": 4.54,
+  "satures": 8.73,
+  "sel": 0.6,
+  "fer": 1.95,
+  "calcium": 168.61,
+  "magnesium": 107.6,
+  "potassium": 1335.37,
+  "zinc": 2.09,
+  "iode": 247.25,
+  "vitd": 2.35,
+  "vitc": 46.1,
+  "b12": 2.92,
+  "b9": 187.22,
+  "alcool": 0.0
+ }
+}

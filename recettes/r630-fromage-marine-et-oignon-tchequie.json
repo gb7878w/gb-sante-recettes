@@ -1,0 +1,69 @@
+{
+ "id": "r630-fromage-marine-et-oignon-tchequie",
+ "nom": "Fromage mariné et oignon (Tchéquie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 141,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12006",
+   "nom": "Camembert",
+   "g": 40
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Coupez le fromage en dés.",
+  "Assaisonnez avec oignon, paprika et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 157.07,
+  "proteines": 15.02,
+  "glucides": 4.58,
+  "lipides": 8.28,
+  "sucres": 3.26,
+  "fibres": 0.87,
+  "satures": 5.69,
+  "sel": 0.67,
+  "fer": 0.4,
+  "calcium": 264.09,
+  "magnesium": 19.82,
+  "potassium": 232.0,
+  "zinc": 1.58,
+  "iode": 16.32,
+  "vitd": 0.0,
+  "vitc": 0.43,
+  "b12": 0.96,
+  "b9": 57.49,
+  "alcool": 0.0
+ }
+}

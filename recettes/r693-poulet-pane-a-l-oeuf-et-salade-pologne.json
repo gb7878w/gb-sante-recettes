@@ -1,0 +1,76 @@
+{
+ "id": "r693-poulet-pane-a-l-oeuf-et-salade-pologne",
+ "nom": "Poulet pané à l'œuf et salade (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 50
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Passez le poulet dans l'œuf et le parmesan.",
+  "Poêlez, servez avec la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 391.9,
+  "proteines": 60.97,
+  "glucides": 5.05,
+  "lipides": 12.96,
+  "sucres": 3.67,
+  "fibres": 2.2,
+  "satures": 5.36,
+  "sel": 0.63,
+  "fer": 2.73,
+  "calcium": 264.32,
+  "magnesium": 92.6,
+  "potassium": 1197.5,
+  "zinc": 2.52,
+  "iode": 25.22,
+  "vitd": 0.94,
+  "vitc": 30.39,
+  "b12": 1.41,
+  "b9": 91.68,
+  "alcool": 0.0
+ }
+}

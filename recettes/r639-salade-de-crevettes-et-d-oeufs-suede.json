@@ -1,0 +1,83 @@
+{
+ "id": "r639-salade-de-crevettes-et-d-oeufs-suede",
+ "nom": "Salade de crevettes et d'œufs (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 473,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mélangez tous les ingrédients avec le fromage blanc.",
+  "Servez bien frais."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 325.59,
+  "proteines": 45.55,
+  "glucides": 9.38,
+  "lipides": 11.17,
+  "sucres": 5.83,
+  "fibres": 1.42,
+  "satures": 3.26,
+  "sel": 2.08,
+  "fer": 5.28,
+  "calcium": 504.32,
+  "magnesium": 121.74,
+  "potassium": 848.41,
+  "zinc": 4.09,
+  "iode": 64.14,
+  "vitd": 1.23,
+  "vitc": 18.43,
+  "b12": 3.51,
+  "b9": 127.0,
+  "alcool": 0.0
+ }
+}

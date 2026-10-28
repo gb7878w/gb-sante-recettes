@@ -1,0 +1,64 @@
+{
+ "id": "r621-truite-fumee-et-oeuf-dur-finlande",
+ "nom": "Truite fumée et œuf dur (Finlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 152,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 40
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez la truite avec l'œuf dur et l'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 205.56,
+  "proteines": 23.53,
+  "glucides": 0.65,
+  "lipides": 12.04,
+  "sucres": 0.6,
+  "fibres": 0.07,
+  "satures": 3.41,
+  "sel": 0.4,
+  "fer": 2.14,
+  "calcium": 73.34,
+  "magnesium": 27.28,
+  "potassium": 301.34,
+  "zinc": 1.67,
+  "iode": 58.55,
+  "vitd": 7.23,
+  "vitc": 2.56,
+  "b12": 3.04,
+  "b9": 55.12,
+  "alcool": 0.0
+ }
+}

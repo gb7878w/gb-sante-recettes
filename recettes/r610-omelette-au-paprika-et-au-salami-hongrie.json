@@ -1,0 +1,75 @@
+{
+ "id": "r610-omelette-au-paprika-et-au-salami-hongrie",
+ "nom": "Omelette au paprika et au salami (Hongrie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 225,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 30
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez poivron et salami.",
+  "Ajoutez les œufs battus et le paprika."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 353.79,
+  "proteines": 24.0,
+  "glucides": 3.71,
+  "lipides": 26.74,
+  "sucres": 2.67,
+  "fibres": 1.37,
+  "satures": 9.26,
+  "sel": 2.79,
+  "fer": 3.42,
+  "calcium": 121.74,
+  "magnesium": 30.26,
+  "potassium": 405.13,
+  "zinc": 2.71,
+  "iode": 27.36,
+  "vitd": 2.49,
+  "vitc": 65.41,
+  "b12": 2.73,
+  "b9": 65.81,
+  "alcool": 0.0
+ }
+}

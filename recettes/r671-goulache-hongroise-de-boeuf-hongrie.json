@@ -1,0 +1,85 @@
+{
+ "id": "r671-goulache-hongroise-de-boeuf-hongrie",
+ "nom": "Goulache hongroise de bœuf (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 60
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 5
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf, oignon et paprika.",
+  "Ajoutez poivron et coulis, mijotez 50 minutes.",
+  "Servez avec une cuillère de fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.01,
+  "proteines": 41.24,
+  "glucides": 16.85,
+  "lipides": 14.25,
+  "sucres": 9.96,
+  "fibres": 6.22,
+  "satures": 2.97,
+  "sel": 1.54,
+  "fer": 1.75,
+  "calcium": 146.45,
+  "magnesium": 31.9,
+  "potassium": 444.0,
+  "zinc": 0.79,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 88.49,
+  "b12": 0.32,
+  "b9": 56.65,
+  "alcool": 0.0
+ }
+}

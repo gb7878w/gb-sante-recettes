@@ -1,0 +1,75 @@
+{
+ "id": "r680-roti-de-porc-a-la-tcheque-et-chou-tchequie",
+ "nom": "Rôti de porc à la tchèque et chou (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 450,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc au cumin 40 minutes.",
+  "Braisez le chou avec l'oignon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.21,
+  "proteines": 45.98,
+  "glucides": 14.25,
+  "lipides": 19.83,
+  "sucres": 10.67,
+  "fibres": 9.74,
+  "satures": 9.19,
+  "sel": 0.3,
+  "fer": 3.87,
+  "calcium": 183.08,
+  "magnesium": 75.96,
+  "potassium": 1233.46,
+  "zinc": 3.7,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 22.98,
+  "b12": 1.65,
+  "b9": 178.34,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "id": "r635-hareng-marine-et-oeufs-durs-suede",
+ "nom": "Hareng mariné et œufs durs (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 130
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mêlez le fromage blanc et l'aneth.",
+  "Servez hareng, œufs durs et oignon avec la sauce."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 420.19,
+  "proteines": 46.8,
+  "glucides": 6.5,
+  "lipides": 22.42,
+  "sucres": 4.56,
+  "fibres": 0.89,
+  "satures": 5.76,
+  "sel": 5.37,
+  "fer": 3.16,
+  "calcium": 269.66,
+  "magnesium": 80.76,
+  "potassium": 834.41,
+  "zinc": 2.63,
+  "iode": 65.19,
+  "vitd": 24.24,
+  "vitc": 2.72,
+  "b12": 19.04,
+  "b9": 93.82,
+  "alcool": 0.0
+ }
+}

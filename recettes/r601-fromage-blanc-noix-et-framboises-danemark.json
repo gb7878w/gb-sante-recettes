@@ -1,0 +1,72 @@
+{
+ "id": "r601-fromage-blanc-noix-et-framboises-danemark",
+ "nom": "Fromage blanc, noix et framboises (Danemark)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 347,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 60
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Versez le fromage blanc dans un bol.",
+  "Ajoutez framboises et noix, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 295.88,
+  "proteines": 27.22,
+  "glucides": 13.17,
+  "lipides": 13.38,
+  "sucres": 12.44,
+  "fibres": 3.38,
+  "satures": 2.32,
+  "sel": 0.41,
+  "fer": 1.8,
+  "calcium": 335.95,
+  "magnesium": 63.34,
+  "potassium": 536.4,
+  "zinc": 2.24,
+  "iode": 50.22,
+  "vitd": 0.62,
+  "vitc": 11.31,
+  "b12": 1.49,
+  "b9": 114.26,
+  "alcool": 0.0
+ }
+}

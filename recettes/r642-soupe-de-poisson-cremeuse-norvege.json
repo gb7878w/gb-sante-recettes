@@ -1,0 +1,80 @@
+{
+ "id": "r642-soupe-de-poisson-cremeuse-norvege",
+ "nom": "Soupe de poisson crémeuse (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26008",
+   "nom": "Églefin vapeur",
+   "g": 120
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Mijotez les légumes 15 minutes.",
+  "Ajoutez les poissons et la crème, cuisez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.2,
+  "proteines": 41.89,
+  "glucides": 9.06,
+  "lipides": 15.2,
+  "sucres": 7.25,
+  "fibres": 4.66,
+  "satures": 6.36,
+  "sel": 0.44,
+  "fer": 0.95,
+  "calcium": 134.76,
+  "magnesium": 64.75,
+  "potassium": 1022.71,
+  "zinc": 1.1,
+  "iode": 312.12,
+  "vitd": 0.0,
+  "vitc": 6.1,
+  "b12": 4.07,
+  "b9": 77.12,
+  "alcool": 0.0
+ }
+}

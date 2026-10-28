@@ -1,0 +1,71 @@
+{
+ "id": "r660-haddock-au-gratin-islande",
+ "nom": "Haddock au gratin (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 405,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 190
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Posez le poisson sur le brocoli.",
+  "Nappez de crème et de fromage, gratinez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.65,
+  "proteines": 57.34,
+  "glucides": 5.51,
+  "lipides": 14.99,
+  "sucres": 3.93,
+  "fibres": 3.3,
+  "satures": 8.91,
+  "sel": 3.94,
+  "fer": 3.91,
+  "calcium": 433.85,
+  "magnesium": 150.27,
+  "potassium": 1373.65,
+  "zinc": 2.84,
+  "iode": 489.85,
+  "vitd": 1.52,
+  "vitc": 31.05,
+  "b12": 3.54,
+  "b9": 159.4,
+  "alcool": 0.0
+ }
+}

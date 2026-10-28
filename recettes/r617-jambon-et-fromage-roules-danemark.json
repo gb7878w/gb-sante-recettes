@@ -1,0 +1,62 @@
+{
+ "id": "r617-jambon-et-fromage-roules-danemark",
+ "nom": "Jambon et fromage roulés (Danemark)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 135,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Roulez le fromage et le concombre dans le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 158.11,
+  "proteines": 17.21,
+  "glucides": 2.33,
+  "lipides": 8.84,
+  "sucres": 1.66,
+  "fibres": 0.43,
+  "satures": 5.14,
+  "sel": 1.17,
+  "fer": 0.45,
+  "calcium": 261.27,
+  "magnesium": 17.73,
+  "potassium": 297.55,
+  "zinc": 1.16,
+  "iode": 5.53,
+  "vitd": 0.0,
+  "vitc": 4.95,
+  "b12": 0.51,
+  "b9": 15.73,
+  "alcool": 0.0
+ }
+}

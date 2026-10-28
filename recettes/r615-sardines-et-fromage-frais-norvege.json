@@ -1,0 +1,70 @@
+{
+ "id": "r615-sardines-et-fromage-frais-norvege",
+ "nom": "Sardines et fromage frais (Norvège)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 140,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Écrasez les sardines avec citron et persil.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 149.09,
+  "proteines": 17.18,
+  "glucides": 3.62,
+  "lipides": 6.99,
+  "sucres": 3.2,
+  "fibres": 0.09,
+  "satures": 1.61,
+  "sel": 0.45,
+  "fer": 1.38,
+  "calcium": 166.44,
+  "magnesium": 29.68,
+  "potassium": 316.86,
+  "zinc": 1.43,
+  "iode": 28.32,
+  "vitd": 3.7,
+  "vitc": 7.14,
+  "b12": 7.12,
+  "b9": 24.15,
+  "alcool": 0.0
+ }
+}

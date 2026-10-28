@@ -1,0 +1,71 @@
+{
+ "id": "r655-truite-au-four-et-haricots-verts-finlande",
+ "nom": "Truite au four et haricots verts (Finlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Enfournez la truite 15 minutes.",
+  "Servez avec les haricots verts au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 374.65,
+  "proteines": 40.24,
+  "glucides": 7.0,
+  "lipides": 18.94,
+  "sucres": 5.12,
+  "fibres": 6.51,
+  "satures": 8.03,
+  "sel": 0.23,
+  "fer": 1.84,
+  "calcium": 212.69,
+  "magnesium": 101.16,
+  "potassium": 1206.93,
+  "zinc": 1.51,
+  "iode": 16.43,
+  "vitd": 25.61,
+  "vitc": 9.35,
+  "b12": 7.77,
+  "b9": 121.48,
+  "alcool": 0.0
+ }
+}

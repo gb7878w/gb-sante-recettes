@@ -1,0 +1,75 @@
+{
+ "id": "r657-cabillaud-islandais-et-beurre-citronne-islande",
+ "nom": "Cabillaud islandais et beurre citronné (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 376,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le cabillaud.",
+  "Servez avec les épinards et le beurre citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 324.75,
+  "proteines": 49.9,
+  "glucides": 0.41,
+  "lipides": 12.06,
+  "sucres": 0.22,
+  "fibres": 5.42,
+  "satures": 7.0,
+  "sel": 0.54,
+  "fer": 2.76,
+  "calcium": 408.76,
+  "magnesium": 106.42,
+  "potassium": 875.3,
+  "zinc": 2.26,
+  "iode": 260.19,
+  "vitd": 2.53,
+  "vitc": 13.58,
+  "b12": 3.08,
+  "b9": 122.61,
+  "alcool": 0.0
+ }
+}

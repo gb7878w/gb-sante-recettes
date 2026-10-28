@@ -1,0 +1,74 @@
+{
+ "id": "r677-truite-grillee-au-paprika-hongrie",
+ "nom": "Truite grillée au paprika (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Grillez la truite.",
+  "Poêlez poivron et courgette, servez ensemble."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 371.68,
+  "proteines": 38.86,
+  "glucides": 6.48,
+  "lipides": 20.21,
+  "sucres": 5.51,
+  "fibres": 4.2,
+  "satures": 4.04,
+  "sel": 1.48,
+  "fer": 2.03,
+  "calcium": 155.59,
+  "magnesium": 90.93,
+  "potassium": 1151.9,
+  "zinc": 1.5,
+  "iode": 16.15,
+  "vitd": 25.5,
+  "vitc": 117.43,
+  "b12": 7.75,
+  "b9": 93.04,
+  "alcool": 0.0
+ }
+}

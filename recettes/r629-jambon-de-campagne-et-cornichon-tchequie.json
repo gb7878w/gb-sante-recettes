@@ -1,0 +1,62 @@
+{
+ "id": "r629-jambon-de-campagne-et-cornichon-tchequie",
+ "nom": "Jambon de campagne et cornichon (Tchéquie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 110,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 40
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Disposez jambon, fromage et cornichon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 138.16,
+  "proteines": 15.84,
+  "glucides": 1.12,
+  "lipides": 7.34,
+  "sucres": 0.9,
+  "fibres": 0.67,
+  "satures": 4.21,
+  "sel": 1.82,
+  "fer": 0.4,
+  "calcium": 226.8,
+  "magnesium": 16.86,
+  "potassium": 246.48,
+  "zinc": 0.93,
+  "iode": 4.28,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.4,
+  "b9": 11.28,
+  "alcool": 0.0
+ }
+}

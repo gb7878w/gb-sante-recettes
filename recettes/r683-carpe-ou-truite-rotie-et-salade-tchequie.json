@@ -1,0 +1,76 @@
+{
+ "id": "r683-carpe-ou-truite-rotie-et-salade-tchequie",
+ "nom": "Carpe ou truite rôtie et salade (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 180
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez la truite 15 minutes.",
+  "Servez avec salade et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 347.12,
+  "proteines": 40.44,
+  "glucides": 3.84,
+  "lipides": 18.18,
+  "sucres": 2.4,
+  "fibres": 1.56,
+  "satures": 7.13,
+  "sel": 0.27,
+  "fer": 1.56,
+  "calcium": 182.3,
+  "magnesium": 77.41,
+  "potassium": 1037.06,
+  "zinc": 1.36,
+  "iode": 18.51,
+  "vitd": 27.09,
+  "vitc": 27.41,
+  "b12": 8.22,
+  "b9": 69.98,
+  "alcool": 0.0
+ }
+}

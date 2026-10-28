@@ -1,0 +1,72 @@
+{
+ "id": "r675-chou-farci-a-la-hongroise-hongrie",
+ "nom": "Chou farci à la hongroise (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 502,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 40
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Roulez la viande dans les feuilles de chou blanchies.",
+  "Mijotez dans le coulis 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 405.77,
+  "proteines": 48.96,
+  "glucides": 18.78,
+  "lipides": 12.36,
+  "sucres": 15.11,
+  "fibres": 11.53,
+  "satures": 5.28,
+  "sel": 1.04,
+  "fer": 5.29,
+  "calcium": 164.09,
+  "magnesium": 69.5,
+  "potassium": 1234.3,
+  "zinc": 9.64,
+  "iode": 7.93,
+  "vitd": 0.0,
+  "vitc": 22.22,
+  "b12": 3.62,
+  "b9": 184.08,
+  "alcool": 0.0
+ }
+}

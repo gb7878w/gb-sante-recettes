@@ -1,0 +1,59 @@
+{
+ "id": "r622-skyr-aux-framboises-islande",
+ "nom": "Skyr aux framboises (Islande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 250,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et les framboises.",
+  "Servez frais."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 123.4,
+  "proteines": 16.5,
+  "glucides": 10.7,
+  "lipides": 0.48,
+  "sucres": 10.48,
+  "fibres": 2.15,
+  "satures": 0.12,
+  "sel": 0.22,
+  "fer": 0.52,
+  "calcium": 276.0,
+  "magnesium": 34.4,
+  "potassium": 373.0,
+  "zinc": 1.1,
+  "iode": 20.8,
+  "vitd": 0.0,
+  "vitc": 9.35,
+  "b12": 0.8,
+  "b9": 67.05,
+  "alcool": 0.0
+ }
+}

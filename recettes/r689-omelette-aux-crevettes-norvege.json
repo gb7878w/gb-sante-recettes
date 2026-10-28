@@ -1,0 +1,73 @@
+{
+ "id": "r689-omelette-aux-crevettes-norvege",
+ "nom": "Omelette aux crevettes (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 271,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Cuisez l'omelette.",
+  "Garnissez de crevettes et de ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.21,
+  "proteines": 38.19,
+  "glucides": 2.12,
+  "lipides": 25.16,
+  "sucres": 0.61,
+  "fibres": 0.1,
+  "satures": 9.36,
+  "sel": 1.64,
+  "fer": 5.01,
+  "calcium": 334.45,
+  "magnesium": 69.48,
+  "potassium": 454.91,
+  "zinc": 3.19,
+  "iode": 38.0,
+  "vitd": 3.47,
+  "vitc": 1.86,
+  "b12": 3.94,
+  "b9": 75.47,
+  "alcool": 0.0
+ }
+}

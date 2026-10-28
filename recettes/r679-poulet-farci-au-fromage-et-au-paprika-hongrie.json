@@ -1,0 +1,75 @@
+{
+ "id": "r679-poulet-farci-au-fromage-et-au-paprika-hongrie",
+ "nom": "Poulet farci au fromage et au paprika (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 417,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de fromage et de poivron.",
+  "Enfournez 25 minutes, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 405.41,
+  "proteines": 62.39,
+  "glucides": 7.71,
+  "lipides": 12.27,
+  "sucres": 5.37,
+  "fibres": 5.36,
+  "satures": 5.94,
+  "sel": 1.39,
+  "fer": 2.8,
+  "calcium": 330.85,
+  "magnesium": 116.84,
+  "potassium": 1408.75,
+  "zinc": 3.25,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 120.56,
+  "b12": 0.79,
+  "b9": 174.36,
+  "alcool": 0.0
+ }
+}

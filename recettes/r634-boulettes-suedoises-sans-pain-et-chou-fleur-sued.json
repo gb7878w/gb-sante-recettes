@@ -1,0 +1,75 @@
+{
+ "id": "r634-boulettes-suedoises-sans-pain-et-chou-fleur-sued",
+ "nom": "Boulettes suédoises sans pain et chou-fleur (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes et œuf, formez des boulettes.",
+  "Poêlez, nappez de crème, servez avec le chou-fleur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 399.8,
+  "proteines": 49.35,
+  "glucides": 5.0,
+  "lipides": 19.38,
+  "sucres": 4.94,
+  "fibres": 4.0,
+  "satures": 8.97,
+  "sel": 0.43,
+  "fer": 4.67,
+  "calcium": 114.8,
+  "magnesium": 69.46,
+  "potassium": 1120.4,
+  "zinc": 8.36,
+  "iode": 12.4,
+  "vitd": 0.56,
+  "vitc": 19.4,
+  "b12": 3.52,
+  "b9": 174.8,
+  "alcool": 0.0
+ }
+}

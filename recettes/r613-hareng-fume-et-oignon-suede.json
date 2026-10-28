@@ -1,0 +1,70 @@
+{
+ "id": "r613-hareng-fume-et-oignon-suede",
+ "nom": "Hareng fumé et oignon (Suède)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 162,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez le hareng avec l'oignon émincé.",
+  "Ajoutez le fromage blanc à la ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 144.87,
+  "proteines": 17.51,
+  "glucides": 4.43,
+  "lipides": 5.98,
+  "sucres": 3.19,
+  "fibres": 0.58,
+  "satures": 1.37,
+  "sel": 2.36,
+  "fer": 0.59,
+  "calcium": 148.86,
+  "magnesium": 34.72,
+  "potassium": 378.7,
+  "zinc": 0.73,
+  "iode": 8.36,
+  "vitd": 10.62,
+  "vitc": 1.21,
+  "b12": 8.36,
+  "b9": 29.85,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r603-oeuf-poche-saumon-et-epinards-danemark",
+ "nom": "Œuf poché, saumon et épinards (Danemark)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 260,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Pochez les œufs.",
+  "Servez sur les épinards avec le saumon et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 275.82,
+  "proteines": 29.25,
+  "glucides": 2.24,
+  "lipides": 16.03,
+  "sucres": 1.88,
+  "fibres": 2.1,
+  "satures": 4.08,
+  "sel": 1.84,
+  "fer": 3.16,
+  "calcium": 292.15,
+  "magnesium": 51.4,
+  "potassium": 534.8,
+  "zinc": 1.98,
+  "iode": 45.36,
+  "vitd": 4.44,
+  "vitc": 0.0,
+  "b12": 3.24,
+  "b9": 98.42,
+  "alcool": 0.0
+ }
+}

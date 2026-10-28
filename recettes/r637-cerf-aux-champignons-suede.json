@@ -1,0 +1,74 @@
+{
+ "id": "r637-cerf-aux-champignons-suede",
+ "nom": "Cerf aux champignons (Suède)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "14007",
+   "nom": "Cerf rôti",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Saisissez le cerf.",
+  "Ajoutez champignons, crème et thym, mijotez 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 418.67,
+  "proteines": 53.9,
+  "glucides": 7.16,
+  "lipides": 18.95,
+  "sucres": 5.92,
+  "fibres": 1.78,
+  "satures": 11.17,
+  "sel": 0.46,
+  "fer": 7.97,
+  "calcium": 82.27,
+  "magnesium": 62.01,
+  "potassium": 1159.94,
+  "zinc": 5.19,
+  "iode": 1.63,
+  "vitd": 0.54,
+  "vitc": 7.84,
+  "b12": 0.01,
+  "b9": 52.89,
+  "alcool": 0.0
+ }
+}

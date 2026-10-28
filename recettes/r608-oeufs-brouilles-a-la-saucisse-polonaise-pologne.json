@@ -1,0 +1,70 @@
+{
+ "id": "r608-oeufs-brouilles-a-la-saucisse-polonaise-pologne",
+ "nom": "Œufs brouillés à la saucisse polonaise (Pologne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 194,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 50
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 20
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et la saucisse en rondelles.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 340.7,
+  "proteines": 22.36,
+  "glucides": 2.26,
+  "lipides": 26.76,
+  "sucres": 0.9,
+  "fibres": 0.52,
+  "satures": 9.85,
+  "sel": 1.37,
+  "fer": 2.73,
+  "calcium": 103.72,
+  "magnesium": 20.31,
+  "potassium": 273.93,
+  "zinc": 1.94,
+  "iode": 32.26,
+  "vitd": 2.43,
+  "vitc": 0.42,
+  "b12": 1.96,
+  "b9": 44.32,
+  "alcool": 0.0
+ }
+}

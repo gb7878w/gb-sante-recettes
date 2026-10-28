@@ -1,0 +1,80 @@
+{
+ "id": "r647-boulettes-de-porc-danoises-frikadeller-et-chou-d",
+ "nom": "Boulettes de porc danoises (frikadeller) et chou (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 421,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Mêlez viandes, œuf et oignon.",
+  "Poêlez les boulettes, servez avec le chou braisé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.91,
+  "proteines": 48.31,
+  "glucides": 11.0,
+  "lipides": 19.65,
+  "sucres": 8.58,
+  "fibres": 7.65,
+  "satures": 8.78,
+  "sel": 0.38,
+  "fer": 3.99,
+  "calcium": 156.83,
+  "magnesium": 64.57,
+  "potassium": 1111.59,
+  "zinc": 6.49,
+  "iode": 10.06,
+  "vitd": 0.63,
+  "vitc": 18.28,
+  "b12": 2.95,
+  "b9": 157.03,
+  "alcool": 0.0
+ }
+}

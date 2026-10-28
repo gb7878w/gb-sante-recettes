@@ -1,0 +1,72 @@
+{
+ "id": "r600-omelette-au-saumon-et-aux-epinards-norvege",
+ "nom": "Omelette au saumon et aux épinards (Norvège)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 255,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 60
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez les épinards au beurre.",
+  "Ajoutez le saumon émietté et les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 358.91,
+  "proteines": 32.37,
+  "glucides": 0.4,
+  "lipides": 24.77,
+  "sucres": 0.39,
+  "fibres": 2.1,
+  "satures": 7.74,
+  "sel": 0.5,
+  "fer": 3.44,
+  "calcium": 251.63,
+  "magnesium": 49.56,
+  "potassium": 501.41,
+  "zinc": 2.04,
+  "iode": 27.38,
+  "vitd": 2.5,
+  "vitc": 1.67,
+  "b12": 3.56,
+  "b9": 93.91,
+  "alcool": 0.0
+ }
+}

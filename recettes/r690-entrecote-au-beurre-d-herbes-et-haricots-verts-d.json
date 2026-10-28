@@ -1,0 +1,70 @@
+{
+ "id": "r690-entrecote-au-beurre-d-herbes-et-haricots-verts-d",
+ "nom": "Entrecôte au beurre d'herbes et haricots verts (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 376,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6100",
+   "nom": "Entrecôte grillée",
+   "g": 160
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Grillez l'entrecôte.",
+  "Servez avec haricots verts et beurre d'herbes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 463.44,
+  "proteines": 44.53,
+  "glucides": 7.04,
+  "lipides": 26.93,
+  "sucres": 5.14,
+  "fibres": 6.57,
+  "satures": 14.14,
+  "sel": 0.27,
+  "fer": 5.35,
+  "calcium": 132.06,
+  "magnesium": 90.63,
+  "potassium": 993.7,
+  "zinc": 10.63,
+  "iode": 9.79,
+  "vitd": 0.29,
+  "vitc": 9.4,
+  "b12": 2.98,
+  "b9": 114.32,
+  "alcool": 0.0
+ }
+}

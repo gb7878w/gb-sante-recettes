@@ -1,0 +1,72 @@
+{
+ "id": "r606-oeufs-aux-crevettes-et-a-l-aneth-islande",
+ "nom": "Œufs aux crevettes et à l'aneth (Islande)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 188,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs.",
+  "Ajoutez crevettes et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 262.78,
+  "proteines": 26.79,
+  "glucides": 1.61,
+  "lipides": 16.6,
+  "sucres": 0.4,
+  "fibres": 0.11,
+  "satures": 6.09,
+  "sel": 1.19,
+  "fer": 3.61,
+  "calcium": 243.11,
+  "magnesium": 50.74,
+  "potassium": 334.02,
+  "zinc": 2.28,
+  "iode": 25.4,
+  "vitd": 2.31,
+  "vitc": 2.6,
+  "b12": 2.73,
+  "b9": 53.19,
+  "alcool": 0.0
+ }
+}

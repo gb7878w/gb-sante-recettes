@@ -1,0 +1,75 @@
+{
+ "id": "r667-truite-polonaise-au-beurre-et-au-persil-pologne",
+ "nom": "Truite polonaise au beurre et au persil (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 343,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite.",
+  "Servez avec persil, citron et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 363.56,
+  "proteines": 39.43,
+  "glucides": 5.48,
+  "lipides": 18.94,
+  "sucres": 3.95,
+  "fibres": 5.02,
+  "satures": 8.02,
+  "sel": 0.26,
+  "fer": 1.65,
+  "calcium": 192.91,
+  "magnesium": 89.92,
+  "potassium": 1098.62,
+  "zinc": 1.41,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 19.12,
+  "b12": 7.77,
+  "b9": 102.22,
+  "alcool": 0.0
+ }
+}

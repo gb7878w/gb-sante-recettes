@@ -1,0 +1,72 @@
+{
+ "id": "r596-oeufs-brouilles-au-saumon-fume-suede",
+ "nom": "Œufs brouillés au saumon fumé (Suède)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 178,
+ "tags": [
+  "lowcarb",
+  "Suède",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 50
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs dans le beurre.",
+  "Ajoutez saumon fumé et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 295.5,
+  "proteines": 26.39,
+  "glucides": 0.95,
+  "lipides": 20.65,
+  "sucres": 0.4,
+  "fibres": 0.11,
+  "satures": 6.93,
+  "sel": 2.13,
+  "fer": 2.5,
+  "calcium": 102.09,
+  "magnesium": 33.29,
+  "potassium": 457.12,
+  "zinc": 1.39,
+  "iode": 45.4,
+  "vitd": 5.04,
+  "vitc": 2.1,
+  "b12": 3.42,
+  "b9": 57.43,
+  "alcool": 0.0
+ }
+}

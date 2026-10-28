@@ -1,0 +1,81 @@
+{
+ "id": "r668-soupe-de-chou-et-de-saucisse-pologne",
+ "nom": "Soupe de chou et de saucisse (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mijotez chou, carotte, oignon et saucisse 25 minutes.",
+  "Servez avec le fromage blanc et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 498.54,
+  "proteines": 32.51,
+  "glucides": 20.39,
+  "lipides": 29.38,
+  "sucres": 16.64,
+  "fibres": 9.13,
+  "satures": 10.97,
+  "sel": 2.4,
+  "fer": 2.77,
+  "calcium": 307.45,
+  "magnesium": 60.42,
+  "potassium": 1014.0,
+  "zinc": 3.03,
+  "iode": 51.73,
+  "vitd": 0.88,
+  "vitc": 19.41,
+  "b12": 1.43,
+  "b9": 222.6,
+  "alcool": 0.0
+ }
+}

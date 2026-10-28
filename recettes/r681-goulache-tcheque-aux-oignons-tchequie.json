@@ -1,0 +1,79 @@
+{
+ "id": "r681-goulache-tcheque-aux-oignons-tchequie",
+ "nom": "Goulache tchèque aux oignons (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 100
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf et oignons.",
+  "Ajoutez paprika et coulis, mijotez 50 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 362.66,
+  "proteines": 40.84,
+  "glucides": 15.68,
+  "lipides": 13.51,
+  "sucres": 7.02,
+  "fibres": 5.56,
+  "satures": 2.88,
+  "sel": 0.62,
+  "fer": 1.07,
+  "calcium": 129.36,
+  "magnesium": 22.28,
+  "potassium": 356.4,
+  "zinc": 0.67,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 2.12,
+  "b12": 0.32,
+  "b9": 34.16,
+  "alcool": 0.0
+ }
+}

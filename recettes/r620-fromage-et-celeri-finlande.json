@@ -1,0 +1,65 @@
+{
+ "id": "r620-fromage-et-celeri-finlande",
+ "nom": "Fromage et céleri (Finlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 150,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "celeri",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez le céleri et le fromage.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 150.3,
+  "proteines": 13.58,
+  "glucides": 3.78,
+  "lipides": 8.6,
+  "sucres": 3.11,
+  "fibres": 1.32,
+  "satures": 5.45,
+  "sel": 0.41,
+  "fer": 0.58,
+  "calcium": 401.7,
+  "magnesium": 25.41,
+  "potassium": 349.62,
+  "zinc": 1.67,
+  "iode": 12.66,
+  "vitd": 0.0,
+  "vitc": 3.31,
+  "b12": 0.85,
+  "b9": 58.5,
+  "alcool": 0.0
+ }
+}

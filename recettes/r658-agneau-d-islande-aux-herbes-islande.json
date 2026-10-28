@@ -1,0 +1,75 @@
+{
+ "id": "r658-agneau-d-islande-aux-herbes-islande",
+ "nom": "Agneau d'Islande aux herbes (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "20321",
+   "nom": "Navet cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau au thym 25 minutes.",
+  "Servez avec navet et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 378.02,
+  "proteines": 43.74,
+  "glucides": 8.6,
+  "lipides": 16.83,
+  "sucres": 6.62,
+  "fibres": 7.18,
+  "satures": 8.31,
+  "sel": 0.32,
+  "fer": 3.34,
+  "calcium": 150.72,
+  "magnesium": 94.21,
+  "potassium": 1025.94,
+  "zinc": 6.45,
+  "iode": 7.63,
+  "vitd": 0.09,
+  "vitc": 12.19,
+  "b12": 2.83,
+  "b9": 117.99,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r604-omelette-au-fromage-et-au-jambon-finlande",
+ "nom": "Omelette au fromage et au jambon (Finlande)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 199,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Battez les œufs.",
+  "Cuisez avec jambon et fromage, repliez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 348.99,
+  "proteines": 31.4,
+  "glucides": 1.03,
+  "lipides": 24.48,
+  "sucres": 0.91,
+  "fibres": 0.06,
+  "satures": 10.61,
+  "sel": 1.38,
+  "fer": 2.82,
+  "calcium": 349.3,
+  "magnesium": 23.96,
+  "potassium": 342.88,
+  "zinc": 2.42,
+  "iode": 32.71,
+  "vitd": 2.49,
+  "vitc": 0.0,
+  "b12": 2.4,
+  "b9": 52.67,
+  "alcool": 0.0
+ }
+}

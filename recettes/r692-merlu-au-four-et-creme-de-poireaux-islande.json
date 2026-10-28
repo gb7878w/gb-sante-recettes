@@ -1,0 +1,71 @@
+{
+ "id": "r692-merlu-au-four-et-creme-de-poireaux-islande",
+ "nom": "Merlu au four et crème de poireaux (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 386,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Cuisez les poireaux à la crème.",
+  "Posez le poisson dessus, enfournez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 354.36,
+  "proteines": 43.16,
+  "glucides": 6.28,
+  "lipides": 16.29,
+  "sucres": 4.9,
+  "fibres": 4.8,
+  "satures": 8.82,
+  "sel": 0.55,
+  "fer": 1.08,
+  "calcium": 160.89,
+  "magnesium": 71.88,
+  "potassium": 829.99,
+  "zinc": 1.2,
+  "iode": 79.9,
+  "vitd": 6.15,
+  "vitc": 1.95,
+  "b12": 3.05,
+  "b9": 82.14,
+  "alcool": 0.0
+ }
+}

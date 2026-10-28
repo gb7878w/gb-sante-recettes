@@ -1,0 +1,70 @@
+{
+ "id": "r670-roti-de-porc-au-chou-pologne",
+ "nom": "Rôti de porc au chou (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc 40 minutes.",
+  "Braisez le chou avec l'oignon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 430.67,
+  "proteines": 45.62,
+  "glucides": 13.57,
+  "lipides": 19.38,
+  "sucres": 10.63,
+  "fibres": 9.53,
+  "satures": 9.16,
+  "sel": 0.29,
+  "fer": 2.54,
+  "calcium": 164.46,
+  "magnesium": 68.64,
+  "potassium": 1197.66,
+  "zinc": 3.61,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 22.82,
+  "b12": 1.65,
+  "b9": 178.14,
+  "alcool": 0.0
+ }
+}

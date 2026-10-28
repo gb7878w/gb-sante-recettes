@@ -1,0 +1,69 @@
+{
+ "id": "r651-porc-a-l-oignon-et-chou-braise-danemark",
+ "nom": "Porc à l'oignon et chou braisé (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 418,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 50
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le porc avec l'oignon.",
+  "Ajoutez le chou, cuisez 12 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 419.98,
+  "proteines": 45.17,
+  "glucides": 12.53,
+  "lipides": 19.08,
+  "sucres": 8.57,
+  "fibres": 8.3,
+  "satures": 9.03,
+  "sel": 0.27,
+  "fer": 2.41,
+  "calcium": 137.56,
+  "magnesium": 64.22,
+  "potassium": 1107.66,
+  "zinc": 3.55,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 18.8,
+  "b12": 1.65,
+  "b9": 145.94,
+  "alcool": 0.0
+ }
+}
