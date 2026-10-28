@@ -1,0 +1,71 @@
+{
+ "id": "r801-omelette-aux-champignons-et-aux-herbes-france",
+ "nom": "Omelette aux champignons et aux herbes (France)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 218,
+ "tags": [
+  "lowcarb",
+  "France",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons.",
+  "Ajoutez œufs et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 242.74,
+  "proteines": 18.75,
+  "glucides": 3.02,
+  "lipides": 17.16,
+  "sucres": 2.42,
+  "fibres": 0.93,
+  "satures": 6.22,
+  "sel": 0.5,
+  "fer": 2.83,
+  "calcium": 112.09,
+  "magnesium": 23.99,
+  "potassium": 484.75,
+  "zinc": 1.74,
+  "iode": 28.18,
+  "vitd": 2.74,
+  "vitc": 7.78,
+  "b12": 1.89,
+  "b9": 75.97,
+  "alcool": 0.0
+ }
+}

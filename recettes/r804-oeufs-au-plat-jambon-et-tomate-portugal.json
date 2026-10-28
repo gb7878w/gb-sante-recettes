@@ -1,0 +1,69 @@
+{
+ "id": "r804-oeufs-au-plat-jambon-et-tomate-portugal",
+ "nom": "Œufs au plat, jambon et tomate (Portugal)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 264,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Cuisez les œufs au plat.",
+  "Servez avec jambon et tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 269.9,
+  "proteines": 23.58,
+  "glucides": 4.56,
+  "lipides": 17.09,
+  "sucres": 3.65,
+  "fibres": 1.06,
+  "satures": 4.25,
+  "sel": 1.16,
+  "fer": 2.43,
+  "calcium": 102.96,
+  "magnesium": 20.2,
+  "potassium": 514.0,
+  "zinc": 1.29,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 16.3,
+  "b12": 1.74,
+  "b9": 54.3,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "id": "r806-fromage-et-jambon-roules-luxembourg",
+ "nom": "Fromage et jambon roulés (Luxembourg)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 95,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Roulez le fromage et le cornichon dans le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 152.63,
+  "proteines": 17.04,
+  "glucides": 0.96,
+  "lipides": 8.77,
+  "sucres": 0.78,
+  "fibres": 0.38,
+  "satures": 5.12,
+  "sel": 1.51,
+  "fer": 0.42,
+  "calcium": 262.75,
+  "magnesium": 14.17,
+  "potassium": 227.35,
+  "zinc": 1.13,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.51,
+  "b9": 10.65,
+  "alcool": 0.0
+ }
+}

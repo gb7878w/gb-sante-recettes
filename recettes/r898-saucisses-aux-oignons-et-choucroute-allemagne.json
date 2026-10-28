@@ -1,0 +1,74 @@
+{
+ "id": "r898-saucisses-aux-oignons-et-choucroute-allemagne",
+ "nom": "Saucisses aux oignons et choucroute (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 428,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 200
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez les oignons.",
+  "Réchauffez saucisses et choucroute, servez avec la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 594.8,
+  "proteines": 33.24,
+  "glucides": 4.84,
+  "lipides": 46.46,
+  "sucres": 2.28,
+  "fibres": 9.87,
+  "satures": 16.51,
+  "sel": 6.8,
+  "fer": 1.96,
+  "calcium": 124.25,
+  "magnesium": 34.55,
+  "potassium": 651.0,
+  "zinc": 2.2,
+  "iode": 18.44,
+  "vitd": 0.34,
+  "vitc": 35.05,
+  "b12": 0.61,
+  "b9": 44.78,
+  "alcool": 0.0
+ }
+}

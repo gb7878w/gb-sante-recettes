@@ -1,0 +1,70 @@
+{
+ "id": "r818-rillettes-de-thon-au-fromage-blanc-france",
+ "nom": "Rillettes de thon au fromage blanc (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 148,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 6
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Écrasez le thon avec le fromage blanc et le citron.",
+  "Parsemez de ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 108.37,
+  "proteines": 22.49,
+  "glucides": 3.25,
+  "lipides": 0.28,
+  "sucres": 3.2,
+  "fibres": 0.06,
+  "satures": 0.08,
+  "sel": 0.53,
+  "fer": 0.62,
+  "calcium": 113.47,
+  "magnesium": 25.11,
+  "potassium": 253.3,
+  "zinc": 0.69,
+  "iode": 17.96,
+  "vitd": 3.05,
+  "vitc": 3.49,
+  "b12": 1.84,
+  "b9": 32.25,
+  "alcool": 0.0
+ }
+}

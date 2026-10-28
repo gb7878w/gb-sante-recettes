@@ -1,0 +1,70 @@
+{
+ "id": "r815-thon-et-olives-malte",
+ "nom": "Thon et olives (Malte)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 175,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mêlez thon, olives et tomates.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 132.48,
+  "proteines": 20.25,
+  "glucides": 4.93,
+  "lipides": 2.84,
+  "sucres": 4.44,
+  "fibres": 1.65,
+  "satures": 0.38,
+  "sel": 0.75,
+  "fer": 2.02,
+  "calcium": 73.32,
+  "magnesium": 28.28,
+  "potassium": 382.65,
+  "zinc": 0.59,
+  "iode": 13.76,
+  "vitd": 3.05,
+  "vitc": 13.08,
+  "b12": 1.68,
+  "b9": 29.94,
+  "alcool": 0.0
+ }
+}

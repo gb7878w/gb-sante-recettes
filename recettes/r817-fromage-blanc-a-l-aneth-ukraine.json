@@ -1,0 +1,69 @@
+{
+ "id": "r817-fromage-blanc-a-l-aneth-ukraine",
+ "nom": "Fromage blanc à l'aneth (Ukraine)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 224,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 180
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 1
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc, aneth et ail.",
+  "Servez avec les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 97.28,
+  "proteines": 14.86,
+  "glucides": 7.92,
+  "lipides": 0.11,
+  "sucres": 7.49,
+  "fibres": 0.72,
+  "satures": 0.06,
+  "sel": 0.22,
+  "fer": 0.62,
+  "calcium": 253.37,
+  "magnesium": 25.48,
+  "potassium": 383.91,
+  "zinc": 0.98,
+  "iode": 18.84,
+  "vitd": 0.0,
+  "vitc": 6.98,
+  "b12": 0.72,
+  "b9": 85.1,
+  "alcool": 0.0
+ }
+}

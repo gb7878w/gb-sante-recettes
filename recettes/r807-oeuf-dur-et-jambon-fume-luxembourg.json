@@ -1,0 +1,63 @@
+{
+ "id": "r807-oeuf-dur-et-jambon-fume-luxembourg",
+ "nom": "Œuf dur et jambon fumé (Luxembourg)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 154,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "oeufs"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec le jambon et la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 199.08,
+  "proteines": 22.97,
+  "glucides": 1.39,
+  "lipides": 11.23,
+  "sucres": 1.17,
+  "fibres": 0.06,
+  "satures": 3.31,
+  "sel": 1.38,
+  "fer": 1.97,
+  "calcium": 52.55,
+  "magnesium": 17.33,
+  "potassium": 281.2,
+  "zinc": 1.42,
+  "iode": 54.79,
+  "vitd": 1.23,
+  "vitc": 0.01,
+  "b12": 1.22,
+  "b9": 48.7,
+  "alcool": 0.0
+ }
+}

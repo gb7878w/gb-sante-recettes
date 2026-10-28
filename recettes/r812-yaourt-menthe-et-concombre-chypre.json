@@ -1,0 +1,70 @@
+{
+ "id": "r812-yaourt-menthe-et-concombre-chypre",
+ "nom": "Yaourt, menthe et concombre (Chypre)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 270,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 180
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre et menthe.",
+  "Parsemez de noix."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 171.86,
+  "proteines": 8.63,
+  "glucides": 11.2,
+  "lipides": 9.63,
+  "sucres": 10.09,
+  "fibres": 2.71,
+  "satures": 3.31,
+  "sel": 0.21,
+  "fer": 0.81,
+  "calcium": 254.38,
+  "magnesium": 45.29,
+  "potassium": 470.88,
+  "zinc": 1.04,
+  "iode": 37.68,
+  "vitd": 1.1,
+  "vitc": 7.58,
+  "b12": 0.5,
+  "b9": 58.9,
+  "alcool": 0.0
+ }
+}

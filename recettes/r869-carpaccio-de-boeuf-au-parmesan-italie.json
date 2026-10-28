@@ -1,0 +1,80 @@
+{
+ "id": "r869-carpaccio-de-boeuf-au-parmesan-italie",
+ "nom": "Carpaccio de bœuf au parmesan (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 308,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 20
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Tranchez finement le bœuf (cuit rosé et refroidi).",
+  "Servez avec parmesan, salade, huile et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 354.59,
+  "proteines": 40.66,
+  "glucides": 4.29,
+  "lipides": 18.81,
+  "sucres": 3.61,
+  "fibres": 0.72,
+  "satures": 6.72,
+  "sel": 0.41,
+  "fer": 0.75,
+  "calcium": 342.84,
+  "magnesium": 27.33,
+  "potassium": 268.4,
+  "zinc": 1.32,
+  "iode": 27.05,
+  "vitd": 0.0,
+  "vitc": 10.68,
+  "b12": 0.85,
+  "b9": 50.77,
+  "alcool": 0.0
+ }
+}

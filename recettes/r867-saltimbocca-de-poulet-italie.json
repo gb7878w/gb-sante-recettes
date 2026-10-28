@@ -1,0 +1,69 @@
+{
+ "id": "r867-saltimbocca-de-poulet-italie",
+ "nom": "Saltimbocca de poulet (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 338,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 30
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Enveloppez le poulet de jambon cru.",
+  "Poêlez, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.33,
+  "proteines": 58.44,
+  "glucides": 0.17,
+  "lipides": 15.19,
+  "sucres": 0.16,
+  "fibres": 5.25,
+  "satures": 7.05,
+  "sel": 1.92,
+  "fer": 2.75,
+  "calcium": 373.27,
+  "magnesium": 100.66,
+  "potassium": 902.26,
+  "zinc": 2.27,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 6.05,
+  "b12": 0.28,
+  "b9": 108.61,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "id": "r810-fromage-blanc-et-noix-slovenie",
+ "nom": "Fromage blanc et noix (Slovénie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 193,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 180
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Versez le fromage blanc.",
+  "Ajoutez noix et cannelle."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 175.33,
+  "proteines": 15.94,
+  "glucides": 8.1,
+  "lipides": 8.16,
+  "sucres": 7.38,
+  "fibres": 1.33,
+  "satures": 0.83,
+  "sel": 0.2,
+  "fer": 0.64,
+  "calcium": 260.2,
+  "magnesium": 39.36,
+  "potassium": 315.11,
+  "zinc": 1.22,
+  "iode": 18.72,
+  "vitd": 0.0,
+  "vitc": 0.13,
+  "b12": 0.72,
+  "b9": 57.66,
+  "alcool": 0.0
+ }
+}

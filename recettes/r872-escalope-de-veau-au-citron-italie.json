@@ -1,0 +1,70 @@
+{
+ "id": "r872-escalope-de-veau-au-citron-italie",
+ "nom": "Escalope de veau au citron (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 385,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 160
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Poêlez l'escalope.",
+  "Arrosez de jus de citron, servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 369.44,
+  "proteines": 53.17,
+  "glucides": 7.11,
+  "lipides": 12.15,
+  "sucres": 5.2,
+  "fibres": 6.4,
+  "satures": 6.76,
+  "sel": 0.25,
+  "fer": 2.71,
+  "calcium": 122.71,
+  "magnesium": 100.59,
+  "potassium": 543.82,
+  "zinc": 5.63,
+  "iode": 9.76,
+  "vitd": 0.11,
+  "vitc": 9.07,
+  "b12": 3.22,
+  "b9": 103.56,
+  "alcool": 0.0
+ }
+}

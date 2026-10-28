@@ -1,0 +1,69 @@
+{
+ "id": "r863-magret-de-canard-et-haricots-verts-france",
+ "nom": "Magret de canard et haricots verts (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 413,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36203",
+   "nom": "Cuisse de canard sans peau",
+   "g": 190
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 15
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez le canard côté peau 8 minutes.",
+  "Servez avec les haricots verts à l'échalote."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 320.52,
+  "proteines": 39.36,
+  "glucides": 8.69,
+  "lipides": 12.41,
+  "sucres": 5.56,
+  "fibres": 6.79,
+  "satures": 6.36,
+  "sel": 0.5,
+  "fer": 1.1,
+  "calcium": 104.85,
+  "magnesium": 53.29,
+  "potassium": 555.26,
+  "zinc": 0.48,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 3.52,
+  "b12": 0.01,
+  "b9": 100.77,
+  "alcool": 0.0
+ }
+}

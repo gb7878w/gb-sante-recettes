@@ -1,0 +1,89 @@
+{
+ "id": "r849-borchtch-allege-au-boeuf-et-au-chou-ukraine",
+ "nom": "Borchtch allégé au bœuf et au chou (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 491,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 150
+  },
+  {
+   "ciqual": "20003",
+   "nom": "Betterave cuite",
+   "g": 50
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mijotez bœuf et légumes 40 minutes.",
+  "Servez avec fromage blanc et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.3,
+  "proteines": 39.04,
+  "glucides": 17.89,
+  "lipides": 20.34,
+  "sucres": 15.87,
+  "fibres": 7.96,
+  "satures": 7.51,
+  "sel": 0.31,
+  "fer": 1.01,
+  "calcium": 227.68,
+  "magnesium": 40.76,
+  "potassium": 771.87,
+  "zinc": 0.93,
+  "iode": 8.57,
+  "vitd": 0.09,
+  "vitc": 16.45,
+  "b12": 0.33,
+  "b9": 163.22,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r882-sardines-grillees-et-poivrons-portugal",
+ "nom": "Sardines grillées et poivrons (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 368,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 130
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Réchauffez les sardines.",
+  "Servez avec poivrons rôtis, tomate et citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 409.88,
+  "proteines": 29.54,
+  "glucides": 9.86,
+  "lipides": 26.99,
+  "sucres": 7.25,
+  "fibres": 3.04,
+  "satures": 5.43,
+  "sel": 2.28,
+  "fer": 3.93,
+  "calcium": 178.3,
+  "magnesium": 70.89,
+  "potassium": 875.3,
+  "zinc": 2.89,
+  "iode": 52.0,
+  "vitd": 9.62,
+  "vitc": 151.6,
+  "b12": 17.68,
+  "b9": 57.14,
+  "alcool": 0.0
+ }
+}

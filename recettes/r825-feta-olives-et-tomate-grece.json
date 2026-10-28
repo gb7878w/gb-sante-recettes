@@ -1,0 +1,69 @@
+{
+ "id": "r825-feta-olives-et-tomate-grece",
+ "nom": "Feta, olives et tomate (Grèce)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 190,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Coupez tomate et feta.",
+  "Ajoutez olives et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 189.48,
+  "proteines": 10.69,
+  "glucides": 5.08,
+  "lipides": 13.18,
+  "sucres": 4.19,
+  "fibres": 2.04,
+  "satures": 7.15,
+  "sel": 1.32,
+  "fer": 1.95,
+  "calcium": 176.44,
+  "magnesium": 19.7,
+  "potassium": 270.2,
+  "zinc": 0.82,
+  "iode": 37.2,
+  "vitd": 0.0,
+  "vitc": 13.04,
+  "b12": 0.41,
+  "b9": 30.36,
+  "alcool": 0.0
+ }
+}

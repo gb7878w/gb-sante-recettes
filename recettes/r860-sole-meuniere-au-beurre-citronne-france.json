@@ -1,0 +1,75 @@
+{
+ "id": "r860-sole-meuniere-au-beurre-citronne-france",
+ "nom": "Sole meunière au beurre citronné (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 366,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le poisson au beurre.",
+  "Servez avec citron, persil et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 348.2,
+  "proteines": 43.14,
+  "glucides": 5.5,
+  "lipides": 15.51,
+  "sucres": 3.97,
+  "fibres": 4.97,
+  "satures": 8.29,
+  "sel": 0.51,
+  "fer": 1.59,
+  "calcium": 167.88,
+  "magnesium": 97.1,
+  "potassium": 982.3,
+  "zinc": 1.45,
+  "iode": 79.99,
+  "vitd": 6.21,
+  "vitc": 13.32,
+  "b12": 3.06,
+  "b9": 132.97,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r843-gratin-d-aubergines-et-d-agneau-chypre",
+ "nom": "Gratin d'aubergines et d'agneau (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 472,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 130
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 80
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Disposez aubergines et agneau cuit.",
+  "Nappez de coulis et de yaourt, enfournez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 362.07,
+  "proteines": 41.9,
+  "glucides": 17.35,
+  "lipides": 11.44,
+  "sucres": 13.96,
+  "fibres": 11.0,
+  "satures": 4.8,
+  "sel": 0.88,
+  "fer": 2.65,
+  "calcium": 174.56,
+  "magnesium": 81.02,
+  "potassium": 781.18,
+  "zinc": 5.75,
+  "iode": 25.14,
+  "vitd": 0.49,
+  "vitc": 3.26,
+  "b12": 2.67,
+  "b9": 68.86,
+  "alcool": 0.0
+ }
+}

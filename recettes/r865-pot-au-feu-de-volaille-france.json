@@ -1,0 +1,75 @@
+{
+ "id": "r865-pot-au-feu-de-volaille-france",
+ "nom": "Pot-au-feu de volaille (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 408,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "celeri",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20025",
+   "nom": "Céleri-rave cuit",
+   "g": 60
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mijotez poulet et légumes 40 minutes.",
+  "Servez avec la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 316.42,
+  "proteines": 51.1,
+  "glucides": 12.18,
+  "lipides": 4.81,
+  "sucres": 8.72,
+  "fibres": 6.92,
+  "satures": 1.02,
+  "sel": 0.92,
+  "fer": 1.49,
+  "calcium": 91.46,
+  "magnesium": 88.57,
+  "potassium": 1234.6,
+  "zinc": 1.59,
+  "iode": 0.24,
+  "vitd": 0.0,
+  "vitc": 6.87,
+  "b12": 0.29,
+  "b9": 125.04,
+  "alcool": 0.0
+ }
+}

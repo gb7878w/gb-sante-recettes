@@ -1,0 +1,74 @@
+{
+ "id": "r842-poulpe-grille-et-salade-chypre",
+ "nom": "Poulpe grillé et salade (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 324,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10079",
+   "nom": "Poulpe cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Cuisez le poulpe 30 minutes puis grillez-le.",
+  "Servez avec salade et citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 426.78,
+  "proteines": 60.25,
+  "glucides": 12.69,
+  "lipides": 14.18,
+  "sucres": 2.92,
+  "fibres": 1.17,
+  "satures": 2.42,
+  "sel": 2.32,
+  "fer": 19.45,
+  "calcium": 228.62,
+  "magnesium": 129.37,
+  "potassium": 1507.92,
+  "zinc": 6.86,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 43.88,
+  "b12": 72.0,
+  "b9": 69.7,
+  "alcool": 0.0
+ }
+}

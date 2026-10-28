@@ -1,0 +1,72 @@
+{
+ "id": "r858-cassoulet-allege-au-canard-france",
+ "nom": "Cassoulet allégé au canard (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 303,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36203",
+   "nom": "Cuisse de canard sans peau",
+   "g": 130
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 60
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 50
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Dorez canard et saucisse.",
+  "Ajoutez haricots et coulis, mijotez 40 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 385.41,
+  "proteines": 37.29,
+  "glucides": 12.42,
+  "lipides": 18.74,
+  "sucres": 4.09,
+  "fibres": 8.63,
+  "satures": 6.94,
+  "sel": 2.08,
+  "fer": 1.41,
+  "calcium": 70.23,
+  "magnesium": 24.24,
+  "potassium": 244.3,
+  "zinc": 1.2,
+  "iode": 8.4,
+  "vitd": 0.16,
+  "vitc": 0.0,
+  "b12": 0.25,
+  "b9": 17.29,
+  "alcool": 0.0
+ }
+}

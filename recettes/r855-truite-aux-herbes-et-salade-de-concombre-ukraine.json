@@ -1,0 +1,75 @@
+{
+ "id": "r855-truite-aux-herbes-et-salade-de-concombre-ukraine",
+ "nom": "Truite aux herbes et salade de concombre (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 379,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez la truite.",
+  "Servez avec concombre au fromage blanc et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 356.79,
+  "proteines": 43.8,
+  "glucides": 6.28,
+  "lipides": 16.95,
+  "sucres": 5.15,
+  "fibres": 0.82,
+  "satures": 3.56,
+  "sel": 0.33,
+  "fer": 1.04,
+  "calcium": 239.15,
+  "magnesium": 75.03,
+  "potassium": 987.71,
+  "zinc": 1.57,
+  "iode": 24.95,
+  "vitd": 25.5,
+  "vitc": 16.93,
+  "b12": 8.07,
+  "b9": 56.14,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r799-omelette-au-chou-et-au-jambon-ukraine",
+ "nom": "Omelette au chou et au jambon (Ukraine)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 255,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 80
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le chou émincé.",
+  "Ajoutez jambon et œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 293.85,
+  "proteines": 25.49,
+  "glucides": 4.75,
+  "lipides": 18.63,
+  "sucres": 4.28,
+  "fibres": 2.86,
+  "satures": 6.85,
+  "sel": 1.21,
+  "fer": 2.69,
+  "calcium": 151.93,
+  "magnesium": 23.2,
+  "potassium": 510.81,
+  "zinc": 1.45,
+  "iode": 27.38,
+  "vitd": 2.5,
+  "vitc": 7.1,
+  "b12": 1.89,
+  "b9": 100.03,
+  "alcool": 0.0
+ }
+}

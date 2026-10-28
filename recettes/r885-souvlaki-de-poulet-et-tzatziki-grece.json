@@ -1,0 +1,74 @@
+{
+ "id": "r885-souvlaki-de-poulet-et-tzatziki-grece",
+ "nom": "Souvlaki de poulet et tzatziki (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 426,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "19863",
+   "nom": "Tzatziki",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez les brochettes de poulet.",
+  "Servez avec tzatziki, tomate et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 422.86,
+  "proteines": 54.12,
+  "glucides": 8.66,
+  "lipides": 18.0,
+  "sucres": 6.3,
+  "fibres": 1.48,
+  "satures": 2.52,
+  "sel": 0.94,
+  "fer": 0.97,
+  "calcium": 100.08,
+  "magnesium": 84.12,
+  "potassium": 1159.6,
+  "zinc": 1.57,
+  "iode": 0.24,
+  "vitd": 0.0,
+  "vitc": 25.6,
+  "b12": 0.76,
+  "b9": 50.46,
+  "alcool": 0.0
+ }
+}

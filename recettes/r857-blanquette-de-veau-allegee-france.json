@@ -1,0 +1,74 @@
+{
+ "id": "r857-blanquette-de-veau-allegee-france",
+ "nom": "Blanquette de veau allégée (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 70,
+ "portions": 1,
+ "poidsG": 418,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 80
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mijotez veau et légumes 50 minutes.",
+  "Liez avec la crème et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 365.94,
+  "proteines": 55.1,
+  "glucides": 8.45,
+  "lipides": 11.34,
+  "sucres": 6.85,
+  "fibres": 3.76,
+  "satures": 6.12,
+  "sel": 0.44,
+  "fer": 2.26,
+  "calcium": 98.38,
+  "magnesium": 71.69,
+  "potassium": 632.3,
+  "zinc": 5.84,
+  "iode": 10.8,
+  "vitd": 0.36,
+  "vitc": 8.35,
+  "b12": 3.2,
+  "b9": 60.63,
+  "alcool": 0.0
+ }
+}

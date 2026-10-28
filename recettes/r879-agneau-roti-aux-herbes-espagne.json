@@ -1,0 +1,73 @@
+{
+ "id": "r879-agneau-roti-aux-herbes-espagne",
+ "nom": "Agneau rôti aux herbes (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 313,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau au romarin 35 minutes.",
+  "Ajoutez les aubergines pour les 20 dernières minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 380.9,
+  "proteines": 42.42,
+  "glucides": 6.94,
+  "lipides": 18.8,
+  "sucres": 5.15,
+  "fibres": 6.91,
+  "satures": 5.29,
+  "sel": 0.3,
+  "fer": 2.63,
+  "calcium": 69.52,
+  "magnesium": 70.97,
+  "potassium": 665.26,
+  "zinc": 6.21,
+  "iode": 9.0,
+  "vitd": 0.0,
+  "vitc": 2.39,
+  "b12": 2.82,
+  "b9": 49.46,
+  "alcool": 0.0
+ }
+}

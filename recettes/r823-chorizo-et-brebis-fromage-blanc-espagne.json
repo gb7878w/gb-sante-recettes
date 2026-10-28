@@ -1,0 +1,62 @@
+{
+ "id": "r823-chorizo-et-brebis-fromage-blanc-espagne",
+ "nom": "Chorizo et brebis, fromage blanc (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 135,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 25
+  },
+  {
+   "ciqual": "12827",
+   "nom": "Fromage de brebis",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Tranchez chorizo et fromage, servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 235.22,
+  "proteines": 19.18,
+  "glucides": 3.64,
+  "lipides": 15.7,
+  "sucres": 3.64,
+  "fibres": 0.0,
+  "satures": 8.61,
+  "sel": 1.72,
+  "fer": 0.48,
+  "calcium": 330.8,
+  "magnesium": 17.26,
+  "potassium": 277.7,
+  "zinc": 1.07,
+  "iode": 8.32,
+  "vitd": 0.18,
+  "vitc": 0.0,
+  "b12": 0.89,
+  "b9": 31.48,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r890-aubergines-farcies-a-la-viande-et-a-la-feta-grec",
+ "nom": "Aubergines farcies à la viande et à la feta (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 470,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Évidez les aubergines, garnissez de viande cuite.",
+  "Ajoutez coulis et feta, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 412.33,
+  "proteines": 41.2,
+  "glucides": 15.8,
+  "lipides": 17.56,
+  "sucres": 11.82,
+  "fibres": 12.31,
+  "satures": 10.1,
+  "sel": 1.65,
+  "fer": 4.05,
+  "calcium": 146.65,
+  "magnesium": 68.7,
+  "potassium": 750.3,
+  "zinc": 8.45,
+  "iode": 41.82,
+  "vitd": 0.0,
+  "vitc": 3.25,
+  "b12": 3.18,
+  "b9": 50.96,
+  "alcool": 0.0
+ }
+}

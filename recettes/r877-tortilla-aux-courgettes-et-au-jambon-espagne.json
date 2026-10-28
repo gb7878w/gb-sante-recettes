@@ -1,0 +1,69 @@
+{
+ "id": "r877-tortilla-aux-courgettes-et-au-jambon-espagne",
+ "nom": "Tortilla aux courgettes et au jambon (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 358,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez courgettes et jambon.",
+  "Ajoutez les œufs battus, retournez la tortilla."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 450.6,
+  "proteines": 37.41,
+  "glucides": 2.5,
+  "lipides": 32.02,
+  "sucres": 2.33,
+  "fibres": 1.8,
+  "satures": 8.43,
+  "sel": 2.72,
+  "fer": 3.96,
+  "calcium": 169.08,
+  "magnesium": 47.66,
+  "potassium": 540.2,
+  "zinc": 2.18,
+  "iode": 39.9,
+  "vitd": 3.57,
+  "vitc": 3.48,
+  "b12": 2.75,
+  "b9": 103.96,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "id": "r850-cotelettes-de-poulet-farcies-kotlet-de-volaille-",
+ "nom": "Côtelettes de poulet farcies (kotlet de volaille) sans chapelure (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 356,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "viande",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 12
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 40
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Farcissez le poulet de beurre persillé.",
+  "Trempez dans l'œuf, poêlez et enfournez 12 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 414.54,
+  "proteines": 56.66,
+  "glucides": 4.16,
+  "lipides": 17.79,
+  "sucres": 2.5,
+  "fibres": 3.47,
+  "satures": 8.84,
+  "sel": 0.43,
+  "fer": 2.4,
+  "calcium": 102.63,
+  "magnesium": 96.23,
+  "potassium": 1250.9,
+  "zinc": 2.32,
+  "iode": 8.59,
+  "vitd": 0.88,
+  "vitc": 40.28,
+  "b12": 0.87,
+  "b9": 156.19,
+  "alcool": 0.0
+ }
+}

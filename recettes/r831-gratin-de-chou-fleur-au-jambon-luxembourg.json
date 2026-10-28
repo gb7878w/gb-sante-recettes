@@ -1,0 +1,70 @@
+{
+ "id": "r831-gratin-de-chou-fleur-au-jambon-luxembourg",
+ "nom": "Gratin de chou-fleur au jambon (Luxembourg)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez le chou-fleur.",
+  "Couvrez de jambon, crème et gruyère, gratinez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 361.1,
+  "proteines": 36.93,
+  "glucides": 7.22,
+  "lipides": 19.47,
+  "sucres": 6.82,
+  "fibres": 5.18,
+  "satures": 10.43,
+  "sel": 2.69,
+  "fer": 0.86,
+  "calcium": 418.5,
+  "magnesium": 46.71,
+  "potassium": 1093.0,
+  "zinc": 2.02,
+  "iode": 4.14,
+  "vitd": 0.13,
+  "vitc": 24.25,
+  "b12": 0.47,
+  "b9": 201.5,
+  "alcool": 0.0
+ }
+}

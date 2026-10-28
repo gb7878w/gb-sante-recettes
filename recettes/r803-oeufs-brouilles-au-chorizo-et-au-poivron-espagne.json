@@ -1,0 +1,69 @@
+{
+ "id": "r803-oeufs-brouilles-au-chorizo-et-au-poivron-espagne",
+ "nom": "Œufs brouillés au chorizo et au poivron (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 219,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 35
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 50
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez chorizo et poivron.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 346.5,
+  "proteines": 24.88,
+  "glucides": 3.3,
+  "lipides": 25.53,
+  "sucres": 2.91,
+  "fibres": 0.85,
+  "satures": 7.17,
+  "sel": 2.48,
+  "fer": 3.25,
+  "calcium": 122.14,
+  "magnesium": 31.05,
+  "potassium": 479.7,
+  "zinc": 2.33,
+  "iode": 27.3,
+  "vitd": 2.7,
+  "vitc": 54.5,
+  "b12": 2.17,
+  "b9": 78.39,
+  "alcool": 0.0
+ }
+}

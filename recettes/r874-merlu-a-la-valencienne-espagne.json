@@ -1,0 +1,74 @@
+{
+ "id": "r874-merlu-a-la-valencienne-espagne",
+ "nom": "Merlu à la valencienne (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 401,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mijotez poivron, tomate et ail.",
+  "Cuisez le merlu dessus 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 340.03,
+  "proteines": 41.85,
+  "glucides": 8.57,
+  "lipides": 14.46,
+  "sucres": 6.48,
+  "fibres": 2.87,
+  "satures": 3.05,
+  "sel": 1.62,
+  "fer": 1.39,
+  "calcium": 111.55,
+  "magnesium": 75.58,
+  "potassium": 932.9,
+  "zinc": 1.3,
+  "iode": 79.8,
+  "vitd": 6.08,
+  "vitc": 125.3,
+  "b12": 3.04,
+  "b9": 98.44,
+  "alcool": 0.0
+ }
+}

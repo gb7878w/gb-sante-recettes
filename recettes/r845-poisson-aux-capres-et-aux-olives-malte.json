@@ -1,0 +1,74 @@
+{
+ "id": "r845-poisson-aux-capres-et-aux-olives-malte",
+ "nom": "Poisson aux câpres et aux olives (Malte)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 348,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 190
+  },
+  {
+   "ciqual": "11040",
+   "nom": "Câpres",
+   "g": 10
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mijotez tomate, câpres et olives.",
+  "Cuisez le poisson dessus 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 314.41,
+  "proteines": 43.46,
+  "glucides": 4.66,
+  "lipides": 12.66,
+  "sucres": 3.4,
+  "fibres": 2.8,
+  "satures": 1.9,
+  "sel": 1.2,
+  "fer": 2.64,
+  "calcium": 63.12,
+  "magnesium": 70.76,
+  "potassium": 824.1,
+  "zinc": 1.11,
+  "iode": 247.0,
+  "vitd": 2.28,
+  "vitc": 21.89,
+  "b12": 2.91,
+  "b9": 37.5,
+  "alcool": 0.0
+ }
+}

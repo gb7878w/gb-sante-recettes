@@ -1,0 +1,81 @@
+{
+ "id": "r880-morue-a-la-portugaise-bacalhau-aux-oeufs-portuga",
+ "nom": "Morue à la portugaise (bacalhau) aux œufs (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 317,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26024",
+   "nom": "Morue salée dessalée cuite",
+   "g": 180
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez morue émiettée et oignon.",
+  "Ajoutez œufs, olives et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 426.37,
+  "proteines": 57.67,
+  "glucides": 2.27,
+  "lipides": 20.28,
+  "sucres": 0.31,
+  "fibres": 1.88,
+  "satures": 3.88,
+  "sel": 10.98,
+  "fer": 3.63,
+  "calcium": 202.88,
+  "magnesium": 39.06,
+  "potassium": 376.97,
+  "zinc": 2.4,
+  "iode": 150.0,
+  "vitd": 3.75,
+  "vitc": 7.7,
+  "b12": 5.12,
+  "b9": 78.76,
+  "alcool": 0.0
+ }
+}

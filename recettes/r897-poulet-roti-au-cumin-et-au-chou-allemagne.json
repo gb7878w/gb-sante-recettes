@@ -1,0 +1,70 @@
+{
+ "id": "r897-poulet-roti-au-cumin-et-au-chou-allemagne",
+ "nom": "Poulet rôti au cumin et au chou (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 35 minutes.",
+  "Braisez le chou au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 384.67,
+  "proteines": 52.02,
+  "glucides": 12.33,
+  "lipides": 11.67,
+  "sucres": 10.61,
+  "fibres": 8.96,
+  "satures": 5.99,
+  "sel": 0.31,
+  "fer": 2.7,
+  "calcium": 175.06,
+  "magnesium": 94.18,
+  "potassium": 1342.06,
+  "zinc": 1.66,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 24.64,
+  "b12": 0.3,
+  "b9": 189.72,
+  "alcool": 0.0
+ }
+}

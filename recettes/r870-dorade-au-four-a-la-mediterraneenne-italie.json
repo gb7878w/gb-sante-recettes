@@ -1,0 +1,75 @@
+{
+ "id": "r870-dorade-au-four-a-la-mediterraneenne-italie",
+ "nom": "Dorade au four à la méditerranéenne (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 326,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 200
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Enfournez la dorade avec tomates et olives 20 minutes.",
+  "Parsemez de basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 428.65,
+  "proteines": 48.82,
+  "glucides": 5.7,
+  "lipides": 22.39,
+  "sucres": 4.81,
+  "fibres": 2.23,
+  "satures": 4.13,
+  "sel": 0.63,
+  "fer": 2.2,
+  "calcium": 52.79,
+  "magnesium": 73.32,
+  "potassium": 1181.7,
+  "zinc": 1.19,
+  "iode": 0.0,
+  "vitd": 11.42,
+  "vitc": 23.41,
+  "b12": 4.74,
+  "b9": 54.04,
+  "alcool": 0.0
+ }
+}

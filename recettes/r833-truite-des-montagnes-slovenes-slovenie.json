@@ -1,0 +1,75 @@
+{
+ "id": "r833-truite-des-montagnes-slovenes-slovenie",
+ "nom": "Truite des montagnes slovènes (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 342,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite au beurre.",
+  "Servez avec haricots verts, citron et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 363.13,
+  "proteines": 39.39,
+  "glucides": 5.45,
+  "lipides": 18.94,
+  "sucres": 3.94,
+  "fibres": 4.97,
+  "satures": 8.02,
+  "sel": 0.25,
+  "fer": 1.61,
+  "calcium": 190.73,
+  "magnesium": 89.53,
+  "potassium": 1092.64,
+  "zinc": 1.4,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 17.35,
+  "b12": 7.77,
+  "b9": 100.88,
+  "alcool": 0.0
+ }
+}

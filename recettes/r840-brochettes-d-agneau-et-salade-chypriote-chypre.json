@@ -1,0 +1,74 @@
+{
+ "id": "r840-brochettes-d-agneau-et-salade-chypriote-chypre",
+ "nom": "Brochettes d'agneau et salade chypriote (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Grillez les brochettes d'agneau.",
+  "Servez avec la salade, la feta et les olives."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 433.37,
+  "proteines": 47.69,
+  "glucides": 7.11,
+  "lipides": 22.69,
+  "sucres": 5.03,
+  "fibres": 2.73,
+  "satures": 11.02,
+  "sel": 1.47,
+  "fer": 3.74,
+  "calcium": 160.06,
+  "magnesium": 75.25,
+  "potassium": 889.75,
+  "zinc": 6.71,
+  "iode": 39.8,
+  "vitd": 0.0,
+  "vitc": 27.81,
+  "b12": 3.03,
+  "b9": 61.56,
+  "alcool": 0.0
+ }
+}

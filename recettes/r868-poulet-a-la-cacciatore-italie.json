@@ -1,0 +1,72 @@
+{
+ "id": "r868-poulet-a-la-cacciatore-italie",
+ "nom": "Poulet à la cacciatore (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 341,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "11040",
+   "nom": "Câpres",
+   "g": 8
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez tomate, olives et câpres, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 356.97,
+  "proteines": 49.29,
+  "glucides": 5.67,
+  "lipides": 13.84,
+  "sucres": 4.23,
+  "fibres": 2.72,
+  "satures": 2.47,
+  "sel": 0.81,
+  "fer": 2.29,
+  "calcium": 32.92,
+  "magnesium": 74.74,
+  "potassium": 1025.05,
+  "zinc": 1.32,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 27.08,
+  "b12": 0.29,
+  "b9": 37.37,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r834-jota-soupe-de-choucroute-et-saucisse-slovenie",
+ "nom": "Jota, soupe de choucroute et saucisse (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 393,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 200
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 100
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 40
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Émincez la saucisse.",
+  "Mijotez tous les ingrédients 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 526.73,
+  "proteines": 29.12,
+  "glucides": 7.4,
+  "lipides": 38.66,
+  "sucres": 1.82,
+  "fibres": 14.77,
+  "satures": 13.73,
+  "sel": 5.51,
+  "fer": 2.21,
+  "calcium": 155.83,
+  "magnesium": 39.3,
+  "potassium": 628.9,
+  "zinc": 1.99,
+  "iode": 14.0,
+  "vitd": 0.26,
+  "vitc": 34.4,
+  "b12": 0.48,
+  "b9": 53.02,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r829-truite-a-la-luxembourgeoise-sauce-au-vin-luxembo",
+ "nom": "Truite à la luxembourgeoise, sauce au vin (Luxembourg)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 404,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 40
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Pochez la truite au vin.",
+  "Nappez de crème, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 375.33,
+  "proteines": 42.95,
+  "glucides": 3.48,
+  "lipides": 17.24,
+  "sucres": 1.79,
+  "fibres": 5.42,
+  "satures": 6.53,
+  "sel": 0.35,
+  "fer": 2.87,
+  "calcium": 516.41,
+  "magnesium": 101.21,
+  "potassium": 1013.14,
+  "zinc": 2.22,
+  "iode": 16.15,
+  "vitd": 25.5,
+  "vitc": 12.01,
+  "b12": 7.75,
+  "b9": 118.11,
+  "alcool": 3.1
+ }
+}

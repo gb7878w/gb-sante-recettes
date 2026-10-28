@@ -1,0 +1,64 @@
+{
+ "id": "r813-oeuf-dur-aux-olives-chypre",
+ "nom": "Œuf dur aux olives (Chypre)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 145,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec olives et feta."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 230.31,
+  "proteines": 18.08,
+  "glucides": 0.7,
+  "lipides": 16.92,
+  "sucres": 0.57,
+  "fibres": 0.93,
+  "satures": 6.48,
+  "sel": 1.06,
+  "fer": 3.18,
+  "calcium": 101.1,
+  "magnesium": 20.2,
+  "potassium": 148.05,
+  "zinc": 1.66,
+  "iode": 70.67,
+  "vitd": 1.23,
+  "vitc": 0.0,
+  "b12": 1.33,
+  "b9": 52.18,
+  "alcool": 0.0
+ }
+}

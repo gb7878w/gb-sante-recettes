@@ -1,0 +1,72 @@
+{
+ "id": "r859-poulet-basquaise-france",
+ "nom": "Poulet basquaise (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 458,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez poivrons, tomate et oignon, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 380.42,
+  "proteines": 50.5,
+  "glucides": 12.78,
+  "lipides": 12.35,
+  "sucres": 8.34,
+  "fibres": 4.59,
+  "satures": 2.28,
+  "sel": 1.93,
+  "fer": 1.78,
+  "calcium": 57.02,
+  "magnesium": 87.11,
+  "potassium": 1208.0,
+  "zinc": 1.5,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 182.92,
+  "b12": 0.29,
+  "b9": 84.98,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r853-porc-roti-a-l-ail-et-au-chou-ukraine",
+ "nom": "Porc rôti à l'ail et au chou (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc à l'ail 40 minutes.",
+  "Braisez le chou."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 408.95,
+  "proteines": 45.46,
+  "glucides": 12.38,
+  "lipides": 17.75,
+  "sucres": 10.6,
+  "fibres": 8.98,
+  "satures": 8.07,
+  "sel": 0.29,
+  "fer": 2.54,
+  "calcium": 160.64,
+  "magnesium": 67.78,
+  "potassium": 1173.29,
+  "zinc": 3.6,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 22.2,
+  "b12": 1.64,
+  "b9": 175.22,
+  "alcool": 0.0
+ }
+}

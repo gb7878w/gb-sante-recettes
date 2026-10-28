@@ -1,0 +1,70 @@
+{
+ "id": "r830-poulet-a-la-moutarde-et-aux-champignons-luxembou",
+ "nom": "Poulet à la moutarde et aux champignons (Luxembourg)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez champignons, moutarde et crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 343.0,
+  "proteines": 53.97,
+  "glucides": 6.88,
+  "lipides": 10.26,
+  "sucres": 5.6,
+  "fibres": 1.5,
+  "satures": 4.87,
+  "sel": 1.06,
+  "fer": 1.27,
+  "calcium": 67.19,
+  "magnesium": 83.38,
+  "potassium": 1315.8,
+  "zinc": 1.97,
+  "iode": 1.8,
+  "vitd": 0.45,
+  "vitc": 6.95,
+  "b12": 0.29,
+  "b9": 67.78,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "id": "r892-rouladen-roules-de-boeuf-aux-cornichons-allemagn",
+ "nom": "Rouladen, roulés de bœuf aux cornichons (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 40
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 30
+  },
+  {
+   "ciqual": "20095",
+   "nom": "Chou rouge cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Garnissez les tranches de bœuf de moutarde, cornichon, oignon et bacon.",
+  "Roulez et mijotez 45 minutes, servez avec le chou rouge."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 384.15,
+  "proteines": 50.19,
+  "glucides": 12.14,
+  "lipides": 13.07,
+  "sucres": 9.42,
+  "fibres": 5.28,
+  "satures": 7.08,
+  "sel": 2.49,
+  "fer": 1.59,
+  "calcium": 257.35,
+  "magnesium": 52.66,
+  "potassium": 788.82,
+  "zinc": 1.28,
+  "iode": 12.89,
+  "vitd": 0.11,
+  "vitc": 54.22,
+  "b12": 0.53,
+  "b9": 84.28,
+  "alcool": 0.0
+ }
+}

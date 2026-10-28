@@ -1,0 +1,62 @@
+{
+ "id": "r816-oeuf-dur-et-chou-marine-ukraine",
+ "nom": "Œuf dur et chou mariné (Ukraine)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 60
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec la choucroute et le jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 226.78,
+  "proteines": 21.56,
+  "glucides": 1.06,
+  "lipides": 14.41,
+  "sucres": 0.97,
+  "fibres": 2.75,
+  "satures": 4.37,
+  "sel": 1.69,
+  "fer": 2.07,
+  "calcium": 73.9,
+  "magnesium": 19.48,
+  "potassium": 289.2,
+  "zinc": 1.49,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 10.32,
+  "b12": 1.24,
+  "b9": 59.86,
+  "alcool": 0.0
+ }
+}

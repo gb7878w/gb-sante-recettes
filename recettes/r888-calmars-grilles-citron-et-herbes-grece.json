@@ -1,0 +1,75 @@
+{
+ "id": "r888-calmars-grilles-citron-et-herbes-grece",
+ "nom": "Calmars grillés, citron et herbes (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 324,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Grillez les calmars.",
+  "Servez avec tomate, citron et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 412.78,
+  "proteines": 65.65,
+  "glucides": 7.17,
+  "lipides": 12.82,
+  "sucres": 2.92,
+  "fibres": 1.17,
+  "satures": 2.0,
+  "sel": 3.74,
+  "fer": 11.91,
+  "calcium": 376.62,
+  "magnesium": 129.37,
+  "potassium": 1521.92,
+  "zinc": 7.06,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 44.88,
+  "b12": 10.8,
+  "b9": 69.7,
+  "alcool": 0.0
+ }
+}

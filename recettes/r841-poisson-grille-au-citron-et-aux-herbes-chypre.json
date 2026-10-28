@@ -1,0 +1,74 @@
+{
+ "id": "r841-poisson-grille-au-citron-et-aux-herbes-chypre",
+ "nom": "Poisson grillé au citron et aux herbes (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 319,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 190
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Grillez la dorade.",
+  "Servez avec citron, huile et tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 397.36,
+  "proteines": 45.49,
+  "glucides": 3.96,
+  "lipides": 21.23,
+  "sucres": 2.96,
+  "fibres": 1.17,
+  "satures": 3.99,
+  "sel": 0.37,
+  "fer": 0.76,
+  "calcium": 41.87,
+  "magnesium": 64.87,
+  "potassium": 1052.92,
+  "zinc": 1.07,
+  "iode": 0.0,
+  "vitd": 10.85,
+  "vitc": 31.25,
+  "b12": 4.5,
+  "b9": 55.8,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r848-omelette-a-la-ricotta-et-aux-herbes-malte",
+ "nom": "Omelette à la ricotta et aux herbes (Malte)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 279,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Battez œufs, ricotta et basilic.",
+  "Cuisez en omelette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 447.68,
+  "proteines": 31.26,
+  "glucides": 3.79,
+  "lipides": 34.21,
+  "sucres": 2.32,
+  "fibres": 0.1,
+  "satures": 12.4,
+  "sel": 0.83,
+  "fer": 4.03,
+  "calcium": 405.31,
+  "magnesium": 31.62,
+  "potassium": 347.45,
+  "zinc": 2.87,
+  "iode": 54.3,
+  "vitd": 3.73,
+  "vitc": 0.43,
+  "b12": 3.03,
+  "b9": 76.24,
+  "alcool": 0.0
+ }
+}

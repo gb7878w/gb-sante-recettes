@@ -1,0 +1,69 @@
+{
+ "id": "r878-poulpe-au-paprika-espagne",
+ "nom": "Poulpe au paprika (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 362,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10079",
+   "nom": "Poulpe cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Cuisez le poulpe 30 minutes.",
+  "Servez avec huile et paprika, chou-fleur à côté."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.73,
+  "proteines": 62.28,
+  "glucides": 11.58,
+  "lipides": 15.1,
+  "sucres": 2.59,
+  "fibres": 3.7,
+  "satures": 2.61,
+  "sel": 2.33,
+  "fer": 19.97,
+  "calcium": 245.38,
+  "magnesium": 142.91,
+  "potassium": 1662.6,
+  "zinc": 7.14,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 30.57,
+  "b12": 72.0,
+  "b9": 167.18,
+  "alcool": 0.0
+ }
+}

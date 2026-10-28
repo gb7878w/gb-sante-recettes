@@ -1,0 +1,75 @@
+{
+ "id": "r883-porc-aux-moules-portugal",
+ "nom": "Porc aux moules (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 357,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "viande",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Dorez le porc en dés.",
+  "Ajoutez ail, vin et moules, couvrez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 443.77,
+  "proteines": 66.03,
+  "glucides": 12.15,
+  "lipides": 12.73,
+  "sucres": 0.12,
+  "fibres": 0.35,
+  "satures": 3.84,
+  "sel": 1.78,
+  "fer": 9.61,
+  "calcium": 138.7,
+  "magnesium": 167.09,
+  "potassium": 809.91,
+  "zinc": 8.13,
+  "iode": 212.0,
+  "vitd": 0.0,
+  "vitc": 18.82,
+  "b12": 36.42,
+  "b9": 102.14,
+  "alcool": 2.33
+ }
+}

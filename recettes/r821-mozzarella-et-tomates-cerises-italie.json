@@ -1,0 +1,69 @@
+{
+ "id": "r821-mozzarella-et-tomates-cerises-italie",
+ "nom": "Mozzarella et tomates cerises (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 192,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 60
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mêlez mozzarella, tomates et basilic.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 188.56,
+  "proteines": 14.99,
+  "glucides": 6.94,
+  "lipides": 10.65,
+  "sucres": 6.21,
+  "fibres": 1.03,
+  "satures": 7.04,
+  "sel": 0.42,
+  "fer": 0.74,
+  "calcium": 404.74,
+  "magnesium": 28.18,
+  "potassium": 387.5,
+  "zinc": 2.16,
+  "iode": 27.52,
+  "vitd": 0.24,
+  "vitc": 17.73,
+  "b12": 1.57,
+  "b9": 31.64,
+  "alcool": 0.0
+ }
+}

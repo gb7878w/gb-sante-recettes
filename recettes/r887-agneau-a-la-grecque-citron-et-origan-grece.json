@@ -1,0 +1,73 @@
+{
+ "id": "r887-agneau-a-la-grecque-citron-et-origan-grece",
+ "nom": "Agneau à la grecque, citron et origan (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 325,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 2
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau 35 minutes.",
+  "Ajoutez les courgettes en fin de cuisson."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 358.19,
+  "proteines": 41.78,
+  "glucides": 2.86,
+  "lipides": 18.89,
+  "sucres": 2.29,
+  "fibres": 3.1,
+  "satures": 5.34,
+  "sel": 0.44,
+  "fer": 3.34,
+  "calcium": 95.3,
+  "magnesium": 86.09,
+  "potassium": 854.7,
+  "zinc": 6.45,
+  "iode": 7.5,
+  "vitd": 0.0,
+  "vitc": 11.15,
+  "b12": 2.82,
+  "b9": 83.7,
+  "alcool": 0.0
+ }
+}

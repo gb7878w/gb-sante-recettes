@@ -1,0 +1,64 @@
+{
+ "id": "r822-anchois-et-oeuf-dur-espagne",
+ "nom": "Anchois et œuf dur (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 180,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26187",
+   "nom": "Anchois mariné",
+   "g": 20
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec anchois et tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 191.45,
+  "proteines": 20.29,
+  "glucides": 3.92,
+  "lipides": 10.13,
+  "sucres": 2.97,
+  "fibres": 0.6,
+  "satures": 3.01,
+  "sel": 1.46,
+  "fer": 2.64,
+  "calcium": 72.4,
+  "magnesium": 41.3,
+  "potassium": 328.8,
+  "zinc": 1.88,
+  "iode": 56.27,
+  "vitd": 1.71,
+  "vitc": 10.9,
+  "b12": 4.28,
+  "b9": 64.6,
+  "alcool": 0.0
+ }
+}

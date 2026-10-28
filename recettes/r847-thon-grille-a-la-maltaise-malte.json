@@ -1,0 +1,74 @@
+{
+ "id": "r847-thon-grille-a-la-maltaise-malte",
+ "nom": "Thon grillé à la maltaise (Malte)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 315,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 170
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Grillez le thon.",
+  "Servez avec tomate, olives et origan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 316.27,
+  "proteines": 46.55,
+  "glucides": 4.84,
+  "lipides": 11.34,
+  "sucres": 3.44,
+  "fibres": 2.98,
+  "satures": 1.71,
+  "sel": 1.52,
+  "fer": 3.51,
+  "calcium": 62.8,
+  "magnesium": 57.0,
+  "potassium": 631.95,
+  "zinc": 0.94,
+  "iode": 27.2,
+  "vitd": 8.64,
+  "vitc": 19.61,
+  "b12": 4.3,
+  "b9": 48.65,
+  "alcool": 0.0
+ }
+}

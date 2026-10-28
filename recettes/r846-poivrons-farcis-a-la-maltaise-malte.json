@@ -1,0 +1,74 @@
+{
+ "id": "r846-poivrons-farcis-a-la-maltaise-malte",
+ "nom": "Poivrons farcis à la maltaise (Malte)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 434,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 200
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Farcissez les poivrons de viande et de ricotta.",
+  "Mijotez dans le coulis 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 359.32,
+  "proteines": 39.86,
+  "glucides": 15.7,
+  "lipides": 14.05,
+  "sucres": 11.52,
+  "fibres": 5.13,
+  "satures": 6.93,
+  "sel": 3.16,
+  "fer": 5.28,
+  "calcium": 193.42,
+  "magnesium": 59.58,
+  "potassium": 829.02,
+  "zinc": 9.15,
+  "iode": 15.13,
+  "vitd": 0.08,
+  "vitc": 225.08,
+  "b12": 3.35,
+  "b9": 87.26,
+  "alcool": 0.0
+ }
+}

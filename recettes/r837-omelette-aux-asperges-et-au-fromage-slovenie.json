@@ -1,0 +1,71 @@
+{
+ "id": "r837-omelette-aux-asperges-et-au-fromage-slovenie",
+ "nom": "Omelette aux asperges et au fromage (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 376,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez les asperges.",
+  "Ajoutez œufs battus et fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 460.46,
+  "proteines": 36.64,
+  "glucides": 3.17,
+  "lipides": 32.6,
+  "sucres": 2.51,
+  "fibres": 3.3,
+  "satures": 13.82,
+  "sel": 0.82,
+  "fer": 4.98,
+  "calcium": 472.19,
+  "magnesium": 47.51,
+  "potassium": 615.51,
+  "zinc": 3.98,
+  "iode": 46.42,
+  "vitd": 3.64,
+  "vitc": 7.1,
+  "b12": 3.37,
+  "b9": 179.65,
+  "alcool": 0.0
+ }
+}

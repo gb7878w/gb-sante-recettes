@@ -1,0 +1,75 @@
+{
+ "id": "r832-roti-de-porc-au-cumin-et-aux-oignons-luxembourg",
+ "nom": "Rôti de porc au cumin et aux oignons (Luxembourg)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 50
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc aux oignons 40 minutes.",
+  "Braisez le chou."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 428.52,
+  "proteines": 45.53,
+  "glucides": 13.21,
+  "lipides": 19.53,
+  "sucres": 8.61,
+  "fibres": 8.51,
+  "satures": 9.06,
+  "sel": 0.28,
+  "fer": 3.74,
+  "calcium": 156.18,
+  "magnesium": 71.54,
+  "potassium": 1143.46,
+  "zinc": 3.64,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 18.95,
+  "b12": 1.65,
+  "b9": 146.14,
+  "alcool": 0.0
+ }
+}

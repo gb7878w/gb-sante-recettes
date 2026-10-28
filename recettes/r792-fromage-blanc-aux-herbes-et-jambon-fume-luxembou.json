@@ -1,0 +1,70 @@
+{
+ "id": "r792-fromage-blanc-aux-herbes-et-jambon-fume-luxembou",
+ "nom": "Fromage blanc aux herbes et jambon fumé (Luxembourg)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 308,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mêlez le fromage blanc et la ciboulette.",
+  "Servez avec le jambon fumé et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 230.39,
+  "proteines": 33.2,
+  "glucides": 8.93,
+  "lipides": 6.46,
+  "sucres": 8.78,
+  "fibres": 0.17,
+  "satures": 2.06,
+  "sel": 1.37,
+  "fer": 1.31,
+  "calcium": 298.33,
+  "magnesium": 32.81,
+  "potassium": 541.25,
+  "zinc": 1.69,
+  "iode": 48.2,
+  "vitd": 0.62,
+  "vitc": 1.19,
+  "b12": 1.41,
+  "b9": 74.55,
+  "alcool": 0.0
+ }
+}

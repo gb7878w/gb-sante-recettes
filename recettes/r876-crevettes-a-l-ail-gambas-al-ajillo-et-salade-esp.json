@@ -1,0 +1,81 @@
+{
+ "id": "r876-crevettes-a-l-ail-gambas-al-ajillo-et-salade-esp",
+ "nom": "Crevettes à l'ail (gambas al ajillo) et salade (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 180
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 14
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail dans l'huile.",
+  "Ajoutez crevettes et paprika, servez sur la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 355.18,
+  "proteines": 42.01,
+  "glucides": 8.66,
+  "lipides": 16.4,
+  "sucres": 3.86,
+  "fibres": 1.6,
+  "satures": 2.75,
+  "sel": 2.54,
+  "fer": 4.72,
+  "calcium": 593.72,
+  "magnesium": 134.26,
+  "potassium": 781.7,
+  "zinc": 3.67,
+  "iode": 9.3,
+  "vitd": 0.0,
+  "vitc": 10.94,
+  "b12": 3.27,
+  "b9": 82.08,
+  "alcool": 0.0
+ }
+}

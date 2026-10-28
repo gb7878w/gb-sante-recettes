@@ -1,0 +1,70 @@
+{
+ "id": "r805-oeufs-brouilles-a-l-allemande-jambon-et-ciboulet",
+ "nom": "Œufs brouillés à l'allemande, jambon et ciboulette (Allemagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 177,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs au beurre.",
+  "Ajoutez jambon et ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 258.13,
+  "proteines": 24.45,
+  "glucides": 1.1,
+  "lipides": 17.35,
+  "sucres": 0.97,
+  "fibres": 0.16,
+  "satures": 6.09,
+  "sel": 1.19,
+  "fer": 2.48,
+  "calcium": 107.34,
+  "magnesium": 15.1,
+  "potassium": 326.78,
+  "zinc": 1.33,
+  "iode": 27.43,
+  "vitd": 2.49,
+  "vitc": 1.19,
+  "b12": 1.89,
+  "b9": 46.67,
+  "alcool": 0.0
+ }
+}

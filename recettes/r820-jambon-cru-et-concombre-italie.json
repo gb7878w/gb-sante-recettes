@@ -1,0 +1,63 @@
+{
+ "id": "r820-jambon-cru-et-concombre-italie",
+ "nom": "Jambon cru et concombre (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Enroulez le jambon cru autour du concombre.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 144.44,
+  "proteines": 16.29,
+  "glucides": 4.99,
+  "lipides": 6.29,
+  "sucres": 4.12,
+  "fibres": 0.6,
+  "satures": 2.23,
+  "sel": 2.29,
+  "fer": 0.51,
+  "calcium": 106.0,
+  "magnesium": 20.92,
+  "potassium": 243.4,
+  "zinc": 0.39,
+  "iode": 6.54,
+  "vitd": 0.0,
+  "vitc": 13.45,
+  "b12": 0.24,
+  "b9": 26.7,
+  "alcool": 0.0
+ }
+}

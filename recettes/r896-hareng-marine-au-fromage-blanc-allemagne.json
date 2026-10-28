@@ -1,0 +1,78 @@
+{
+ "id": "r896-hareng-marine-au-fromage-blanc-allemagne",
+ "nom": "Hareng mariné au fromage blanc (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 130
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 40
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 25
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mêlez fromage blanc, pomme et oignon.",
+  "Servez avec hareng et œuf."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 374.55,
+  "proteines": 40.89,
+  "glucides": 11.19,
+  "lipides": 17.76,
+  "sucres": 8.74,
+  "fibres": 1.21,
+  "satures": 4.37,
+  "sel": 5.22,
+  "fer": 2.11,
+  "calcium": 269.34,
+  "magnesium": 76.98,
+  "potassium": 817.9,
+  "zinc": 1.99,
+  "iode": 39.9,
+  "vitd": 23.63,
+  "vitc": 3.02,
+  "b12": 18.51,
+  "b9": 72.69,
+  "alcool": 0.0
+ }
+}

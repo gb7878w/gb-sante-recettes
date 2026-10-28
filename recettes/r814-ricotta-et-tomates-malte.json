@@ -1,0 +1,63 @@
+{
+ "id": "r814-ricotta-et-tomates-malte",
+ "nom": "Ricotta et tomates (Malte)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 182,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 100
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez la ricotta avec les tomates et le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 185.96,
+  "proteines": 9.9,
+  "glucides": 8.55,
+  "lipides": 11.91,
+  "sucres": 6.1,
+  "fibres": 1.03,
+  "satures": 8.08,
+  "sel": 0.3,
+  "fer": 0.78,
+  "calcium": 324.74,
+  "magnesium": 21.08,
+  "potassium": 374.9,
+  "zinc": 1.32,
+  "iode": 18.0,
+  "vitd": 0.2,
+  "vitc": 17.73,
+  "b12": 0.34,
+  "b9": 27.44,
+  "alcool": 0.0
+ }
+}

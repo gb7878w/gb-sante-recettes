@@ -1,0 +1,71 @@
+{
+ "id": "r795-omelette-a-la-feta-et-a-la-tomate-chypre",
+ "nom": "Omelette à la feta et à la tomate (Chypre)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 272,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Poêlez la tomate.",
+  "Ajoutez œufs, feta et menthe."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 317.45,
+  "proteines": 23.12,
+  "glucides": 4.31,
+  "lipides": 22.52,
+  "sucres": 3.26,
+  "fibres": 1.15,
+  "satures": 10.16,
+  "sel": 1.31,
+  "fer": 2.82,
+  "calcium": 199.06,
+  "magnesium": 27.53,
+  "potassium": 420.88,
+  "zinc": 1.9,
+  "iode": 59.3,
+  "vitd": 2.44,
+  "vitc": 16.75,
+  "b12": 2.1,
+  "b9": 67.46,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r835-poulet-farci-au-jambon-sec-et-au-fromage-sloveni",
+ "nom": "Poulet farci au jambon sec et au fromage (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 355,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 30
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de jambon sec et de fromage.",
+  "Enfournez 25 minutes, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 415.9,
+  "proteines": 66.36,
+  "glucides": 0.23,
+  "lipides": 14.89,
+  "sucres": 0.11,
+  "fibres": 5.25,
+  "satures": 7.15,
+  "sel": 1.95,
+  "fer": 2.91,
+  "calcium": 611.8,
+  "magnesium": 110.08,
+  "potassium": 924.35,
+  "zinc": 3.37,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 2.15,
+  "b12": 0.78,
+  "b9": 116.72,
+  "alcool": 0.0
+ }
+}

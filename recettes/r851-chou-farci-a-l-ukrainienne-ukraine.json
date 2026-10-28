@@ -1,0 +1,74 @@
+{
+ "id": "r851-chou-farci-a-l-ukrainienne-ukraine",
+ "nom": "Chou farci à l'ukrainienne (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 40
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Roulez la viande dans les feuilles de chou blanchies.",
+  "Mijotez dans le coulis 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 444.53,
+  "proteines": 56.0,
+  "glucides": 20.73,
+  "lipides": 12.71,
+  "sucres": 17.23,
+  "fibres": 10.83,
+  "satures": 5.53,
+  "sel": 1.12,
+  "fer": 5.25,
+  "calcium": 240.61,
+  "magnesium": 75.46,
+  "potassium": 1309.8,
+  "zinc": 10.49,
+  "iode": 14.78,
+  "vitd": 0.0,
+  "vitc": 22.2,
+  "b12": 4.11,
+  "b9": 198.2,
+  "alcool": 0.0
+ }
+}

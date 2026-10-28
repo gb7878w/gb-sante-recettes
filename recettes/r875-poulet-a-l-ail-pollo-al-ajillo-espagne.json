@@ -1,0 +1,77 @@
+{
+ "id": "r875-poulet-a-l-ail-pollo-al-ajillo-espagne",
+ "nom": "Poulet à l'ail (pollo al ajillo) (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 362,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 8
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet avec l'ail.",
+  "Ajoutez vin et persil, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 403.72,
+  "proteines": 54.93,
+  "glucides": 6.63,
+  "lipides": 14.27,
+  "sucres": 2.44,
+  "fibres": 3.94,
+  "satures": 2.83,
+  "sel": 0.31,
+  "fer": 1.83,
+  "calcium": 73.25,
+  "magnesium": 99.07,
+  "potassium": 1305.61,
+  "zinc": 2.04,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 40.42,
+  "b12": 0.29,
+  "b9": 145.28,
+  "alcool": 2.33
+ }
+}

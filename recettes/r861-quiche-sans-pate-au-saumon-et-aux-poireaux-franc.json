@@ -1,0 +1,78 @@
+{
+ "id": "r861-quiche-sans-pate-au-saumon-et-aux-poireaux-franc",
+ "nom": "Quiche sans pâte au saumon et aux poireaux (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 90
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Disposez poireaux cuits et saumon.",
+  "Nappez d'œufs, crème et gruyère, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 526.82,
+  "proteines": 44.12,
+  "glucides": 5.64,
+  "lipides": 35.61,
+  "sucres": 4.54,
+  "fibres": 3.84,
+  "satures": 13.17,
+  "sel": 0.72,
+  "fer": 3.04,
+  "calcium": 393.23,
+  "magnesium": 60.52,
+  "potassium": 757.7,
+  "zinc": 2.69,
+  "iode": 27.96,
+  "vitd": 2.34,
+  "vitc": 4.07,
+  "b12": 4.55,
+  "b9": 87.15,
+  "alcool": 0.0
+ }
+}

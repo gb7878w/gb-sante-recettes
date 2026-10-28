@@ -1,0 +1,71 @@
+{
+ "id": "r798-ricotta-oeuf-dur-et-olives-malte",
+ "nom": "Ricotta, œuf dur et olives (Malte)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 310,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Coupez les œufs durs.",
+  "Disposez ricotta, œufs, olives et tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.12,
+  "proteines": 26.46,
+  "glucides": 8.74,
+  "lipides": 27.2,
+  "sucres": 6.15,
+  "fibres": 1.96,
+  "satures": 12.92,
+  "sel": 1.06,
+  "fer": 4.27,
+  "calcium": 441.86,
+  "magnesium": 38.4,
+  "potassium": 459.8,
+  "zinc": 2.92,
+  "iode": 76.27,
+  "vitd": 1.47,
+  "vitc": 13.08,
+  "b12": 1.63,
+  "b9": 73.36,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "id": "r796-yaourt-grec-concombre-et-menthe-chypre",
+ "nom": "Yaourt grec, concombre et menthe (Chypre)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 367,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 220
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mêlez yaourt, concombre et menthe.",
+  "Parsemez de noix, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 282.27,
+  "proteines": 17.87,
+  "glucides": 13.52,
+  "lipides": 16.64,
+  "sucres": 12.3,
+  "fibres": 3.19,
+  "satures": 5.45,
+  "sel": 0.42,
+  "fer": 1.88,
+  "calcium": 329.23,
+  "magnesium": 60.63,
+  "potassium": 612.28,
+  "zinc": 1.95,
+  "iode": 73.34,
+  "vitd": 1.96,
+  "vitc": 7.7,
+  "b12": 1.23,
+  "b9": 93.78,
+  "alcool": 0.0
+ }
+}

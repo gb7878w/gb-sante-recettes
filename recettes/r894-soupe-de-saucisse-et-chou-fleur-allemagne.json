@@ -1,0 +1,74 @@
+{
+ "id": "r894-soupe-de-saucisse-et-chou-fleur-allemagne",
+ "nom": "Soupe de saucisse et chou-fleur (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 480,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Mijotez légumes et saucisse 20 minutes.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.42,
+  "proteines": 33.38,
+  "glucides": 12.15,
+  "lipides": 25.97,
+  "sucres": 10.95,
+  "fibres": 5.43,
+  "satures": 9.81,
+  "sel": 3.16,
+  "fer": 1.78,
+  "calcium": 179.6,
+  "magnesium": 52.46,
+  "potassium": 1049.2,
+  "zinc": 2.32,
+  "iode": 22.32,
+  "vitd": 0.26,
+  "vitc": 20.42,
+  "b12": 0.74,
+  "b9": 208.1,
+  "alcool": 0.0
+ }
+}

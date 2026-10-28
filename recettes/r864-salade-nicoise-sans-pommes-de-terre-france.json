@@ -1,0 +1,87 @@
+{
+ "id": "r864-salade-nicoise-sans-pommes-de-terre-france",
+ "nom": "Salade niçoise sans pommes de terre (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 473,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 130
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "26187",
+   "nom": "Anchois mariné",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Disposez les légumes.",
+  "Ajoutez thon, œufs, olives, anchois et huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 449.97,
+  "proteines": 54.29,
+  "glucides": 7.86,
+  "lipides": 20.9,
+  "sucres": 5.93,
+  "fibres": 4.69,
+  "satures": 4.55,
+  "sel": 2.13,
+  "fer": 5.07,
+  "calcium": 126.2,
+  "magnesium": 88.4,
+  "potassium": 879.85,
+  "zinc": 2.47,
+  "iode": 76.27,
+  "vitd": 8.08,
+  "vitc": 20.49,
+  "b12": 6.04,
+  "b9": 129.09,
+  "alcool": 0.0
+ }
+}

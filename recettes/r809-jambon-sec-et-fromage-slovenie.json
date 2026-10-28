@@ -1,0 +1,62 @@
+{
+ "id": "r809-jambon-sec-et-fromage-slovenie",
+ "nom": "Jambon sec et fromage (Slovénie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 120,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 35
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez jambon et fromage, servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 203.64,
+  "proteines": 22.43,
+  "glucides": 2.6,
+  "lipides": 11.48,
+  "sucres": 2.46,
+  "fibres": 0.0,
+  "satures": 6.36,
+  "sel": 2.01,
+  "fer": 0.47,
+  "calcium": 325.15,
+  "magnesium": 16.89,
+  "potassium": 110.75,
+  "zinc": 1.39,
+  "iode": 11.59,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.74,
+  "b9": 22.75,
+  "alcool": 0.0
+ }
+}

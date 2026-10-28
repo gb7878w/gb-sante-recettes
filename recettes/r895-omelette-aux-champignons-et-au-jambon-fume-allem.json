@@ -1,0 +1,70 @@
+{
+ "id": "r895-omelette-aux-champignons-et-au-jambon-fume-allem",
+ "nom": "Omelette aux champignons et au jambon fumé (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 346,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons.",
+  "Ajoutez jambon et œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 395.46,
+  "proteines": 36.59,
+  "glucides": 4.53,
+  "lipides": 25.55,
+  "sucres": 3.72,
+  "fibres": 1.08,
+  "satures": 8.95,
+  "sel": 1.67,
+  "fer": 3.88,
+  "calcium": 158.02,
+  "magnesium": 31.52,
+  "potassium": 799.29,
+  "zinc": 2.42,
+  "iode": 41.0,
+  "vitd": 3.94,
+  "vitc": 3.09,
+  "b12": 2.77,
+  "b9": 99.28,
+  "alcool": 0.0
+ }
+}

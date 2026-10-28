@@ -1,0 +1,75 @@
+{
+ "id": "r862-roti-de-veau-aux-champignons-france",
+ "nom": "Rôti de veau aux champignons (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 374,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Rôtissez le veau 30 minutes.",
+  "Servez avec champignons et crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.84,
+  "proteines": 55.22,
+  "glucides": 9.02,
+  "lipides": 9.97,
+  "sucres": 6.13,
+  "fibres": 2.19,
+  "satures": 5.18,
+  "sel": 0.48,
+  "fer": 2.28,
+  "calcium": 78.94,
+  "magnesium": 69.63,
+  "potassium": 664.72,
+  "zinc": 5.96,
+  "iode": 11.1,
+  "vitd": 0.45,
+  "vitc": 13.31,
+  "b12": 3.2,
+  "b9": 59.15,
+  "alcool": 0.0
+ }
+}

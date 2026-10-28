@@ -1,0 +1,72 @@
+{
+ "id": "r844-lapin-a-la-maltaise-ail-et-vin-blanc-malte",
+ "nom": "Lapin à la maltaise, ail et vin blanc (Malte)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 312,
+ "tags": [
+  "lowcarb",
+  "Malte",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 40
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le lapin à l'ail.",
+  "Ajoutez vin et tomate, mijotez 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.3,
+  "proteines": 53.51,
+  "glucides": 5.95,
+  "lipides": 13.61,
+  "sucres": 2.92,
+  "fibres": 1.23,
+  "satures": 2.9,
+  "sel": 0.18,
+  "fer": 8.09,
+  "calcium": 38.88,
+  "magnesium": 60.32,
+  "potassium": 813.72,
+  "zinc": 3.92,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 16.3,
+  "b12": 10.42,
+  "b9": 27.34,
+  "alcool": 3.1
+ }
+}

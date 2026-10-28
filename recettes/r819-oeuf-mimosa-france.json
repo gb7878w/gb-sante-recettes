@@ -1,0 +1,71 @@
+{
+ "id": "r819-oeuf-mimosa-france",
+ "nom": "Œuf mimosa (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 156,
+ "tags": [
+  "lowcarb",
+  "France",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 4
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Écrasez les jaunes avec fromage blanc et moutarde.",
+  "Garnissez les blancs de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 174.1,
+  "proteines": 18.38,
+  "glucides": 2.37,
+  "lipides": 9.96,
+  "sucres": 2.21,
+  "fibres": 0.09,
+  "satures": 2.85,
+  "sel": 0.65,
+  "fer": 2.12,
+  "calcium": 106.51,
+  "magnesium": 23.0,
+  "potassium": 207.56,
+  "zinc": 1.64,
+  "iode": 58.95,
+  "vitd": 1.23,
+  "vitc": 3.55,
+  "b12": 1.38,
+  "b9": 60.98,
+  "alcool": 0.0
+ }
+}

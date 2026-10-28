@@ -1,0 +1,79 @@
+{
+ "id": "r836-boeuf-mijote-au-paprika-slovenie",
+ "nom": "Bœuf mijoté au paprika (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 65,
+ "portions": 1,
+ "poidsG": 364,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 60
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir bœuf et oignon.",
+  "Ajoutez paprika et coulis, mijotez 50 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 347.54,
+  "proteines": 40.37,
+  "glucides": 13.13,
+  "lipides": 13.51,
+  "sucres": 6.94,
+  "fibres": 4.52,
+  "satures": 2.88,
+  "sel": 0.62,
+  "fer": 1.03,
+  "calcium": 124.16,
+  "magnesium": 20.12,
+  "potassium": 296.4,
+  "zinc": 0.63,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 1.28,
+  "b12": 0.32,
+  "b9": 28.96,
+  "alcool": 0.0
+ }
+}

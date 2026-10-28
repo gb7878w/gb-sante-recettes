@@ -1,0 +1,62 @@
+{
+ "id": "r826-fromage-blanc-jambon-et-cornichon-allemagne",
+ "nom": "Fromage blanc, jambon et cornichon (Allemagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Servez le fromage blanc avec le jambon et le cornichon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 125.52,
+  "proteines": 20.08,
+  "glucides": 6.71,
+  "lipides": 1.36,
+  "sucres": 6.54,
+  "fibres": 0.51,
+  "satures": 0.52,
+  "sel": 1.47,
+  "fer": 0.32,
+  "calcium": 224.5,
+  "magnesium": 25.2,
+  "potassium": 395.2,
+  "zinc": 0.77,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.6,
+  "b9": 39.45,
+  "alcool": 0.0
+ }
+}

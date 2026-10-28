@@ -1,0 +1,70 @@
+{
+ "id": "r893-escalope-de-porc-a-la-moutarde-et-au-chou-allema",
+ "nom": "Escalope de porc à la moutarde et au chou (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez l'escalope moutardée.",
+  "Servez avec le chou braisé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 416.28,
+  "proteines": 45.27,
+  "glucides": 9.77,
+  "lipides": 20.2,
+  "sucres": 8.63,
+  "fibres": 7.0,
+  "satures": 9.1,
+  "sel": 0.9,
+  "fer": 2.55,
+  "calcium": 139.69,
+  "magnesium": 66.35,
+  "potassium": 1047.66,
+  "zinc": 3.56,
+  "iode": 0.43,
+  "vitd": 0.09,
+  "vitc": 17.79,
+  "b12": 1.65,
+  "b9": 140.19,
+  "alcool": 0.0
+ }
+}

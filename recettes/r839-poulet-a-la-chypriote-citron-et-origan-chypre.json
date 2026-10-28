@@ -1,0 +1,73 @@
+{
+ "id": "r839-poulet-a-la-chypriote-citron-et-origan-chypre",
+ "nom": "Poulet à la chypriote, citron et origan (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 342,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 20
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Marinez le poulet au citron et à l'origan.",
+  "Rôtissez 30 minutes avec les courgettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 349.67,
+  "proteines": 49.73,
+  "glucides": 2.94,
+  "lipides": 13.82,
+  "sucres": 2.33,
+  "fibres": 3.1,
+  "satures": 2.63,
+  "sel": 0.38,
+  "fer": 1.87,
+  "calcium": 70.67,
+  "magnesium": 99.63,
+  "potassium": 1114.2,
+  "zinc": 1.6,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 15.68,
+  "b12": 0.29,
+  "b9": 74.9,
+  "alcool": 0.0
+ }
+}

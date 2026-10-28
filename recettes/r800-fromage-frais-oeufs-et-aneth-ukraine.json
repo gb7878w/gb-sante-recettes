@@ -1,0 +1,70 @@
+{
+ "id": "r800-fromage-frais-oeufs-et-aneth-ukraine",
+ "nom": "Fromage frais, œufs et aneth (Ukraine)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 353,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et l'aneth.",
+  "Servez avec œufs durs et jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 293.25,
+  "proteines": 38.71,
+  "glucides": 9.11,
+  "lipides": 10.89,
+  "sucres": 8.92,
+  "fibres": 0.16,
+  "satures": 3.35,
+  "sel": 1.35,
+  "fer": 2.38,
+  "calcium": 323.16,
+  "magnesium": 40.64,
+  "potassium": 582.61,
+  "zinc": 2.43,
+  "iode": 75.59,
+  "vitd": 1.23,
+  "vitc": 2.1,
+  "b12": 2.02,
+  "b9": 99.88,
+  "alcool": 0.0
+ }
+}
