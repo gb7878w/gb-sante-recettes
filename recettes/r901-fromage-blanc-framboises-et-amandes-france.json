@@ -1,0 +1,72 @@
+{
+ "id": "r901-fromage-blanc-framboises-et-amandes-france",
+ "nom": "Fromage blanc, framboises et amandes (France)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 347,
+ "tags": [
+  "lowcarb",
+  "France",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13015",
+   "nom": "Framboises",
+   "g": 60
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc et framboises.",
+  "Parsemez d'amandes, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 283.89,
+  "proteines": 27.88,
+  "glucides": 13.48,
+  "lipides": 11.46,
+  "sucres": 12.59,
+  "fibres": 4.08,
+  "satures": 2.04,
+  "sel": 0.41,
+  "fer": 1.95,
+  "calcium": 358.15,
+  "magnesium": 78.94,
+  "potassium": 580.8,
+  "zinc": 2.34,
+  "iode": 50.22,
+  "vitd": 0.62,
+  "vitc": 11.22,
+  "b12": 1.49,
+  "b9": 114.26,
+  "alcool": 0.0
+ }
+}

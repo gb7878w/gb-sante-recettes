@@ -1,0 +1,64 @@
+{
+ "id": "r918-oeufs-durs-au-paprika-espagne",
+ "nom": "Œufs durs au paprika (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 126,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Saupoudrez les œufs de paprika.",
+  "Servez avec les olives."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 176.5,
+  "proteines": 15.2,
+  "glucides": 0.76,
+  "lipides": 12.19,
+  "sucres": 0.68,
+  "fibres": 1.28,
+  "satures": 3.14,
+  "sel": 0.61,
+  "fer": 3.38,
+  "calcium": 59.39,
+  "magnesium": 19.58,
+  "potassium": 157.65,
+  "zinc": 1.46,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 0.01,
+  "b12": 1.22,
+  "b9": 48.89,
+  "alcool": 0.0
+ }
+}

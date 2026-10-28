@@ -1,0 +1,68 @@
+{
+ "id": "r915-jambon-cru-parmesan-et-salade-italie",
+ "nom": "Jambon cru, parmesan et salade (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 155,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez jambon cru, parmesan et salade.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 195.78,
+  "proteines": 20.84,
+  "glucides": 2.99,
+  "lipides": 10.91,
+  "sucres": 2.75,
+  "fibres": 0.48,
+  "satures": 5.28,
+  "sel": 2.52,
+  "fer": 0.78,
+  "calcium": 259.64,
+  "magnesium": 19.28,
+  "potassium": 182.9,
+  "zinc": 0.96,
+  "iode": 20.23,
+  "vitd": 0.0,
+  "vitc": 9.92,
+  "b12": 0.64,
+  "b9": 34.2,
+  "alcool": 0.0
+ }
+}

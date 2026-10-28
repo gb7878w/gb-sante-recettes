@@ -1,0 +1,70 @@
+{
+ "id": "r1011-cerf-roti-et-chou-de-bruxelles-royaume-uni",
+ "nom": "Cerf rôti et chou de Bruxelles (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 372,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "14007",
+   "nom": "Cerf rôti",
+   "g": 160
+  },
+  {
+   "ciqual": "20309",
+   "nom": "Choux de Bruxelles cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Rôtissez le cerf 25 minutes.",
+  "Poêlez les choux de Bruxelles au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.04,
+  "proteines": 54.88,
+  "glucides": 11.11,
+  "lipides": 13.29,
+  "sucres": 8.28,
+  "fibres": 9.88,
+  "satures": 7.46,
+  "sel": 0.27,
+  "fer": 8.52,
+  "calcium": 91.08,
+  "magnesium": 79.81,
+  "potassium": 1371.0,
+  "zinc": 5.07,
+  "iode": 0.16,
+  "vitd": 0.11,
+  "vitc": 114.0,
+  "b12": 0.02,
+  "b9": 99.8,
+  "alcool": 0.0
+ }
+}

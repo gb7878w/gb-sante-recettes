@@ -1,0 +1,64 @@
+{
+ "id": "r921-fromage-de-brebis-et-noix-portugal",
+ "nom": "Fromage de brebis et noix (Portugal)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 125,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12827",
+   "nom": "Fromage de brebis",
+   "g": 35
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Servez le fromage avec les noix et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 243.9,
+  "proteines": 16.05,
+  "glucides": 3.8,
+  "lipides": 18.07,
+  "sucres": 3.41,
+  "fibres": 0.67,
+  "satures": 8.12,
+  "sel": 0.74,
+  "fer": 0.35,
+  "calcium": 367.4,
+  "magnesium": 23.76,
+  "potassium": 158.2,
+  "zinc": 0.66,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 0.08,
+  "b12": 0.74,
+  "b9": 31.2,
+  "alcool": 0.0
+ }
+}

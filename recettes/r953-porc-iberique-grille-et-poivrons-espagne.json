@@ -1,0 +1,67 @@
+{
+ "id": "r953-porc-iberique-grille-et-poivrons-espagne",
+ "nom": "Porc ibérique grillé et poivrons (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 320,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Grillez le porc.",
+  "Poêlez les poivrons à l'ail."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 390.42,
+  "proteines": 43.23,
+  "glucides": 7.0,
+  "lipides": 20.51,
+  "sucres": 5.48,
+  "fibres": 2.67,
+  "satures": 5.48,
+  "sel": 1.92,
+  "fer": 2.72,
+  "calcium": 49.35,
+  "magnesium": 58.51,
+  "potassium": 795.0,
+  "zinc": 3.41,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 163.5,
+  "b12": 1.63,
+  "b9": 51.52,
+  "alcool": 0.0
+ }
+}

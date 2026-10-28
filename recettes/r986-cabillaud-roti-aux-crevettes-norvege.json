@@ -1,0 +1,77 @@
+{
+ "id": "r986-cabillaud-roti-aux-crevettes-norvege",
+ "nom": "Cabillaud rôti aux crevettes (Norvège)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 403,
+ "tags": [
+  "lowcarb",
+  "Norvège",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 180
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Rôtissez le cabillaud.",
+  "Ajoutez crevettes au beurre, servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 344.11,
+  "proteines": 54.35,
+  "glucides": 6.42,
+  "lipides": 9.96,
+  "sucres": 3.87,
+  "fibres": 4.91,
+  "satures": 5.88,
+  "sel": 1.24,
+  "fer": 2.71,
+  "calcium": 261.46,
+  "magnesium": 129.56,
+  "potassium": 1099.23,
+  "zinc": 2.31,
+  "iode": 234.28,
+  "vitd": 2.27,
+  "vitc": 6.14,
+  "b12": 3.75,
+  "b9": 104.79,
+  "alcool": 0.0
+ }
+}

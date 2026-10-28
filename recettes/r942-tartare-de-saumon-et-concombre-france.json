@@ -1,0 +1,81 @@
+{
+ "id": "r942-tartare-de-saumon-et-concombre-france",
+ "nom": "Tartare de saumon et concombre (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 361,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez le saumon très frais en dés.",
+  "Assaisonnez, servez avec concombre et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 458.77,
+  "proteines": 43.88,
+  "glucides": 5.87,
+  "lipides": 28.15,
+  "sucres": 4.91,
+  "fibres": 0.7,
+  "satures": 5.28,
+  "sel": 0.31,
+  "fer": 0.87,
+  "calcium": 148.68,
+  "magnesium": 70.62,
+  "potassium": 907.25,
+  "zinc": 1.21,
+  "iode": 8.69,
+  "vitd": 0.0,
+  "vitc": 18.4,
+  "b12": 4.77,
+  "b9": 68.53,
+  "alcool": 0.0
+ }
+}

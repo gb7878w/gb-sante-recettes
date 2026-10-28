@@ -1,0 +1,70 @@
+{
+ "id": "r1007-saumon-a-la-luxembourgeoise-creme-de-ciboulette-",
+ "nom": "Saumon à la luxembourgeoise, crème de ciboulette (Luxembourg)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 354,
+ "tags": [
+  "lowcarb",
+  "Luxembourg",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le saumon.",
+  "Nappez de crème à la ciboulette, servez avec haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 431.39,
+  "proteines": 40.71,
+  "glucides": 6.89,
+  "lipides": 25.42,
+  "sucres": 5.5,
+  "fibres": 4.93,
+  "satures": 7.77,
+  "sel": 0.27,
+  "fer": 1.42,
+  "calcium": 140.61,
+  "magnesium": 89.31,
+  "potassium": 1064.6,
+  "zinc": 1.02,
+  "iode": 0.09,
+  "vitd": 0.0,
+  "vitc": 7.79,
+  "b12": 4.45,
+  "b9": 109.22,
+  "alcool": 0.0
+ }
+}

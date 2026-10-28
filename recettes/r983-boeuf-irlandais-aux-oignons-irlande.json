@@ -1,0 +1,74 @@
+{
+ "id": "r983-boeuf-irlandais-aux-oignons-irlande",
+ "nom": "Bœuf irlandais aux oignons (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 80
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 50
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Dorez le bœuf et les oignons.",
+  "Ajoutez la carotte, mijotez 40 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 332.86,
+  "proteines": 39.13,
+  "glucides": 12.32,
+  "lipides": 12.87,
+  "sucres": 6.27,
+  "fibres": 3.43,
+  "satures": 2.74,
+  "sel": 0.14,
+  "fer": 0.33,
+  "calcium": 130.1,
+  "magnesium": 19.08,
+  "potassium": 350.2,
+  "zinc": 0.56,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 2.69,
+  "b12": 0.32,
+  "b9": 59.3,
+  "alcool": 0.0
+ }
+}

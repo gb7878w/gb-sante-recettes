@@ -1,0 +1,64 @@
+{
+ "id": "r927-cheddar-et-noix-royaume-uni",
+ "nom": "Cheddar et noix (Royaume-Uni)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 118,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 30
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Servez cheddar et noix avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 215.2,
+  "proteines": 14.62,
+  "glucides": 3.66,
+  "lipides": 15.56,
+  "sucres": 3.35,
+  "fibres": 0.54,
+  "satures": 6.39,
+  "sel": 0.57,
+  "fer": 0.35,
+  "calcium": 315.7,
+  "magnesium": 29.06,
+  "potassium": 172.4,
+  "zinc": 1.64,
+  "iode": 19.57,
+  "vitd": 0.18,
+  "vitc": 0.06,
+  "b12": 0.58,
+  "b9": 36.6,
+  "alcool": 0.0
+ }
+}

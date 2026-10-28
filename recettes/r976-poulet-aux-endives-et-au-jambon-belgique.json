@@ -1,0 +1,69 @@
+{
+ "id": "r976-poulet-aux-endives-et-au-jambon-belgique",
+ "nom": "Poulet aux endives et au jambon (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20026",
+   "nom": "Endive",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez endives, jambon et crème, mijotez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 354.05,
+  "proteines": 58.22,
+  "glucides": 7.75,
+  "lipides": 8.67,
+  "sucres": 6.72,
+  "fibres": 2.28,
+  "satures": 4.28,
+  "sel": 1.23,
+  "fer": 0.82,
+  "calcium": 83.55,
+  "magnesium": 74.8,
+  "potassium": 1177.1,
+  "zinc": 1.34,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 6.38,
+  "b12": 0.27,
+  "b9": 65.53,
+  "alcool": 0.0
+ }
+}

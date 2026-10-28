@@ -1,0 +1,69 @@
+{
+ "id": "r1002-porc-aux-champignons-a-la-lituanienne-lituanie",
+ "nom": "Porc aux champignons à la lituanienne (Lituanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Lituanie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Dorez le porc.",
+  "Ajoutez champignons et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 356.97,
+  "proteines": 49.62,
+  "glucides": 7.61,
+  "lipides": 13.83,
+  "sucres": 6.55,
+  "fibres": 1.6,
+  "satures": 5.68,
+  "sel": 0.44,
+  "fer": 2.38,
+  "calcium": 130.01,
+  "magnesium": 61.65,
+  "potassium": 1187.01,
+  "zinc": 4.19,
+  "iode": 13.22,
+  "vitd": 1.65,
+  "vitc": 6.73,
+  "b12": 1.85,
+  "b9": 76.03,
+  "alcool": 0.0
+ }
+}

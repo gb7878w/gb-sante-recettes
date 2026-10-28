@@ -1,0 +1,70 @@
+{
+ "id": "r966-omelette-grecque-au-poulet-et-a-la-feta-grece",
+ "nom": "Omelette grecque au poulet et à la feta (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 355,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 60
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 35
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Cuisez poulet et tomate.",
+  "Ajoutez œufs et feta."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 452.59,
+  "proteines": 46.6,
+  "glucides": 3.59,
+  "lipides": 27.4,
+  "sucres": 2.73,
+  "fibres": 0.8,
+  "satures": 10.98,
+  "sel": 1.44,
+  "fer": 3.78,
+  "calcium": 223.5,
+  "magnesium": 51.8,
+  "potassium": 696.3,
+  "zinc": 2.73,
+  "iode": 65.8,
+  "vitd": 3.38,
+  "vitc": 13.9,
+  "b12": 2.9,
+  "b9": 84.34,
+  "alcool": 0.0
+ }
+}

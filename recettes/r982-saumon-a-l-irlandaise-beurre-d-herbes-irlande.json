@@ -1,0 +1,75 @@
+{
+ "id": "r982-saumon-a-l-irlandaise-beurre-d-herbes-irlande",
+ "nom": "Saumon à l'irlandaise, beurre d'herbes (Irlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 332,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le saumon.",
+  "Servez avec beurre d'herbes et chou."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 460.78,
+  "proteines": 39.09,
+  "glucides": 7.31,
+  "lipides": 29.08,
+  "sucres": 6.49,
+  "fibres": 5.42,
+  "satures": 9.86,
+  "sel": 0.28,
+  "fer": 1.21,
+  "calcium": 118.28,
+  "magnesium": 64.68,
+  "potassium": 1010.74,
+  "zinc": 0.98,
+  "iode": 0.16,
+  "vitd": 0.11,
+  "vitc": 28.47,
+  "b12": 4.46,
+  "b9": 144.17,
+  "alcool": 0.0
+ }
+}

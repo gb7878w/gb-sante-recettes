@@ -1,0 +1,69 @@
+{
+ "id": "r904-oeufs-aux-poivrons-et-au-jambon-espagne",
+ "nom": "Œufs aux poivrons et au jambon (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 235,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 70
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le poivron et le jambon.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 319.62,
+  "proteines": 26.27,
+  "glucides": 3.67,
+  "lipides": 22.0,
+  "sucres": 3.01,
+  "fibres": 1.19,
+  "satures": 5.81,
+  "sel": 2.71,
+  "fer": 2.88,
+  "calcium": 117.34,
+  "magnesium": 23.05,
+  "potassium": 283.4,
+  "zinc": 1.42,
+  "iode": 27.3,
+  "vitd": 2.44,
+  "vitc": 76.3,
+  "b12": 1.89,
+  "b9": 68.0,
+  "alcool": 0.0
+ }
+}

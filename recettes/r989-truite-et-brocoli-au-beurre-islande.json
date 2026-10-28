@@ -1,0 +1,70 @@
+{
+ "id": "r989-truite-et-brocoli-au-beurre-islande",
+ "nom": "Truite et brocoli au beurre (Islande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 388,
+ "tags": [
+  "lowcarb",
+  "Islande",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite.",
+  "Servez avec le brocoli au beurre citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 394.61,
+  "proteines": 44.88,
+  "glucides": 5.28,
+  "lipides": 20.31,
+  "sucres": 3.15,
+  "fibres": 4.4,
+  "satures": 8.52,
+  "sel": 0.31,
+  "fer": 1.77,
+  "calcium": 177.51,
+  "magnesium": 94.95,
+  "potassium": 1358.72,
+  "zinc": 2.1,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 49.93,
+  "b12": 7.77,
+  "b9": 184.67,
+  "alcool": 0.0
+ }
+}

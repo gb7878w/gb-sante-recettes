@@ -1,0 +1,70 @@
+{
+ "id": "r910-fromage-blanc-jambon-et-radis-allemagne",
+ "nom": "Fromage blanc, jambon et radis (Allemagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 355,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 50
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Tranchez les radis.",
+  "Servez avec le fromage blanc, le jambon et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 236.75,
+  "proteines": 33.59,
+  "glucides": 9.64,
+  "lipides": 6.44,
+  "sucres": 9.28,
+  "fibres": 0.77,
+  "satures": 2.05,
+  "sel": 1.39,
+  "fer": 1.47,
+  "calcium": 303.05,
+  "magnesium": 35.2,
+  "potassium": 658.0,
+  "zinc": 1.72,
+  "iode": 48.14,
+  "vitd": 0.62,
+  "vitc": 6.1,
+  "b12": 1.41,
+  "b9": 119.9,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r944-parmigiana-de-courgettes-italie",
+ "nom": "Parmigiana de courgettes (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 525,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 80
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Superposez courgettes, viande cuite et coulis.",
+  "Couvrez de mozzarella et parmesan, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 454.55,
+  "proteines": 42.64,
+  "glucides": 12.63,
+  "lipides": 24.59,
+  "sucres": 9.54,
+  "fibres": 6.35,
+  "satures": 14.92,
+  "sel": 1.97,
+  "fer": 3.43,
+  "calcium": 636.85,
+  "magnesium": 95.35,
+  "potassium": 949.9,
+  "zinc": 8.62,
+  "iode": 48.14,
+  "vitd": 0.32,
+  "vitc": 7.25,
+  "b12": 4.2,
+  "b9": 95.6,
+  "alcool": 0.0
+ }
+}

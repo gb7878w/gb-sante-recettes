@@ -1,0 +1,69 @@
+{
+ "id": "r951-omelette-espagnole-aux-poivrons-et-au-chorizo-es",
+ "nom": "Omelette espagnole aux poivrons et au chorizo (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 316,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 40
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez chorizo et poivron.",
+  "Ajoutez les œufs battus."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 474.08,
+  "proteines": 33.9,
+  "glucides": 4.89,
+  "lipides": 34.85,
+  "sucres": 4.26,
+  "fibres": 1.36,
+  "satures": 9.52,
+  "sel": 3.22,
+  "fer": 4.64,
+  "calcium": 177.12,
+  "magnesium": 42.9,
+  "potassium": 639.4,
+  "zinc": 3.12,
+  "iode": 39.9,
+  "vitd": 3.86,
+  "vitc": 87.2,
+  "b12": 3.08,
+  "b9": 111.44,
+  "alcool": 0.0
+ }
+}

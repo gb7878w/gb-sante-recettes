@@ -1,0 +1,75 @@
+{
+ "id": "r939-moules-marinieres-france",
+ "nom": "Moules marinières (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 389,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 300
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 25
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec échalote et vin.",
+  "Ajoutez la crème et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.89,
+  "proteines": 53.09,
+  "glucides": 21.05,
+  "lipides": 10.35,
+  "sucres": 2.17,
+  "fibres": 0.82,
+  "satures": 3.93,
+  "sel": 2.47,
+  "fer": 12.29,
+  "calcium": 222.92,
+  "magnesium": 208.15,
+  "potassium": 640.31,
+  "zinc": 8.63,
+  "iode": 318.0,
+  "vitd": 0.0,
+  "vitc": 26.69,
+  "b12": 52.8,
+  "b9": 151.91,
+  "alcool": 2.33
+ }
+}

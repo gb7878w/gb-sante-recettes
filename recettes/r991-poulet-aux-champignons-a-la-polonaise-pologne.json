@@ -1,0 +1,69 @@
+{
+ "id": "r991-poulet-aux-champignons-a-la-polonaise-pologne",
+ "nom": "Poulet aux champignons à la polonaise (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 393,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19646",
+   "nom": "Fromage blanc 3 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez champignons et fromage blanc, parsemez d'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 330.57,
+  "proteines": 58.63,
+  "glucides": 7.61,
+  "lipides": 6.38,
+  "sucres": 6.55,
+  "fibres": 1.6,
+  "satures": 2.74,
+  "sel": 0.47,
+  "fer": 1.36,
+  "calcium": 126.62,
+  "magnesium": 83.95,
+  "potassium": 1375.01,
+  "zinc": 2.37,
+  "iode": 13.22,
+  "vitd": 1.65,
+  "vitc": 9.02,
+  "b12": 0.61,
+  "b9": 91.31,
+  "alcool": 0.0
+ }
+}

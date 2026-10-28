@@ -1,0 +1,70 @@
+{
+ "id": "r988-poulet-finlandais-au-fromage-et-aux-champignons-",
+ "nom": "Poulet finlandais au fromage et aux champignons (Finlande)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 325,
+ "tags": [
+  "lowcarb",
+  "Finlande",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet et les champignons.",
+  "Nappez de crème et de fromage, gratinez 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 382.0,
+  "proteines": 56.21,
+  "glucides": 5.07,
+  "lipides": 14.63,
+  "sucres": 4.26,
+  "fibres": 1.2,
+  "satures": 8.3,
+  "sel": 0.56,
+  "fer": 1.33,
+  "calcium": 290.54,
+  "magnesium": 80.38,
+  "potassium": 1159.25,
+  "zinc": 2.78,
+  "iode": 6.55,
+  "vitd": 0.36,
+  "vitc": 5.85,
+  "b12": 0.78,
+  "b9": 64.07,
+  "alcool": 0.0
+ }
+}

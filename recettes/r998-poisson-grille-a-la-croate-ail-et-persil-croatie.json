@@ -1,0 +1,74 @@
+{
+ "id": "r998-poisson-grille-a-la-croate-ail-et-persil-croatie",
+ "nom": "Poisson grillé à la croate, ail et persil (Croatie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 318,
+ "tags": [
+  "lowcarb",
+  "Croatie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27030",
+   "nom": "Bar rôti au four",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Grillez le poisson.",
+  "Servez avec ail, persil, huile et tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 409.78,
+  "proteines": 45.24,
+  "glucides": 4.32,
+  "lipides": 23.04,
+  "sucres": 2.88,
+  "fibres": 1.39,
+  "satures": 4.06,
+  "sel": 0.37,
+  "fer": 0.98,
+  "calcium": 40.03,
+  "magnesium": 70.18,
+  "potassium": 1075.8,
+  "zinc": 0.98,
+  "iode": 26.8,
+  "vitd": 8.3,
+  "vitc": 25.15,
+  "b12": 7.4,
+  "b9": 46.18,
+  "alcool": 0.0
+ }
+}

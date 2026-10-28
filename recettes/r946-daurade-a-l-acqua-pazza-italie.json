@@ -1,0 +1,74 @@
+{
+ "id": "r946-daurade-a-l-acqua-pazza-italie",
+ "nom": "Daurade à l'acqua pazza (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 335,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 200
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 120
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mijotez tomates et ail.",
+  "Cuisez la dorade 12 minutes, parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.49,
+  "proteines": 49.08,
+  "glucides": 7.44,
+  "lipides": 19.82,
+  "sucres": 5.83,
+  "fibres": 1.79,
+  "satures": 3.82,
+  "sel": 0.38,
+  "fer": 1.05,
+  "calcium": 42.97,
+  "magnesium": 73.38,
+  "potassium": 1275.82,
+  "zinc": 1.23,
+  "iode": 0.0,
+  "vitd": 11.42,
+  "vitc": 34.42,
+  "b12": 4.74,
+  "b9": 61.66,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r979-poulet-au-four-et-chou-fleur-gratine-pays-bas",
+ "nom": "Poulet au four et chou-fleur gratiné (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 25
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 25 minutes.",
+  "Gratinez le chou-fleur au fromage."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 404.2,
+  "proteines": 57.39,
+  "glucides": 3.25,
+  "lipides": 16.64,
+  "sucres": 3.22,
+  "fibres": 4.0,
+  "satures": 8.73,
+  "sel": 0.67,
+  "fer": 1.29,
+  "calcium": 215.56,
+  "magnesium": 91.85,
+  "potassium": 1200.41,
+  "zinc": 2.45,
+  "iode": 9.46,
+  "vitd": 0.2,
+  "vitc": 21.69,
+  "b12": 0.52,
+  "b9": 179.53,
+  "alcool": 0.0
+ }
+}

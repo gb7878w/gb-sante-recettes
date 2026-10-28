@@ -1,0 +1,75 @@
+{
+ "id": "r1004-poisson-au-four-a-la-slovene-slovenie",
+ "nom": "Poisson au four à la slovène (Slovénie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 337,
+ "tags": [
+  "lowcarb",
+  "Slovénie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 190
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Enfournez le poisson avec tomate et olives 20 minutes.",
+  "Parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 336.79,
+  "proteines": 41.24,
+  "glucides": 4.45,
+  "lipides": 16.3,
+  "sucres": 3.4,
+  "fibres": 2.3,
+  "satures": 3.28,
+  "sel": 0.76,
+  "fer": 2.24,
+  "calcium": 108.3,
+  "magnesium": 67.86,
+  "potassium": 829.77,
+  "zinc": 1.19,
+  "iode": 79.8,
+  "vitd": 6.08,
+  "vitc": 26.64,
+  "b12": 3.04,
+  "b9": 71.72,
+  "alcool": 0.0
+ }
+}

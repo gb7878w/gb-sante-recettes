@@ -1,0 +1,74 @@
+{
+ "id": "r974-boeuf-emince-a-la-creme-suisse",
+ "nom": "Bœuf émincé à la crème (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 332,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 120
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 50
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Saisissez le bœuf émincé.",
+  "Ajoutez champignons et crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 335.57,
+  "proteines": 36.27,
+  "glucides": 6.37,
+  "lipides": 18.05,
+  "sucres": 5.14,
+  "fibres": 1.37,
+  "satures": 7.2,
+  "sel": 0.22,
+  "fer": 0.56,
+  "calcium": 68.46,
+  "magnesium": 18.68,
+  "potassium": 524.22,
+  "zinc": 0.63,
+  "iode": 1.2,
+  "vitd": 0.36,
+  "vitc": 10.79,
+  "b12": 0.0,
+  "b9": 46.76,
+  "alcool": 0.0
+ }
+}

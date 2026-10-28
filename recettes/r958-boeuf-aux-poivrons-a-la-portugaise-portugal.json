@@ -1,0 +1,79 @@
+{
+ "id": "r958-boeuf-aux-poivrons-a-la-portugaise-portugal",
+ "nom": "Bœuf aux poivrons à la portugaise (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6104",
+   "nom": "Bœuf gîte à la noix cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Dorez le bœuf et l'oignon.",
+  "Ajoutez poivron et tomate, mijotez 40 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 355.86,
+  "proteines": 39.93,
+  "glucides": 14.86,
+  "lipides": 13.8,
+  "sucres": 10.36,
+  "fibres": 4.08,
+  "satures": 2.85,
+  "sel": 1.46,
+  "fer": 1.09,
+  "calcium": 149.2,
+  "magnesium": 33.92,
+  "potassium": 572.4,
+  "zinc": 0.69,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 147.93,
+  "b12": 0.32,
+  "b9": 78.7,
+  "alcool": 0.0
+ }
+}

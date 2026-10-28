@@ -1,0 +1,70 @@
+{
+ "id": "r905-fromage-blanc-olives-et-jambon-espagne",
+ "nom": "Fromage blanc, olives et jambon (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 310,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Tranchez le jambon sec.",
+  "Servez avec le fromage blanc, les olives et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 292.4,
+  "proteines": 35.69,
+  "glucides": 8.37,
+  "lipides": 12.32,
+  "sucres": 8.21,
+  "fibres": 0.93,
+  "satures": 3.85,
+  "sel": 2.66,
+  "fer": 2.54,
+  "calcium": 302.55,
+  "magnesium": 34.5,
+  "potassium": 356.85,
+  "zinc": 1.7,
+  "iode": 48.14,
+  "vitd": 0.62,
+  "vitc": 0.0,
+  "b12": 1.41,
+  "b9": 72.2,
+  "alcool": 0.0
+ }
+}

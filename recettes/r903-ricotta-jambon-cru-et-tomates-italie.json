@@ -1,0 +1,70 @@
+{
+ "id": "r903-ricotta-jambon-cru-et-tomates-italie",
+ "nom": "Ricotta, jambon cru et tomates (Italie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 295,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 120
+  },
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 80
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Coupez l'œuf dur et les tomates.",
+  "Servez avec la ricotta et le jambon cru."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.82,
+  "proteines": 29.9,
+  "glucides": 9.7,
+  "lipides": 25.18,
+  "sucres": 6.95,
+  "fibres": 0.96,
+  "satures": 13.27,
+  "sel": 2.74,
+  "fer": 1.98,
+  "calcium": 411.03,
+  "magnesium": 29.7,
+  "potassium": 456.0,
+  "zinc": 2.23,
+  "iode": 48.94,
+  "vitd": 0.86,
+  "vitc": 22.64,
+  "b12": 1.02,
+  "b9": 52.68,
+  "alcool": 0.0
+ }
+}

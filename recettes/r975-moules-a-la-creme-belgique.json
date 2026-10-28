@@ -1,0 +1,70 @@
+{
+ "id": "r975-moules-a-la-creme-belgique",
+ "nom": "Moules à la crème (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 364,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 300
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec l'échalote.",
+  "Ajoutez la crème et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 398.64,
+  "proteines": 53.29,
+  "glucides": 19.66,
+  "lipides": 11.7,
+  "sucres": 2.38,
+  "fibres": 0.69,
+  "satures": 4.87,
+  "sel": 2.49,
+  "fer": 12.18,
+  "calcium": 230.82,
+  "magnesium": 206.48,
+  "potassium": 616.72,
+  "zinc": 8.62,
+  "iode": 318.0,
+  "vitd": 0.0,
+  "vitc": 26.29,
+  "b12": 52.8,
+  "b9": 151.4,
+  "alcool": 0.0
+ }
+}

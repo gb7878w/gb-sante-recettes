@@ -1,0 +1,74 @@
+{
+ "id": "r990-saucisse-polonaise-chou-et-oignon-pologne",
+ "nom": "Saucisse polonaise, chou et oignon (Pologne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 465,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 130
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez l'oignon, ajoutez le chou.",
+  "Servez avec saucisse et jambon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 548.94,
+  "proteines": 31.45,
+  "glucides": 15.96,
+  "lipides": 37.62,
+  "sucres": 12.56,
+  "fibres": 9.61,
+  "satures": 15.69,
+  "sel": 3.66,
+  "fer": 1.96,
+  "calcium": 178.74,
+  "magnesium": 44.69,
+  "potassium": 1038.61,
+  "zinc": 2.25,
+  "iode": 18.28,
+  "vitd": 0.39,
+  "vitc": 22.82,
+  "b12": 0.55,
+  "b9": 180.13,
+  "alcool": 0.0
+ }
+}

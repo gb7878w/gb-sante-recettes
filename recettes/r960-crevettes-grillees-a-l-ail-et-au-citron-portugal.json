@@ -1,0 +1,75 @@
+{
+ "id": "r960-crevettes-grillees-a-l-ail-et-au-citron-portugal",
+ "nom": "Crevettes grillées à l'ail et au citron (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 308,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 14
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Saisissez les crevettes à l'ail.",
+  "Servez sur la salade avec le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 332.88,
+  "proteines": 39.25,
+  "glucides": 5.7,
+  "lipides": 16.47,
+  "sucres": 0.71,
+  "fibres": 1.19,
+  "satures": 2.76,
+  "sel": 2.72,
+  "fer": 4.78,
+  "calcium": 533.22,
+  "magnesium": 135.51,
+  "potassium": 703.2,
+  "zinc": 3.6,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 15.6,
+  "b12": 3.28,
+  "b9": 67.88,
+  "alcool": 0.0
+ }
+}

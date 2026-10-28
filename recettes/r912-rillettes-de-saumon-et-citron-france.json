@@ -1,0 +1,70 @@
+{
+ "id": "r912-rillettes-de-saumon-et-citron-france",
+ "nom": "Rillettes de saumon et citron (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 155,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 50
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mixez saumon cuit, fromage blanc et citron.",
+  "Garnissez de saumon fumé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 179.0,
+  "proteines": 22.26,
+  "glucides": 3.37,
+  "lipides": 8.18,
+  "sucres": 3.15,
+  "fibres": 0.0,
+  "satures": 1.69,
+  "sel": 0.85,
+  "fer": 0.34,
+  "calcium": 114.69,
+  "magnesium": 32.12,
+  "potassium": 423.9,
+  "zinc": 0.67,
+  "iode": 16.32,
+  "vitd": 1.09,
+  "vitc": 3.65,
+  "b12": 2.38,
+  "b9": 35.77,
+  "alcool": 0.0
+ }
+}

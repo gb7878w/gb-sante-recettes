@@ -1,0 +1,70 @@
+{
+ "id": "r909-oeufs-au-bacon-et-aux-champignons-allemagne",
+ "nom": "Œufs au bacon et aux champignons (Allemagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 244,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28727",
+   "nom": "Filet de bacon",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 80
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez bacon et champignons.",
+  "Ajoutez les œufs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 267.24,
+  "proteines": 26.6,
+  "glucides": 3.16,
+  "lipides": 16.38,
+  "sucres": 2.36,
+  "fibres": 0.8,
+  "satures": 5.81,
+  "sel": 1.73,
+  "fer": 2.67,
+  "calcium": 99.22,
+  "magnesium": 30.88,
+  "potassium": 641.13,
+  "zinc": 2.18,
+  "iode": 26.06,
+  "vitd": 2.54,
+  "vitc": 5.09,
+  "b12": 1.9,
+  "b9": 88.16,
+  "alcool": 0.0
+ }
+}

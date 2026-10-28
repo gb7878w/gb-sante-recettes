@@ -1,0 +1,64 @@
+{
+ "id": "r926-saumon-fume-et-fromage-frais-irlande",
+ "nom": "Saumon fumé et fromage frais (Irlande)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 122,
+ "tags": [
+  "lowcarb",
+  "Irlande",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez le saumon avec le fromage blanc à l'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 111.68,
+  "proteines": 15.24,
+  "glucides": 3.55,
+  "lipides": 3.85,
+  "sucres": 3.14,
+  "fibres": 0.07,
+  "satures": 0.85,
+  "sel": 1.49,
+  "fer": 0.3,
+  "calcium": 113.63,
+  "magnesium": 25.64,
+  "potassium": 348.54,
+  "zinc": 0.52,
+  "iode": 24.4,
+  "vitd": 2.18,
+  "vitc": 1.4,
+  "b12": 1.66,
+  "b9": 31.92,
+  "alcool": 0.0
+ }
+}

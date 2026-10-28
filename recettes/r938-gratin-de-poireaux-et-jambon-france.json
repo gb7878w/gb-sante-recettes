@@ -1,0 +1,70 @@
+{
+ "id": "r938-gratin-de-poireaux-et-jambon-france",
+ "nom": "Gratin de poireaux et jambon (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 30
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez les poireaux, enroulez-les dans le jambon.",
+  "Nappez de crème et fromage, gratinez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 353.55,
+  "proteines": 35.59,
+  "glucides": 10.72,
+  "lipides": 17.02,
+  "sucres": 8.12,
+  "fibres": 8.18,
+  "satures": 9.74,
+  "sel": 2.65,
+  "fer": 1.3,
+  "calcium": 401.2,
+  "magnesium": 35.32,
+  "potassium": 874.42,
+  "zinc": 1.57,
+  "iode": 6.42,
+  "vitd": 0.0,
+  "vitc": 3.25,
+  "b12": 0.61,
+  "b9": 63.02,
+  "alcool": 0.0
+ }
+}

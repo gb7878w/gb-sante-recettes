@@ -1,0 +1,75 @@
+{
+ "id": "r957-merlu-au-four-ail-et-persil-portugal",
+ "nom": "Merlu au four, ail et persil (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 318,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Enfournez le merlu avec ail et huile 18 minutes.",
+  "Servez avec tomate et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 339.78,
+  "proteines": 43.24,
+  "glucides": 4.32,
+  "lipides": 16.02,
+  "sucres": 2.88,
+  "fibres": 1.39,
+  "satures": 3.37,
+  "sel": 0.53,
+  "fer": 1.02,
+  "calcium": 101.63,
+  "magnesium": 67.97,
+  "potassium": 835.8,
+  "zinc": 1.24,
+  "iode": 84.0,
+  "vitd": 6.4,
+  "vitc": 25.15,
+  "b12": 3.2,
+  "b9": 73.78,
+  "alcool": 0.0
+ }
+}

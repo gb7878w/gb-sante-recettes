@@ -1,0 +1,75 @@
+{
+ "id": "r965-boulettes-d-agneau-a-la-menthe-et-au-yaourt-grec",
+ "nom": "Boulettes d'agneau à la menthe et au yaourt (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 140
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 3
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mêlez agneau, œuf et menthe, formez des boulettes.",
+  "Poêlez 12 minutes, servez avec yaourt et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 352.73,
+  "proteines": 45.96,
+  "glucides": 7.51,
+  "lipides": 14.97,
+  "sucres": 6.58,
+  "fibres": 1.68,
+  "satures": 6.05,
+  "sel": 0.48,
+  "fer": 3.11,
+  "calcium": 206.39,
+  "magnesium": 74.12,
+  "potassium": 801.02,
+  "zinc": 6.45,
+  "iode": 34.4,
+  "vitd": 1.17,
+  "vitc": 9.19,
+  "b12": 3.35,
+  "b9": 70.3,
+  "alcool": 0.0
+ }
+}

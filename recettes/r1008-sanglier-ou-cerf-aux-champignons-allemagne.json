@@ -1,0 +1,74 @@
+{
+ "id": "r1008-sanglier-ou-cerf-aux-champignons-allemagne",
+ "nom": "Sanglier ou cerf aux champignons (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 452,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "14003",
+   "nom": "Sanglier rôti",
+   "g": 160
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mijotez le gibier avec champignons et thym 30 minutes.",
+  "Ajoutez la crème, servez avec la choucroute."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.44,
+  "proteines": 51.89,
+  "glucides": 6.65,
+  "lipides": 19.58,
+  "sucres": 5.43,
+  "fibres": 6.28,
+  "satures": 7.97,
+  "sel": 1.71,
+  "fer": 2.91,
+  "calcium": 127.75,
+  "magnesium": 72.55,
+  "potassium": 1325.58,
+  "zinc": 5.75,
+  "iode": 1.5,
+  "vitd": 0.45,
+  "vitc": 25.04,
+  "b12": 1.15,
+  "b9": 81.35,
+  "alcool": 0.0
+ }
+}

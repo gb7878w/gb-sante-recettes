@@ -1,0 +1,62 @@
+{
+ "id": "r928-jambon-oeuf-dur-et-radis-pologne",
+ "nom": "Jambon, œuf dur et radis (Pologne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 180,
+ "tags": [
+  "lowcarb",
+  "Pologne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 30
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Servez œuf dur, jambon et radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 187.4,
+  "proteines": 21.11,
+  "glucides": 1.67,
+  "lipides": 10.45,
+  "sucres": 1.41,
+  "fibres": 0.61,
+  "satures": 3.16,
+  "sel": 0.95,
+  "fer": 2.05,
+  "calcium": 54.1,
+  "magnesium": 17.88,
+  "potassium": 339.4,
+  "zinc": 1.43,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 4.88,
+  "b12": 1.22,
+  "b9": 86.56,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r907-yaourt-grec-noix-et-cannelle-grece",
+ "nom": "Yaourt grec, noix et cannelle (Grèce)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 298,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 230
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Versez le yaourt.",
+  "Parsemez de noix et de cannelle, servez avec l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 290.75,
+  "proteines": 17.98,
+  "glucides": 12.27,
+  "lipides": 18.12,
+  "sucres": 11.41,
+  "fibres": 3.31,
+  "satures": 5.7,
+  "sel": 0.42,
+  "fer": 1.75,
+  "calcium": 333.65,
+  "magnesium": 52.93,
+  "potassium": 506.01,
+  "zinc": 1.96,
+  "iode": 75.18,
+  "vitd": 2.02,
+  "vitc": 0.73,
+  "b12": 1.25,
+  "b9": 86.27,
+  "alcool": 0.0
+ }
+}

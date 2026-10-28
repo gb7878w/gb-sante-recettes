@@ -1,0 +1,72 @@
+{
+ "id": "r997-porc-braise-aux-poivrons-bulgarie",
+ "nom": "Porc braisé aux poivrons (Bulgarie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 418,
+ "tags": [
+  "lowcarb",
+  "Bulgarie",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le porc.",
+  "Ajoutez poivron, tomate, oignon, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 410.36,
+  "proteines": 43.71,
+  "glucides": 10.81,
+  "lipides": 20.28,
+  "sucres": 7.23,
+  "fibres": 3.82,
+  "satures": 5.45,
+  "sel": 1.58,
+  "fer": 2.72,
+  "calcium": 52.33,
+  "magnesium": 62.98,
+  "potassium": 992.6,
+  "zinc": 3.46,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 147.72,
+  "b12": 1.63,
+  "b9": 58.2,
+  "alcool": 0.0
+ }
+}

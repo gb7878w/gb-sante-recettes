@@ -1,0 +1,70 @@
+{
+ "id": "r971-poulet-farci-au-fromage-et-au-jambon-autriche",
+ "nom": "Poulet farci au fromage et au jambon (Autriche)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 355,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 30
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de jambon et de fromage.",
+  "Enfournez 25 minutes, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 393.85,
+  "proteines": 64.25,
+  "glucides": 4.28,
+  "lipides": 12.17,
+  "sucres": 2.65,
+  "fibres": 3.34,
+  "satures": 6.12,
+  "sel": 1.05,
+  "fer": 1.83,
+  "calcium": 308.8,
+  "magnesium": 99.58,
+  "potassium": 1301.75,
+  "zinc": 2.98,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 33.2,
+  "b12": 0.78,
+  "b9": 145.22,
+  "alcool": 0.0
+ }
+}

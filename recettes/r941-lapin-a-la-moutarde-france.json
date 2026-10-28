@@ -1,0 +1,75 @@
+{
+ "id": "r941-lapin-a-la-moutarde-france",
+ "nom": "Lapin à la moutarde (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 472,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 12
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le lapin.",
+  "Ajoutez moutarde, crème et champignons, mijotez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 427.24,
+  "proteines": 63.36,
+  "glucides": 10.47,
+  "lipides": 13.07,
+  "sucres": 8.13,
+  "fibres": 5.8,
+  "satures": 5.71,
+  "sel": 1.1,
+  "fer": 9.58,
+  "calcium": 165.49,
+  "magnesium": 111.6,
+  "potassium": 1405.9,
+  "zinc": 4.96,
+  "iode": 1.36,
+  "vitd": 0.3,
+  "vitc": 4.87,
+  "b12": 11.07,
+  "b9": 123.25,
+  "alcool": 0.0
+ }
+}

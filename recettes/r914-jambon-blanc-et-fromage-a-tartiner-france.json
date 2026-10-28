@@ -1,0 +1,63 @@
+{
+ "id": "r914-jambon-blanc-et-fromage-a-tartiner-france",
+ "nom": "Jambon blanc et fromage à tartiner (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 142,
+ "tags": [
+  "lowcarb",
+  "France",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Étalez le fromage blanc aux herbes sur le jambon.",
+  "Roulez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 108.51,
+  "proteines": 18.17,
+  "glucides": 4.12,
+  "lipides": 1.99,
+  "sucres": 3.94,
+  "fibres": 0.15,
+  "satures": 0.73,
+  "sel": 1.26,
+  "fer": 0.15,
+  "calcium": 115.06,
+  "magnesium": 10.24,
+  "potassium": 335.5,
+  "zinc": 0.4,
+  "iode": 8.36,
+  "vitd": 0.0,
+  "vitc": 0.79,
+  "b12": 0.32,
+  "b9": 20.77,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r1009-canard-aux-choux-rouges-allemagne",
+ "nom": "Canard aux choux rouges (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 406,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36203",
+   "nom": "Cuisse de canard sans peau",
+   "g": 190
+  },
+  {
+   "ciqual": "20095",
+   "nom": "Chou rouge cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez le canard.",
+  "Servez avec le chou rouge braisé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 317.74,
+  "proteines": 39.16,
+  "glucides": 7.07,
+  "lipides": 13.49,
+  "sucres": 6.84,
+  "fibres": 5.2,
+  "satures": 6.44,
+  "sel": 1.14,
+  "fer": 1.47,
+  "calcium": 117.53,
+  "magnesium": 27.63,
+  "potassium": 538.26,
+  "zinc": 0.34,
+  "iode": 3.07,
+  "vitd": 0.09,
+  "vitc": 68.82,
+  "b12": 0.01,
+  "b9": 48.84,
+  "alcool": 0.0
+ }
+}

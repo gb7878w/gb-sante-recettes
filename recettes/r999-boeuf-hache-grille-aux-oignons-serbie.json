@@ -1,0 +1,74 @@
+{
+ "id": "r999-boeuf-hache-grille-aux-oignons-serbie",
+ "nom": "Bœuf haché grillé aux oignons (Serbie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 382,
+ "tags": [
+  "lowcarb",
+  "Serbie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Grillez le bœuf haché assaisonné.",
+  "Servez avec poivron et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 340.62,
+  "proteines": 48.83,
+  "glucides": 10.47,
+  "lipides": 10.42,
+  "sucres": 7.04,
+  "fibres": 3.44,
+  "satures": 4.43,
+  "sel": 1.49,
+  "fer": 5.75,
+  "calcium": 153.18,
+  "magnesium": 63.18,
+  "potassium": 932.0,
+  "zinc": 10.96,
+  "iode": 18.08,
+  "vitd": 0.0,
+  "vitc": 109.85,
+  "b12": 4.27,
+  "b9": 70.58,
+  "alcool": 0.0
+ }
+}

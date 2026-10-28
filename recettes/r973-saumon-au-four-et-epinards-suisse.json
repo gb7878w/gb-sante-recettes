@@ -1,0 +1,71 @@
+{
+ "id": "r973-saumon-au-four-et-epinards-suisse",
+ "nom": "Saumon au four et épinards (Suisse)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 386,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "12114",
+   "nom": "Gruyère",
+   "g": 20
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le saumon.",
+  "Servez avec épinards au beurre et gruyère râpé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 513.26,
+  "proteines": 49.28,
+  "glucides": 0.06,
+  "lipides": 33.21,
+  "sucres": 0.05,
+  "fibres": 7.0,
+  "satures": 11.49,
+  "sel": 0.43,
+  "fer": 3.22,
+  "calcium": 717.47,
+  "magnesium": 113.72,
+  "potassium": 954.69,
+  "zinc": 3.24,
+  "iode": 2.86,
+  "vitd": 0.15,
+  "vitc": 4.46,
+  "b12": 4.77,
+  "b9": 160.42,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r931-truite-fumee-et-fromage-blanc-suisse",
+ "nom": "Truite fumée et fromage blanc (Suisse)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 192,
+ "tags": [
+  "lowcarb",
+  "Suisse",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez la truite avec le fromage blanc à l'aneth et le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 121.34,
+  "proteines": 17.57,
+  "glucides": 4.71,
+  "lipides": 3.28,
+  "sucres": 4.14,
+  "fibres": 0.43,
+  "satures": 0.81,
+  "sel": 0.16,
+  "fer": 0.49,
+  "calcium": 153.01,
+  "magnesium": 32.63,
+  "potassium": 417.84,
+  "zinc": 0.78,
+  "iode": 13.33,
+  "vitd": 7.5,
+  "vitc": 7.8,
+  "b12": 2.6,
+  "b9": 34.4,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "r978-merlu-et-crevettes-sauce-citron-pays-bas",
+ "nom": "Merlu et crevettes sauce citron (Pays-Bas)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "Pays-Bas",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 170
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez merlu et crevettes au beurre.",
+  "Servez avec épinards et citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 365.69,
+  "proteines": 52.58,
+  "glucides": 1.38,
+  "lipides": 15.0,
+  "sucres": 0.16,
+  "fibres": 5.25,
+  "satures": 7.4,
+  "sel": 1.29,
+  "fer": 3.67,
+  "calcium": 577.94,
+  "magnesium": 132.24,
+  "potassium": 902.22,
+  "zinc": 3.18,
+  "iode": 71.56,
+  "vitd": 5.55,
+  "vitc": 5.0,
+  "b12": 3.72,
+  "b9": 150.83,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "r908-omelette-a-la-feta-et-aux-olives-grece",
+ "nom": "Omelette à la feta et aux olives (Grèce)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 186,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Battez les œufs.",
+  "Cuisez avec feta, olives et origan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 324.55,
+  "proteines": 22.85,
+  "glucides": 0.88,
+  "lipides": 25.12,
+  "sucres": 0.39,
+  "fibres": 1.35,
+  "satures": 10.48,
+  "sel": 1.58,
+  "fer": 4.12,
+  "calcium": 215.84,
+  "magnesium": 24.2,
+  "potassium": 216.05,
+  "zinc": 1.84,
+  "iode": 59.3,
+  "vitd": 2.44,
+  "vitc": 0.02,
+  "b12": 2.1,
+  "b9": 54.13,
+  "alcool": 0.0
+ }
+}

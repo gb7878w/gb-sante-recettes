@@ -1,0 +1,62 @@
+{
+ "id": "r929-saucisse-seche-et-fromage-hongrie",
+ "nom": "Saucisse sèche et fromage (Hongrie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 115,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 30
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez salami, fromage et poivron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 230.71,
+  "proteines": 14.35,
+  "glucides": 3.13,
+  "lipides": 17.72,
+  "sucres": 2.18,
+  "fibres": 1.02,
+  "satures": 8.15,
+  "sel": 2.57,
+  "fer": 1.14,
+  "calcium": 263.65,
+  "magnesium": 23.67,
+  "potassium": 231.35,
+  "zinc": 2.45,
+  "iode": 5.35,
+  "vitd": 0.0,
+  "vitc": 65.4,
+  "b12": 1.34,
+  "b9": 29.35,
+  "alcool": 0.0
+ }
+}

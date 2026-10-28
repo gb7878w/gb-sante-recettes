@@ -1,0 +1,74 @@
+{
+ "id": "r1006-agneau-grille-et-salade-de-concombre-chypre",
+ "nom": "Agneau grillé et salade de concombre (Chypre)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 359,
+ "tags": [
+  "lowcarb",
+  "Chypre",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 80
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez l'agneau.",
+  "Servez avec concombre au yaourt et menthe."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 373.39,
+  "proteines": 44.18,
+  "glucides": 6.99,
+  "lipides": 18.27,
+  "sucres": 5.9,
+  "fibres": 1.63,
+  "satures": 6.14,
+  "sel": 0.39,
+  "fer": 2.67,
+  "calcium": 163.97,
+  "magnesium": 74.19,
+  "potassium": 788.92,
+  "zinc": 6.49,
+  "iode": 24.5,
+  "vitd": 0.49,
+  "vitc": 10.79,
+  "b12": 3.04,
+  "b9": 60.12,
+  "alcool": 0.0
+ }
+}

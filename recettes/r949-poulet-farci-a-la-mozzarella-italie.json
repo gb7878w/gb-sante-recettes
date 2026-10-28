@@ -1,0 +1,75 @@
+{
+ "id": "r949-poulet-farci-a-la-mozzarella-italie",
+ "nom": "Poulet farci à la mozzarella (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 433,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 50
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet de mozzarella et tomate.",
+  "Enfournez 25 minutes, servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 384.43,
+  "proteines": 58.97,
+  "glucides": 3.32,
+  "lipides": 12.91,
+  "sucres": 2.6,
+  "fibres": 6.15,
+  "satures": 6.92,
+  "sel": 0.56,
+  "fer": 3.05,
+  "calcium": 653.18,
+  "magnesium": 118.02,
+  "potassium": 1114.85,
+  "zinc": 3.81,
+  "iode": 18.6,
+  "vitd": 0.2,
+  "vitc": 15.62,
+  "b12": 1.41,
+  "b9": 124.72,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "r925-oeuf-dur-et-fromage-frais-aux-herbes-allemagne",
+ "nom": "Œuf dur et fromage frais aux herbes (Allemagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 192,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec le fromage blanc aux herbes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 187.51,
+  "proteines": 21.26,
+  "glucides": 3.73,
+  "lipides": 9.52,
+  "sucres": 3.72,
+  "fibres": 0.06,
+  "satures": 2.83,
+  "sel": 0.43,
+  "fer": 2.05,
+  "calcium": 154.16,
+  "magnesium": 25.64,
+  "potassium": 252.7,
+  "zinc": 1.8,
+  "iode": 63.03,
+  "vitd": 1.23,
+  "vitc": 0.79,
+  "b12": 1.54,
+  "b9": 69.17,
+  "alcool": 0.0
+ }
+}

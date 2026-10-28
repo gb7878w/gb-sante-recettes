@@ -1,0 +1,71 @@
+{
+ "id": "r906-oeufs-brouilles-aux-crevettes-et-au-persil-portu",
+ "nom": "Œufs brouillés aux crevettes et au persil (Portugal)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 188,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs.",
+  "Ajoutez crevettes et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 270.57,
+  "proteines": 26.75,
+  "glucides": 1.55,
+  "lipides": 17.51,
+  "sucres": 0.35,
+  "fibres": 0.13,
+  "satures": 4.12,
+  "sel": 1.2,
+  "fer": 3.58,
+  "calcium": 242.7,
+  "magnesium": 50.98,
+  "potassium": 331.14,
+  "zinc": 2.25,
+  "iode": 25.2,
+  "vitd": 2.26,
+  "vitc": 5.81,
+  "b12": 2.72,
+  "b9": 53.58,
+  "alcool": 0.0
+ }
+}

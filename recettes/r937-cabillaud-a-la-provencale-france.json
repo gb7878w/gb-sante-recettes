@@ -1,0 +1,74 @@
+{
+ "id": "r937-cabillaud-a-la-provencale-france",
+ "nom": "Cabillaud à la provençale (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 367,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 190
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mijotez tomates et olives.",
+  "Cuisez le cabillaud dessus 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 328.24,
+  "proteines": 43.44,
+  "glucides": 5.59,
+  "lipides": 13.74,
+  "sucres": 4.2,
+  "fibres": 2.71,
+  "satures": 2.09,
+  "sel": 0.7,
+  "fer": 2.45,
+  "calcium": 65.26,
+  "magnesium": 71.96,
+  "potassium": 894.33,
+  "zinc": 1.13,
+  "iode": 247.0,
+  "vitd": 2.28,
+  "vitc": 29.55,
+  "b12": 2.91,
+  "b9": 40.15,
+  "alcool": 0.0
+ }
+}

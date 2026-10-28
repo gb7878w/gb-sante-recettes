@@ -1,0 +1,70 @@
+{
+ "id": "r967-poulet-a-la-creme-de-moutarde-et-choucroute-alle",
+ "nom": "Poulet à la crème de moutarde et choucroute (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "25220",
+   "nom": "Choucroute cuite égouttée",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Nappez de crème moutardée, servez avec la choucroute."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 413.95,
+  "proteines": 52.11,
+  "glucides": 2.15,
+  "lipides": 19.62,
+  "sucres": 1.85,
+  "fibres": 6.75,
+  "satures": 7.79,
+  "sel": 2.8,
+  "fer": 1.26,
+  "calcium": 122.65,
+  "magnesium": 77.83,
+  "potassium": 894.3,
+  "zinc": 1.44,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 28.12,
+  "b12": 0.33,
+  "b9": 44.68,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r956-calmars-a-la-plancha-et-a-l-ail-espagne",
+ "nom": "Calmars à la plancha et à l'ail (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 227,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Saisissez les calmars à la plancha.",
+  "Ajoutez ail, persil et citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 395.81,
+  "proteines": 65.31,
+  "glucides": 4.13,
+  "lipides": 12.82,
+  "sucres": 0.15,
+  "fibres": 0.35,
+  "satures": 2.0,
+  "sel": 3.74,
+  "fer": 11.76,
+  "calcium": 370.15,
+  "magnesium": 122.97,
+  "potassium": 1327.82,
+  "zinc": 7.01,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 28.58,
+  "b12": 10.8,
+  "b9": 56.98,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "r970-truite-aux-amandes-et-haricots-verts-allemagne",
+ "nom": "Truite aux amandes et haricots verts (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 342,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 12
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite au beurre.",
+  "Parsemez d'amandes, servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 431.19,
+  "proteines": 41.5,
+  "glucides": 6.33,
+  "lipides": 25.07,
+  "sucres": 4.34,
+  "fibres": 6.3,
+  "satures": 8.51,
+  "sel": 0.23,
+  "fer": 1.82,
+  "calcium": 212.33,
+  "magnesium": 119.71,
+  "potassium": 1153.52,
+  "zinc": 1.76,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 6.67,
+  "b12": 7.77,
+  "b9": 107.65,
+  "alcool": 0.0
+ }
+}

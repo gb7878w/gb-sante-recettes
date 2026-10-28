@@ -1,0 +1,74 @@
+{
+ "id": "r950-calmars-a-la-tomate-italie",
+ "nom": "Calmars à la tomate (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 335,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez les calmars avec l'ail.",
+  "Mijotez dans le coulis 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 434.21,
+  "proteines": 67.77,
+  "glucides": 14.21,
+  "lipides": 11.06,
+  "sucres": 6.67,
+  "fibres": 3.47,
+  "satures": 1.8,
+  "sel": 4.8,
+  "fer": 11.75,
+  "calcium": 369.05,
+  "magnesium": 122.18,
+  "potassium": 1313.82,
+  "zinc": 6.97,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 24.08,
+  "b12": 10.8,
+  "b9": 54.14,
+  "alcool": 0.0
+ }
+}

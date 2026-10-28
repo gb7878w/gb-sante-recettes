@@ -1,0 +1,73 @@
+{
+ "id": "r945-poulet-au-citron-et-au-romarin-italie",
+ "nom": "Poulet au citron et au romarin (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 335,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet au citron et romarin 30 minutes.",
+  "Ajoutez les courgettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.41,
+  "proteines": 49.62,
+  "glucides": 2.47,
+  "lipides": 11.85,
+  "sucres": 2.2,
+  "fibres": 2.53,
+  "satures": 2.35,
+  "sel": 0.38,
+  "fer": 1.26,
+  "calcium": 44.46,
+  "magnesium": 95.66,
+  "potassium": 1095.36,
+  "zinc": 1.55,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 13.82,
+  "b12": 0.29,
+  "b9": 70.92,
+  "alcool": 0.0
+ }
+}

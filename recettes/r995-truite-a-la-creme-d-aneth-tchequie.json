@@ -1,0 +1,75 @@
+{
+ "id": "r995-truite-a-la-creme-d-aneth-tchequie",
+ "nom": "Truite à la crème d'aneth (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez la truite au beurre.",
+  "Servez avec épinards et sauce fromage blanc-aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 371.16,
+  "proteines": 48.18,
+  "glucides": 3.33,
+  "lipides": 16.78,
+  "sucres": 3.21,
+  "fibres": 5.39,
+  "satures": 6.07,
+  "sel": 0.36,
+  "fer": 2.89,
+  "calcium": 579.2,
+  "magnesium": 104.11,
+  "potassium": 1047.47,
+  "zinc": 2.66,
+  "iode": 24.72,
+  "vitd": 25.57,
+  "vitc": 7.73,
+  "b12": 8.08,
+  "b9": 136.77,
+  "alcool": 0.0
+ }
+}

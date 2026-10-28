@@ -1,0 +1,69 @@
+{
+ "id": "r940-pintade-aux-choux-france",
+ "nom": "Pintade aux choux (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 466,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36702",
+   "nom": "Poitrine de pintade",
+   "g": 170
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "28504",
+   "nom": "Lardons nature cuits",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Dorez pintade et lardons.",
+  "Ajoutez le chou, mijotez 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 447.21,
+  "proteines": 55.68,
+  "glucides": 12.43,
+  "lipides": 17.38,
+  "sucres": 10.55,
+  "fibres": 8.75,
+  "satures": 9.38,
+  "sel": 1.82,
+  "fer": 1.46,
+  "calcium": 158.37,
+  "magnesium": 36.42,
+  "potassium": 1442.49,
+  "zinc": 2.95,
+  "iode": 4.9,
+  "vitd": 0.58,
+  "vitc": 22.2,
+  "b12": 0.28,
+  "b9": 189.48,
+  "alcool": 0.0
+ }
+}

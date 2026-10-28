@@ -1,0 +1,70 @@
+{
+ "id": "r980-roti-d-agneau-et-haricots-verts-royaume-uni",
+ "nom": "Rôti d'agneau et haricots verts (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau 30 minutes.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 371.2,
+  "proteines": 43.82,
+  "glucides": 6.99,
+  "lipides": 16.91,
+  "sucres": 5.07,
+  "fibres": 6.68,
+  "satures": 8.36,
+  "sel": 0.29,
+  "fer": 3.32,
+  "calcium": 142.46,
+  "magnesium": 100.03,
+  "potassium": 987.12,
+  "zinc": 6.48,
+  "iode": 7.63,
+  "vitd": 0.09,
+  "vitc": 2.76,
+  "b12": 2.83,
+  "b9": 126.92,
+  "alcool": 0.0
+ }
+}

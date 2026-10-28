@@ -1,0 +1,74 @@
+{
+ "id": "r1001-poulet-grille-et-concombre-a-la-creme-lettonie",
+ "nom": "Poulet grillé et concombre à la crème (Lettonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 419,
+ "tags": [
+  "lowcarb",
+  "Lettonie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez le poulet.",
+  "Servez avec concombre au fromage blanc et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 353.85,
+  "proteines": 57.19,
+  "glucides": 7.82,
+  "lipides": 9.43,
+  "sucres": 6.43,
+  "fibres": 1.01,
+  "satures": 1.94,
+  "sel": 0.35,
+  "fer": 1.14,
+  "calcium": 176.38,
+  "magnesium": 92.64,
+  "potassium": 1102.91,
+  "zinc": 1.85,
+  "iode": 10.97,
+  "vitd": 0.0,
+  "vitc": 16.76,
+  "b12": 0.69,
+  "b9": 61.21,
+  "alcool": 0.0
+ }
+}

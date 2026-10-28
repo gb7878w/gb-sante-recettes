@@ -1,0 +1,72 @@
+{
+ "id": "r955-poulet-a-l-espagnole-olives-et-poivrons-espagne",
+ "nom": "Poulet à l'espagnole, olives et poivrons (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 408,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet.",
+  "Ajoutez olives, poivrons et tomate, mijotez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 390.36,
+  "proteines": 50.03,
+  "glucides": 8.89,
+  "lipides": 15.56,
+  "sucres": 7.17,
+  "fibres": 4.28,
+  "satures": 2.67,
+  "sel": 1.95,
+  "fer": 3.25,
+  "calcium": 60.32,
+  "magnesium": 84.4,
+  "potassium": 1105.0,
+  "zinc": 1.44,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 149.39,
+  "b12": 0.29,
+  "b9": 69.58,
+  "alcool": 0.0
+ }
+}

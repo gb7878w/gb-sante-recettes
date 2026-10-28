@@ -1,0 +1,76 @@
+{
+ "id": "r961-moussaka-allegee-a-l-agneau-grece",
+ "nom": "Moussaka allégée à l'agneau (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 140
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Disposez aubergines et agneau cuit au coulis.",
+  "Nappez de yaourt battu avec l'œuf, enfournez 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 441.04,
+  "proteines": 49.51,
+  "glucides": 19.97,
+  "lipides": 15.56,
+  "sucres": 15.97,
+  "fibres": 11.54,
+  "satures": 6.17,
+  "sel": 1.19,
+  "fer": 3.22,
+  "calcium": 220.76,
+  "magnesium": 88.38,
+  "potassium": 874.6,
+  "zinc": 6.52,
+  "iode": 36.1,
+  "vitd": 1.17,
+  "vitc": 2.86,
+  "b12": 3.35,
+  "b9": 82.7,
+  "alcool": 0.0
+ }
+}

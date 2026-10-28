@@ -1,0 +1,74 @@
+{
+ "id": "r994-porc-au-paprika-et-au-chou-tchequie",
+ "nom": "Porc au paprika et au chou (Tchéquie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 399,
+ "tags": [
+  "lowcarb",
+  "Tchéquie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 3
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Dorez le porc à l'oignon et au paprika.",
+  "Ajoutez le chou, mijotez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.17,
+  "proteines": 45.34,
+  "glucides": 11.81,
+  "lipides": 17.84,
+  "sucres": 8.82,
+  "fibres": 8.83,
+  "satures": 8.0,
+  "sel": 0.28,
+  "fer": 3.02,
+  "calcium": 141.47,
+  "magnesium": 68.44,
+  "potassium": 1145.49,
+  "zinc": 3.65,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 18.41,
+  "b12": 1.64,
+  "b9": 144.75,
+  "alcool": 0.0
+ }
+}

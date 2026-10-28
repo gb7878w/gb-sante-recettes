@@ -1,0 +1,70 @@
+{
+ "id": "r1003-omelette-ukrainienne-au-jambon-et-au-fromage-ukr",
+ "nom": "Omelette ukrainienne au jambon et au fromage (Ukraine)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 278,
+ "tags": [
+  "lowcarb",
+  "Ukraine",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 190
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Cuisez l'omelette avec jambon et fromage.",
+  "Parsemez d'aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 427.6,
+  "proteines": 43.03,
+  "glucides": 1.6,
+  "lipides": 27.8,
+  "sucres": 1.34,
+  "fibres": 0.2,
+  "satures": 10.26,
+  "sel": 1.96,
+  "fer": 4.11,
+  "calcium": 402.73,
+  "magnesium": 31.31,
+  "potassium": 513.16,
+  "zinc": 3.07,
+  "iode": 45.37,
+  "vitd": 3.57,
+  "vitc": 2.1,
+  "b12": 3.26,
+  "b9": 76.43,
+  "alcool": 0.0
+ }
+}

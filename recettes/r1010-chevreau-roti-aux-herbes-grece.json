@@ -1,0 +1,73 @@
+{
+ "id": "r1010-chevreau-roti-aux-herbes-grece",
+ "nom": "Chevreau rôti aux herbes (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 320,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21801",
+   "nom": "Chevreau cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le chevreau aux herbes 40 minutes.",
+  "Ajoutez les courgettes en fin de cuisson."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 304.43,
+  "proteines": 42.11,
+  "glucides": 2.39,
+  "lipides": 13.19,
+  "sucres": 2.16,
+  "fibres": 2.53,
+  "satures": 2.82,
+  "sel": 0.48,
+  "fer": 6.22,
+  "calcium": 61.89,
+  "magnesium": 36.06,
+  "potassium": 991.86,
+  "zinc": 8.29,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 9.29,
+  "b12": 1.78,
+  "b9": 61.72,
+  "alcool": 0.0
+ }
+}

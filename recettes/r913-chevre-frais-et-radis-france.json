@@ -1,0 +1,63 @@
+{
+ "id": "r913-chevre-frais-et-radis-france",
+ "nom": "Chèvre frais et radis (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 180,
+ "tags": [
+  "lowcarb",
+  "France",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 40
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Servez le chèvre avec les radis et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 119.82,
+  "proteines": 15.96,
+  "glucides": 4.03,
+  "lipides": 4.03,
+  "sucres": 3.77,
+  "fibres": 0.84,
+  "satures": 2.74,
+  "sel": 0.61,
+  "fer": 0.41,
+  "calcium": 189.4,
+  "magnesium": 19.48,
+  "potassium": 349.2,
+  "zinc": 0.44,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 7.32,
+  "b12": 0.32,
+  "b9": 76.44,
+  "alcool": 0.0
+ }
+}

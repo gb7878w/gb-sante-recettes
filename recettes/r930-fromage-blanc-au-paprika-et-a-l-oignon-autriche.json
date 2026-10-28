@@ -1,0 +1,69 @@
+{
+ "id": "r930-fromage-blanc-au-paprika-et-a-l-oignon-autriche",
+ "nom": "Fromage blanc au paprika et à l'oignon (Autriche)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 236,
+ "tags": [
+  "lowcarb",
+  "Autriche",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 180
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 1
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 15
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mêlez fromage blanc, paprika et oignon.",
+  "Servez avec les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 103.58,
+  "proteines": 15.01,
+  "glucides": 8.76,
+  "lipides": 0.2,
+  "sucres": 7.58,
+  "fibres": 1.3,
+  "satures": 0.08,
+  "sel": 0.22,
+  "fer": 0.67,
+  "calcium": 251.44,
+  "magnesium": 27.03,
+  "potassium": 404.5,
+  "zinc": 0.97,
+  "iode": 18.72,
+  "vitd": 0.0,
+  "vitc": 5.2,
+  "b12": 0.72,
+  "b9": 83.8,
+  "alcool": 0.0
+ }
+}

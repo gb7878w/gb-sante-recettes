@@ -1,0 +1,65 @@
+{
+ "id": "r917-ricotta-au-citron-italie",
+ "nom": "Ricotta au citron (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 133,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 120
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "15000",
+   "nom": "Amandes",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mêlez ricotta et zeste de citron.",
+  "Parsemez d'amandes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 239.33,
+  "proteines": 12.05,
+  "glucides": 5.64,
+  "lipides": 18.38,
+  "sucres": 3.08,
+  "fibres": 1.0,
+  "satures": 10.02,
+  "sel": 0.36,
+  "fer": 0.74,
+  "calcium": 398.15,
+  "magnesium": 35.2,
+  "potassium": 197.0,
+  "zinc": 1.69,
+  "iode": 21.6,
+  "vitd": 0.24,
+  "vitc": 2.25,
+  "b12": 0.41,
+  "b9": 25.42,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r900-oeufs-brouilles-au-saumon-et-au-citron-france",
+ "nom": "Œufs brouillés au saumon et au citron (France)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 175,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 45
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Brouillez les œufs au beurre.",
+  "Ajoutez saumon fumé et zeste de citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 286.53,
+  "proteines": 25.17,
+  "glucides": 0.86,
+  "lipides": 20.14,
+  "sucres": 0.41,
+  "fibres": 0.0,
+  "satures": 6.82,
+  "sel": 1.96,
+  "fer": 2.34,
+  "calcium": 96.29,
+  "magnesium": 30.93,
+  "potassium": 417.16,
+  "zinc": 1.34,
+  "iode": 43.28,
+  "vitd": 4.76,
+  "vitc": 2.25,
+  "b12": 3.26,
+  "b9": 54.07,
+  "alcool": 0.0
+ }
+}

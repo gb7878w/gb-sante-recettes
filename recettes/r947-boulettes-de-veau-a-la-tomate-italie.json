@@ -1,0 +1,80 @@
+{
+ "id": "r947-boulettes-de-veau-a-la-tomate-italie",
+ "nom": "Boulettes de veau à la tomate (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Mêlez veau, parmesan et œuf.",
+  "Formez des boulettes, mijotez dans le coulis 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 396.99,
+  "proteines": 58.52,
+  "glucides": 10.79,
+  "lipides": 12.1,
+  "sucres": 7.68,
+  "fibres": 4.95,
+  "satures": 5.35,
+  "sel": 1.58,
+  "fer": 2.72,
+  "calcium": 223.38,
+  "magnesium": 88.92,
+  "potassium": 422.55,
+  "zinc": 6.06,
+  "iode": 28.8,
+  "vitd": 0.56,
+  "vitc": 4.78,
+  "b12": 3.83,
+  "b9": 63.84,
+  "alcool": 0.0
+ }
+}

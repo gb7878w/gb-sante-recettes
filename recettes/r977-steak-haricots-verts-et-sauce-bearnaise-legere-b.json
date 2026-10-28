@@ -1,0 +1,75 @@
+{
+ "id": "r977-steak-haricots-verts-et-sauce-bearnaise-legere-b",
+ "nom": "Steak, haricots verts et sauce béarnaise légère (Belgique)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 443,
+ "tags": [
+  "lowcarb",
+  "Belgique",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 160
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 15
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Grillez le steak.",
+  "Servez avec haricots verts et sauce fromage blanc à l'échalote."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.26,
+  "proteines": 48.6,
+  "glucides": 11.02,
+  "lipides": 10.54,
+  "sucres": 7.9,
+  "fibres": 6.79,
+  "satures": 5.56,
+  "sel": 0.07,
+  "fer": 5.84,
+  "calcium": 185.25,
+  "magnesium": 60.61,
+  "potassium": 641.66,
+  "zinc": 7.49,
+  "iode": 6.37,
+  "vitd": 0.09,
+  "vitc": 3.52,
+  "b12": 2.65,
+  "b9": 115.17,
+  "alcool": 0.0
+ }
+}

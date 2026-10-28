@@ -1,0 +1,70 @@
+{
+ "id": "r935-filet-de-boeuf-au-poivre-et-brocoli-france",
+ "nom": "Filet de bœuf au poivre et brocoli (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 396,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 160
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Poêlez le bœuf poivré.",
+  "Déglacez à la crème, servez avec le brocoli."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 361.61,
+  "proteines": 49.19,
+  "glucides": 6.41,
+  "lipides": 14.34,
+  "sucres": 4.31,
+  "fibres": 4.4,
+  "satures": 7.77,
+  "sel": 0.13,
+  "fer": 5.8,
+  "calcium": 104.57,
+  "magnesium": 48.82,
+  "potassium": 719.79,
+  "zinc": 7.79,
+  "iode": 0.1,
+  "vitd": 0.07,
+  "vitc": 41.4,
+  "b12": 2.41,
+  "b9": 163.58,
+  "alcool": 0.0
+ }
+}

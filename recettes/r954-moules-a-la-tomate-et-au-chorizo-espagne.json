@@ -1,0 +1,75 @@
+{
+ "id": "r954-moules-a-la-tomate-et-au-chorizo-espagne",
+ "nom": "Moules à la tomate et au chorizo (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 457,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "viande"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 300
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 30
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir chorizo, ail et tomate.",
+  "Ajoutez les moules, couvrez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 450.01,
+  "proteines": 59.29,
+  "glucides": 21.0,
+  "lipides": 13.47,
+  "sucres": 4.06,
+  "fibres": 1.55,
+  "satures": 3.75,
+  "sel": 3.71,
+  "fer": 12.8,
+  "calcium": 203.81,
+  "magnesium": 219.38,
+  "potassium": 984.82,
+  "zinc": 9.51,
+  "iode": 318.0,
+  "vitd": 0.22,
+  "vitc": 44.25,
+  "b12": 53.05,
+  "b9": 181.07,
+  "alcool": 0.0
+ }
+}

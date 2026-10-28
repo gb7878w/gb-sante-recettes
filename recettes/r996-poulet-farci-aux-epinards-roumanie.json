@@ -1,0 +1,75 @@
+{
+ "id": "r996-poulet-farci-aux-epinards-roumanie",
+ "nom": "Poulet farci aux épinards (Roumanie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 308,
+ "tags": [
+  "lowcarb",
+  "Roumanie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Garnissez le poulet d'épinards, ail et feta.",
+  "Enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 386.94,
+  "proteines": 53.84,
+  "glucides": 0.57,
+  "lipides": 17.12,
+  "sucres": 0.02,
+  "fibres": 4.32,
+  "satures": 6.98,
+  "sel": 0.93,
+  "fer": 2.18,
+  "calcium": 361.27,
+  "magnesium": 95.5,
+  "potassium": 882.4,
+  "zinc": 2.4,
+  "iode": 24.0,
+  "vitd": 0.0,
+  "vitc": 2.15,
+  "b12": 0.43,
+  "b9": 95.76,
+  "alcool": 0.0
+ }
+}

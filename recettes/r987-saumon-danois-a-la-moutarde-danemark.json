@@ -1,0 +1,77 @@
+{
+ "id": "r987-saumon-danois-a-la-moutarde-danemark",
+ "nom": "Saumon danois à la moutarde (Danemark)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 329,
+ "tags": [
+  "lowcarb",
+  "Danemark",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Badigeonnez le saumon de moutarde.",
+  "Rôtissez 12 minutes, servez avec les asperges."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 429.01,
+  "proteines": 41.69,
+  "glucides": 3.2,
+  "lipides": 26.49,
+  "sucres": 2.2,
+  "fibres": 3.41,
+  "satures": 7.46,
+  "sel": 0.85,
+  "fer": 1.87,
+  "calcium": 65.66,
+  "magnesium": 66.55,
+  "potassium": 978.9,
+  "zinc": 1.53,
+  "iode": 0.51,
+  "vitd": 0.07,
+  "vitc": 13.69,
+  "b12": 4.46,
+  "b9": 141.1,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r934-poulet-roti-aux-herbes-et-haricots-verts-france",
+ "nom": "Poulet rôti aux herbes et haricots verts (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet aux herbes 30 minutes.",
+  "Servez avec les haricots verts au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 343.02,
+  "proteines": 51.83,
+  "glucides": 7.07,
+  "lipides": 9.75,
+  "sucres": 5.07,
+  "fibres": 6.68,
+  "satures": 5.3,
+  "sel": 0.23,
+  "fer": 2.06,
+  "calcium": 119.04,
+  "magnesium": 114.56,
+  "potassium": 1238.44,
+  "zinc": 1.64,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 7.81,
+  "b12": 0.3,
+  "b9": 115.42,
+  "alcool": 0.0
+ }
+}

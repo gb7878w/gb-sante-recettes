@@ -1,0 +1,75 @@
+{
+ "id": "r963-crevettes-saganaki-grece",
+ "nom": "Crevettes saganaki (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 402,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Mijotez la tomate.",
+  "Ajoutez crevettes et feta, cuisez 6 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 405.77,
+  "proteines": 44.94,
+  "glucides": 9.52,
+  "lipides": 20.06,
+  "sucres": 4.24,
+  "fibres": 1.67,
+  "satures": 8.56,
+  "sel": 3.63,
+  "fer": 4.43,
+  "calcium": 586.92,
+  "magnesium": 138.88,
+  "potassium": 873.32,
+  "zinc": 4.01,
+  "iode": 32.0,
+  "vitd": 0.0,
+  "vitc": 33.19,
+  "b12": 3.49,
+  "b9": 62.37,
+  "alcool": 0.0
+ }
+}

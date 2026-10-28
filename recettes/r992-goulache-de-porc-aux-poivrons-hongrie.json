@@ -1,0 +1,79 @@
+{
+ "id": "r992-goulache-de-porc-aux-poivrons-hongrie",
+ "nom": "Goulache de porc aux poivrons (Hongrie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 412,
+ "tags": [
+  "lowcarb",
+  "Hongrie",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Dorez le porc.",
+  "Ajoutez oignon, paprika et poivron, mijotez 35 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 446.12,
+  "proteines": 50.25,
+  "glucides": 11.74,
+  "lipides": 20.82,
+  "sucres": 7.97,
+  "fibres": 4.48,
+  "satures": 5.56,
+  "sel": 1.67,
+  "fer": 3.53,
+  "calcium": 163.19,
+  "magnesium": 73.4,
+  "potassium": 1004.0,
+  "zinc": 3.95,
+  "iode": 8.32,
+  "vitd": 0.0,
+  "vitc": 131.67,
+  "b12": 1.95,
+  "b9": 67.16,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r952-dorade-a-l-espagnole-ail-et-paprika-espagne",
+ "nom": "Dorade à l'espagnole, ail et paprika (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 225,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Rôtissez la dorade à l'ail et au paprika.",
+  "Servez avec le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 398.47,
+  "proteines": 47.64,
+  "glucides": 1.1,
+  "lipides": 22.05,
+  "sucres": 0.32,
+  "fibres": 0.87,
+  "satures": 4.16,
+  "sel": 0.36,
+  "fer": 0.86,
+  "calcium": 32.01,
+  "magnesium": 62.95,
+  "potassium": 915.5,
+  "zinc": 1.1,
+  "iode": 0.0,
+  "vitd": 11.42,
+  "vitc": 5.7,
+  "b12": 4.74,
+  "b9": 39.0,
+  "alcool": 0.0
+ }
+}

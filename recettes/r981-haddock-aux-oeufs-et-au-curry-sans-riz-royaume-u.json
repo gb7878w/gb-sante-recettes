@@ -1,0 +1,77 @@
+{
+ "id": "r981-haddock-aux-oeufs-et-au-curry-sans-riz-royaume-u",
+ "nom": "Haddock aux œufs et au curry, sans riz (Royaume-Uni)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 170
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Poêlez le haddock au curry.",
+  "Servez avec œufs durs et épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 405.7,
+  "proteines": 57.0,
+  "glucides": 0.7,
+  "lipides": 18.22,
+  "sucres": 0.69,
+  "fibres": 4.57,
+  "satures": 7.55,
+  "sel": 3.63,
+  "fer": 5.96,
+  "calcium": 380.32,
+  "magnesium": 142.46,
+  "potassium": 1023.16,
+  "zinc": 3.14,
+  "iode": 488.31,
+  "vitd": 2.68,
+  "vitc": 0.01,
+  "b12": 3.95,
+  "b9": 137.96,
+  "alcool": 0.0
+ }
+}

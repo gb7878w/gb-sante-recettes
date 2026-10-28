@@ -1,0 +1,70 @@
+{
+ "id": "r968-saumon-poele-aux-asperges-allemagne",
+ "nom": "Saumon poêlé aux asperges (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 378,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez le saumon.",
+  "Servez avec les asperges au beurre citronné."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.51,
+  "proteines": 42.25,
+  "glucides": 3.68,
+  "lipides": 28.75,
+  "sucres": 2.75,
+  "fibres": 4.4,
+  "satures": 9.59,
+  "sel": 0.22,
+  "fer": 1.85,
+  "calcium": 63.06,
+  "magnesium": 66.6,
+  "potassium": 1066.82,
+  "zinc": 1.69,
+  "iode": 0.16,
+  "vitd": 0.11,
+  "vitc": 17.52,
+  "b12": 4.46,
+  "b9": 174.21,
+  "alcool": 0.0
+ }
+}

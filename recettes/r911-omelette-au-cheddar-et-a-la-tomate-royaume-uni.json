@@ -1,0 +1,71 @@
+{
+ "id": "r911-omelette-au-cheddar-et-a-la-tomate-royaume-uni",
+ "nom": "Omelette au cheddar et à la tomate (Royaume-Uni)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 239,
+ "tags": [
+  "lowcarb",
+  "Royaume-Uni",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "12726",
+   "nom": "Cheddar",
+   "g": 25
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Battez les œufs.",
+  "Cuisez avec cheddar et tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.63,
+  "proteines": 22.94,
+  "glucides": 3.26,
+  "lipides": 24.49,
+  "sucres": 2.62,
+  "fibres": 0.8,
+  "satures": 10.49,
+  "sel": 0.81,
+  "fer": 2.62,
+  "calcium": 274.74,
+  "magnesium": 26.73,
+  "potassium": 362.33,
+  "zinc": 2.24,
+  "iode": 36.74,
+  "vitd": 2.64,
+  "vitc": 13.04,
+  "b12": 2.11,
+  "b9": 61.62,
+  "alcool": 0.0
+ }
+}

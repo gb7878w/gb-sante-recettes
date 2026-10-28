@@ -1,0 +1,62 @@
+{
+ "id": "r924-jambon-cuit-et-cornichon-allemagne",
+ "nom": "Jambon cuit et cornichon (Allemagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 105,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 40
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Roulez le jambon, servez avec cornichons et moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 83.76,
+  "proteines": 12.53,
+  "glucides": 1.49,
+  "lipides": 2.5,
+  "sucres": 1.11,
+  "fibres": 0.69,
+  "satures": 0.75,
+  "sel": 2.18,
+  "fer": 0.19,
+  "calcium": 36.31,
+  "magnesium": 11.61,
+  "potassium": 270.3,
+  "zinc": 0.09,
+  "iode": 0.15,
+  "vitd": 0.0,
+  "vitc": 0.01,
+  "b12": 0.0,
+  "b9": 4.97,
+  "alcool": 0.0
+ }
+}

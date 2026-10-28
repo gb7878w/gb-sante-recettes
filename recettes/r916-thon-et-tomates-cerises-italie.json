@@ -1,0 +1,70 @@
+{
+ "id": "r916-thon-et-tomates-cerises-italie",
+ "nom": "Thon et tomates cerises (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 192,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mêlez thon, tomates et basilic.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 118.96,
+  "proteines": 21.17,
+  "glucides": 6.49,
+  "lipides": 0.27,
+  "sucres": 5.79,
+  "fibres": 1.03,
+  "satures": 0.07,
+  "sel": 0.5,
+  "fer": 0.94,
+  "calcium": 81.5,
+  "magnesium": 30.58,
+  "potassium": 466.1,
+  "zinc": 0.68,
+  "iode": 14.8,
+  "vitd": 3.05,
+  "vitc": 17.73,
+  "b12": 1.72,
+  "b9": 37.22,
+  "alcool": 0.0
+ }
+}

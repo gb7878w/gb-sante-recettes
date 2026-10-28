@@ -1,0 +1,71 @@
+{
+ "id": "r902-frittata-aux-epinards-et-au-parmesan-italie",
+ "nom": "Frittata aux épinards et au parmesan (Italie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 230,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites tomber les épinards.",
+  "Ajoutez œufs et parmesan, cuisez à couvert."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 310.38,
+  "proteines": 23.88,
+  "glucides": 0.35,
+  "lipides": 22.98,
+  "sucres": 0.35,
+  "fibres": 2.8,
+  "satures": 7.39,
+  "sel": 0.66,
+  "fer": 3.5,
+  "calcium": 438.84,
+  "magnesium": 44.3,
+  "potassium": 318.7,
+  "zinc": 2.53,
+  "iode": 40.8,
+  "vitd": 2.44,
+  "vitc": 0.0,
+  "b12": 2.28,
+  "b9": 96.76,
+  "alcool": 0.0
+ }
+}

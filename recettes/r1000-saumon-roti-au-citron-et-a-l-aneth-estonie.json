@@ -1,0 +1,76 @@
+{
+ "id": "r1000-saumon-roti-au-citron-et-a-l-aneth-estonie",
+ "nom": "Saumon rôti au citron et à l'aneth (Estonie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 380,
+ "tags": [
+  "lowcarb",
+  "Estonie",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 160
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 4
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Rôtissez le saumon.",
+  "Servez avec brocoli, citron et aneth."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 452.35,
+  "proteines": 45.26,
+  "glucides": 5.43,
+  "lipides": 26.33,
+  "sucres": 3.18,
+  "fibres": 4.54,
+  "satures": 7.78,
+  "sel": 0.3,
+  "fer": 1.96,
+  "calcium": 100.65,
+  "magnesium": 93.79,
+  "potassium": 1334.37,
+  "zinc": 1.84,
+  "iode": 0.25,
+  "vitd": 0.07,
+  "vitc": 53.16,
+  "b12": 4.46,
+  "b9": 202.9,
+  "alcool": 0.0
+ }
+}
