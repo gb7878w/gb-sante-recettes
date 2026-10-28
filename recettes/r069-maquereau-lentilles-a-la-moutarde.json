@@ -13,6 +13,11 @@
   "poisson",
   "rapide"
  ],
+ "allergenes": [
+  "moutarde",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "26123",

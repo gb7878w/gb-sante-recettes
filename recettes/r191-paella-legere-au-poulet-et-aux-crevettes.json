@@ -13,6 +13,10 @@
   "viande",
   "poisson"
  ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "36018",

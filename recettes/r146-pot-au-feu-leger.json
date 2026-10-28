@@ -12,6 +12,10 @@
  "tags": [
   "viande"
  ],
+ "allergenes": [
+  "celeri"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "6207",

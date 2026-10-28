@@ -13,6 +13,11 @@
   "oeufs",
   "four"
  ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "22000",

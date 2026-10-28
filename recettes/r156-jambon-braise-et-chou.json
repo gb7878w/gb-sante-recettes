@@ -12,6 +12,10 @@
  "tags": [
   "viande"
  ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "28913",

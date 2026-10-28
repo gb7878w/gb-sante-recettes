@@ -12,6 +12,12 @@
  "tags": [
   "four"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "22000",

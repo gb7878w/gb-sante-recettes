@@ -12,6 +12,11 @@
  "tags": [
   "oeufs"
  ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "22000",

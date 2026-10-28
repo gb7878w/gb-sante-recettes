@@ -12,6 +12,12 @@
   "oeufs",
   "four"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "22000",

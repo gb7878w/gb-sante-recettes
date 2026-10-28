@@ -12,6 +12,8 @@
  "tags": [
   "viande"
  ],
+ "allergenes": [],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "36018",

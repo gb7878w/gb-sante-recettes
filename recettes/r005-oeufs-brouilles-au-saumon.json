@@ -13,6 +13,13 @@
   "oeufs",
   "rapide"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "22000",

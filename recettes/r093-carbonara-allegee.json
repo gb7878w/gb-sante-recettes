@@ -13,6 +13,12 @@
   "viande",
   "rapide"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "9871",

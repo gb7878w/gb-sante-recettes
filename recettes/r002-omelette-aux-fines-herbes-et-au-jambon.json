@@ -12,6 +12,11 @@
   "oeufs",
   "rapide"
  ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "22000",

@@ -12,6 +12,12 @@
   "vegetarien",
   "rapide"
  ],
+ "allergenes": [
+  "fruits-a-coque",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "19644",

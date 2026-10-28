@@ -12,6 +12,10 @@
   "poisson",
   "rapide"
  ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "10007",

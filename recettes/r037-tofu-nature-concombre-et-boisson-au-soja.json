@@ -12,6 +12,10 @@
   "vegetarien",
   "rapide"
  ],
+ "allergenes": [
+  "soja"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "20904",

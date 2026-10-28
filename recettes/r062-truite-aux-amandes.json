@@ -13,6 +13,12 @@
   "poisson",
   "four"
  ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "27014",

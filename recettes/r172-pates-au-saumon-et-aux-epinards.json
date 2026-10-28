@@ -13,6 +13,12 @@
   "poisson",
   "rapide"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "9871",

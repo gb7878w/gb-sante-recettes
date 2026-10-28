@@ -13,6 +13,11 @@
   "vegetarien",
   "four"
  ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "20021",

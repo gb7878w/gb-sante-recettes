@@ -13,6 +13,12 @@
   "vegetarien",
   "oeufs"
  ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "22010",

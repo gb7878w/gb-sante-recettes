@@ -11,6 +11,10 @@
  "tags": [
   "rapide"
  ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "7110",

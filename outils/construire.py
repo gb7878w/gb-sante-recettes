@@ -9,7 +9,7 @@ from pathlib import Path
 
 RACINE = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from ingredients import I
+from ingredients import I, ALLERGENES, VIANDES
 from recettes_src import RECETTES
 
 COLONNES = ["code", "nom", "groupe", "kcal", "proteines", "glucides", "lipides", "sucres", "fibres", "satures", "sel",
@@ -51,6 +51,9 @@ def construire():
             if not 0 < g <= 800: erreurs.append(f"{rid}: quantité absurde {alias} {g}")
             for k in total: total[k] += ciqual[code][k] * g / 100
             ingredients.append({"ciqual": code, "nom": libelle, "g": g}); poids += g
+        aliases = {a for a, _ in r["ingredients"]}
+        allergenes = sorted(k for k, l in ALLERGENES.items() if aliases & set(l))
+        vegetarien = not (aliases & set(VIANDES)) and "poisson" not in allergenes and "crustaces" not in allergenes
         mn, mx, pmin = REGLES[r["categorie"]]
         if not mn <= total["kcal"] <= mx: erreurs.append(f"{rid}: {total['kcal']:.0f} kcal hors de {mn}-{mx}")
         if total["proteines"] < pmin: erreurs.append(f"{rid}: {total['proteines']:.0f} g de protéines (< {pmin})")
@@ -59,6 +62,7 @@ def construire():
         sortie.append({
             "id": rid, "nom": r["nom"], "categorie": r["categorie"], "moments": MOMENTS[r["categorie"]],
             "tempsMin": r["temps"], "portions": 1, "poidsG": round(poids), "tags": r.get("tags", []),
+            "allergenes": allergenes, "vegetarien": vegetarien,
             "ingredients": ingredients, "etapes": r["etapes"], "astuce": r.get("astuce", ""),
             "nutrition": {k: round(v, 2) for k, v in total.items()},
         })

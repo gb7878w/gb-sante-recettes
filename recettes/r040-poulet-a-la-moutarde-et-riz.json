@@ -13,6 +13,11 @@
   "viande",
   "rapide"
  ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "36018",

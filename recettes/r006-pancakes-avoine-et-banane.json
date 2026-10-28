@@ -11,6 +11,12 @@
  "tags": [
   "vegetarien"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "9311",

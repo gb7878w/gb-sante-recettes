@@ -12,6 +12,12 @@
  "tags": [
   "poisson"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "4003",

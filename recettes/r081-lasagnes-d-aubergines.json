@@ -13,6 +13,10 @@
   "viande",
   "four"
  ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "20002",

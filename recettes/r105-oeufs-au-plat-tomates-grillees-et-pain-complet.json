@@ -12,6 +12,11 @@
   "vegetarien",
   "oeufs"
  ],
+ "allergenes": [
+  "gluten",
+  "oeufs"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "22000",

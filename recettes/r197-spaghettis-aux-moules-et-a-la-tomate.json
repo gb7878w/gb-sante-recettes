@@ -12,6 +12,11 @@
  "tags": [
   "poisson"
  ],
+ "allergenes": [
+  "crustaces",
+  "gluten"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "9811",

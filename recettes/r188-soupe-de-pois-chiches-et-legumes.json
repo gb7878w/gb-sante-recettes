@@ -12,6 +12,10 @@
  "tags": [
   "vegetarien"
  ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "20507",

@@ -11,6 +11,12 @@
  "tags": [
   "vegetarien"
  ],
+ "allergenes": [
+  "arachide",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "9311",

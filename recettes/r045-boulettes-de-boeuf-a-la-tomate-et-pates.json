@@ -12,6 +12,11 @@
  "tags": [
   "viande"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "6251",

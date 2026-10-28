@@ -53,3 +53,18 @@ I = {
     "vinaigre": ("11018", "Vinaigre"), "bouillon": ("25948", "Bouillon de légumes"), "curry": ("11005", "Curry"),
     "cumin": ("11042", "Cumin"), "herbes": ("11060", "Herbes de Provence"), "cannelle": ("11025", "Cannelle"),
 }
+
+# Allergènes par alias d'ingrédient (les 14 allergènes réglementaires qui concernent ces recettes).
+ALLERGENES = {
+    "gluten": ["flocons", "farine", "pates", "patescompl", "boulgour", "semoule", "paincompl", "painblanc", "biscotte"],
+    "lactose": ["lait", "fb0", "fb3", "yaourt", "kefir", "emmental", "chevre", "mozzarella", "feta", "parmesan", "cremelegere", "beurre", "petitsuisse"],
+    "oeufs": ["oeuf", "oeufdur"],
+    "fruits-a-coque": ["amande", "noix", "noisette", "pignon"],
+    "arachide": ["cacahuete"],
+    "poisson": ["saumon", "cabillaud", "thon", "merlu", "sardine", "sardinehuile", "lieu", "truite", "maquereau", "haddock", "eglefin"],
+    "crustaces": ["crevette", "moule", "stjacques"],
+    "soja": ["soja", "tofu"],
+    "moutarde": ["moutarde"],
+    "celeri": ["celeri"],
+}
+VIANDES = ["poulet", "cuissepoulet", "dinde", "hache5", "rumsteck", "porc", "veau", "agneau", "jambon", "jambondinde", "lardons", "lapin"]

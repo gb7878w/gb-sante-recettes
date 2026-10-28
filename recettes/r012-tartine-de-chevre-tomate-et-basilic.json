@@ -12,6 +12,11 @@
   "vegetarien",
   "rapide"
  ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
  "ingredients": [
   {
    "ciqual": "7110",

@@ -13,6 +13,11 @@
   "poisson",
   "four"
  ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
  "ingredients": [
   {
    "ciqual": "26008",
