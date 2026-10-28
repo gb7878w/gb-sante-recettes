@@ -1,0 +1,67 @@
+{
+ "id": "r363-merlu-a-la-tomate-et-aux-olives",
+ "nom": "Merlu à la tomate et aux olives",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 170
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Pochez le merlu dans le coulis avec les olives.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 426.61,
+  "proteines": 41.9,
+  "glucides": 41.93,
+  "lipides": 8.56,
+  "sucres": 7.22,
+  "fibres": 7.13,
+  "satures": 2.14,
+  "sel": 1.67,
+  "fer": 2.33,
+  "calcium": 94.72,
+  "magnesium": 86.64,
+  "potassium": 1221.85,
+  "zinc": 1.26,
+  "iode": 71.4,
+  "vitd": 5.44,
+  "vitc": 5.84,
+  "b12": 2.72,
+  "b9": 107.08,
+  "alcool": 0.0
+ }
+}

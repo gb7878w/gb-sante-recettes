@@ -1,0 +1,62 @@
+{
+ "id": "r322-banane-et-lait-chaud",
+ "nom": "Banane et lait chaud",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 350,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 90
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Chauffez le lait.",
+  "Servez avec la banane et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 205.09,
+  "proteines": 12.48,
+  "glucides": 29.72,
+  "lipides": 3.12,
+  "sucres": 25.69,
+  "fibres": 2.43,
+  "satures": 2.1,
+  "sel": 0.25,
+  "fer": 0.36,
+  "calcium": 318.99,
+  "magnesium": 56.72,
+  "potassium": 708.4,
+  "zinc": 1.2,
+  "iode": 30.44,
+  "vitd": 0.0,
+  "vitc": 9.44,
+  "b12": 1.0,
+  "b9": 50.48,
+  "alcool": 0.0
+ }
+}

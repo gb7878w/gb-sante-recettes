@@ -1,0 +1,67 @@
+{
+ "id": "r341-porc-a-la-moutarde-et-aux-poireaux",
+ "nom": "Porc à la moutarde et aux poireaux",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 110
+  }
+ ],
+ "etapes": [
+  "Poêlez le porc, nappez de moutarde.",
+  "Servez avec les poireaux fondus et le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 408.46,
+  "proteines": 39.7,
+  "glucides": 33.19,
+  "lipides": 11.19,
+  "sucres": 4.35,
+  "fibres": 7.5,
+  "satures": 3.8,
+  "sel": 0.69,
+  "fer": 2.44,
+  "calcium": 79.66,
+  "magnesium": 60.55,
+  "potassium": 781.0,
+  "zinc": 3.27,
+  "iode": 0.24,
+  "vitd": 0.0,
+  "vitc": 2.62,
+  "b12": 1.33,
+  "b9": 52.65,
+  "alcool": 0.0
+ }
+}

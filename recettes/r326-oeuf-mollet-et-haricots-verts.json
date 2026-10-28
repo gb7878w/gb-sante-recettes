@@ -1,0 +1,56 @@
+{
+ "id": "r326-oeuf-mollet-et-haricots-verts",
+ "nom": "Oeuf mollet et haricots verts",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Cuisez l'œuf 6 minutes.",
+  "Servez avec les haricots verts tièdes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 175.4,
+  "proteines": 16.6,
+  "glucides": 3.96,
+  "lipides": 9.48,
+  "sucres": 3.07,
+  "fibres": 3.2,
+  "satures": 2.81,
+  "sel": 0.34,
+  "fer": 2.43,
+  "calcium": 96.1,
+  "magnesium": 41.4,
+  "potassium": 392.0,
+  "zinc": 1.62,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 1.16,
+  "b12": 1.22,
+  "b9": 97.9,
+  "alcool": 0.0
+ }
+}

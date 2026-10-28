@@ -1,0 +1,76 @@
+{
+ "id": "r353-chili-de-dinde-aux-haricots",
+ "nom": "Chili de dinde aux haricots",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 512,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 120
+  },
+  {
+   "ciqual": "20503",
+   "nom": "Haricots rouges cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 90
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Faites revenir dinde hachée, poivron et cumin.",
+  "Ajoutez coulis et haricots, mijotez 20 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 482.96,
+  "proteines": 51.67,
+  "glucides": 51.22,
+  "lipides": 3.25,
+  "sucres": 10.12,
+  "fibres": 20.07,
+  "satures": 1.24,
+  "sel": 1.28,
+  "fer": 4.96,
+  "calcium": 103.9,
+  "magnesium": 118.71,
+  "potassium": 1074.4,
+  "zinc": 3.13,
+  "iode": 4.8,
+  "vitd": 0.0,
+  "vitc": 73.65,
+  "b12": 0.73,
+  "b9": 151.13,
+  "alcool": 0.0
+ }
+}

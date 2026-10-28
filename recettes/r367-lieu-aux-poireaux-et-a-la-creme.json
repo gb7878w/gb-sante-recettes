@@ -1,0 +1,69 @@
+{
+ "id": "r367-lieu-aux-poireaux-et-a-la-creme",
+ "nom": "Lieu aux poireaux et à la crème",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 580,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26192",
+   "nom": "Lieu jaune cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Faites fondre les poireaux.",
+  "Posez le poisson dessus, ajoutez la crème, couvrez 10 minutes.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 409.25,
+  "proteines": 47.81,
+  "glucides": 37.35,
+  "lipides": 5.06,
+  "sucres": 7.03,
+  "fibres": 9.64,
+  "satures": 3.04,
+  "sel": 0.55,
+  "fer": 1.51,
+  "calcium": 125.32,
+  "magnesium": 109.9,
+  "potassium": 1653.1,
+  "zinc": 1.25,
+  "iode": 255.0,
+  "vitd": 1.24,
+  "vitc": 9.71,
+  "b12": 1.6,
+  "b9": 155.67,
+  "alcool": 0.0
+ }
+}

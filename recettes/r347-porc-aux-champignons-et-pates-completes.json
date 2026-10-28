@@ -1,0 +1,68 @@
+{
+ "id": "r347-porc-aux-champignons-et-pates-completes",
+ "nom": "Porc aux champignons et pâtes complètes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Poêlez porc et champignons.",
+  "Ajoutez la crème, servez sur les pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 447.62,
+  "proteines": 41.91,
+  "glucides": 36.22,
+  "lipides": 13.6,
+  "sucres": 5.58,
+  "fibres": 5.79,
+  "satures": 5.68,
+  "sel": 0.34,
+  "fer": 3.06,
+  "calcium": 72.62,
+  "magnesium": 94.32,
+  "potassium": 1075.05,
+  "zinc": 4.41,
+  "iode": 1.5,
+  "vitd": 0.45,
+  "vitc": 4.63,
+  "b12": 1.25,
+  "b9": 65.4,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "id": "r351-wok-de-poulet-aux-legumes-croquants",
+ "nom": "Wok de poulet aux légumes croquants",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 130
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 100
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 120
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Saisissez le poulet en lanières.",
+  "Ajoutez les légumes 6 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 474.54,
+  "proteines": 48.81,
+  "glucides": 42.85,
+  "lipides": 9.16,
+  "sucres": 10.2,
+  "fibres": 8.66,
+  "satures": 2.17,
+  "sel": 0.3,
+  "fer": 1.76,
+  "calcium": 82.31,
+  "magnesium": 98.42,
+  "potassium": 1319.6,
+  "zinc": 2.3,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 148.93,
+  "b12": 0.23,
+  "b9": 238.42,
+  "alcool": 0.0
+ }
+}

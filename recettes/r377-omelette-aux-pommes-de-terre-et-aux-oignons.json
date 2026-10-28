@@ -1,0 +1,68 @@
+{
+ "id": "r377-omelette-aux-pommes-de-terre-et-aux-oignons",
+ "nom": "Omelette aux pommes de terre et aux oignons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 396,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir pommes de terre cuites et oignon.",
+  "Versez les œufs battus, cuisez des deux côtés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 469.87,
+  "proteines": 28.58,
+  "glucides": 28.15,
+  "lipides": 26.16,
+  "sucres": 1.91,
+  "fibres": 3.74,
+  "satures": 6.33,
+  "sel": 0.69,
+  "fer": 4.21,
+  "calcium": 167.54,
+  "magnesium": 50.11,
+  "potassium": 872.5,
+  "zinc": 2.29,
+  "iode": 42.0,
+  "vitd": 3.76,
+  "vitc": 5.21,
+  "b12": 2.9,
+  "b9": 119.85,
+  "alcool": 0.0
+ }
+}

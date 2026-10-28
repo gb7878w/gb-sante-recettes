@@ -1,0 +1,74 @@
+{
+ "id": "r399-hachis-de-patate-douce-et-de-dinde",
+ "nom": "Hachis de patate douce et de dinde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 455,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 130
+  },
+  {
+   "ciqual": "4102",
+   "nom": "Patate douce cuite",
+   "g": 220
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Faites revenir dinde, oignon et carotte.",
+  "Couvrez de purée de patate douce et d'emmental.",
+  "Gratinez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.87,
+  "proteines": 45.72,
+  "glucides": 33.31,
+  "lipides": 6.04,
+  "sucres": 17.1,
+  "fibres": 8.78,
+  "satures": 3.47,
+  "sel": 0.56,
+  "fer": 2.6,
+  "calcium": 244.3,
+  "magnesium": 120.59,
+  "potassium": 1574.81,
+  "zinc": 2.96,
+  "iode": 15.01,
+  "vitd": 0.0,
+  "vitc": 38.47,
+  "b12": 1.1,
+  "b9": 57.75,
+  "alcool": 0.0
+ }
+}

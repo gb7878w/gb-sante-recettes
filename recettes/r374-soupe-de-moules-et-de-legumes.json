@@ -1,0 +1,73 @@
+{
+ "id": "r374-soupe-de-moules-et-de-legumes",
+ "nom": "Soupe de moules et de légumes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 555,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Cuisez les légumes en soupe, mixez grossièrement.",
+  "Ajoutez les moules décoquillées et la crème."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 431.13,
+  "proteines": 39.44,
+  "glucides": 45.44,
+  "lipides": 8.27,
+  "sucres": 9.25,
+  "fibres": 8.06,
+  "satures": 3.25,
+  "sel": 1.81,
+  "fer": 8.92,
+  "calcium": 199.4,
+  "magnesium": 177.85,
+  "potassium": 1243.25,
+  "zinc": 6.17,
+  "iode": 212.0,
+  "vitd": 0.0,
+  "vitc": 19.06,
+  "b12": 35.2,
+  "b9": 211.37,
+  "alcool": 0.0
+ }
+}

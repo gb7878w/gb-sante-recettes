@@ -1,0 +1,67 @@
+{
+ "id": "r324-salade-de-concombre-au-yaourt-et-au-persil",
+ "nom": "Salade de concombre au yaourt et au persil",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 298,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 120
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mélangez yaourt, fromage blanc et persil.",
+  "Ajoutez le concombre en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 115.71,
+  "proteines": 9.7,
+  "glucides": 11.01,
+  "lipides": 3.05,
+  "sucres": 9.81,
+  "fibres": 1.92,
+  "satures": 1.98,
+  "sel": 0.22,
+  "fer": 0.63,
+  "calcium": 255.33,
+  "magnesium": 38.73,
+  "potassium": 487.09,
+  "zinc": 0.89,
+  "iode": 31.56,
+  "vitd": 0.76,
+  "vitc": 15.54,
+  "b12": 0.55,
+  "b9": 56.66,
+  "alcool": 0.0
+ }
+}

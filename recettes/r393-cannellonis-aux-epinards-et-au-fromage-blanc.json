@@ -1,0 +1,74 @@
+{
+ "id": "r393-cannellonis-aux-epinards-et-au-fromage-blanc",
+ "nom": "Cannellonis aux épinards et au fromage blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 510,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 110
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Mêlez épinards et fromage blanc, garnissez les pâtes.",
+  "Nappez de coulis et d'emmental, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 367.69,
+  "proteines": 28.64,
+  "glucides": 40.16,
+  "lipides": 7.59,
+  "sucres": 10.89,
+  "fibres": 9.42,
+  "satures": 4.04,
+  "sel": 1.06,
+  "fer": 2.96,
+  "calcium": 775.5,
+  "magnesium": 89.66,
+  "potassium": 512.88,
+  "zinc": 3.32,
+  "iode": 19.88,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 1.01,
+  "b9": 162.58,
+  "alcool": 0.0
+ }
+}

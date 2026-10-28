@@ -1,0 +1,74 @@
+{
+ "id": "r354-jambon-roti-gratin-de-courgettes",
+ "nom": "Jambon rôti, gratin de courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 610,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 120
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Disposez les courgettes en gratin avec fromage blanc et emmental.",
+  "Enfournez 25 minutes à 190 °C.",
+  "Servez avec le jambon et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 394.95,
+  "proteines": 41.58,
+  "glucides": 29.36,
+  "lipides": 10.96,
+  "sucres": 9.98,
+  "fibres": 6.09,
+  "satures": 5.42,
+  "sel": 2.92,
+  "fer": 1.58,
+  "calcium": 397.05,
+  "magnesium": 96.37,
+  "potassium": 1623.68,
+  "zinc": 2.1,
+  "iode": 14.68,
+  "vitd": 0.0,
+  "vitc": 10.75,
+  "b12": 0.8,
+  "b9": 150.0,
+  "alcool": 0.0
+ }
+}

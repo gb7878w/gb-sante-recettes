@@ -1,0 +1,73 @@
+{
+ "id": "r362-thon-mi-cuit-salade-de-courgettes",
+ "nom": "Thon mi-cuit, salade de courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 396,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 130
+  },
+  {
+   "ciqual": "20020",
+   "nom": "Courgette crue",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Saisissez le thon cuit 1 minute par face.",
+  "Servez avec les courgettes crues en lamelles et le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 342.81,
+  "proteines": 39.43,
+  "glucides": 27.26,
+  "lipides": 7.5,
+  "sucres": 2.77,
+  "fibres": 2.58,
+  "satures": 1.42,
+  "sel": 0.99,
+  "fer": 1.71,
+  "calcium": 48.29,
+  "magnesium": 65.34,
+  "potassium": 694.1,
+  "zinc": 1.48,
+  "iode": 23.26,
+  "vitd": 6.6,
+  "vitc": 30.75,
+  "b12": 3.29,
+  "b9": 86.8,
+  "alcool": 0.0
+ }
+}

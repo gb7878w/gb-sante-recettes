@@ -1,0 +1,71 @@
+{
+ "id": "r357-veau-mijote-aux-petits-pois",
+ "nom": "Veau mijoté aux petits pois",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 130
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites revenir veau et oignon.",
+  "Ajoutez carotte et petits pois, mijotez 25 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 472.05,
+  "proteines": 53.47,
+  "glucides": 47.28,
+  "lipides": 4.75,
+  "sucres": 7.26,
+  "fibres": 11.14,
+  "satures": 1.59,
+  "sel": 0.31,
+  "fer": 3.49,
+  "calcium": 105.94,
+  "magnesium": 98.57,
+  "potassium": 532.0,
+  "zinc": 5.83,
+  "iode": 7.8,
+  "vitd": 0.0,
+  "vitc": 19.36,
+  "b12": 2.6,
+  "b9": 117.49,
+  "alcool": 0.0
+ }
+}

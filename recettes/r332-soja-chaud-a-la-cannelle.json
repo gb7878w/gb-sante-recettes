@@ -1,0 +1,63 @@
+{
+ "id": "r332-soja-chaud-a-la-cannelle",
+ "nom": "Soja chaud à la cannelle",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 321,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "soja"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "18901",
+   "nom": "Boisson au soja nature",
+   "g": 200
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Chauffez le soja avec la cannelle.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 150.11,
+  "proteines": 16.42,
+  "glucides": 9.3,
+  "lipides": 4.16,
+  "sucres": 9.05,
+  "fibres": 2.53,
+  "satures": 0.56,
+  "sel": 0.33,
+  "fer": 1.18,
+  "calcium": 366.8,
+  "magnesium": 41.24,
+  "potassium": 349.11,
+  "zinc": 1.09,
+  "iode": 12.48,
+  "vitd": 2.32,
+  "vitc": 0.04,
+  "b12": 0.48,
+  "b9": 73.46,
+  "alcool": 0.0
+ }
+}

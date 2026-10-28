@@ -1,0 +1,69 @@
+{
+ "id": "r306-tartine-de-fromage-blanc-miel-et-noix",
+ "nom": "Tartine de fromage blanc, miel et noix",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 216,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 6
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Tartinez le pain d'une partie du fromage blanc.",
+  "Ajoutez miel et noix, servez le reste en bol."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 285.82,
+  "proteines": 17.48,
+  "glucides": 33.58,
+  "lipides": 7.69,
+  "sucres": 12.02,
+  "fibres": 4.12,
+  "satures": 0.95,
+  "sel": 0.73,
+  "fer": 1.52,
+  "calcium": 228.48,
+  "magnesium": 58.06,
+  "potassium": 383.22,
+  "zinc": 1.71,
+  "iode": 15.63,
+  "vitd": 0.43,
+  "vitc": 0.12,
+  "b12": 0.6,
+  "b9": 65.92,
+  "alcool": 0.0
+ }
+}

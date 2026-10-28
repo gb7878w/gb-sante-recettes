@@ -1,0 +1,74 @@
+{
+ "id": "r384-pates-completes-courgettes-et-mozzarella",
+ "nom": "Pâtes complètes, courgettes et mozzarella",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 484,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9871",
+   "nom": "Pâtes complètes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 90
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez les courgettes.",
+  "Mêlez aux pâtes, mozzarella et fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 492.15,
+  "proteines": 30.57,
+  "glucides": 39.42,
+  "lipides": 21.77,
+  "sucres": 7.44,
+  "fibres": 6.87,
+  "satures": 11.46,
+  "sel": 0.8,
+  "fer": 2.41,
+  "calcium": 684.25,
+  "magnesium": 114.05,
+  "potassium": 660.4,
+  "zinc": 4.83,
+  "iode": 43.88,
+  "vitd": 0.36,
+  "vitc": 4.35,
+  "b12": 2.48,
+  "b9": 94.2,
+  "alcool": 0.0
+ }
+}

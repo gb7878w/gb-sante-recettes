@@ -1,0 +1,66 @@
+{
+ "id": "r349-poulet-au-four-patate-douce-et-haricots",
+ "nom": "Poulet au four, patate douce et haricots",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 494,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "4102",
+   "nom": "Patate douce cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Rôtissez poulet et patate douce 30 minutes à 200 °C.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 401.0,
+  "proteines": 48.15,
+  "glucides": 29.48,
+  "lipides": 7.1,
+  "sucres": 15.97,
+  "fibres": 10.6,
+  "satures": 1.5,
+  "sel": 0.36,
+  "fer": 2.78,
+  "calcium": 148.08,
+  "magnesium": 135.8,
+  "potassium": 1712.0,
+  "zinc": 1.86,
+  "iode": 6.0,
+  "vitd": 0.0,
+  "vitc": 36.14,
+  "b12": 0.25,
+  "b9": 99.62,
+  "alcool": 0.0
+ }
+}

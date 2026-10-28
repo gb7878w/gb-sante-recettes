@@ -1,0 +1,61 @@
+{
+ "id": "r321-tranche-de-jambon-et-tomate-cerise",
+ "nom": "Tranche de jambon et tomate cerise",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Roulez le jambon.",
+  "Servez avec les tomates et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 126.8,
+  "proteines": 17.05,
+  "glucides": 8.53,
+  "lipides": 1.96,
+  "sucres": 7.54,
+  "fibres": 1.29,
+  "satures": 0.72,
+  "sel": 1.23,
+  "fer": 0.45,
+  "calcium": 79.6,
+  "magnesium": 17.1,
+  "potassium": 616.8,
+  "zinc": 0.42,
+  "iode": 5.2,
+  "vitd": 0.0,
+  "vitc": 21.8,
+  "b12": 0.2,
+  "b9": 29.6,
+  "alcool": 0.0
+ }
+}

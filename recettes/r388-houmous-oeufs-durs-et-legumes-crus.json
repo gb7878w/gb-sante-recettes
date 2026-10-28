@@ -1,0 +1,80 @@
+{
+ "id": "r388-houmous-oeufs-durs-et-legumes-crus",
+ "nom": "Houmous, œufs durs et légumes crus",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 130
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mixez les pois chiches avec le fromage blanc.",
+  "Servez avec les œufs, les crudités et le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 518.42,
+  "proteines": 34.92,
+  "glucides": 53.26,
+  "lipides": 14.21,
+  "sucres": 11.51,
+  "fibres": 16.6,
+  "satures": 3.66,
+  "sel": 1.01,
+  "fer": 4.86,
+  "calcium": 275.06,
+  "magnesium": 121.2,
+  "potassium": 891.0,
+  "zinc": 3.94,
+  "iode": 61.15,
+  "vitd": 1.58,
+  "vitc": 8.65,
+  "b12": 1.46,
+  "b9": 256.0,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r310-tartine-de-thon-tomate-et-basilic",
+ "nom": "Tartine de thon, tomate et basilic",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 232,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Écrasez le thon avec le fromage blanc.",
+  "Tartinez le pain, ajoutez la tomate et le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 225.3,
+  "proteines": 23.92,
+  "glucides": 26.63,
+  "lipides": 1.17,
+  "sucres": 4.9,
+  "fibres": 4.32,
+  "satures": 0.33,
+  "sel": 1.05,
+  "fer": 1.81,
+  "calcium": 87.76,
+  "magnesium": 51.66,
+  "potassium": 475.7,
+  "zinc": 1.25,
+  "iode": 13.76,
+  "vitd": 3.48,
+  "vitc": 13.33,
+  "b12": 1.68,
+  "b9": 49.34,
+  "alcool": 0.0
+ }
+}

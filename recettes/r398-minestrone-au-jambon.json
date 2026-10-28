@@ -1,0 +1,77 @@
+{
+ "id": "r398-minestrone-au-jambon",
+ "nom": "Minestrone au jambon",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 90
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Cuisez légumes, haricots et coulis dans l'eau 20 minutes.",
+  "Ajoutez les pâtes puis le jambon en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 367.44,
+  "proteines": 29.45,
+  "glucides": 41.04,
+  "lipides": 4.83,
+  "sucres": 11.34,
+  "fibres": 20.3,
+  "satures": 1.53,
+  "sel": 2.5,
+  "fer": 2.47,
+  "calcium": 178.5,
+  "magnesium": 73.5,
+  "potassium": 1024.6,
+  "zinc": 1.32,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 4.54,
+  "b12": 0.01,
+  "b9": 125.52,
+  "alcool": 0.0
+ }
+}

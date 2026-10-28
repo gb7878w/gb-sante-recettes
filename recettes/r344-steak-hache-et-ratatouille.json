@@ -1,0 +1,76 @@
+{
+ "id": "r344-steak-hache-et-ratatouille",
+ "nom": "Steak haché et ratatouille",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 585,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mijotez les légumes dans l'huile.",
+  "Poêlez le steak.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 432.63,
+  "proteines": 38.53,
+  "glucides": 33.66,
+  "lipides": 13.77,
+  "sucres": 8.49,
+  "fibres": 8.94,
+  "satures": 4.53,
+  "sel": 0.41,
+  "fer": 4.84,
+  "calcium": 63.88,
+  "magnesium": 100.31,
+  "potassium": 1589.6,
+  "zinc": 9.01,
+  "iode": 8.73,
+  "vitd": 0.0,
+  "vitc": 25.2,
+  "b12": 3.21,
+  "b9": 119.81,
+  "alcool": 0.0
+ }
+}

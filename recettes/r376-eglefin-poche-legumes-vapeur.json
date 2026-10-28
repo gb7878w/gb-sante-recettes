@@ -1,0 +1,79 @@
+{
+ "id": "r376-eglefin-poche-legumes-vapeur",
+ "nom": "Églefin poché, légumes vapeur",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 608,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26008",
+   "nom": "Églefin vapeur",
+   "g": 170
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Pochez l'églefin.",
+  "Cuisez les légumes à la vapeur.",
+  "Servez avec une sauce fromage blanc-citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 378.81,
+  "proteines": 44.3,
+  "glucides": 41.12,
+  "lipides": 2.01,
+  "sucres": 10.95,
+  "fibres": 7.44,
+  "satures": 0.45,
+  "sel": 0.66,
+  "fer": 1.31,
+  "calcium": 166.87,
+  "magnesium": 110.97,
+  "potassium": 1833.6,
+  "zinc": 1.79,
+  "iode": 447.2,
+  "vitd": 0.0,
+  "vitc": 13.81,
+  "b12": 3.6,
+  "b9": 177.75,
+  "alcool": 0.0
+ }
+}

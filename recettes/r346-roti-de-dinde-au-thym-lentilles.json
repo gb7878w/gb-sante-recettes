@@ -1,0 +1,66 @@
+{
+ "id": "r346-roti-de-dinde-au-thym-lentilles",
+ "nom": "Rôti de dinde au thym, lentilles",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 382,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 160
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Rôtissez la dinde aux herbes 30 minutes.",
+  "Servez avec les lentilles et la carotte."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 414.62,
+  "proteines": 56.79,
+  "glucides": 32.45,
+  "lipides": 2.6,
+  "sucres": 5.49,
+  "fibres": 16.48,
+  "satures": 0.9,
+  "sel": 0.33,
+  "fer": 6.19,
+  "calcium": 127.99,
+  "magnesium": 130.64,
+  "potassium": 1214.2,
+  "zinc": 3.96,
+  "iode": 5.9,
+  "vitd": 0.0,
+  "vitc": 3.77,
+  "b12": 0.85,
+  "b9": 133.8,
+  "alcool": 0.0
+ }
+}

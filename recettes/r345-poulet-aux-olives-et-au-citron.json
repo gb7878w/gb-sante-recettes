@@ -1,0 +1,73 @@
+{
+ "id": "r345-poulet-aux-olives-et-au-citron",
+ "nom": "Poulet aux olives et au citron",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 385,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 20
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 110
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Faites dorer le poulet, ajoutez olives et citron.",
+  "Mijotez 15 minutes avec la courgette.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 385.78,
+  "proteines": 47.11,
+  "glucides": 28.03,
+  "lipides": 7.48,
+  "sucres": 4.81,
+  "fibres": 4.83,
+  "satures": 1.6,
+  "sel": 0.65,
+  "fer": 3.69,
+  "calcium": 57.83,
+  "magnesium": 96.08,
+  "potassium": 984.4,
+  "zinc": 1.83,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 11.65,
+  "b12": 0.25,
+  "b9": 71.88,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "id": "r301-porridge-aux-pruneaux-et-a-la-cannelle",
+ "nom": "Porridge aux pruneaux et à la cannelle",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 316,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13042",
+   "nom": "Pruneaux",
+   "g": 25
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Chauffez les flocons avec le lait 4 minutes.",
+  "Ajoutez le fromage blanc, les pruneaux coupés et la cannelle."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 326.38,
+  "proteines": 18.79,
+  "glucides": 48.42,
+  "lipides": 5.08,
+  "sucres": 20.81,
+  "fibres": 5.89,
+  "satures": 2.09,
+  "sel": 0.25,
+  "fer": 2.02,
+  "calcium": 365.72,
+  "magnesium": 97.65,
+  "potassium": 702.11,
+  "zinc": 2.5,
+  "iode": 28.95,
+  "vitd": 0.0,
+  "vitc": 2.29,
+  "b12": 0.97,
+  "b9": 54.14,
+  "alcool": 0.0
+ }
+}

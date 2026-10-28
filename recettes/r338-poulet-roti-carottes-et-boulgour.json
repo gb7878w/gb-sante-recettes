@@ -1,0 +1,68 @@
+{
+ "id": "r338-poulet-roti-carottes-et-boulgour",
+ "nom": "Poulet rôti, carottes et boulgour",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20008",
+   "nom": "Carotte cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "9691",
+   "nom": "Boulgour cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet 25 minutes à 200 °C.",
+  "Servez avec les carottes et le boulgour."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 415.05,
+  "proteines": 47.81,
+  "glucides": 32.11,
+  "lipides": 8.59,
+  "sucres": 1.95,
+  "fibres": 7.06,
+  "satures": 1.74,
+  "sel": 0.3,
+  "fer": 1.26,
+  "calcium": 72.03,
+  "magnesium": 91.65,
+  "potassium": 884.1,
+  "zinc": 1.96,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 2.0,
+  "b12": 0.25,
+  "b9": 62.36,
+  "alcool": 0.0
+ }
+}

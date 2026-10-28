@@ -1,0 +1,73 @@
+{
+ "id": "r365-truite-aux-herbes-et-pommes-de-terre",
+ "nom": "Truite aux herbes et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 510,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 150
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez la truite aux herbes 15 minutes.",
+  "Servez avec les pommes de terre et les haricots."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 425.37,
+  "proteines": 38.7,
+  "glucides": 39.07,
+  "lipides": 10.32,
+  "sucres": 5.9,
+  "fibres": 9.2,
+  "satures": 2.48,
+  "sel": 0.3,
+  "fer": 3.28,
+  "calcium": 216.99,
+  "magnesium": 122.76,
+  "potassium": 1753.1,
+  "zinc": 1.65,
+  "iode": 14.55,
+  "vitd": 22.5,
+  "vitc": 16.61,
+  "b12": 6.84,
+  "b9": 160.7,
+  "alcool": 0.0
+ }
+}

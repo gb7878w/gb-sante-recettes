@@ -1,0 +1,74 @@
+{
+ "id": "r360-cabillaud-roti-puree-de-brocoli",
+ "nom": "Cabillaud rôti, purée de brocoli",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 614,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Rôtissez le cabillaud 15 minutes.",
+  "Écrasez brocoli et pommes de terre avec le lait."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 451.82,
+  "proteines": 51.12,
+  "glucides": 40.39,
+  "lipides": 7.72,
+  "sucres": 6.58,
+  "fibres": 8.0,
+  "satures": 1.93,
+  "sel": 0.61,
+  "fer": 2.23,
+  "calcium": 161.74,
+  "magnesium": 135.42,
+  "potassium": 1977.7,
+  "zinc": 2.37,
+  "iode": 225.84,
+  "vitd": 2.04,
+  "vitc": 49.54,
+  "b12": 2.75,
+  "b9": 246.4,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "id": "r319-fraises-et-petit-suisse",
+ "nom": "Fraises et petit-suisse",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 240,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 120
+  },
+  {
+   "ciqual": "19661",
+   "nom": "Petit-suisse",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Coupez les fraises.",
+  "Servez avec le petit-suisse."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 157.56,
+  "proteines": 8.8,
+  "glucides": 18.44,
+  "lipides": 3.36,
+  "sucres": 17.88,
+  "fibres": 5.76,
+  "satures": 2.15,
+  "sel": 0.06,
+  "fer": 0.3,
+  "calcium": 153.6,
+  "magnesium": 25.68,
+  "potassium": 336.0,
+  "zinc": 0.58,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 64.8,
+  "b12": 0.29,
+  "b9": 136.32,
+  "alcool": 0.0
+ }
+}

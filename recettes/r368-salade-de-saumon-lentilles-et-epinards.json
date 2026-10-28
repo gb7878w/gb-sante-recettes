@@ -1,0 +1,73 @@
+{
+ "id": "r368-salade-de-saumon-lentilles-et-epinards",
+ "nom": "Salade de saumon, lentilles et épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 313,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "20059",
+   "nom": "Épinards frais",
+   "g": 60
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mélangez lentilles et épinards.",
+  "Ajoutez le saumon émietté, le citron et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 447.23,
+  "proteines": 38.71,
+  "glucides": 24.15,
+  "lipides": 18.61,
+  "sucres": 0.54,
+  "fibres": 13.25,
+  "satures": 3.42,
+  "sel": 0.25,
+  "fer": 5.96,
+  "calcium": 136.08,
+  "magnesium": 108.33,
+  "potassium": 997.6,
+  "zinc": 2.69,
+  "iode": 2.04,
+  "vitd": 0.0,
+  "vitc": 31.05,
+  "b12": 2.78,
+  "b9": 217.07,
+  "alcool": 0.0
+ }
+}

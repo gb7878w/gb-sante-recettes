@@ -1,0 +1,72 @@
+{
+ "id": "r383-haricots-rouges-et-riz-a-la-tomate",
+ "nom": "Haricots rouges et riz à la tomate",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 532,
+ "tags": [
+  "vegetarien"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20503",
+   "nom": "Haricots rouges cuits",
+   "g": 180
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Réchauffez les haricots dans le coulis avec le cumin.",
+  "Servez avec le riz et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 457.74,
+  "proteines": 34.41,
+  "glucides": 61.58,
+  "lipides": 2.39,
+  "sucres": 12.28,
+  "fibres": 24.69,
+  "satures": 0.8,
+  "sel": 1.09,
+  "fer": 5.88,
+  "calcium": 329.62,
+  "magnesium": 102.92,
+  "potassium": 809.8,
+  "zinc": 2.92,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 0.15,
+  "b12": 0.6,
+  "b9": 185.91,
+  "alcool": 0.0
+ }
+}

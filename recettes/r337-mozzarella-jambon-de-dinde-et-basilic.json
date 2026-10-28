@@ -1,0 +1,66 @@
+{
+ "id": "r337-mozzarella-jambon-de-dinde-et-basilic",
+ "nom": "Mozzarella, jambon de dinde et basilic",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 132,
+ "tags": [
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 40
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Roulez la mozzarella dans le jambon.",
+  "Servez avec basilic et tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 149.95,
+  "proteines": 15.68,
+  "glucides": 3.68,
+  "lipides": 7.76,
+  "sucres": 3.12,
+  "fibres": 0.83,
+  "satures": 4.9,
+  "sel": 1.0,
+  "fer": 0.61,
+  "calcium": 229.6,
+  "magnesium": 25.18,
+  "potassium": 349.3,
+  "zinc": 1.64,
+  "iode": 14.88,
+  "vitd": 0.16,
+  "vitc": 21.71,
+  "b12": 1.15,
+  "b9": 19.88,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r340-dinde-aux-champignons-puree-de-pommes-de-terre",
+ "nom": "Dinde aux champignons, purée de pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 220
+  },
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 40
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Poêlez dinde et champignons, ajoutez la crème.",
+  "Servez avec la purée au lait."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 441.6,
+  "proteines": 49.73,
+  "glucides": 44.26,
+  "lipides": 6.13,
+  "sucres": 8.35,
+  "fibres": 5.46,
+  "satures": 3.31,
+  "sel": 0.55,
+  "fer": 1.76,
+  "calcium": 97.26,
+  "magnesium": 122.61,
+  "potassium": 2083.6,
+  "zinc": 2.94,
+  "iode": 11.94,
+  "vitd": 0.45,
+  "vitc": 12.71,
+  "b12": 1.01,
+  "b9": 123.97,
+  "alcool": 0.0
+ }
+}

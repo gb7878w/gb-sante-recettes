@@ -1,0 +1,76 @@
+{
+ "id": "r302-omelette-aux-oignons-et-au-fromage",
+ "nom": "Omelette aux oignons et au fromage",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 214,
+ "tags": [
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 40
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites fondre l'oignon émincé dans l'huile.",
+  "Versez les œufs battus, ajoutez l'emmental et repliez.",
+  "Servez avec le pain."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 365.72,
+  "proteines": 23.85,
+  "glucides": 16.17,
+  "lipides": 22.05,
+  "sucres": 1.06,
+  "fibres": 3.11,
+  "satures": 7.55,
+  "sel": 0.86,
+  "fer": 3.23,
+  "calcium": 304.86,
+  "magnesium": 38.32,
+  "potassium": 312.28,
+  "zinc": 2.55,
+  "iode": 29.48,
+  "vitd": 2.51,
+  "vitc": 0.83,
+  "b12": 2.14,
+  "b9": 63.36,
+  "alcool": 0.0
+ }
+}

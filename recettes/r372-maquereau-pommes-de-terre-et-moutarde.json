@@ -1,0 +1,75 @@
+{
+ "id": "r372-maquereau-pommes-de-terre-et-moutarde",
+ "nom": "Maquereau, pommes de terre et moutarde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 408,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26123",
+   "nom": "Maquereau au naturel égoutté",
+   "g": 110
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 220
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Mélangez les pommes de terre tièdes à la moutarde et au fromage blanc.",
+  "Servez avec le maquereau."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 434.58,
+  "proteines": 32.61,
+  "glucides": 41.47,
+  "lipides": 14.2,
+  "sucres": 4.63,
+  "fibres": 4.48,
+  "satures": 3.28,
+  "sel": 2.0,
+  "fer": 2.57,
+  "calcium": 229.43,
+  "magnesium": 83.07,
+  "potassium": 1174.1,
+  "zinc": 2.11,
+  "iode": 29.53,
+  "vitd": 5.51,
+  "vitc": 8.05,
+  "b12": 8.25,
+  "b9": 91.31,
+  "alcool": 0.0
+ }
+}

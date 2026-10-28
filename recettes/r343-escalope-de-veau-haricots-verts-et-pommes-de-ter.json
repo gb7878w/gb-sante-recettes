@@ -1,0 +1,72 @@
+{
+ "id": "r343-escalope-de-veau-haricots-verts-et-pommes-de-ter",
+ "nom": "Escalope de veau, haricots verts et pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 553,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 140
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Poêlez l'escalope dans le beurre avec le citron.",
+  "Servez avec les légumes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 462.06,
+  "proteines": 50.53,
+  "glucides": 40.35,
+  "lipides": 8.25,
+  "sucres": 6.83,
+  "fibres": 10.0,
+  "satures": 4.05,
+  "sel": 0.31,
+  "fer": 3.03,
+  "calcium": 130.55,
+  "magnesium": 128.63,
+  "potassium": 1258.61,
+  "zinc": 5.26,
+  "iode": 8.48,
+  "vitd": 0.06,
+  "vitc": 11.76,
+  "b12": 2.81,
+  "b9": 163.62,
+  "alcool": 0.0
+ }
+}

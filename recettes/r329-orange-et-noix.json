@@ -1,0 +1,63 @@
+{
+ "id": "r329-orange-et-noix",
+ "nom": "Orange et noix",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 262,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13034",
+   "nom": "Orange",
+   "g": 150
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Pelez l'orange.",
+  "Servez avec les noix et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 201.63,
+  "proteines": 10.67,
+  "glucides": 16.76,
+  "lipides": 8.12,
+  "sucres": 15.65,
+  "fibres": 4.85,
+  "satures": 0.8,
+  "sel": 0.11,
+  "fer": 1.28,
+  "calcium": 242.0,
+  "magnesium": 51.5,
+  "potassium": 465.6,
+  "zinc": 1.19,
+  "iode": 10.4,
+  "vitd": 0.0,
+  "vitc": 71.34,
+  "b12": 0.4,
+  "b9": 77.25,
+  "alcool": 0.0
+ }
+}

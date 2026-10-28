@@ -1,0 +1,74 @@
+{
+ "id": "r342-poulet-roti-au-curry-et-au-yaourt",
+ "nom": "Poulet rôti au curry et au yaourt",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 443,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Marinez le poulet avec yaourt et curry.",
+  "Rôtissez-le 20 minutes à 200 °C.",
+  "Servez avec le riz et le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 416.11,
+  "proteines": 50.26,
+  "glucides": 36.12,
+  "lipides": 6.33,
+  "sucres": 6.08,
+  "fibres": 4.14,
+  "satures": 2.78,
+  "sel": 0.32,
+  "fer": 1.63,
+  "calcium": 177.89,
+  "magnesium": 90.95,
+  "potassium": 965.3,
+  "zinc": 2.11,
+  "iode": 21.05,
+  "vitd": 0.61,
+  "vitc": 8.88,
+  "b12": 0.53,
+  "b9": 56.11,
+  "alcool": 0.0
+ }
+}

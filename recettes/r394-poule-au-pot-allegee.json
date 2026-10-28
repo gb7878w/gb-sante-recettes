@@ -1,0 +1,72 @@
+{
+ "id": "r394-poule-au-pot-allegee",
+ "nom": "Poule au pot allégée",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "celeri"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 100
+  },
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mijotez le poulet avec les légumes 45 minutes dans l'eau.",
+  "Servez avec un peu de bouillon."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 414.14,
+  "proteines": 47.36,
+  "glucides": 41.61,
+  "lipides": 3.61,
+  "sucres": 10.18,
+  "fibres": 10.02,
+  "satures": 1.0,
+  "sel": 0.49,
+  "fer": 1.64,
+  "calcium": 86.07,
+  "magnesium": 105.79,
+  "potassium": 1806.4,
+  "zinc": 1.59,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 12.81,
+  "b12": 0.25,
+  "b9": 172.67,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r387-gratin-de-pois-chiches-et-d-epinards",
+ "nom": "Gratin de pois chiches et d'épinards",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 445,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20507",
+   "nom": "Pois chiches cuits",
+   "g": 180
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  }
+ ],
+ "etapes": [
+  "Mêlez pois chiches et épinards dans un plat.",
+  "Nappez de fromage blanc et d'emmental.",
+  "Gratinez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 449.35,
+  "proteines": 35.58,
+  "glucides": 36.53,
+  "lipides": 13.44,
+  "sucres": 5.21,
+  "fibres": 18.96,
+  "satures": 5.54,
+  "sel": 0.41,
+  "fer": 4.47,
+  "calcium": 823.15,
+  "magnesium": 139.41,
+  "potassium": 695.15,
+  "zinc": 4.62,
+  "iode": 17.83,
+  "vitd": 0.0,
+  "vitc": 0.0,
+  "b12": 0.98,
+  "b9": 264.31,
+  "alcool": 0.0
+ }
+}

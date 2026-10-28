@@ -1,0 +1,75 @@
+{
+ "id": "r370-haddock-gratine-aux-pommes-de-terre",
+ "nom": "Haddock gratiné aux pommes de terre",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 555,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26090",
+   "nom": "Haddock",
+   "g": 160
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 15
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Disposez haddock et pommes de terre en tranches.",
+  "Nappez de fromage blanc et d'emmental.",
+  "Gratinez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 438.77,
+  "proteines": 52.08,
+  "glucides": 39.9,
+  "lipides": 6.17,
+  "sucres": 7.33,
+  "fibres": 6.8,
+  "satures": 3.13,
+  "sel": 3.36,
+  "fer": 3.67,
+  "calcium": 395.11,
+  "magnesium": 162.5,
+  "potassium": 1779.81,
+  "zinc": 2.37,
+  "iode": 419.53,
+  "vitd": 1.28,
+  "vitc": 7.0,
+  "b12": 3.18,
+  "b9": 159.91,
+  "alcool": 0.0
+ }
+}

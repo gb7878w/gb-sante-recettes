@@ -1,0 +1,73 @@
+{
+ "id": "r348-agneau-courgettes-et-semoule",
+ "nom": "Agneau, courgettes et semoule",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 376,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 110
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "9611",
+   "nom": "Semoule cuite",
+   "g": 110
+  },
+  {
+   "ciqual": "11042",
+   "nom": "Cumin",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez l'agneau avec le cumin.",
+  "Ajoutez les courgettes en rondelles.",
+  "Servez avec la semoule."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 387.89,
+  "proteines": 34.99,
+  "glucides": 29.17,
+  "lipides": 13.4,
+  "sucres": 5.43,
+  "fibres": 4.55,
+  "satures": 3.96,
+  "sel": 0.37,
+  "fer": 4.45,
+  "calcium": 85.85,
+  "magnesium": 92.14,
+  "potassium": 829.5,
+  "zinc": 5.37,
+  "iode": 5.5,
+  "vitd": 0.0,
+  "vitc": 4.5,
+  "b12": 2.07,
+  "b9": 89.55,
+  "alcool": 0.0
+ }
+}

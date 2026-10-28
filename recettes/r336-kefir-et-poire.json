@@ -1,0 +1,62 @@
+{
+ "id": "r336-kefir-et-poire",
+ "nom": "Kéfir et poire",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 340,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19865",
+   "nom": "Kéfir",
+   "g": 200
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Coupez la poire.",
+  "Servez avec le kéfir."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 197.46,
+  "proteines": 9.56,
+  "glucides": 21.96,
+  "lipides": 7.02,
+  "sucres": 18.2,
+  "fibres": 3.1,
+  "satures": 4.67,
+  "sel": 0.28,
+  "fer": 0.25,
+  "calcium": 311.5,
+  "magnesium": 35.58,
+  "potassium": 466.6,
+  "zinc": 1.15,
+  "iode": 52.76,
+  "vitd": 0.2,
+  "vitc": 1.99,
+  "b12": 0.52,
+  "b9": 64.2,
+  "alcool": 0.0
+ }
+}

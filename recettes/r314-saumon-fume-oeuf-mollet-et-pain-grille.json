@@ -1,0 +1,71 @@
+{
+ "id": "r314-saumon-fume-oeuf-mollet-et-pain-grille",
+ "nom": "Saumon fumé, œuf mollet et pain grillé",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 50
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 60
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Posez le saumon et l'œuf sur le pain grillé.",
+  "Ajoutez une cuillère de fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 334.54,
+  "proteines": 28.56,
+  "glucides": 24.8,
+  "lipides": 12.35,
+  "sucres": 3.75,
+  "fibres": 3.45,
+  "satures": 3.06,
+  "sel": 0.88,
+  "fer": 2.35,
+  "calcium": 130.25,
+  "magnesium": 55.52,
+  "potassium": 469.9,
+  "zinc": 1.97,
+  "iode": 36.06,
+  "vitd": 1.1,
+  "vitc": 1.4,
+  "b12": 2.3,
+  "b9": 68.55,
+  "alcool": 0.0
+ }
+}

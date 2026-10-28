@@ -1,0 +1,78 @@
+{
+ "id": "r378-lentilles-au-curry-et-au-lait-de-coco",
+ "nom": "Lentilles au curry et au lait de coco",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 493,
+ "tags": [
+  "vegetarien"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20587",
+   "nom": "Lentilles vertes cuites",
+   "g": 220
+  },
+  {
+   "ciqual": "18041",
+   "nom": "Lait de coco",
+   "g": 20
+  },
+  {
+   "ciqual": "11005",
+   "nom": "Curry",
+   "g": 3
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 70
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et le curry.",
+  "Ajoutez les lentilles et le lait de coco.",
+  "Servez avec le riz et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 493.37,
+  "proteines": 37.21,
+  "glucides": 61.23,
+  "lipides": 5.86,
+  "sucres": 6.83,
+  "fibres": 21.78,
+  "satures": 3.8,
+  "sel": 0.2,
+  "fer": 7.01,
+  "calcium": 318.85,
+  "magnesium": 116.54,
+  "potassium": 825.7,
+  "zinc": 4.05,
+  "iode": 15.81,
+  "vitd": 0.0,
+  "vitc": 0.85,
+  "b12": 0.6,
+  "b9": 161.62,
+  "alcool": 0.0
+ }
+}

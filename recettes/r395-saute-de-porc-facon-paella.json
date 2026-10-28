@@ -1,0 +1,73 @@
+{
+ "id": "r395-saute-de-porc-facon-paella",
+ "nom": "Sauté de porc façon paella",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "viande",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 60
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Poêlez porc et poivron.",
+  "Ajoutez le riz cuit, les petits pois et les crevettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 434.11,
+  "proteines": 44.83,
+  "glucides": 40.15,
+  "lipides": 8.82,
+  "sucres": 4.64,
+  "fibres": 6.16,
+  "satures": 3.2,
+  "sel": 0.95,
+  "fer": 3.26,
+  "calcium": 187.31,
+  "magnesium": 90.78,
+  "potassium": 757.0,
+  "zinc": 3.95,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 103.0,
+  "b12": 2.0,
+  "b9": 103.82,
+  "alcool": 0.0
+ }
+}

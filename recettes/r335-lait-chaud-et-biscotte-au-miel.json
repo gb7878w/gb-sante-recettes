@@ -1,0 +1,68 @@
+{
+ "id": "r335-lait-chaud-et-biscotte-au-miel",
+ "nom": "Lait chaud et biscotte au miel",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 279,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 200
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 15
+  },
+  {
+   "ciqual": "31008",
+   "nom": "Miel",
+   "g": 4
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez le lait avec la biscotte au miel.",
+  "Ajoutez le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 195.75,
+  "proteines": 13.31,
+  "glucides": 25.31,
+  "lipides": 4.05,
+  "sucres": 15.49,
+  "fibres": 1.33,
+  "satures": 2.49,
+  "sel": 0.43,
+  "fer": 0.65,
+  "calcium": 320.81,
+  "magnesium": 48.94,
+  "potassium": 475.71,
+  "zinc": 1.36,
+  "iode": 30.46,
+  "vitd": 0.0,
+  "vitc": 3.03,
+  "b12": 1.0,
+  "b9": 37.36,
+  "alcool": 0.0
+ }
+}

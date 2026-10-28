@@ -1,0 +1,68 @@
+{
+ "id": "r304-oeufs-durs-avocat-et-pain-complet",
+ "nom": "Œufs durs, avocat et pain complet",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 203,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "gluten",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "13004",
+   "nom": "Avocat",
+   "g": 40
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 50
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Écrasez l'avocat avec le citron sur le pain.",
+  "Ajoutez les œufs durs en rondelles."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 352.23,
+  "proteines": 19.66,
+  "glucides": 23.1,
+  "lipides": 18.62,
+  "sucres": 1.86,
+  "fibres": 4.89,
+  "satures": 4.87,
+  "sel": 0.91,
+  "fer": 3.08,
+  "calcium": 68.69,
+  "magnesium": 49.54,
+  "potassium": 428.2,
+  "zinc": 2.28,
+  "iode": 54.67,
+  "vitd": 1.66,
+  "vitc": 1.35,
+  "b12": 1.22,
+  "b9": 95.21,
+  "alcool": 0.0
+ }
+}

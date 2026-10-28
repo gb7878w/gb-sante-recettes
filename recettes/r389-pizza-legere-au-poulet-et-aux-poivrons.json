@@ -1,0 +1,75 @@
+{
+ "id": "r389-pizza-legere-au-poulet-et-aux-poivrons",
+ "nom": "Pizza légère au poulet et aux poivrons",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 310,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "7012",
+   "nom": "Pain",
+   "g": 80
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 60
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 60
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Étalez le coulis sur la pâte fine.",
+  "Garnissez de poulet, poivron et mozzarella.",
+  "Enfournez 15 minutes à 220 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 462.44,
+  "proteines": 34.5,
+  "glucides": 50.68,
+  "lipides": 11.77,
+  "sucres": 6.53,
+  "fibres": 5.56,
+  "satures": 6.58,
+  "sel": 1.98,
+  "fer": 1.38,
+  "calcium": 307.8,
+  "magnesium": 54.16,
+  "potassium": 512.4,
+  "zinc": 2.48,
+  "iode": 35.16,
+  "vitd": 0.2,
+  "vitc": 73.46,
+  "b12": 1.25,
+  "b9": 98.55,
+  "alcool": 0.0
+ }
+}

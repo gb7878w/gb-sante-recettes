@@ -1,0 +1,62 @@
+{
+ "id": "r330-feta-et-tomates-cerises",
+ "nom": "Feta et tomates cerises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mêlez la feta émiettée et les tomates.",
+  "Ajoutez le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 155.58,
+  "proteines": 10.87,
+  "glucides": 9.27,
+  "lipides": 7.31,
+  "sucres": 8.09,
+  "fibres": 1.44,
+  "satures": 5.06,
+  "sel": 0.75,
+  "fer": 0.56,
+  "calcium": 154.32,
+  "magnesium": 24.12,
+  "potassium": 502.2,
+  "zinc": 0.87,
+  "iode": 30.24,
+  "vitd": 0.0,
+  "vitc": 26.16,
+  "b12": 0.4,
+  "b9": 41.19,
+  "alcool": 0.0
+ }
+}

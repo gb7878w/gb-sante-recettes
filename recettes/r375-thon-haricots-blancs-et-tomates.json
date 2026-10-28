@@ -1,0 +1,73 @@
+{
+ "id": "r375-thon-haricots-blancs-et-tomates",
+ "nom": "Thon, haricots blancs et tomates",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 425,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 110
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 170
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 20
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Mélangez haricots, tomate et oignon.",
+  "Ajoutez le thon et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 389.42,
+  "proteines": 41.79,
+  "glucides": 25.99,
+  "lipides": 7.31,
+  "sucres": 3.91,
+  "fibres": 25.18,
+  "satures": 1.28,
+  "sel": 0.85,
+  "fer": 3.95,
+  "calcium": 221.65,
+  "magnesium": 91.98,
+  "potassium": 951.7,
+  "zinc": 1.75,
+  "iode": 17.6,
+  "vitd": 5.59,
+  "vitc": 19.98,
+  "b12": 2.78,
+  "b9": 89.6,
+  "alcool": 0.0
+ }
+}

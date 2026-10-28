@@ -1,0 +1,73 @@
+{
+ "id": "r308-smoothie-pomme-cannelle-proteine",
+ "nom": "Smoothie pomme-cannelle protéiné",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 436,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19041",
+   "nom": "Lait demi-écrémé",
+   "g": 150
+  },
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 15
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  }
+ ],
+ "etapes": [
+  "Coupez la pomme en morceaux.",
+  "Mixez tous les ingrédients jusqu'à obtenir une texture lisse."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 266.64,
+  "proteines": 19.33,
+  "glucides": 35.96,
+  "lipides": 3.67,
+  "sucres": 24.21,
+  "fibres": 3.74,
+  "satures": 1.84,
+  "sel": 0.3,
+  "fer": 1.11,
+  "calcium": 405.55,
+  "magnesium": 67.01,
+  "potassium": 670.16,
+  "zinc": 1.87,
+  "iode": 34.06,
+  "vitd": 0.0,
+  "vitc": 9.79,
+  "b12": 1.17,
+  "b9": 63.44,
+  "alcool": 0.0
+ }
+}

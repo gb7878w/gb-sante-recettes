@@ -1,0 +1,74 @@
+{
+ "id": "r379-tofu-grille-legumes-rotis-et-quinoa",
+ "nom": "Tofu grillé, légumes rôtis et quinoa",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 515,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "soja"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20904",
+   "nom": "Tofu nature",
+   "g": 200
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "9341",
+   "nom": "Quinoa cuit",
+   "g": 110
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez les légumes 20 minutes à 200 °C.",
+  "Poêlez le tofu.",
+  "Servez avec le quinoa."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 552.78,
+  "proteines": 33.89,
+  "glucides": 42.89,
+  "lipides": 23.64,
+  "sucres": 7.6,
+  "fibres": 8.54,
+  "satures": 3.73,
+  "sel": 0.19,
+  "fer": 7.11,
+  "calcium": 252.3,
+  "magnesium": 311.42,
+  "potassium": 951.6,
+  "zinc": 4.3,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 100.28,
+  "b12": 0.0,
+  "b9": 209.89,
+  "alcool": 0.0
+ }
+}

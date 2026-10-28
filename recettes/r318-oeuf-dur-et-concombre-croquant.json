@@ -1,0 +1,56 @@
+{
+ "id": "r318-oeuf-dur-et-concombre-croquant",
+ "nom": "Œuf dur et concombre croquant",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 210,
+ "tags": [
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Écalez l'œuf.",
+  "Servez avec le concombre en rondelles."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 163.0,
+  "proteines": 15.49,
+  "glucides": 3.11,
+  "lipides": 9.59,
+  "sucres": 2.24,
+  "fibres": 0.6,
+  "satures": 2.85,
+  "sel": 0.35,
+  "fer": 2.02,
+  "calcium": 64.3,
+  "magnesium": 29.0,
+  "potassium": 289.0,
+  "zinc": 1.5,
+  "iode": 54.97,
+  "vitd": 1.23,
+  "vitc": 8.25,
+  "b12": 1.22,
+  "b9": 60.7,
+  "alcool": 0.0
+ }
+}

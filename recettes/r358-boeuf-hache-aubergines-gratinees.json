@@ -1,0 +1,74 @@
+{
+ "id": "r358-boeuf-hache-aubergines-gratinees",
+ "nom": "Bœuf haché, aubergines gratinées",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 550,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 70
+  }
+ ],
+ "etapes": [
+  "Garnissez les aubergines de viande à la tomate.",
+  "Parsemez d'emmental, enfournez 30 minutes.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 478.99,
+  "proteines": 45.65,
+  "glucides": 34.33,
+  "lipides": 14.6,
+  "sucres": 12.93,
+  "fibres": 13.53,
+  "satures": 7.49,
+  "sel": 1.09,
+  "fer": 4.72,
+  "calcium": 262.85,
+  "magnesium": 78.73,
+  "potassium": 790.68,
+  "zinc": 9.77,
+  "iode": 14.71,
+  "vitd": 0.0,
+  "vitc": 3.25,
+  "b12": 3.62,
+  "b9": 56.92,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "id": "r397-salade-cesar-allegee-au-poulet",
+ "nom": "Salade césar allégée au poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 363,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "20171",
+   "nom": "Salade romaine",
+   "g": 100
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et le citron en sauce.",
+  "Composez la salade avec poulet, parmesan et croûtons de pain grillé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 386.13,
+  "proteines": 51.74,
+  "glucides": 22.16,
+  "lipides": 8.1,
+  "sucres": 5.25,
+  "fibres": 4.86,
+  "satures": 4.06,
+  "sel": 0.96,
+  "fer": 2.43,
+  "calcium": 309.32,
+  "magnesium": 95.19,
+  "potassium": 1013.9,
+  "zinc": 2.66,
+  "iode": 23.07,
+  "vitd": 0.34,
+  "vitc": 19.32,
+  "b12": 0.93,
+  "b9": 185.57,
+  "alcool": 0.0
+ }
+}

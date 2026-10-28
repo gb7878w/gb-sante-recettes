@@ -1,0 +1,70 @@
+{
+ "id": "r350-rumsteck-salade-et-pommes-de-terre-au-four",
+ "nom": "Rumsteck, salade et pommes de terre au four",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 130
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "4026",
+   "nom": "Pommes de terre au four",
+   "g": 200
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez le rumsteck.",
+  "Servez avec la salade vinaigrée et les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 396.91,
+  "proteines": 38.54,
+  "glucides": 38.09,
+  "lipides": 8.67,
+  "sucres": 2.95,
+  "fibres": 5.36,
+  "satures": 1.82,
+  "sel": 0.08,
+  "fer": 6.73,
+  "calcium": 82.13,
+  "magnesium": 68.53,
+  "potassium": 1232.74,
+  "zinc": 6.34,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 28.66,
+  "b12": 1.95,
+  "b9": 90.8,
+  "alcool": 0.01
+ }
+}

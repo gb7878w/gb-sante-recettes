@@ -1,0 +1,71 @@
+{
+ "id": "r355-poulet-saute-a-l-ail-et-haricots-blancs",
+ "nom": "Poulet sauté à l'ail et haricots blancs",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 313,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 130
+  },
+  {
+   "ciqual": "20502",
+   "nom": "Haricots blancs cuits",
+   "g": 170
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Faites sauter le poulet avec l'ail.",
+  "Ajoutez les haricots, parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 424.86,
+  "proteines": 50.97,
+  "glucides": 21.28,
+  "lipides": 9.49,
+  "sucres": 0.6,
+  "fibres": 23.86,
+  "satures": 1.94,
+  "sel": 0.24,
+  "fer": 3.61,
+  "calcium": 219.27,
+  "magnesium": 106.58,
+  "potassium": 1059.12,
+  "zinc": 2.14,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 8.94,
+  "b12": 0.23,
+  "b9": 71.69,
+  "alcool": 0.0
+ }
+}

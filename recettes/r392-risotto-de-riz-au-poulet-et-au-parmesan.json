@@ -1,0 +1,72 @@
+{
+ "id": "r392-risotto-de-riz-au-poulet-et-au-parmesan",
+ "nom": "Risotto de riz au poulet et au parmesan",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 455,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 110
+  },
+  {
+   "ciqual": "25948",
+   "nom": "Bouillon de légumes",
+   "g": 150
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Réchauffez le riz cuit avec le bouillon.",
+  "Ajoutez poulet en dés et petits pois, terminez au parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 412.65,
+  "proteines": 45.4,
+  "glucides": 36.21,
+  "lipides": 8.17,
+  "sucres": 1.24,
+  "fibres": 4.08,
+  "satures": 4.39,
+  "sel": 1.32,
+  "fer": 1.52,
+  "calcium": 189.67,
+  "magnesium": 75.62,
+  "potassium": 648.1,
+  "zinc": 2.29,
+  "iode": 13.5,
+  "vitd": 0.0,
+  "vitc": 8.41,
+  "b12": 0.59,
+  "b9": 47.85,
+  "alcool": 0.0
+ }
+}

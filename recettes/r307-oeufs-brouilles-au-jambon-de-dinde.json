@@ -1,0 +1,75 @@
+{
+ "id": "r307-oeufs-brouilles-au-jambon-de-dinde",
+ "nom": "Œufs brouillés au jambon de dinde",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 254,
+ "tags": [
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28964",
+   "nom": "Blanc de dinde en tranche",
+   "g": 40
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 4
+  },
+  {
+   "ciqual": "7110",
+   "nom": "Pain complet",
+   "g": 40
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Faites brouiller les œufs dans le beurre.",
+  "Ajoutez le jambon coupé.",
+  "Servez avec le pain et les tomates cerises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 353.69,
+  "proteines": 27.63,
+  "glucides": 21.41,
+  "lipides": 16.44,
+  "sucres": 4.07,
+  "fibres": 3.52,
+  "satures": 5.77,
+  "sel": 1.58,
+  "fer": 3.42,
+  "calcium": 114.61,
+  "magnesium": 49.58,
+  "potassium": 570.93,
+  "zinc": 2.23,
+  "iode": 25.26,
+  "vitd": 2.64,
+  "vitc": 21.42,
+  "b12": 1.99,
+  "b9": 70.88,
+  "alcool": 0.0
+ }
+}

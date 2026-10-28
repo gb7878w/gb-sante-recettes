@@ -1,0 +1,67 @@
+{
+ "id": "r361-saumon-au-citron-riz-et-haricots-verts",
+ "nom": "Saumon au citron, riz et haricots verts",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 410,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 130
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Cuisez le saumon.",
+  "Servez avec le riz, les haricots et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 442.86,
+  "proteines": 33.79,
+  "glucides": 36.96,
+  "lipides": 15.78,
+  "sucres": 3.83,
+  "fibres": 6.1,
+  "satures": 3.39,
+  "sel": 0.16,
+  "fer": 1.47,
+  "calcium": 105.7,
+  "magnesium": 83.34,
+  "potassium": 887.0,
+  "zinc": 1.39,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 9.59,
+  "b12": 3.34,
+  "b9": 112.37,
+  "alcool": 0.0
+ }
+}

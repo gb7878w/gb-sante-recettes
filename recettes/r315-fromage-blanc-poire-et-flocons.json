@@ -1,0 +1,69 @@
+{
+ "id": "r315-fromage-blanc-poire-et-flocons",
+ "nom": "Fromage blanc, poire et flocons",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 353,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 220
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 100
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 25
+  },
+  {
+   "ciqual": "15004",
+   "nom": "Noisettes",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et les flocons.",
+  "Ajoutez la poire et les noisettes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 303.25,
+  "proteines": 21.97,
+  "glucides": 35.01,
+  "lipides": 6.27,
+  "sucres": 18.59,
+  "fibres": 6.58,
+  "satures": 0.73,
+  "sel": 0.24,
+  "fer": 1.69,
+  "calcium": 329.38,
+  "magnesium": 81.94,
+  "potassium": 578.85,
+  "zinc": 2.16,
+  "iode": 23.0,
+  "vitd": 0.0,
+  "vitc": 1.39,
+  "b12": 0.88,
+  "b9": 80.52,
+  "alcool": 0.0
+ }
+}

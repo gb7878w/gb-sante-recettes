@@ -1,0 +1,63 @@
+{
+ "id": "r331-biscotte-au-fromage-blanc-et-aux-fraises",
+ "nom": "Biscotte au fromage blanc et aux fraises",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 200,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 20
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Tartinez les biscottes de fromage blanc.",
+  "Posez les fraises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 158.88,
+  "proteines": 10.79,
+  "glucides": 22.11,
+  "lipides": 1.27,
+  "sucres": 9.23,
+  "fibres": 4.81,
+  "satures": 0.55,
+  "sel": 0.36,
+  "fer": 0.93,
+  "calcium": 156.52,
+  "magnesium": 44.8,
+  "potassium": 326.0,
+  "zinc": 0.96,
+  "iode": 10.4,
+  "vitd": 0.0,
+  "vitc": 43.2,
+  "b12": 0.4,
+  "b9": 108.32,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r309-galette-de-flocons-d-avoine-aux-fraises",
+ "nom": "Galette de flocons d'avoine aux fraises",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 300,
+ "tags": [
+  "vegetarien"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 40
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  },
+  {
+   "ciqual": "13014",
+   "nom": "Fraises",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mixez les flocons avec l'œuf, cuisez une grosse galette.",
+  "Garnissez de fromage blanc et de fraises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 318.8,
+  "proteines": 21.52,
+  "glucides": 33.24,
+  "lipides": 8.54,
+  "sucres": 10.04,
+  "fibres": 7.88,
+  "satures": 2.07,
+  "sel": 0.3,
+  "fer": 3.1,
+  "calcium": 231.8,
+  "magnesium": 90.0,
+  "potassium": 515.2,
+  "zinc": 2.54,
+  "iode": 23.2,
+  "vitd": 1.13,
+  "vitc": 54.0,
+  "b12": 1.27,
+  "b9": 159.14,
+  "alcool": 0.0
+ }
+}

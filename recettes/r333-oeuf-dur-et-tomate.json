@@ -1,0 +1,62 @@
+{
+ "id": "r333-oeuf-dur-et-tomate",
+ "nom": "Œuf dur et tomate",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 212,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Écalez l'œuf.",
+  "Servez avec la tomate et le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 168.4,
+  "proteines": 15.42,
+  "glucides": 4.21,
+  "lipides": 9.49,
+  "sucres": 3.38,
+  "fibres": 1.07,
+  "satures": 2.81,
+  "sel": 0.34,
+  "fer": 2.17,
+  "calcium": 57.36,
+  "magnesium": 23.68,
+  "potassium": 347.9,
+  "zinc": 1.49,
+  "iode": 54.67,
+  "vitd": 1.23,
+  "vitc": 16.59,
+  "b12": 1.22,
+  "b9": 63.26,
+  "alcool": 0.0
+ }
+}

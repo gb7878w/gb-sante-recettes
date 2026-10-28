@@ -1,0 +1,68 @@
+{
+ "id": "r356-lapin-aux-carottes-et-a-la-moutarde",
+ "nom": "Lapin aux carottes et à la moutarde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 490,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "34004",
+   "nom": "Lapin cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 150
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Faites dorer le lapin, ajoutez moutarde et carottes.",
+  "Mijotez 30 minutes avec un peu d'eau.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 466.4,
+  "proteines": 54.38,
+  "glucides": 41.88,
+  "lipides": 7.0,
+  "sucres": 10.71,
+  "fibres": 7.29,
+  "satures": 1.81,
+  "sel": 1.05,
+  "fer": 8.3,
+  "calcium": 83.62,
+  "magnesium": 97.47,
+  "potassium": 1527.9,
+  "zinc": 4.18,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 8.36,
+  "b12": 9.77,
+  "b9": 157.83,
+  "alcool": 0.0
+ }
+}

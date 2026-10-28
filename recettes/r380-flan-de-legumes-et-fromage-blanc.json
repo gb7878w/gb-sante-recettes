@@ -1,0 +1,75 @@
+{
+ "id": "r380-flan-de-legumes-et-fromage-blanc",
+ "nom": "Flan de légumes et fromage blanc",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 590,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 20
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Mélangez œufs, fromage blanc et courgettes râpées.",
+  "Enfournez 30 minutes à 180 °C.",
+  "Servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 459.5,
+  "proteines": 36.88,
+  "glucides": 33.31,
+  "lipides": 18.63,
+  "sucres": 9.53,
+  "fibres": 4.95,
+  "satures": 7.12,
+  "sel": 0.91,
+  "fer": 3.68,
+  "calcium": 526.66,
+  "magnesium": 98.56,
+  "potassium": 1297.78,
+  "zinc": 3.38,
+  "iode": 45.08,
+  "vitd": 2.26,
+  "vitc": 8.73,
+  "b12": 2.74,
+  "b9": 179.33,
+  "alcool": 0.0
+ }
+}

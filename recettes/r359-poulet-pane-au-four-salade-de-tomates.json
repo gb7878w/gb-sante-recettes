@@ -1,0 +1,75 @@
+{
+ "id": "r359-poulet-pane-au-four-salade-de-tomates",
+ "nom": "Poulet pané au four, salade de tomates",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "gluten",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 140
+  },
+  {
+   "ciqual": "7340",
+   "nom": "Biscotte complète",
+   "g": 20
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 180
+  }
+ ],
+ "etapes": [
+  "Passez le poulet dans l'œuf puis la chapelure de biscotte.",
+  "Enfournez 20 minutes à 200 °C.",
+  "Servez avec tomates et pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 493.35,
+  "proteines": 52.28,
+  "glucides": 48.93,
+  "lipides": 7.59,
+  "sucres": 6.69,
+  "fibres": 6.51,
+  "satures": 2.29,
+  "sel": 0.63,
+  "fer": 2.47,
+  "calcium": 58.43,
+  "magnesium": 119.74,
+  "potassium": 1694.6,
+  "zinc": 2.08,
+  "iode": 6.3,
+  "vitd": 0.56,
+  "vitc": 31.71,
+  "b12": 0.69,
+  "b9": 105.0,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r371-papillote-de-cabillaud-tomates-et-courgettes",
+ "nom": "Papillote de cabillaud, tomates et courgettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 505,
+ "tags": [
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 120
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 110
+  }
+ ],
+ "etapes": [
+  "Disposez tout sur une feuille de papier cuisson et fermez.",
+  "Enfournez 20 minutes à 190 °C.",
+  "Servez avec le riz."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 386.82,
+  "proteines": 43.35,
+  "glucides": 34.14,
+  "lipides": 7.11,
+  "sucres": 6.47,
+  "fibres": 4.1,
+  "satures": 1.43,
+  "sel": 0.51,
+  "fer": 1.45,
+  "calcium": 73.14,
+  "magnesium": 95.55,
+  "potassium": 1140.3,
+  "zinc": 1.73,
+  "iode": 221.0,
+  "vitd": 2.04,
+  "vitc": 26.98,
+  "b12": 2.6,
+  "b9": 83.61,
+  "alcool": 0.0
+ }
+}

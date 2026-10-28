@@ -1,0 +1,74 @@
+{
+ "id": "r352-dinde-a-la-creme-de-moutarde",
+ "nom": "Dinde à la crème de moutarde",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 380,
+ "tags": [
+  "viande"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Poêlez la dinde, ajoutez moutarde et crème.",
+  "Servez sur les pâtes avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 407.63,
+  "proteines": 48.97,
+  "glucides": 31.72,
+  "lipides": 7.92,
+  "sucres": 2.15,
+  "fibres": 5.08,
+  "satures": 3.85,
+  "sel": 0.92,
+  "fer": 2.42,
+  "calcium": 260.12,
+  "magnesium": 114.09,
+  "potassium": 868.7,
+  "zinc": 2.97,
+  "iode": 5.9,
+  "vitd": 0.0,
+  "vitc": 1.08,
+  "b12": 0.87,
+  "b9": 79.11,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r390-spaghettis-a-la-tomate-et-aux-crevettes",
+ "nom": "Spaghettis à la tomate et aux crevettes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 373,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces",
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 140
+  },
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 110
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 120
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Chauffez le coulis, ajoutez les crevettes.",
+  "Mêlez aux pâtes avec le basilic."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 339.78,
+  "proteines": 29.05,
+  "glucides": 47.37,
+  "lipides": 2.3,
+  "sucres": 7.45,
+  "fibres": 5.88,
+  "satures": 0.59,
+  "sel": 2.54,
+  "fer": 2.94,
+  "calcium": 295.99,
+  "magnesium": 92.82,
+  "potassium": 335.85,
+  "zinc": 2.54,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 1.35,
+  "b12": 1.82,
+  "b9": 51.0,
+  "alcool": 0.0
+ }
+}

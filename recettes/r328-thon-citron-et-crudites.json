@@ -1,0 +1,68 @@
+{
+ "id": "r328-thon-citron-et-crudites",
+ "nom": "Thon, citron et crudités",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 188,
+ "tags": [
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 60
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mêlez le thon au citron.",
+  "Servez avec les bâtonnets de carotte."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 120.73,
+  "proteines": 19.76,
+  "glucides": 7.75,
+  "lipides": 0.26,
+  "sucres": 6.42,
+  "fibres": 2.16,
+  "satures": 0.07,
+  "sel": 0.58,
+  "fer": 0.72,
+  "calcium": 78.24,
+  "magnesium": 27.91,
+  "potassium": 377.0,
+  "zinc": 0.64,
+  "iode": 13.76,
+  "vitd": 3.05,
+  "vitc": 5.24,
+  "b12": 1.68,
+  "b9": 69.17,
+  "alcool": 0.0
+ }
+}

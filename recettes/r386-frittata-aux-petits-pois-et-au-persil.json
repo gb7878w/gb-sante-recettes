@@ -1,0 +1,74 @@
+{
+ "id": "r386-frittata-aux-petits-pois-et-au-persil",
+ "nom": "Frittata aux petits pois et au persil",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 434,
+ "tags": [
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 100
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Mêlez œufs, petits pois, persil et feta.",
+  "Cuisez à feu doux, servez avec les pommes de terre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 516.12,
+  "proteines": 36.08,
+  "glucides": 30.79,
+  "lipides": 26.02,
+  "sucres": 3.16,
+  "fibres": 7.13,
+  "satures": 10.05,
+  "sel": 1.34,
+  "fer": 5.12,
+  "calcium": 257.96,
+  "magnesium": 74.74,
+  "potassium": 910.52,
+  "zinc": 3.11,
+  "iode": 61.8,
+  "vitd": 3.38,
+  "vitc": 21.98,
+  "b12": 2.77,
+  "b9": 147.75,
+  "alcool": 0.0
+ }
+}

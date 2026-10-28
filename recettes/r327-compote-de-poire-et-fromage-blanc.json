@@ -1,0 +1,57 @@
+{
+ "id": "r327-compote-de-poire-et-fromage-blanc",
+ "nom": "Compote de poire et fromage blanc",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 300,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 150
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Écrasez la poire cuite.",
+  "Mélangez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 153.75,
+  "proteines": 11.93,
+  "glucides": 22.94,
+  "lipides": 0.06,
+  "sucres": 19.93,
+  "fibres": 4.65,
+  "satures": 0.04,
+  "sel": 0.17,
+  "fer": 0.38,
+  "calcium": 206.85,
+  "magnesium": 26.25,
+  "potassium": 364.5,
+  "zinc": 0.84,
+  "iode": 15.6,
+  "vitd": 0.0,
+  "vitc": 2.08,
+  "b12": 0.6,
+  "b9": 54.9,
+  "alcool": 0.0
+ }
+}

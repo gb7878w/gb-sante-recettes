@@ -1,0 +1,72 @@
+{
+ "id": "r364-moules-et-riz-parfume",
+ "nom": "Moules et riz parfumé",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 423,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 250
+  },
+  {
+   "ciqual": "9125",
+   "nom": "Riz basmati cuit",
+   "g": 120
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Faites ouvrir les moules avec l'échalote et le vin.",
+  "Servez avec le riz et le persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.53,
+  "proteines": 46.76,
+  "glucides": 45.84,
+  "lipides": 5.96,
+  "sucres": 0.74,
+  "fibres": 1.85,
+  "satures": 1.29,
+  "sel": 2.02,
+  "fer": 10.45,
+  "calcium": 172.27,
+  "magnesium": 179.9,
+  "potassium": 523.83,
+  "zinc": 7.67,
+  "iode": 265.0,
+  "vitd": 0.0,
+  "vitc": 21.59,
+  "b12": 44.0,
+  "b9": 136.58,
+  "alcool": 2.33
+ }
+}

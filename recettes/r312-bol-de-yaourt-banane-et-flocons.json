@@ -1,0 +1,68 @@
+{
+ "id": "r312-bol-de-yaourt-banane-et-flocons",
+ "nom": "Bol de yaourt, banane et flocons",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 345,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten",
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  },
+  {
+   "ciqual": "13005",
+   "nom": "Banane",
+   "g": 70
+  },
+  {
+   "ciqual": "9311",
+   "nom": "Flocons d'avoine",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Mélangez yaourt et fromage blanc.",
+  "Ajoutez la banane et les flocons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 303.73,
+  "proteines": 19.12,
+  "glucides": 41.74,
+  "lipides": 4.88,
+  "sucres": 21.72,
+  "fibres": 6.03,
+  "satures": 2.29,
+  "sel": 0.27,
+  "fer": 1.8,
+  "calcium": 348.41,
+  "magnesium": 93.77,
+  "potassium": 718.65,
+  "zinc": 2.19,
+  "iode": 38.63,
+  "vitd": 0.76,
+  "vitc": 5.34,
+  "b12": 0.83,
+  "b9": 79.85,
+  "alcool": 0.0
+ }
+}

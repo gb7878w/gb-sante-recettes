@@ -1,0 +1,62 @@
+{
+ "id": "r320-yaourt-nature-et-poire",
+ "nom": "Yaourt nature et poire",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 305,
+ "tags": [
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "13188",
+   "nom": "Poire",
+   "g": 100
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Coupez la poire.",
+  "Servez avec le yaourt et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 163.62,
+  "proteines": 11.21,
+  "glucides": 20.42,
+  "lipides": 2.91,
+  "sucres": 18.35,
+  "fibres": 4.17,
+  "satures": 1.94,
+  "sel": 0.23,
+  "fer": 0.47,
+  "calcium": 269.85,
+  "magnesium": 30.19,
+  "potassium": 422.95,
+  "zinc": 0.96,
+  "iode": 34.32,
+  "vitd": 0.76,
+  "vitc": 1.71,
+  "b12": 0.67,
+  "b9": 57.67,
+  "alcool": 0.0
+ }
+}

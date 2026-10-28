@@ -1,0 +1,68 @@
+{
+ "id": "r373-saint-jacques-puree-de-patate-douce",
+ "nom": "Saint-Jacques, purée de patate douce",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 358,
+ "tags": [
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10004",
+   "nom": "Noix de Saint-Jacques cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "4102",
+   "nom": "Patate douce cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Écrasez la patate douce cuite.",
+  "Saisissez les Saint-Jacques dans le beurre 2 minutes par face."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 328.94,
+  "proteines": 33.83,
+  "glucides": 29.38,
+  "lipides": 7.05,
+  "sucres": 12.74,
+  "fibres": 5.93,
+  "satures": 3.29,
+  "sel": 0.87,
+  "fer": 3.66,
+  "calcium": 98.08,
+  "magnesium": 140.49,
+  "potassium": 1247.35,
+  "zinc": 4.88,
+  "iode": 36.08,
+  "vitd": 0.06,
+  "vitc": 37.71,
+  "b12": 12.59,
+  "b9": 44.67,
+  "alcool": 0.0
+ }
+}

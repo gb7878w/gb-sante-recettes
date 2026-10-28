@@ -1,0 +1,74 @@
+{
+ "id": "r391-gratin-de-pommes-de-terre-et-de-poulet",
+ "nom": "Gratin de pommes de terre et de poulet",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 458,
+ "tags": [
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "4003",
+   "nom": "Pommes de terre vapeur",
+   "g": 220
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 110
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "12118",
+   "nom": "Emmental râpé",
+   "g": 25
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Disposez pommes de terre en rondelles et poulet en dés dans un plat frotté d'ail.",
+  "Nappez de fromage blanc et d'emmental.",
+  "Enfournez 35 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 476.68,
+  "proteines": 52.2,
+  "glucides": 41.19,
+  "lipides": 10.14,
+  "sucres": 5.82,
+  "fibres": 4.13,
+  "satures": 5.39,
+  "sel": 0.56,
+  "fer": 1.58,
+  "calcium": 397.08,
+  "magnesium": 101.14,
+  "potassium": 1466.85,
+  "zinc": 2.73,
+  "iode": 15.75,
+  "vitd": 0.0,
+  "vitc": 8.0,
+  "b12": 1.1,
+  "b9": 112.06,
+  "alcool": 0.0
+ }
+}

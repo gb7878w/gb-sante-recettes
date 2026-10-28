@@ -1,0 +1,62 @@
+{
+ "id": "r316-pomme-au-four-a-la-cannelle",
+ "nom": "Pomme au four à la cannelle",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 301,
+ "tags": [
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "13039",
+   "nom": "Pomme",
+   "g": 180
+  },
+  {
+   "ciqual": "11025",
+   "nom": "Cannelle",
+   "g": 1
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Enfournez la pomme 20 minutes à 180 °C avec la cannelle.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 158.55,
+  "proteines": 10.03,
+  "glucides": 25.82,
+  "lipides": 0.51,
+  "sucres": 21.52,
+  "fibres": 3.05,
+  "satures": 0.13,
+  "sel": 0.13,
+  "fer": 0.46,
+  "calcium": 180.41,
+  "magnesium": 26.89,
+  "potassium": 391.31,
+  "zinc": 0.66,
+  "iode": 12.84,
+  "vitd": 0.0,
+  "vitc": 11.29,
+  "b12": 0.48,
+  "b9": 39.66,
+  "alcool": 0.0
+ }
+}

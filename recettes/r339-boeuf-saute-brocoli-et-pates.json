@@ -1,0 +1,68 @@
+{
+ "id": "r339-boeuf-saute-brocoli-et-pates",
+ "nom": "Bœuf sauté, brocoli et pâtes",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 405,
+ "tags": [
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "gluten"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6207",
+   "nom": "Rumsteck grillé",
+   "g": 120
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 150
+  },
+  {
+   "ciqual": "9811",
+   "nom": "Pâtes cuites",
+   "g": 130
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Saisissez le bœuf en lanières.",
+  "Ajoutez le brocoli, mêlez aux pâtes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 412.8,
+  "proteines": 41.38,
+  "glucides": 36.3,
+  "lipides": 9.76,
+  "sucres": 3.03,
+  "fibres": 5.77,
+  "satures": 2.17,
+  "sel": 0.06,
+  "fer": 4.91,
+  "calcium": 76.1,
+  "magnesium": 56.6,
+  "potassium": 554.2,
+  "zinc": 6.45,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 31.05,
+  "b12": 1.81,
+  "b9": 153.1,
+  "alcool": 0.0
+ }
+}
