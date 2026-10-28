@@ -1,0 +1,70 @@
+{
+ "id": "r462-pulpo-a-la-galicienne-sans-pommes-de-terre-espag",
+ "nom": "Pulpo à la galicienne sans pommes de terre (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 292,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10079",
+   "nom": "Poulpe cuit",
+   "g": 180
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 10
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Tranchez le poulpe cuit.",
+  "Assaisonnez d'huile et de paprika, servez avec le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 392.78,
+  "proteines": 54.56,
+  "glucides": 10.84,
+  "lipides": 14.1,
+  "sucres": 1.88,
+  "fibres": 1.3,
+  "satures": 2.41,
+  "sel": 2.08,
+  "fer": 17.72,
+  "calcium": 214.58,
+  "magnesium": 125.16,
+  "potassium": 1336.6,
+  "zinc": 6.23,
+  "iode": 0.3,
+  "vitd": 0.0,
+  "vitc": 22.67,
+  "b12": 64.8,
+  "b9": 56.48,
+  "alcool": 0.0
+ }
+}

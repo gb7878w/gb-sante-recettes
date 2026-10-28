@@ -1,0 +1,67 @@
+{
+ "id": "r471-caldo-verde-sans-pommes-de-terre-au-chorizo-port",
+ "nom": "Caldo verde sans pommes de terre au chorizo (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 380,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 200
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 30
+  },
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez le chou émincé et l'oignon dans l'eau 15 minutes.",
+  "Ajoutez le poulet cuit et le chorizo."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 350.14,
+  "proteines": 46.02,
+  "glucides": 11.81,
+  "lipides": 10.77,
+  "sucres": 9.09,
+  "fibres": 7.78,
+  "satures": 3.88,
+  "sel": 1.52,
+  "fer": 1.52,
+  "calcium": 135.94,
+  "magnesium": 77.02,
+  "potassium": 1248.0,
+  "zinc": 2.02,
+  "iode": 0.0,
+  "vitd": 0.22,
+  "vitc": 20.1,
+  "b12": 0.46,
+  "b9": 169.29,
+  "alcool": 0.0
+ }
+}

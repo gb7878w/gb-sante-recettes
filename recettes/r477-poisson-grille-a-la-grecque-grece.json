@@ -1,0 +1,74 @@
+{
+ "id": "r477-poisson-grille-a-la-grecque-grece",
+ "nom": "Poisson grillé à la grecque (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 324,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27030",
+   "nom": "Bar rôti au four",
+   "g": 180
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 1
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  }
+ ],
+ "etapes": [
+  "Grillez le bar à l'origan.",
+  "Servez avec tomates, citron et huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 367.75,
+  "proteines": 40.65,
+  "glucides": 4.81,
+  "lipides": 19.75,
+  "sucres": 3.52,
+  "fibres": 1.62,
+  "satures": 3.52,
+  "sel": 0.31,
+  "fer": 1.1,
+  "calcium": 45.61,
+  "magnesium": 66.83,
+  "potassium": 1023.6,
+  "zinc": 0.93,
+  "iode": 24.12,
+  "vitd": 7.47,
+  "vitc": 26.33,
+  "b12": 6.66,
+  "b9": 45.51,
+  "alcool": 0.0
+ }
+}

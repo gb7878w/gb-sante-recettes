@@ -1,0 +1,69 @@
+{
+ "id": "r405-oeufs-au-plat-jambon-de-parme-et-salade-italie",
+ "nom": "Œufs au plat, jambon de Parme et salade (Italie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 204,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28844",
+   "nom": "Jambon de Parme",
+   "g": 40
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites cuire les œufs au plat.",
+  "Servez avec le jambon de Parme et la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 309.24,
+  "proteines": 26.64,
+  "glucides": 0.98,
+  "lipides": 22.03,
+  "sucres": 0.74,
+  "fibres": 0.48,
+  "satures": 5.95,
+  "sel": 2.59,
+  "fer": 2.93,
+  "calcium": 124.4,
+  "magnesium": 19.16,
+  "potassium": 240.8,
+  "zinc": 1.29,
+  "iode": 25.69,
+  "vitd": 2.26,
+  "vitc": 9.92,
+  "b12": 1.74,
+  "b9": 58.2,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "r482-gratin-d-epinards-et-de-feta-grece",
+ "nom": "Gratin d'épinards et de feta (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 480,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 60
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mêlez épinards, feta, œufs et fromage blanc.",
+  "Enfournez 25 minutes à 180 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 444.6,
+  "proteines": 39.01,
+  "glucides": 4.6,
+  "lipides": 27.82,
+  "sucres": 4.21,
+  "fibres": 7.0,
+  "satures": 13.54,
+  "sel": 1.9,
+  "fer": 5.06,
+  "calcium": 838.16,
+  "magnesium": 92.6,
+  "potassium": 664.4,
+  "zinc": 4.0,
+  "iode": 83.6,
+  "vitd": 2.26,
+  "vitc": 0.0,
+  "b12": 2.46,
+  "b9": 201.54,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r426-salade-de-morue-oeuf-dur-et-persil-portugal",
+ "nom": "Salade de morue, œuf dur et persil (Portugal)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 132,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26024",
+   "nom": "Morue salée dessalée cuite",
+   "g": 70
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Émiettez la morue dessalée cuite.",
+  "Mélangez avec l'œuf dur, le persil et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 181.52,
+  "proteines": 25.77,
+  "glucides": 0.43,
+  "lipides": 8.47,
+  "sucres": 0.32,
+  "fibres": 0.17,
+  "satures": 1.95,
+  "sel": 4.25,
+  "fer": 1.38,
+  "calcium": 76.7,
+  "magnesium": 18.87,
+  "potassium": 166.92,
+  "zinc": 1.32,
+  "iode": 79.13,
+  "vitd": 1.49,
+  "vitc": 7.08,
+  "b12": 2.15,
+  "b9": 46.01,
+  "alcool": 0.0
+ }
+}

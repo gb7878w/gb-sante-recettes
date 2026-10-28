@@ -1,0 +1,70 @@
+{
+ "id": "r445-filet-de-bar-roti-et-fenouil-france",
+ "nom": "Filet de bar rôti et fenouil (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 385,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27030",
+   "nom": "Bar rôti au four",
+   "g": 170
+  },
+  {
+   "ciqual": "20028",
+   "nom": "Fenouil",
+   "g": 200
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Rôtissez le bar et le fenouil en lamelles à 190 °C.",
+  "Arrosez de citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 341.26,
+  "proteines": 39.74,
+  "glucides": 5.42,
+  "lipides": 16.06,
+  "sucres": 4.48,
+  "fibres": 5.2,
+  "satures": 2.92,
+  "sel": 0.41,
+  "fer": 0.89,
+  "calcium": 93.8,
+  "magnesium": 74.3,
+  "potassium": 1351.0,
+  "zinc": 1.13,
+  "iode": 22.78,
+  "vitd": 7.06,
+  "vitc": 9.64,
+  "b12": 6.29,
+  "b9": 63.46,
+  "alcool": 0.0
+ }
+}

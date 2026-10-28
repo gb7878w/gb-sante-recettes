@@ -1,0 +1,75 @@
+{
+ "id": "r484-schnitzel-de-dinde-sans-chapelure-allemagne",
+ "nom": "Schnitzel de dinde sans chapelure (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 415,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 160
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Trempez l'escalope dans l'œuf et le parmesan râpé.",
+  "Poêlez 3 minutes par face, servez avec citron et haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 360.06,
+  "proteines": 57.58,
+  "glucides": 7.02,
+  "lipides": 9.34,
+  "sucres": 5.16,
+  "fibres": 6.4,
+  "satures": 4.7,
+  "sel": 0.58,
+  "fer": 2.46,
+  "calcium": 281.81,
+  "magnesium": 133.13,
+  "potassium": 1329.9,
+  "zinc": 3.31,
+  "iode": 26.2,
+  "vitd": 0.56,
+  "vitc": 8.02,
+  "b12": 1.81,
+  "b9": 114.44,
+  "alcool": 0.0
+ }
+}

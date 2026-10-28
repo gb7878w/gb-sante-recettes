@@ -1,0 +1,77 @@
+{
+ "id": "r476-moussaka-sans-pommes-de-terre-grece",
+ "nom": "Moussaka sans pommes de terre (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 55,
+ "portions": 1,
+ "poidsG": 570,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 110
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Grillez les aubergines, poêlez l'agneau au coulis.",
+  "Superposez, nappez de fromage blanc et d'œuf.",
+  "Enfournez 25 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 399.49,
+  "proteines": 46.21,
+  "glucides": 21.22,
+  "lipides": 11.38,
+  "sucres": 16.9,
+  "fibres": 12.83,
+  "satures": 3.9,
+  "sel": 1.14,
+  "fer": 2.89,
+  "calcium": 231.27,
+  "magnesium": 86.77,
+  "potassium": 822.8,
+  "zinc": 5.45,
+  "iode": 24.7,
+  "vitd": 0.56,
+  "vitc": 3.25,
+  "b12": 2.9,
+  "b9": 87.9,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r452-poisson-a-l-acqua-pazza-italie",
+ "nom": "Poisson à l'acqua pazza (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 354,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 180
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 3
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail et les tomates cerises dans l'huile.",
+  "Pochez le cabillaud avec les olives 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 304.06,
+  "proteines": 42.47,
+  "glucides": 8.99,
+  "lipides": 9.65,
+  "sucres": 7.24,
+  "fibres": 2.9,
+  "satures": 1.46,
+  "sel": 0.68,
+  "fer": 2.39,
+  "calcium": 55.35,
+  "magnesium": 72.42,
+  "potassium": 1048.35,
+  "zinc": 1.21,
+  "iode": 234.0,
+  "vitd": 2.16,
+  "vitc": 34.5,
+  "b12": 2.75,
+  "b9": 45.18,
+  "alcool": 0.0
+ }
+}

@@ -59,6 +59,9 @@ def construire():
         if total["proteines"] < pmin: erreurs.append(f"{rid}: {total['proteines']:.0f} g de protéines (< {pmin})")
         if len(r["etapes"]) < (1 if r["categorie"] == "collation" else 2): erreurs.append(f"{rid}: pas assez d'étapes")
         if not 2 <= r["temps"] <= 90: erreurs.append(f"{rid}: durée {r['temps']}")
+        if "lowcarb" in r.get("tags", []):
+            lmax = {"petit-dejeuner": 20, "plat": 22, "collation": 12}[r["categorie"]]
+            if total["glucides"] > lmax: erreurs.append(f"{rid}: {total['glucides']:.0f} g de glucides (> {lmax}, pauvre en glucides)")
         sortie.append({
             "id": rid, "nom": r["nom"], "categorie": r["categorie"], "moments": MOMENTS[r["categorie"]],
             "tempsMin": r["temps"], "portions": 1, "poidsG": round(poids), "tags": r.get("tags", []),

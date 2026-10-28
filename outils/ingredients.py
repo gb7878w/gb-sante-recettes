@@ -68,3 +68,32 @@ ALLERGENES = {
     "celeri": ["celeri"],
 }
 VIANDES = ["poulet", "cuissepoulet", "dinde", "hache5", "rumsteck", "porc", "veau", "agneau", "jambon", "jambondinde", "lardons", "lapin"]
+
+# Ingrédients ajoutés pour les spécialités européennes pauvres en glucides.
+I.update({
+    "saumonfume": ("26037", "Saumon fumé"), "anchois": ("26187", "Anchois mariné"), "chorizo": ("30317", "Chorizo en tranches"),
+    "bacon": ("28727", "Filet de bacon"), "canard": ("36203", "Cuisse de canard sans peau"), "choucroute": ("25220", "Choucroute cuite égouttée"),
+    "chourouge": ("20095", "Chou rouge cuit"), "asperge": ("20299", "Asperges vertes cuites"), "gruyere": ("12114", "Gruyère"),
+    "comte": ("12110", "Comté"), "camembert": ("12006", "Camembert"), "raclette": ("12749", "Fromage à raclette"), "brie": ("12021", "Brie de Meaux"),
+    "calmar": ("10037", "Calmar cuit"), "poulpe": ("10079", "Poulpe cuit"), "harengfume": ("25998", "Filet de hareng fumé"),
+    "morue": ("26024", "Morue salée dessalée cuite"), "francfort": ("30134", "Saucisse de Francfort"), "boudinnoir": ("8704", "Boudin noir poêlé"),
+    "dorade": ("27031", "Dorade royale au four"), "bar": ("27030", "Bar rôti au four"), "tzatziki": ("19863", "Tzatziki"),
+    "radis": ("20045", "Radis rouge"), "jambonsec": ("28845", "Jambon sec serrano"), "parme": ("28844", "Jambon de Parme"),
+    "pancetta": ("28858", "Pancetta"), "salami": ("30351", "Salami pur porc"), "entrecote": ("6100", "Entrecôte grillée"),
+    "pintade": ("36702", "Poitrine de pintade"), "cerf": ("14007", "Cerf rôti"), "sanglier": ("14003", "Sanglier rôti"),
+    "chevreau": ("21801", "Chevreau cuit"), "brebis": ("12827", "Fromage de brebis"), "ricotta": ("19585", "Ricotta"),
+    "mascarpone": ("19584", "Mascarpone"), "gorgonzola": ("12524", "Gorgonzola"), "roquefort": ("12500", "Roquefort"),
+    "munster": ("12039", "Munster"), "reblochon": ("12045", "Reblochon"), "cheddar": ("12726", "Cheddar"),
+    "cepe": ("20160", "Cèpes"), "chouxbruxelles": ("20309", "Choux de Bruxelles cuits"), "celerirave": ("20025", "Céleri-rave cuit"),
+    "navet": ("20321", "Navet cuit"), "potiron": ("20096", "Potiron cuit"), "aneth": ("11093", "Aneth"), "ciboulette": ("11003", "Ciboulette"),
+    "menthe": ("11027", "Menthe"), "thym": ("11070", "Thym"), "romarin": ("11068", "Romarin"), "origan": ("11035", "Origan"),
+    "paprika": ("11049", "Paprika"), "pistache": ("15044", "Pistaches"), "oliveverte": ("13033", "Olives vertes"),
+    "boeufmaigre": ("6104", "Bœuf gîte à la noix cuit"), "poivronrouge": ("20275", "Poivrons rouges grillés"),
+})
+
+ALLERGENES["lactose"] += ["gruyere", "comte", "camembert", "raclette", "brie", "brebis", "ricotta", "mascarpone", "gorgonzola", "roquefort", "munster", "reblochon", "cheddar", "tzatziki"]
+ALLERGENES["poisson"] += ["saumonfume", "anchois", "harengfume", "morue", "dorade", "bar"]
+ALLERGENES["crustaces"] += ["calmar", "poulpe"]
+ALLERGENES["fruits-a-coque"] += ["pistache"]
+ALLERGENES["celeri"] += ["celerirave"]
+VIANDES += ["chorizo", "bacon", "canard", "francfort", "boudinnoir", "jambonsec", "parme", "pancetta", "salami", "entrecote", "pintade", "cerf", "sanglier", "chevreau", "boeufmaigre"]

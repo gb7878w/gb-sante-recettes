@@ -1,0 +1,63 @@
+{
+ "id": "r430-oeuf-dur-et-olives-vertes-grece",
+ "nom": "Œuf dur et olives vertes (Grèce)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 190,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 20
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez l'œuf dur avec les olives et le concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 187.76,
+  "proteines": 15.5,
+  "glucides": 2.1,
+  "lipides": 12.69,
+  "sucres": 1.57,
+  "fibres": 1.08,
+  "satures": 3.3,
+  "sel": 0.98,
+  "fer": 2.0,
+  "calcium": 68.22,
+  "magnesium": 28.36,
+  "potassium": 232.4,
+  "zinc": 1.47,
+  "iode": 54.85,
+  "vitd": 1.23,
+  "vitc": 4.95,
+  "b12": 1.22,
+  "b9": 55.78,
+  "alcool": 0.0
+ }
+}

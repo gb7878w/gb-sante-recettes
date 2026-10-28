@@ -1,0 +1,70 @@
+{
+ "id": "r500-chou-farci-a-la-dinde-france",
+ "nom": "Chou farci à la dinde (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 140
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Blanchissez les feuilles de chou.",
+  "Garnissez de dinde hachée et d'œuf, roulez.",
+  "Mijotez dans le coulis 30 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 346.29,
+  "proteines": 48.8,
+  "glucides": 18.48,
+  "lipides": 6.13,
+  "sucres": 14.98,
+  "fibres": 10.83,
+  "satures": 2.25,
+  "sel": 1.1,
+  "fer": 2.0,
+  "calcium": 178.13,
+  "magnesium": 92.96,
+  "potassium": 1287.0,
+  "zinc": 2.41,
+  "iode": 11.9,
+  "vitd": 0.56,
+  "vitc": 23.25,
+  "b12": 1.29,
+  "b9": 184.2,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "r418-oeuf-mimosa-au-thon-france",
+ "nom": "Œuf mimosa au thon (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 170,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 30
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Écrasez les jaunes avec le thon et le fromage blanc.",
+  "Garnissez les blancs."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 195.52,
+  "proteines": 25.27,
+  "glucides": 1.74,
+  "lipides": 9.61,
+  "sucres": 1.74,
+  "fibres": 0.0,
+  "satures": 2.84,
+  "sel": 0.6,
+  "fer": 2.17,
+  "calcium": 87.18,
+  "magnesium": 26.26,
+  "potassium": 237.3,
+  "zinc": 1.68,
+  "iode": 62.59,
+  "vitd": 2.76,
+  "vitc": 0.0,
+  "b12": 2.1,
+  "b9": 60.49,
+  "alcool": 0.0
+ }
+}

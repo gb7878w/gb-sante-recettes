@@ -1,0 +1,75 @@
+{
+ "id": "r498-cassolette-de-fruits-de-mer-a-la-creme-france",
+ "nom": "Cassolette de fruits de mer à la crème (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 363,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 120
+  },
+  {
+   "ciqual": "10004",
+   "nom": "Noix de Saint-Jacques cuites",
+   "g": 80
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Pochez les fruits de mer.",
+  "Ajoutez la crème et le persil, chauffez 3 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 391.65,
+  "proteines": 60.9,
+  "glucides": 12.79,
+  "lipides": 10.73,
+  "sucres": 1.95,
+  "fibres": 0.13,
+  "satures": 4.83,
+  "sel": 3.03,
+  "fer": 8.42,
+  "calcium": 421.5,
+  "magnesium": 208.15,
+  "potassium": 851.14,
+  "zinc": 7.78,
+  "iode": 143.2,
+  "vitd": 0.0,
+  "vitc": 13.35,
+  "b12": 29.8,
+  "b9": 94.34,
+  "alcool": 0.0
+ }
+}

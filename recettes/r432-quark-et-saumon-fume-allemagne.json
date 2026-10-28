@@ -1,0 +1,65 @@
+{
+ "id": "r432-quark-et-saumon-fume-allemagne",
+ "nom": "Quark et saumon fumé (Allemagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 142,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 100
+  },
+  {
+   "ciqual": "26037",
+   "nom": "Saumon fumé",
+   "g": 40
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et l'aneth.",
+  "Servez avec le saumon fumé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 121.56,
+  "proteines": 16.83,
+  "glucides": 4.33,
+  "lipides": 3.86,
+  "sucres": 3.91,
+  "fibres": 0.07,
+  "satures": 0.86,
+  "sel": 1.52,
+  "fer": 0.33,
+  "calcium": 140.43,
+  "magnesium": 28.08,
+  "potassium": 377.34,
+  "zinc": 0.62,
+  "iode": 26.48,
+  "vitd": 2.18,
+  "vitc": 1.4,
+  "b12": 1.74,
+  "b9": 36.72,
+  "alcool": 0.0
+ }
+}

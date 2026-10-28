@@ -1,0 +1,75 @@
+{
+ "id": "r449-poulet-a-la-parmesane-italie",
+ "nom": "Poulet à la parmesane (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 293,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 50
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Poêlez le poulet, nappez de coulis.",
+  "Ajoutez la mozzarella et le parmesan, gratinez 8 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 406.08,
+  "proteines": 58.25,
+  "glucides": 7.28,
+  "lipides": 15.12,
+  "sucres": 4.76,
+  "fibres": 2.18,
+  "satures": 8.85,
+  "sel": 1.37,
+  "fer": 0.97,
+  "calcium": 385.74,
+  "magnesium": 71.42,
+  "potassium": 717.85,
+  "zinc": 2.95,
+  "iode": 27.6,
+  "vitd": 0.2,
+  "vitc": 2.58,
+  "b12": 1.67,
+  "b9": 21.46,
+  "alcool": 0.0
+ }
+}

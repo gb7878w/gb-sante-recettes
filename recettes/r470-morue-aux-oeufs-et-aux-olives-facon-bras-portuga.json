@@ -1,0 +1,76 @@
+{
+ "id": "r470-morue-aux-oeufs-et-aux-olives-facon-bras-portuga",
+ "nom": "Morue aux œufs et aux olives façon Brás (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 319,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26024",
+   "nom": "Morue salée dessalée cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'oignon et la morue émiettée.",
+  "Ajoutez les œufs battus, olives et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.47,
+  "proteines": 54.95,
+  "glucides": 2.38,
+  "lipides": 15.92,
+  "sucres": 0.42,
+  "fibres": 1.88,
+  "satures": 3.68,
+  "sel": 9.36,
+  "fer": 4.27,
+  "calcium": 214.13,
+  "magnesium": 39.35,
+  "potassium": 397.57,
+  "zinc": 2.55,
+  "iode": 136.2,
+  "vitd": 4.13,
+  "vitc": 7.7,
+  "b12": 5.04,
+  "b9": 85.31,
+  "alcool": 0.0
+ }
+}

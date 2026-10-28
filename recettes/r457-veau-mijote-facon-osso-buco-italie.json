@@ -1,0 +1,74 @@
+{
+ "id": "r457-veau-mijote-facon-osso-buco-italie",
+ "nom": "Veau mijoté façon osso buco (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 60,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande"
+ ],
+ "allergenes": [
+  "celeri"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6520",
+   "nom": "Escalope de veau cuite",
+   "g": 160
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 60
+  },
+  {
+   "ciqual": "20023",
+   "nom": "Céleri branche",
+   "g": 40
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Dorez le veau, ajoutez légumes et coulis.",
+  "Mijotez 45 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.0,
+  "proteines": 52.64,
+  "glucides": 15.96,
+  "lipides": 4.2,
+  "sucres": 9.68,
+  "fibres": 5.88,
+  "satures": 1.39,
+  "sel": 1.27,
+  "fer": 1.8,
+  "calcium": 54.58,
+  "magnesium": 59.22,
+  "potassium": 339.0,
+  "zinc": 5.31,
+  "iode": 9.6,
+  "vitd": 0.0,
+  "vitc": 4.06,
+  "b12": 3.2,
+  "b9": 62.26,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "id": "r428-tzatziki-et-batonnets-de-concombre-grece",
+ "nom": "Tzatziki et bâtonnets de concombre (Grèce)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 220,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19863",
+   "nom": "Tzatziki",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 20
+  }
+ ],
+ "etapes": [
+  "Servez le tzatziki avec les bâtonnets de concombre et la feta émiettée."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 210.7,
+  "proteines": 9.85,
+  "glucides": 6.47,
+  "lipides": 15.87,
+  "sucres": 4.37,
+  "fibres": 0.6,
+  "satures": 4.21,
+  "sel": 1.34,
+  "fer": 0.24,
+  "calcium": 151.2,
+  "magnesium": 24.8,
+  "potassium": 320.2,
+  "zinc": 0.66,
+  "iode": 16.3,
+  "vitd": 0.0,
+  "vitc": 8.76,
+  "b12": 0.7,
+  "b9": 30.88,
+  "alcool": 0.0
+ }
+}

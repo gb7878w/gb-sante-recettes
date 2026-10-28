@@ -1,0 +1,71 @@
+{
+ "id": "r455-frittata-aux-epinards-et-a-la-ricotta-italie",
+ "nom": "Frittata aux épinards et à la ricotta (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 420,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  },
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 80
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Mêlez œufs, épinards et ricotta.",
+  "Cuisez à feu doux, parsemez de parmesan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 461.39,
+  "proteines": 38.07,
+  "glucides": 3.69,
+  "lipides": 31.36,
+  "sucres": 2.29,
+  "fibres": 5.25,
+  "satures": 13.47,
+  "sel": 1.0,
+  "fer": 5.65,
+  "calcium": 847.44,
+  "magnesium": 77.6,
+  "potassium": 576.2,
+  "zinc": 4.32,
+  "iode": 61.2,
+  "vitd": 3.54,
+  "vitc": 0.0,
+  "b12": 3.15,
+  "b9": 166.45,
+  "alcool": 0.0
+ }
+}

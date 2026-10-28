@@ -1,0 +1,67 @@
+{
+ "id": "r461-poulet-au-chorizo-et-aux-poivrons-espagne",
+ "nom": "Poulet au chorizo et aux poivrons (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 430,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 30
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 150
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Dorez poulet et chorizo.",
+  "Ajoutez poivrons et tomate, mijotez 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 383.3,
+  "proteines": 54.02,
+  "glucides": 13.19,
+  "lipides": 10.17,
+  "sucres": 10.63,
+  "fibres": 5.8,
+  "satures": 3.51,
+  "sel": 1.5,
+  "fer": 1.49,
+  "calcium": 29.45,
+  "magnesium": 83.8,
+  "potassium": 1335.0,
+  "zinc": 2.18,
+  "iode": 0.0,
+  "vitd": 0.22,
+  "vitc": 199.95,
+  "b12": 0.52,
+  "b9": 165.25,
+  "alcool": 0.0
+ }
+}

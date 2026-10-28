@@ -1,0 +1,63 @@
+{
+ "id": "r417-camembert-roti-et-radis-france",
+ "nom": "Camembert rôti et radis (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 160,
+ "tags": [
+  "lowcarb",
+  "France",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12006",
+   "nom": "Camembert",
+   "g": 40
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Réchauffez le camembert au four 8 minutes à 180 °C.",
+  "Servez avec les radis et le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 145.14,
+  "proteines": 13.61,
+  "glucides": 3.25,
+  "lipides": 8.14,
+  "sucres": 2.99,
+  "fibres": 0.84,
+  "satures": 5.66,
+  "sel": 0.67,
+  "fer": 0.37,
+  "calcium": 241.4,
+  "magnesium": 18.24,
+  "potassium": 300.4,
+  "zinc": 1.46,
+  "iode": 14.24,
+  "vitd": 0.0,
+  "vitc": 7.32,
+  "b12": 0.88,
+  "b9": 106.84,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "id": "r472-porc-aux-moules-a-la-portugaise-portugal",
+ "nom": "Porc aux moules à la portugaise (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 318,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "viande",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "10013",
+   "nom": "Moules cuites",
+   "g": 150
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  }
+ ],
+ "etapes": [
+  "Dorez le porc en dés avec l'ail.",
+  "Ajoutez les moules cuites, citron et persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 422.92,
+  "proteines": 65.31,
+  "glucides": 8.72,
+  "lipides": 13.81,
+  "sucres": 0.17,
+  "fibres": 0.4,
+  "satures": 4.43,
+  "sel": 1.42,
+  "fer": 7.86,
+  "calcium": 110.26,
+  "magnesium": 139.97,
+  "potassium": 824.12,
+  "zinc": 7.34,
+  "iode": 159.0,
+  "vitd": 0.0,
+  "vitc": 20.38,
+  "b12": 27.93,
+  "b9": 81.24,
+  "alcool": 0.0
+ }
+}

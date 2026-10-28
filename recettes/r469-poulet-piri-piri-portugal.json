@@ -1,0 +1,78 @@
+{
+ "id": "r469-poulet-piri-piri-portugal",
+ "nom": "Poulet piri-piri (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 268,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 3
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Marinez le poulet avec piment, citron, ail et huile.",
+  "Rôtissez 25 minutes à 200 °C, servez avec la salade."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 309.83,
+  "proteines": 49.84,
+  "glucides": 2.62,
+  "lipides": 9.74,
+  "sucres": 1.06,
+  "fibres": 2.24,
+  "satures": 1.92,
+  "sel": 0.25,
+  "fer": 2.09,
+  "calcium": 68.16,
+  "magnesium": 78.45,
+  "potassium": 974.6,
+  "zinc": 1.52,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 18.5,
+  "b12": 0.29,
+  "b9": 56.85,
+  "alcool": 0.0
+ }
+}

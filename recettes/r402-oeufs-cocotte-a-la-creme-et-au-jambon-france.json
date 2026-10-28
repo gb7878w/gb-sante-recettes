@@ -1,0 +1,71 @@
+{
+ "id": "r402-oeufs-cocotte-a-la-creme-et-au-jambon-france",
+ "nom": "Œufs cocotte à la crème et au jambon (France)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 188,
+ "tags": [
+  "lowcarb",
+  "France",
+  "oeufs",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 40
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 25
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Préchauffez le four à 180 °C.",
+  "Répartissez jambon et crème dans des ramequins, cassez les œufs dessus.",
+  "Enfournez 12 minutes, parsemez de ciboulette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 252.12,
+  "proteines": 23.9,
+  "glucides": 2.11,
+  "lipides": 16.48,
+  "sucres": 1.95,
+  "fibres": 0.16,
+  "satures": 5.99,
+  "sel": 1.19,
+  "fer": 2.3,
+  "calcium": 125.19,
+  "magnesium": 16.16,
+  "potassium": 344.0,
+  "zinc": 1.23,
+  "iode": 25.27,
+  "vitd": 2.26,
+  "vitc": 1.19,
+  "b12": 1.74,
+  "b9": 43.15,
+  "alcool": 0.0
+ }
+}

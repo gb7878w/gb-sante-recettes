@@ -1,0 +1,69 @@
+{
+ "id": "r429-feta-tomates-et-origan-grece",
+ "nom": "Feta, tomates et origan (Grèce)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 201,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 50
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 100
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 1
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Disposez feta et tomates, parsemez d'origan.",
+  "Ajoutez le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 203.55,
+  "proteines": 12.92,
+  "glucides": 8.15,
+  "lipides": 12.21,
+  "sucres": 6.79,
+  "fibres": 1.62,
+  "satures": 8.43,
+  "sel": 1.19,
+  "fer": 0.86,
+  "calcium": 199.6,
+  "magnesium": 25.8,
+  "potassium": 447.6,
+  "zinc": 1.05,
+  "iode": 45.2,
+  "vitd": 0.0,
+  "vitc": 21.82,
+  "b12": 0.47,
+  "b9": 41.42,
+  "alcool": 0.0
+ }
+}

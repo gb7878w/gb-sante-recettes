@@ -1,0 +1,75 @@
+{
+ "id": "r496-raclette-de-legumes-et-de-jambon-france",
+ "nom": "Raclette de légumes et de jambon (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 400,
+ "tags": [
+  "lowcarb",
+  "France",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "12749",
+   "nom": "Fromage à raclette",
+   "g": 80
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  },
+  {
+   "ciqual": "20017",
+   "nom": "Chou-fleur cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Cuisez chou-fleur et champignons.",
+  "Faites fondre la raclette dessus au four 8 minutes.",
+  "Servez avec le jambon et les cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 432.77,
+  "proteines": 36.22,
+  "glucides": 6.09,
+  "lipides": 27.97,
+  "sucres": 5.21,
+  "fibres": 4.45,
+  "satures": 17.1,
+  "sel": 4.01,
+  "fer": 0.85,
+  "calcium": 558.33,
+  "magnesium": 56.35,
+  "potassium": 817.72,
+  "zinc": 3.27,
+  "iode": 17.0,
+  "vitd": 0.3,
+  "vitc": 17.64,
+  "b12": 0.0,
+  "b9": 196.95,
+  "alcool": 0.0
+ }
+}

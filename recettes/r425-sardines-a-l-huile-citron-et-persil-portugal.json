@@ -1,0 +1,68 @@
+{
+ "id": "r425-sardines-a-l-huile-citron-et-persil-portugal",
+ "nom": "Sardines à l'huile, citron et persil (Portugal)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 131,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26231",
+   "nom": "Sardines à l'huile d'olive égouttées",
+   "g": 60
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 8
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 3
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Servez les sardines égouttées avec le citron, le persil et la tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 143.48,
+  "proteines": 13.31,
+  "glucides": 2.76,
+  "lipides": 8.36,
+  "sucres": 1.77,
+  "fibres": 0.73,
+  "satures": 1.9,
+  "sel": 0.44,
+  "fer": 1.63,
+  "calcium": 76.3,
+  "magnesium": 28.22,
+  "potassium": 369.34,
+  "zinc": 1.3,
+  "iode": 24.0,
+  "vitd": 4.44,
+  "vitc": 18.69,
+  "b12": 8.16,
+  "b9": 14.39,
+  "alcool": 0.0
+ }
+}

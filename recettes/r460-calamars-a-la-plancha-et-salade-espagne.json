@@ -1,0 +1,75 @@
+{
+ "id": "r460-calamars-a-la-plancha-et-salade-espagne",
+ "nom": "Calamars à la plancha et salade (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 383,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 180
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Saisissez les calamars à feu vif 3 minutes.",
+  "Servez avec citron, salade et tomate."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 376.72,
+  "proteines": 60.04,
+  "glucides": 7.84,
+  "lipides": 10.67,
+  "sucres": 3.5,
+  "fibres": 1.96,
+  "satures": 1.66,
+  "sel": 3.36,
+  "fer": 11.36,
+  "calcium": 384.13,
+  "magnesium": 128.11,
+  "potassium": 1537.6,
+  "zinc": 6.52,
+  "iode": 0.98,
+  "vitd": 0.0,
+  "vitc": 47.79,
+  "b12": 9.72,
+  "b9": 95.76,
+  "alcool": 0.0
+ }
+}

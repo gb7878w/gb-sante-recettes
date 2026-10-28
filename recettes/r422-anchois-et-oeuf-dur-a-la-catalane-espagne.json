@@ -1,0 +1,64 @@
+{
+ "id": "r422-anchois-et-oeuf-dur-a-la-catalane-espagne",
+ "nom": "Anchois et œuf dur à la catalane (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 195,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "26187",
+   "nom": "Anchois mariné",
+   "g": 25
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez œuf, anchois et tomates dans une assiette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 201.62,
+  "proteines": 21.61,
+  "glucides": 4.62,
+  "lipides": 10.3,
+  "sucres": 3.45,
+  "fibres": 0.72,
+  "satures": 3.07,
+  "sel": 1.74,
+  "fer": 2.81,
+  "calcium": 79.06,
+  "magnesium": 47.5,
+  "potassium": 369.75,
+  "zinc": 1.99,
+  "iode": 56.67,
+  "vitd": 1.83,
+  "vitc": 13.08,
+  "b12": 5.05,
+  "b9": 68.21,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "r454-aubergines-a-la-parmesane-italie",
+ "nom": "Aubergines à la parmesane (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 45,
+ "portions": 1,
+ "poidsG": 520,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "four"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 90
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 100
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 20
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Superposez aubergines grillées, coulis et mozzarella.",
+  "Ajoutez le parmesan et l'œuf battu, enfournez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 501.55,
+  "proteines": 34.06,
+  "glucides": 19.79,
+  "lipides": 28.93,
+  "sucres": 14.82,
+  "fibres": 13.35,
+  "satures": 16.44,
+  "sel": 1.95,
+  "fer": 2.17,
+  "calcium": 782.83,
+  "magnesium": 70.1,
+  "potassium": 478.3,
+  "zinc": 4.26,
+  "iode": 66.58,
+  "vitd": 1.49,
+  "vitc": 3.25,
+  "b12": 3.45,
+  "b9": 64.9,
+  "alcool": 0.0
+ }
+}

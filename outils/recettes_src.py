@@ -219,3 +219,4 @@ R("Poulet citron-thym, courgettes et semoule", PL, 30, [("poulet", 140), ("courg
 import recettes_lot2  # noqa: E402,F401  (deuxième lot)
 import recettes_lot3  # noqa: E402,F401  (troisième lot)
 import recettes_lot4  # noqa: E402,F401  (quatrième lot)
+import recettes_lot5  # noqa: E402,F401  (cinquième lot)

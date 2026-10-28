@@ -1,0 +1,65 @@
+{
+ "id": "r434-oeuf-dur-anchois-et-capres-france",
+ "nom": "Œuf dur, anchois et câpres (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 130,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "26187",
+   "nom": "Anchois mariné",
+   "g": 15
+  },
+  {
+   "ciqual": "11040",
+   "nom": "Câpres",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Coupez l'œuf en deux.",
+  "Garnissez d'anchois et de câpres."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 169.69,
+  "proteines": 18.54,
+  "glucides": 1.15,
+  "lipides": 10.01,
+  "sucres": 0.59,
+  "fibres": 0.18,
+  "satures": 2.97,
+  "sel": 1.38,
+  "fer": 2.4,
+  "calcium": 65.1,
+  "magnesium": 32.35,
+  "potassium": 157.85,
+  "zinc": 1.71,
+  "iode": 55.87,
+  "vitd": 1.59,
+  "vitc": 0.21,
+  "b12": 3.52,
+  "b9": 55.1,
+  "alcool": 0.0
+ }
+}

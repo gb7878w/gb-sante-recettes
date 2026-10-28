@@ -1,0 +1,74 @@
+{
+ "id": "r412-yaourt-grec-concombre-et-feta-grece",
+ "nom": "Yaourt grec, concombre et feta (Grèce)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 342,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 150
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 60
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Mélangez fromage blanc et yaourt.",
+  "Ajoutez concombre en dés, feta et menthe."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 226.91,
+  "proteines": 20.79,
+  "glucides": 12.39,
+  "lipides": 9.73,
+  "sucres": 11.61,
+  "fibres": 1.37,
+  "satures": 6.64,
+  "sel": 0.96,
+  "fer": 0.71,
+  "calcium": 409.94,
+  "magnesium": 43.59,
+  "potassium": 507.28,
+  "zinc": 1.58,
+  "iode": 60.58,
+  "vitd": 0.61,
+  "vitc": 5.66,
+  "b12": 1.04,
+  "b9": 71.95,
+  "alcool": 0.0
+ }
+}

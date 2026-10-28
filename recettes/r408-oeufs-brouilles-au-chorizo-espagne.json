@@ -1,0 +1,64 @@
+{
+ "id": "r408-oeufs-brouilles-au-chorizo-espagne",
+ "nom": "Œufs brouillés au chorizo (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 10,
+ "portions": 1,
+ "poidsG": 225,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 25
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  }
+ ],
+ "etapes": [
+  "Faites revenir le chorizo en rondelles.",
+  "Ajoutez la tomate et les œufs, brouillez doucement."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 264.74,
+  "proteines": 21.29,
+  "glucides": 3.72,
+  "lipides": 17.77,
+  "sucres": 3.09,
+  "fibres": 0.8,
+  "satures": 5.37,
+  "sel": 1.45,
+  "fer": 2.74,
+  "calcium": 104.6,
+  "magnesium": 26.3,
+  "potassium": 491.3,
+  "zinc": 1.95,
+  "iode": 25.2,
+  "vitd": 2.44,
+  "vitc": 13.04,
+  "b12": 1.95,
+  "b9": 63.88,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "r487-salade-de-chou-et-de-poulet-au-yaourt-allemagne",
+ "nom": "Salade de chou et de poulet au yaourt (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 448,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 150
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 100
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "20009",
+   "nom": "Carotte",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez chou émincé, carotte râpée, yaourt et moutarde.",
+  "Ajoutez le poulet effiloché."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 351.29,
+  "proteines": 51.91,
+  "glucides": 15.06,
+  "lipides": 7.1,
+  "sucres": 13.5,
+  "fibres": 7.19,
+  "satures": 2.87,
+  "sel": 0.91,
+  "fer": 1.48,
+  "calcium": 239.45,
+  "magnesium": 91.96,
+  "potassium": 1291.0,
+  "zinc": 1.85,
+  "iode": 21.04,
+  "vitd": 0.61,
+  "vitc": 16.57,
+  "b12": 0.55,
+  "b9": 163.78,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "r453-courgettes-farcies-a-la-viande-italie",
+ "nom": "Courgettes farcies à la viande (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 140
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 250
+  },
+  {
+   "ciqual": "20260",
+   "nom": "Coulis de tomates",
+   "g": 80
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Évidez les courgettes et garnissez-les de viande à la tomate.",
+  "Parsemez de parmesan, enfournez 30 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 356.09,
+  "proteines": 44.33,
+  "glucides": 10.32,
+  "lipides": 13.9,
+  "sucres": 7.88,
+  "fibres": 5.83,
+  "satures": 7.14,
+  "sel": 1.41,
+  "fer": 4.78,
+  "calcium": 205.05,
+  "magnesium": 92.55,
+  "potassium": 1097.3,
+  "zinc": 10.14,
+  "iode": 22.04,
+  "vitd": 0.0,
+  "vitc": 7.25,
+  "b12": 3.85,
+  "b9": 94.2,
+  "alcool": 0.0
+ }
+}

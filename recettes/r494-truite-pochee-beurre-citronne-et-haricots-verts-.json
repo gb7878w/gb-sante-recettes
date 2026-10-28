@@ -1,0 +1,70 @@
+{
+ "id": "r494-truite-pochee-beurre-citronne-et-haricots-verts-",
+ "nom": "Truite pochée, beurre citronné et haricots verts (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 390,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27014",
+   "nom": "Truite au four",
+   "g": 170
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Pochez la truite 10 minutes.",
+  "Servez avec le beurre fondu citronné et les haricots."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 375.96,
+  "proteines": 40.12,
+  "glucides": 7.04,
+  "lipides": 18.91,
+  "sucres": 5.16,
+  "fibres": 6.4,
+  "satures": 8.02,
+  "sel": 0.23,
+  "fer": 1.69,
+  "calcium": 207.73,
+  "magnesium": 101.1,
+  "potassium": 1201.52,
+  "zinc": 1.48,
+  "iode": 16.31,
+  "vitd": 25.61,
+  "vitc": 11.75,
+  "b12": 7.77,
+  "b9": 120.84,
+  "alcool": 0.0
+ }
+}

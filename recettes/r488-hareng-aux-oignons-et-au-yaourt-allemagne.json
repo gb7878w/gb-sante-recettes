@@ -1,0 +1,78 @@
+{
+ "id": "r488-hareng-aux-oignons-et-au-yaourt-allemagne",
+ "nom": "Hareng aux oignons et au yaourt (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 363,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25998",
+   "nom": "Filet de hareng fumé",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "19600",
+   "nom": "Yaourt nature",
+   "g": 125
+  },
+  {
+   "ciqual": "11093",
+   "nom": "Aneth",
+   "g": 3
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  }
+ ],
+ "etapes": [
+  "Mélangez yaourt, oignon et aneth.",
+  "Servez avec le hareng et l'œuf dur."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 400.49,
+  "proteines": 39.9,
+  "glucides": 8.23,
+  "lipides": 22.5,
+  "sucres": 6.22,
+  "fibres": 1.96,
+  "satures": 6.68,
+  "sel": 5.98,
+  "fer": 2.44,
+  "calcium": 284.26,
+  "magnesium": 83.79,
+  "potassium": 909.16,
+  "zinc": 2.05,
+  "iode": 53.45,
+  "vitd": 27.93,
+  "vitc": 3.05,
+  "b12": 21.06,
+  "b9": 73.65,
+  "alcool": 0.0
+ }
+}

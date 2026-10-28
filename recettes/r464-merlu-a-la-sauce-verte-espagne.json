@@ -1,0 +1,74 @@
+{
+ "id": "r464-merlu-a-la-sauce-verte-espagne",
+ "nom": "Merlu à la sauce verte (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 262,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 180
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 10
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  },
+  {
+   "ciqual": "20326",
+   "nom": "Petits pois cuits",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Pochez le merlu avec l'ail.",
+  "Ajoutez persil, petits pois et huile, mixez à moitié la sauce."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 330.52,
+  "proteines": 42.57,
+  "glucides": 7.05,
+  "lipides": 13.82,
+  "sucres": 1.1,
+  "fibres": 3.54,
+  "satures": 2.97,
+  "sel": 0.52,
+  "fer": 1.75,
+  "calcium": 120.28,
+  "magnesium": 74.71,
+  "potassium": 717.0,
+  "zinc": 1.53,
+  "iode": 75.6,
+  "vitd": 5.76,
+  "vitc": 24.54,
+  "b12": 2.88,
+  "b9": 84.88,
+  "alcool": 0.0
+ }
+}

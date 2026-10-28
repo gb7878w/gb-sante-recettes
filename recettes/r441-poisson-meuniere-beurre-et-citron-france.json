@@ -1,0 +1,75 @@
+{
+ "id": "r441-poisson-meuniere-beurre-et-citron-france",
+ "nom": "Poisson meunière, beurre et citron (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 359,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26120",
+   "nom": "Merlu cuit à l'étouffée",
+   "g": 180
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez le poisson au beurre.",
+  "Ajoutez citron et persil, servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 323.56,
+  "proteines": 41.0,
+  "glucides": 5.56,
+  "lipides": 13.58,
+  "sucres": 3.99,
+  "fibres": 4.97,
+  "satures": 7.11,
+  "sel": 0.48,
+  "fer": 1.56,
+  "calcium": 163.89,
+  "magnesium": 94.53,
+  "potassium": 959.74,
+  "zinc": 1.41,
+  "iode": 75.76,
+  "vitd": 5.87,
+  "vitc": 15.57,
+  "b12": 2.9,
+  "b9": 131.69,
+  "alcool": 0.0
+ }
+}

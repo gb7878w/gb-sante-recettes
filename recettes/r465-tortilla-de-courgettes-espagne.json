@@ -1,0 +1,74 @@
+{
+ "id": "r465-tortilla-de-courgettes-espagne",
+ "nom": "Tortilla de courgettes (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 416,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 200
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 150
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Faites revenir courgette et oignon.",
+  "Ajoutez œufs battus et jambon sec, cuisez des deux côtés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 439.09,
+  "proteines": 36.27,
+  "glucides": 4.79,
+  "lipides": 29.88,
+  "sucres": 2.79,
+  "fibres": 3.03,
+  "satures": 7.9,
+  "sel": 2.28,
+  "fer": 4.27,
+  "calcium": 186.45,
+  "magnesium": 57.07,
+  "potassium": 670.0,
+  "zinc": 2.38,
+  "iode": 42.0,
+  "vitd": 3.76,
+  "vitc": 4.97,
+  "b12": 2.9,
+  "b9": 121.1,
+  "alcool": 0.0
+ }
+}

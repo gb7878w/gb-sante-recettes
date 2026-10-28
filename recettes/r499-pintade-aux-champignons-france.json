@@ -1,0 +1,70 @@
+{
+ "id": "r499-pintade-aux-champignons-france",
+ "nom": "Pintade aux champignons (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36702",
+   "nom": "Poitrine de pintade",
+   "g": 170
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Dorez la pintade.",
+  "Ajoutez champignons et crème, mijotez 20 minutes.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 311.05,
+  "proteines": 50.11,
+  "glucides": 11.1,
+  "lipides": 5.78,
+  "sucres": 8.76,
+  "fibres": 6.3,
+  "satures": 3.32,
+  "sel": 0.42,
+  "fer": 1.79,
+  "calcium": 123.84,
+  "magnesium": 57.45,
+  "potassium": 1586.1,
+  "zinc": 2.78,
+  "iode": 1.5,
+  "vitd": 0.96,
+  "vitc": 6.38,
+  "b12": 0.0,
+  "b9": 141.3,
+  "alcool": 0.0
+ }
+}

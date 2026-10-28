@@ -1,0 +1,70 @@
+{
+ "id": "r414-oeufs-durs-et-saucisse-de-francfort-allemagne",
+ "nom": "Œufs durs et saucisse de Francfort (Allemagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 208,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 60
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Réchauffez la saucisse.",
+  "Servez avec les œufs durs, la moutarde et les cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.98,
+  "proteines": 23.94,
+  "glucides": 1.9,
+  "lipides": 24.42,
+  "sucres": 1.48,
+  "fibres": 0.45,
+  "satures": 8.27,
+  "sel": 2.56,
+  "fer": 2.66,
+  "calcium": 81.4,
+  "magnesium": 33.3,
+  "potassium": 278.4,
+  "zinc": 2.33,
+  "iode": 63.31,
+  "vitd": 1.39,
+  "vitc": 0.02,
+  "b12": 1.47,
+  "b9": 53.41,
+  "alcool": 0.0
+ }
+}

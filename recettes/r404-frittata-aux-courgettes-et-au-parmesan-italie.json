@@ -1,0 +1,70 @@
+{
+ "id": "r404-frittata-aux-courgettes-et-au-parmesan-italie",
+ "nom": "Frittata aux courgettes et au parmesan (Italie)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 249,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 100
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez les courgettes en rondelles dans l'huile.",
+  "Ajoutez les œufs battus et le parmesan, cuisez à feu doux."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 294.4,
+  "proteines": 22.11,
+  "glucides": 1.75,
+  "lipides": 21.79,
+  "sucres": 1.74,
+  "fibres": 1.5,
+  "satures": 7.23,
+  "sel": 0.74,
+  "fer": 2.78,
+  "calcium": 266.14,
+  "magnesium": 42.6,
+  "potassium": 428.7,
+  "zinc": 2.12,
+  "iode": 40.8,
+  "vitd": 2.44,
+  "vitc": 2.9,
+  "b12": 2.28,
+  "b9": 79.4,
+  "alcool": 0.0
+ }
+}

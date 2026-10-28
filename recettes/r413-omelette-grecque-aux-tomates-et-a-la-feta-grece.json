@@ -1,0 +1,76 @@
+{
+ "id": "r413-omelette-grecque-aux-tomates-et-a-la-feta-grece",
+ "nom": "Omelette grecque aux tomates et à la feta (Grèce)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 265,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "vegetarien",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 30
+  },
+  {
+   "ciqual": "11035",
+   "nom": "Origan",
+   "g": 1
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir les tomates dans l'huile.",
+  "Ajoutez les œufs battus, la feta et l'origan."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 326.45,
+  "proteines": 21.63,
+  "glucides": 4.4,
+  "lipides": 24.11,
+  "sucres": 3.19,
+  "fibres": 1.43,
+  "satures": 9.1,
+  "sel": 1.08,
+  "fer": 3.01,
+  "calcium": 188.64,
+  "magnesium": 27.6,
+  "potassium": 416.6,
+  "zinc": 1.78,
+  "iode": 51.3,
+  "vitd": 2.44,
+  "vitc": 16.32,
+  "b12": 2.04,
+  "b9": 65.74,
+  "alcool": 0.0
+ }
+}

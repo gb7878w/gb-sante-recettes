@@ -1,0 +1,80 @@
+{
+ "id": "r442-salade-de-chevre-chaud-france",
+ "nom": "Salade de chèvre chaud (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 327,
+ "tags": [
+  "lowcarb",
+  "France",
+  "four"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 80
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 100
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 12
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 50
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 80
+  },
+  {
+   "ciqual": "11018",
+   "nom": "Vinaigre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Passez le chèvre au four 6 minutes.",
+  "Servez sur la salade avec jambon, noix et vinaigrette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 316.65,
+  "proteines": 31.18,
+  "glucides": 5.86,
+  "lipides": 17.9,
+  "sucres": 3.99,
+  "fibres": 2.88,
+  "satures": 6.82,
+  "sel": 1.99,
+  "fer": 1.48,
+  "calcium": 230.89,
+  "magnesium": 49.92,
+  "potassium": 769.34,
+  "zinc": 0.59,
+  "iode": 1.22,
+  "vitd": 0.0,
+  "vitc": 24.96,
+  "b12": 0.0,
+  "b9": 68.7,
+  "alcool": 0.01
+ }
+}

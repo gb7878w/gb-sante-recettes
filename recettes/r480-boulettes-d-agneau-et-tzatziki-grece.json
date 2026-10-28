@@ -1,0 +1,74 @@
+{
+ "id": "r480-boulettes-d-agneau-et-tzatziki-grece",
+ "nom": "Boulettes d'agneau et tzatziki (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 343,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 100
+  },
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 60
+  },
+  {
+   "ciqual": "11027",
+   "nom": "Menthe",
+   "g": 3
+  },
+  {
+   "ciqual": "19863",
+   "nom": "Tzatziki",
+   "g": 80
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  }
+ ],
+ "etapes": [
+  "Mélangez les viandes hachées et la menthe, formez des boulettes.",
+  "Poêlez-les, servez avec tzatziki et concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 384.21,
+  "proteines": 47.28,
+  "glucides": 5.74,
+  "lipides": 18.82,
+  "sucres": 3.99,
+  "fibres": 0.82,
+  "satures": 4.94,
+  "sel": 0.99,
+  "fer": 4.13,
+  "calcium": 116.31,
+  "magnesium": 63.21,
+  "potassium": 820.02,
+  "zinc": 9.22,
+  "iode": 9.4,
+  "vitd": 0.0,
+  "vitc": 9.34,
+  "b12": 4.07,
+  "b9": 44.64,
+  "alcool": 0.0
+ }
+}

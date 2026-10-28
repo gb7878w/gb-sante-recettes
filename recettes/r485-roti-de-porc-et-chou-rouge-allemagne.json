@@ -1,0 +1,70 @@
+{
+ "id": "r485-roti-de-porc-et-chou-rouge-allemagne",
+ "nom": "Rôti de porc et chou rouge (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 50,
+ "portions": 1,
+ "poidsG": 360,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28203",
+   "nom": "Filet mignon de porc cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "20095",
+   "nom": "Chou rouge cuit",
+   "g": 200
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  }
+ ],
+ "etapes": [
+  "Rôtissez le porc au thym 30 minutes à 190 °C.",
+  "Servez avec le chou rouge braisé et la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 316.9,
+  "proteines": 42.83,
+  "glucides": 7.2,
+  "lipides": 11.76,
+  "sucres": 6.77,
+  "fibres": 5.48,
+  "satures": 3.96,
+  "sel": 0.84,
+  "fer": 3.47,
+  "calcium": 135.11,
+  "magnesium": 67.56,
+  "potassium": 1064.18,
+  "zinc": 3.34,
+  "iode": 2.94,
+  "vitd": 0.0,
+  "vitc": 72.02,
+  "b12": 1.53,
+  "b9": 49.5,
+  "alcool": 0.0
+ }
+}

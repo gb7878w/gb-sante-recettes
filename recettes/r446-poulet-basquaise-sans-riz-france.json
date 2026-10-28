@@ -1,0 +1,72 @@
+{
+ "id": "r446-poulet-basquaise-sans-riz-france",
+ "nom": "Poulet basquaise sans riz (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 485,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 200
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet avec l'oignon.",
+  "Ajoutez poivrons et tomates, mijotez 25 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 361.34,
+  "proteines": 48.13,
+  "glucides": 17.47,
+  "lipides": 8.0,
+  "sucres": 12.46,
+  "fibres": 8.18,
+  "satures": 1.63,
+  "sel": 0.21,
+  "fer": 1.2,
+  "calcium": 27.35,
+  "magnesium": 80.52,
+  "potassium": 1275.0,
+  "zinc": 1.47,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 261.07,
+  "b12": 0.27,
+  "b9": 195.32,
+  "alcool": 0.0
+ }
+}

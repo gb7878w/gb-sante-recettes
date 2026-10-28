@@ -1,0 +1,75 @@
+{
+ "id": "r459-gambas-a-l-ail-espagne",
+ "nom": "Gambas à l'ail (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 226,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "crustaces"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10007",
+   "nom": "Crevettes cuites",
+   "g": 200
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 5
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 15
+  },
+  {
+   "ciqual": "11049",
+   "nom": "Paprika",
+   "g": 2
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Faites revenir l'ail dans l'huile avec le paprika.",
+  "Ajoutez les crevettes 3 minutes, parsemez de persil."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 336.25,
+  "proteines": 38.7,
+  "glucides": 5.19,
+  "lipides": 17.59,
+  "sucres": 0.3,
+  "fibres": 1.16,
+  "satures": 2.95,
+  "sel": 2.73,
+  "fer": 4.6,
+  "calcium": 493.85,
+  "magnesium": 128.14,
+  "potassium": 604.02,
+  "zinc": 3.53,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 8.76,
+  "b12": 3.28,
+  "b9": 36.84,
+  "alcool": 0.0
+ }
+}

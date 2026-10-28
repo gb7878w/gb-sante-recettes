@@ -1,0 +1,74 @@
+{
+ "id": "r463-gazpacho-et-oeufs-durs-au-jambon-sec-espagne",
+ "nom": "Gazpacho et œufs durs au jambon sec (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 560,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 250
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mixez tomate, concombre et poivron en gazpacho.",
+  "Servez avec les œufs durs et le jambon sec en dés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 329.71,
+  "proteines": 29.54,
+  "glucides": 15.98,
+  "lipides": 14.51,
+  "sucres": 12.27,
+  "fibres": 5.02,
+  "satures": 4.93,
+  "sel": 2.36,
+  "fer": 2.57,
+  "calcium": 84.18,
+  "magnesium": 51.42,
+  "potassium": 922.0,
+  "zinc": 1.78,
+  "iode": 54.97,
+  "vitd": 1.23,
+  "vitc": 121.6,
+  "b12": 1.22,
+  "b9": 143.53,
+  "alcool": 0.0
+ }
+}

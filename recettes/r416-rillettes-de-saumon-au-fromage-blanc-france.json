@@ -1,0 +1,75 @@
+{
+ "id": "r416-rillettes-de-saumon-au-fromage-blanc-france",
+ "nom": "Rillettes de saumon au fromage blanc (France)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 167,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "25996",
+   "nom": "Saumon cuit",
+   "g": 50
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 60
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 2
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Émiettez le saumon cuit avec le fromage blanc, le citron et la ciboulette.",
+  "Servez avec des rondelles de concombre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 141.91,
+  "proteines": 16.64,
+  "glucides": 3.72,
+  "lipides": 6.34,
+  "sucres": 3.24,
+  "fibres": 0.36,
+  "satures": 1.29,
+  "sel": 0.14,
+  "fer": 0.37,
+  "calcium": 98.16,
+  "magnesium": 29.29,
+  "potassium": 368.9,
+  "zinc": 0.58,
+  "iode": 6.43,
+  "vitd": 0.0,
+  "vitc": 8.56,
+  "b12": 1.63,
+  "b9": 33.49,
+  "alcool": 0.0
+ }
+}

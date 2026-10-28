@@ -1,0 +1,69 @@
+{
+ "id": "r447-oeufs-aux-lardons-et-aux-champignons-au-vin-blan",
+ "nom": "Œufs aux lardons et aux champignons au vin blanc (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 350,
+ "tags": [
+  "lowcarb",
+  "France",
+  "oeufs"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 180
+  },
+  {
+   "ciqual": "28504",
+   "nom": "Lardons nature cuits",
+   "g": 40
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 100
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Faites revenir lardons et champignons, ajoutez le vin.",
+  "Pochez les œufs dans la sauce 3 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 430.72,
+  "proteines": 35.0,
+  "glucides": 5.65,
+  "lipides": 27.85,
+  "sucres": 3.04,
+  "fibres": 1.0,
+  "satures": 9.86,
+  "sel": 2.18,
+  "fer": 4.0,
+  "calcium": 149.4,
+  "magnesium": 41.29,
+  "potassium": 859.29,
+  "zinc": 3.16,
+  "iode": 43.6,
+  "vitd": 3.68,
+  "vitc": 3.09,
+  "b12": 2.88,
+  "b9": 95.7,
+  "alcool": 2.33
+ }
+}

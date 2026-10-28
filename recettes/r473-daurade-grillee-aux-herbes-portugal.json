@@ -1,0 +1,74 @@
+{
+ "id": "r473-daurade-grillee-aux-herbes-portugal",
+ "nom": "Daurade grillée aux herbes (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 403,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "27031",
+   "nom": "Dorade royale au four",
+   "g": 180
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Grillez la dorade avec les herbes.",
+  "Servez avec les haricots verts et le citron."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 382.68,
+  "proteines": 46.09,
+  "glucides": 7.22,
+  "lipides": 16.65,
+  "sucres": 5.12,
+  "fibres": 6.68,
+  "satures": 3.26,
+  "sel": 0.32,
+  "fer": 1.81,
+  "calcium": 135.15,
+  "magnesium": 108.59,
+  "potassium": 1309.18,
+  "zinc": 1.39,
+  "iode": 0.0,
+  "vitd": 10.28,
+  "vitc": 13.33,
+  "b12": 4.27,
+  "b9": 135.12,
+  "alcool": 0.0
+ }
+}

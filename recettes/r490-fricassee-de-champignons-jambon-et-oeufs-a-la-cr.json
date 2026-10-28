@@ -1,0 +1,75 @@
+{
+ "id": "r490-fricassee-de-champignons-jambon-et-oeufs-a-la-cr",
+ "nom": "Fricassée de champignons, jambon et œufs à la crème (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 474,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "oeufs"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 250
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 120
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez les champignons et le jambon.",
+  "Ajoutez la crème et les œufs brouillés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 368.32,
+  "proteines": 34.88,
+  "glucides": 11.02,
+  "lipides": 20.07,
+  "sucres": 9.08,
+  "fibres": 2.76,
+  "satures": 7.81,
+  "sel": 1.88,
+  "fer": 3.22,
+  "calcium": 163.96,
+  "magnesium": 44.63,
+  "potassium": 1360.32,
+  "zinc": 2.49,
+  "iode": 27.7,
+  "vitd": 3.01,
+  "vitc": 14.8,
+  "b12": 1.74,
+  "b9": 132.41,
+  "alcool": 0.0
+ }
+}

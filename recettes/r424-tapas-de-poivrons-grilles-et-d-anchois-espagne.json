@@ -1,0 +1,70 @@
+{
+ "id": "r424-tapas-de-poivrons-grilles-et-d-anchois-espagne",
+ "nom": "Tapas de poivrons grillés et d'anchois (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 8,
+ "portions": 1,
+ "poidsG": 160,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "poisson",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20275",
+   "nom": "Poivrons rouges grillés",
+   "g": 80
+  },
+  {
+   "ciqual": "26187",
+   "nom": "Anchois mariné",
+   "g": 20
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 10
+  },
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Disposez les poivrons grillés avec les anchois et les olives.",
+  "Servez avec le fromage blanc."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 92.68,
+  "proteines": 9.61,
+  "glucides": 6.02,
+  "lipides": 2.86,
+  "sucres": 4.86,
+  "fibres": 1.72,
+  "satures": 0.53,
+  "sel": 2.4,
+  "fer": 1.16,
+  "calcium": 116.8,
+  "magnesium": 38.9,
+  "potassium": 231.7,
+  "zinc": 0.76,
+  "iode": 6.8,
+  "vitd": 0.48,
+  "vitc": 87.2,
+  "b12": 3.26,
+  "b9": 46.6,
+  "alcool": 0.0
+ }
+}

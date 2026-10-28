@@ -1,0 +1,69 @@
+{
+ "id": "r420-ricotta-au-citron-et-aux-herbes-italie",
+ "nom": "Ricotta au citron et aux herbes (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 168,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "19585",
+   "nom": "Ricotta",
+   "g": 100
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 5
+  },
+  {
+   "ciqual": "11033",
+   "nom": "Basilic",
+   "g": 3
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Mélangez la ricotta avec le citron et le basilic.",
+  "Servez avec les tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 180.94,
+  "proteines": 9.68,
+  "glucides": 7.53,
+  "lipides": 11.91,
+  "sucres": 5.18,
+  "fibres": 0.82,
+  "satures": 8.08,
+  "sel": 0.3,
+  "fer": 0.77,
+  "calcium": 326.7,
+  "magnesium": 19.91,
+  "potassium": 318.85,
+  "zinc": 1.31,
+  "iode": 18.0,
+  "vitd": 0.2,
+  "vitc": 15.77,
+  "b12": 0.34,
+  "b9": 26.02,
+  "alcool": 0.0
+ }
+}

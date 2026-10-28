@@ -1,0 +1,70 @@
+{
+ "id": "r401-omelette-aux-cepes-et-au-comte-france",
+ "nom": "Omelette aux cèpes et au comté (France)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 235,
+ "tags": [
+  "lowcarb",
+  "France",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20160",
+   "nom": "Cèpes",
+   "g": 80
+  },
+  {
+   "ciqual": "12110",
+   "nom": "Comté",
+   "g": 20
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez les cèpes dans le beurre.",
+  "Versez les œufs battus, ajoutez le comté et repliez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 327.93,
+  "proteines": 24.49,
+  "glucides": 2.82,
+  "lipides": 24.12,
+  "sucres": 1.75,
+  "fibres": 1.54,
+  "satures": 10.71,
+  "sel": 0.58,
+  "fer": 3.34,
+  "calcium": 317.73,
+  "magnesium": 32.74,
+  "potassium": 487.61,
+  "zinc": 2.41,
+  "iode": 32.26,
+  "vitd": 4.98,
+  "vitc": 2.4,
+  "b12": 2.41,
+  "b9": 80.55,
+  "alcool": 0.0
+ }
+}

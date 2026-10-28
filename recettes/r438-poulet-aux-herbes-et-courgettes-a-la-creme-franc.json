@@ -1,0 +1,74 @@
+{
+ "id": "r438-poulet-aux-herbes-et-courgettes-a-la-creme-franc",
+ "nom": "Poulet aux herbes et courgettes à la crème (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 397,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 200
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 40
+  },
+  {
+   "ciqual": "11060",
+   "nom": "Herbes de Provence",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Dorez le poulet dans le beurre.",
+  "Ajoutez courgettes, crème et herbes, mijotez 10 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 345.41,
+  "proteines": 48.46,
+  "glucides": 5.03,
+  "lipides": 13.34,
+  "sucres": 4.87,
+  "fibres": 3.8,
+  "satures": 7.59,
+  "sel": 0.48,
+  "fer": 2.62,
+  "calcium": 125.74,
+  "magnesium": 109.88,
+  "potassium": 1227.61,
+  "zinc": 1.63,
+  "iode": 0.38,
+  "vitd": 0.06,
+  "vitc": 9.03,
+  "b12": 0.28,
+  "b9": 85.55,
+  "alcool": 0.0
+ }
+}

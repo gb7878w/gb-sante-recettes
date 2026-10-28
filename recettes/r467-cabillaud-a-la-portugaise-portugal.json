@@ -1,0 +1,75 @@
+{
+ "id": "r467-cabillaud-a-la-portugaise-portugal",
+ "nom": "Cabillaud à la portugaise (Portugal)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 431,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "poisson",
+  "four"
+ ],
+ "allergenes": [
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26023",
+   "nom": "Cabillaud au four",
+   "g": 180
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 80
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Posez le cabillaud sur un lit de tomates et poivrons.",
+  "Ajoutez les olives, enfournez 20 minutes à 190 °C."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 307.26,
+  "proteines": 41.93,
+  "glucides": 10.17,
+  "lipides": 9.43,
+  "sucres": 8.04,
+  "fibres": 4.6,
+  "satures": 1.5,
+  "sel": 0.89,
+  "fer": 0.99,
+  "calcium": 55.86,
+  "magnesium": 73.58,
+  "potassium": 998.25,
+  "zinc": 1.14,
+  "iode": 234.0,
+  "vitd": 2.16,
+  "vitc": 123.05,
+  "b12": 2.75,
+  "b9": 103.69,
+  "alcool": 0.0
+ }
+}

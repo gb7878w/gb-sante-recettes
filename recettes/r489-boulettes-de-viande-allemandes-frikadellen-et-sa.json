@@ -1,0 +1,76 @@
+{
+ "id": "r489-boulettes-de-viande-allemandes-frikadellen-et-sa",
+ "nom": "Boulettes de viande allemandes (Frikadellen) et salade (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 25,
+ "portions": 1,
+ "poidsG": 298,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6251",
+   "nom": "Steak haché 5 % cuit",
+   "g": 150
+  },
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 30
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Mélangez viande, œuf et oignon, formez des galettes.",
+  "Poêlez-les 4 minutes par face.",
+  "Servez avec la salade et la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 310.08,
+  "proteines": 44.01,
+  "glucides": 3.41,
+  "lipides": 12.78,
+  "sucres": 0.86,
+  "fibres": 1.74,
+  "satures": 4.87,
+  "sel": 0.85,
+  "fer": 5.77,
+  "calcium": 96.02,
+  "magnesium": 53.7,
+  "potassium": 777.7,
+  "zinc": 10.19,
+  "iode": 16.67,
+  "vitd": 0.56,
+  "vitc": 10.09,
+  "b12": 4.14,
+  "b9": 60.0,
+  "alcool": 0.0
+ }
+}

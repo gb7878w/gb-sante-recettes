@@ -1,0 +1,70 @@
+{
+ "id": "r478-calamars-farcis-a-la-feta-grece",
+ "nom": "Calamars farcis à la feta (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 344,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "poisson"
+ ],
+ "allergenes": [
+  "crustaces",
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "10037",
+   "nom": "Calmar cuit",
+   "g": 170
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 50
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 120
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Farcissez les calamars de feta et de persil.",
+  "Mijotez-les dans la tomate 20 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 421.88,
+  "proteines": 63.55,
+  "glucides": 7.56,
+  "lipides": 14.56,
+  "sucres": 3.4,
+  "fibres": 1.37,
+  "satures": 8.81,
+  "sel": 4.32,
+  "fer": 10.24,
+  "calcium": 432.88,
+  "magnesium": 117.98,
+  "potassium": 1391.82,
+  "zinc": 6.61,
+  "iode": 40.0,
+  "vitd": 0.0,
+  "vitc": 41.09,
+  "b12": 9.45,
+  "b9": 71.81,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "r440-cuisse-de-canard-aux-champignons-france",
+ "nom": "Cuisse de canard aux champignons (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 35,
+ "portions": 1,
+ "poidsG": 428,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36203",
+   "nom": "Cuisse de canard sans peau",
+   "g": 220
+  },
+  {
+   "ciqual": "20056",
+   "nom": "Champignons de Paris",
+   "g": 150
+  },
+  {
+   "ciqual": "20097",
+   "nom": "Échalote",
+   "g": 20
+  },
+  {
+   "ciqual": "5215",
+   "nom": "Vin blanc sec",
+   "g": 30
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Dorez le canard.",
+  "Ajoutez champignons, échalote et vin, mijotez 15 minutes."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 361.72,
+  "proteines": 45.49,
+  "glucides": 8.46,
+  "lipides": 13.88,
+  "sucres": 4.53,
+  "fibres": 2.02,
+  "satures": 6.78,
+  "sel": 0.73,
+  "fer": 0.59,
+  "calcium": 14.5,
+  "magnesium": 19.6,
+  "potassium": 617.55,
+  "zinc": 0.8,
+  "iode": 1.63,
+  "vitd": 0.54,
+  "vitc": 6.24,
+  "b12": 0.01,
+  "b9": 54.03,
+  "alcool": 2.33
+ }
+}

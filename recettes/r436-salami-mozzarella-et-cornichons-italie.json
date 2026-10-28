@@ -1,0 +1,62 @@
+{
+ "id": "r436-salami-mozzarella-et-cornichons-italie",
+ "nom": "Salami, mozzarella et cornichons (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 90,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30351",
+   "nom": "Salami pur porc",
+   "g": 30
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Disposez salami, mozzarella et cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 193.92,
+  "proteines": 12.05,
+  "glucides": 0.94,
+  "lipides": 15.42,
+  "sucres": 0.39,
+  "fibres": 0.45,
+  "satures": 7.08,
+  "sel": 2.39,
+  "fer": 0.6,
+  "calcium": 186.9,
+  "magnesium": 19.5,
+  "potassium": 172.2,
+  "zinc": 2.17,
+  "iode": 11.16,
+  "vitd": 0.12,
+  "vitc": 0.0,
+  "b12": 1.52,
+  "b9": 6.15,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "r409-oeufs-aux-asperges-espagne",
+ "nom": "Œufs aux asperges (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 12,
+ "portions": 1,
+ "poidsG": 259,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20299",
+   "nom": "Asperges vertes cuites",
+   "g": 100
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 25
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 4
+  }
+ ],
+ "etapes": [
+  "Poêlez les asperges avec le jambon sec.",
+  "Ajoutez les œufs battus et remuez."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 303.35,
+  "proteines": 26.8,
+  "glucides": 2.27,
+  "lipides": 20.15,
+  "sucres": 1.74,
+  "fibres": 2.2,
+  "satures": 5.41,
+  "sel": 1.66,
+  "fer": 3.08,
+  "calcium": 120.84,
+  "magnesium": 24.3,
+  "potassium": 394.2,
+  "zinc": 1.8,
+  "iode": 27.3,
+  "vitd": 2.44,
+  "vitc": 4.73,
+  "b12": 1.89,
+  "b9": 114.1,
+  "alcool": 0.0
+ }
+}

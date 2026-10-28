@@ -1,0 +1,67 @@
+{
+ "id": "r437-chorizo-et-fromage-de-brebis-espagne",
+ "nom": "Chorizo et fromage de brebis (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 3,
+ "portions": 1,
+ "poidsG": 105,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30317",
+   "nom": "Chorizo en tranches",
+   "g": 20
+  },
+  {
+   "ciqual": "12827",
+   "nom": "Fromage de brebis",
+   "g": 25
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 10
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 50
+  }
+ ],
+ "etapes": [
+  "Disposez le tout dans une assiette."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 183.7,
+  "proteines": 10.95,
+  "glucides": 1.69,
+  "lipides": 14.48,
+  "sucres": 1.25,
+  "fibres": 0.66,
+  "satures": 7.34,
+  "sel": 1.64,
+  "fer": 0.36,
+  "calcium": 201.5,
+  "magnesium": 15.2,
+  "potassium": 211.6,
+  "zinc": 0.6,
+  "iode": 0.15,
+  "vitd": 0.15,
+  "vitc": 4.12,
+  "b12": 0.46,
+  "b9": 15.97,
+  "alcool": 0.0
+ }
+}

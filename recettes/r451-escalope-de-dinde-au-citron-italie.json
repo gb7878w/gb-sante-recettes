@@ -1,0 +1,70 @@
+{
+ "id": "r451-escalope-de-dinde-au-citron-italie",
+ "nom": "Escalope de dinde au citron (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 333,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36306",
+   "nom": "Escalope de dinde sautée",
+   "g": 160
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 15
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  },
+  {
+   "ciqual": "20336",
+   "nom": "Épinards cuits",
+   "g": 150
+  }
+ ],
+ "etapes": [
+  "Poêlez la dinde au beurre avec le citron.",
+  "Servez avec les épinards."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 303.97,
+  "proteines": 50.73,
+  "glucides": 0.31,
+  "lipides": 9.31,
+  "sucres": 0.19,
+  "fibres": 5.25,
+  "satures": 5.37,
+  "sel": 0.31,
+  "fer": 2.76,
+  "calcium": 371.75,
+  "magnesium": 117.39,
+  "potassium": 1002.46,
+  "zinc": 3.19,
+  "iode": 6.53,
+  "vitd": 0.09,
+  "vitc": 7.95,
+  "b12": 0.99,
+  "b9": 98.55,
+  "alcool": 0.0
+ }
+}

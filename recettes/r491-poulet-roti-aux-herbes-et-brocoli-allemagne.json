@@ -1,0 +1,70 @@
+{
+ "id": "r491-poulet-roti-aux-herbes-et-brocoli-allemagne",
+ "nom": "Poulet rôti aux herbes et brocoli (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 40,
+ "portions": 1,
+ "poidsG": 370,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 160
+  },
+  {
+   "ciqual": "20304",
+   "nom": "Brocoli vapeur",
+   "g": 200
+  },
+  {
+   "ciqual": "11070",
+   "nom": "Thym",
+   "g": 2
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Rôtissez le poulet au thym 25 minutes à 200 °C.",
+  "Servez avec le brocoli au beurre."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 362.22,
+  "proteines": 56.59,
+  "glucides": 5.35,
+  "lipides": 11.15,
+  "sucres": 3.07,
+  "fibres": 4.68,
+  "satures": 5.8,
+  "sel": 0.31,
+  "fer": 2.14,
+  "calcium": 89.04,
+  "magnesium": 108.56,
+  "potassium": 1398.44,
+  "zinc": 2.26,
+  "iode": 0.13,
+  "vitd": 0.09,
+  "vitc": 46.89,
+  "b12": 0.3,
+  "b9": 179.82,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "id": "r423-jambon-sec-et-fromage-de-brebis-espagne",
+ "nom": "Jambon sec et fromage de brebis (Espagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 120,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 30
+  },
+  {
+   "ciqual": "12827",
+   "nom": "Fromage de brebis",
+   "g": 30
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez jambon, fromage de brebis et tomates cerises."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 205.92,
+  "proteines": 17.08,
+  "glucides": 3.6,
+  "lipides": 13.38,
+  "sucres": 2.99,
+  "fibres": 0.72,
+  "satures": 7.95,
+  "sel": 2.06,
+  "fer": 0.22,
+  "calcium": 220.56,
+  "magnesium": 6.6,
+  "potassium": 198.0,
+  "zinc": 0.11,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 13.08,
+  "b12": 0.36,
+  "b9": 10.56,
+  "alcool": 0.0
+ }
+}

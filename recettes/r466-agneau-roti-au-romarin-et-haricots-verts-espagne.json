@@ -1,0 +1,68 @@
+{
+ "id": "r466-agneau-roti-au-romarin-et-haricots-verts-espagne",
+ "nom": "Agneau rôti au romarin et haricots verts (Espagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 356,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "viande",
+  "four"
+ ],
+ "allergenes": [],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "21503",
+   "nom": "Gigot d'agneau rôti",
+   "g": 150
+  },
+  {
+   "ciqual": "11068",
+   "nom": "Romarin",
+   "g": 2
+  },
+  {
+   "ciqual": "11000",
+   "nom": "Ail",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Rôtissez l'agneau à l'ail et au romarin 20 minutes à 200 °C.",
+  "Servez avec les haricots verts."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 316.36,
+  "proteines": 43.98,
+  "glucides": 7.66,
+  "lipides": 10.39,
+  "sucres": 5.05,
+  "fibres": 6.91,
+  "satures": 4.0,
+  "sel": 0.29,
+  "fer": 3.34,
+  "calcium": 141.48,
+  "magnesium": 100.67,
+  "potassium": 1006.06,
+  "zinc": 6.5,
+  "iode": 7.5,
+  "vitd": 0.0,
+  "vitc": 2.76,
+  "b12": 2.82,
+  "b9": 127.72,
+  "alcool": 0.0
+ }
+}

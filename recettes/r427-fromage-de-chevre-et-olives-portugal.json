@@ -1,0 +1,63 @@
+{
+ "id": "r427-fromage-de-chevre-et-olives-portugal",
+ "nom": "Fromage de chèvre et olives (Portugal)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 4,
+ "portions": 1,
+ "poidsG": 115,
+ "tags": [
+  "lowcarb",
+  "Portugal",
+  "vegetarien",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "12813",
+   "nom": "Fromage de chèvre allégé",
+   "g": 40
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 15
+  },
+  {
+   "ciqual": "20172",
+   "nom": "Tomates cerises",
+   "g": 60
+  }
+ ],
+ "etapes": [
+  "Disposez chèvre, olives et tomates."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 115.07,
+  "proteines": 10.02,
+  "glucides": 3.37,
+  "lipides": 6.36,
+  "sucres": 2.88,
+  "fibres": 1.26,
+  "satures": 3.07,
+  "sel": 0.97,
+  "fer": 0.29,
+  "calcium": 85.86,
+  "magnesium": 16.2,
+  "potassium": 286.65,
+  "zinc": 0.12,
+  "iode": 0.0,
+  "vitd": 0.0,
+  "vitc": 13.08,
+  "b12": 0.0,
+  "b9": 10.56,
+  "alcool": 0.0
+ }
+}

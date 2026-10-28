@@ -1,0 +1,80 @@
+{
+ "id": "r415-quark-aux-herbes-et-jambon-cuit-allemagne",
+ "nom": "Quark aux herbes et jambon cuit (Allemagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 6,
+ "portions": 1,
+ "poidsG": 368,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "fruits-a-coque",
+  "lactose",
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "19644",
+   "nom": "Fromage blanc 0 %",
+   "g": 200
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 60
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 55
+  },
+  {
+   "ciqual": "15005",
+   "nom": "Noix",
+   "g": 10
+  },
+  {
+   "ciqual": "11003",
+   "nom": "Ciboulette",
+   "g": 3
+  },
+  {
+   "ciqual": "20045",
+   "nom": "Radis rouge",
+   "g": 40
+  }
+ ],
+ "etapes": [
+  "Mélangez le fromage blanc et la ciboulette.",
+  "Servez avec le jambon et les radis."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 317.57,
+  "proteines": 36.87,
+  "glucides": 10.4,
+  "lipides": 13.51,
+  "sucres": 9.65,
+  "fibres": 1.42,
+  "satures": 2.82,
+  "sel": 1.58,
+  "fer": 1.69,
+  "calcium": 312.83,
+  "magnesium": 49.29,
+  "potassium": 720.05,
+  "zinc": 1.99,
+  "iode": 48.2,
+  "vitd": 0.62,
+  "vitc": 6.15,
+  "b12": 1.41,
+  "b9": 124.71,
+  "alcool": 0.0
+ }
+}

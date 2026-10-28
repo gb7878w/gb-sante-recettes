@@ -1,0 +1,80 @@
+{
+ "id": "r474-salade-grecque-au-poulet-et-a-la-feta-grece",
+ "nom": "Salade grecque au poulet et à la feta (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 471,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "36018",
+   "nom": "Filet de poulet sauté",
+   "g": 150
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 50
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "13032",
+   "nom": "Olives noires",
+   "g": 15
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Mélangez concombre, tomate et olives.",
+  "Ajoutez le poulet grillé, la feta et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 479.96,
+  "proteines": 54.3,
+  "glucides": 8.25,
+  "lipides": 23.83,
+  "sucres": 5.87,
+  "fibres": 3.03,
+  "satures": 10.53,
+  "sel": 1.62,
+  "fer": 2.29,
+  "calcium": 158.45,
+  "magnesium": 88.0,
+  "potassium": 1167.85,
+  "zinc": 1.92,
+  "iode": 40.3,
+  "vitd": 0.0,
+  "vitc": 34.84,
+  "b12": 0.54,
+  "b9": 56.33,
+  "alcool": 0.0
+ }
+}

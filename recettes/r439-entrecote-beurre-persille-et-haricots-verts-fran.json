@@ -1,0 +1,70 @@
+{
+ "id": "r439-entrecote-beurre-persille-et-haricots-verts-fran",
+ "nom": "Entrecôte, beurre persillé et haricots verts (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 20,
+ "portions": 1,
+ "poidsG": 364,
+ "tags": [
+  "lowcarb",
+  "France",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6100",
+   "nom": "Entrecôte grillée",
+   "g": 150
+  },
+  {
+   "ciqual": "16414",
+   "nom": "Beurre",
+   "g": 10
+  },
+  {
+   "ciqual": "11014",
+   "nom": "Persil",
+   "g": 4
+  },
+  {
+   "ciqual": "20320",
+   "nom": "Haricots verts cuits",
+   "g": 200
+  }
+ ],
+ "etapes": [
+  "Grillez l'entrecôte.",
+  "Servez avec les haricots verts et le beurre persillé."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 428.82,
+  "proteines": 41.97,
+  "glucides": 7.02,
+  "lipides": 24.23,
+  "sucres": 5.12,
+  "fibres": 6.57,
+  "satures": 12.58,
+  "sel": 0.26,
+  "fer": 5.09,
+  "calcium": 130.5,
+  "magnesium": 88.28,
+  "potassium": 965.24,
+  "zinc": 9.99,
+  "iode": 9.16,
+  "vitd": 0.26,
+  "vitc": 9.4,
+  "b12": 2.79,
+  "b9": 113.66,
+  "alcool": 0.0
+ }
+}

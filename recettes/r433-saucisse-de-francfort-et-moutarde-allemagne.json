@@ -1,0 +1,63 @@
+{
+ "id": "r433-saucisse-de-francfort-et-moutarde-allemagne",
+ "nom": "Saucisse de Francfort et moutarde (Allemagne)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 5,
+ "portions": 1,
+ "poidsG": 88,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "rapide"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 50
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  },
+  {
+   "ciqual": "11004",
+   "nom": "Cornichons",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Réchauffez la saucisse.",
+  "Servez avec la moutarde et les cornichons."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 153.48,
+  "proteines": 7.72,
+  "glucides": 1.2,
+  "lipides": 12.6,
+  "sucres": 0.81,
+  "fibres": 0.45,
+  "satures": 4.56,
+  "sel": 2.02,
+  "fer": 0.68,
+  "calcium": 34.65,
+  "magnesium": 16.71,
+  "potassium": 130.0,
+  "zinc": 0.79,
+  "iode": 7.24,
+  "vitd": 0.13,
+  "vitc": 0.02,
+  "b12": 0.21,
+  "b9": 4.85,
+  "alcool": 0.0
+ }
+}

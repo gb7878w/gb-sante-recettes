@@ -1,0 +1,75 @@
+{
+ "id": "r493-fondue-de-poireaux-et-saucisses-allemagne",
+ "nom": "Fondue de poireaux et saucisses (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 488,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "lactose",
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "20040",
+   "nom": "Poireau cuit",
+   "g": 250
+  },
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 100
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 100
+  },
+  {
+   "ciqual": "19436",
+   "nom": "Crème légère",
+   "g": 30
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Faites fondre les poireaux 15 minutes.",
+  "Ajoutez saucisses, crème et moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 503.81,
+  "proteines": 37.49,
+  "glucides": 11.99,
+  "lipides": 32.09,
+  "sucres": 8.99,
+  "fibres": 8.15,
+  "satures": 13.14,
+  "sel": 4.53,
+  "fer": 1.91,
+  "calcium": 128.9,
+  "magnesium": 39.59,
+  "potassium": 949.6,
+  "zinc": 1.7,
+  "iode": 14.24,
+  "vitd": 0.26,
+  "vitc": 3.27,
+  "b12": 0.42,
+  "b9": 55.2,
+  "alcool": 0.0
+ }
+}

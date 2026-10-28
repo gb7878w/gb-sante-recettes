@@ -1,0 +1,75 @@
+{
+ "id": "r450-carpaccio-de-boeuf-salade-et-parmesan-italie",
+ "nom": "Carpaccio de bœuf, salade et parmesan (Italie)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 253,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "viande",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "6100",
+   "nom": "Entrecôte grillée",
+   "g": 130
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 80
+  },
+  {
+   "ciqual": "12120",
+   "nom": "Parmesan",
+   "g": 25
+  },
+  {
+   "ciqual": "13009",
+   "nom": "Citron",
+   "g": 10
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 8
+  }
+ ],
+ "etapes": [
+  "Tranchez finement le bœuf grillé froid.",
+  "Servez sur la salade avec le parmesan, le citron et l'huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 445.74,
+  "proteines": 41.96,
+  "glucides": 1.22,
+  "lipides": 29.81,
+  "sucres": 0.66,
+  "fibres": 0.96,
+  "satures": 12.56,
+  "sel": 0.6,
+  "fer": 4.14,
+  "calcium": 313.38,
+  "magnesium": 52.61,
+  "potassium": 564.2,
+  "zinc": 9.41,
+  "iode": 31.28,
+  "vitd": 0.13,
+  "vitc": 13.94,
+  "b12": 3.06,
+  "b9": 49.44,
+  "alcool": 0.0
+ }
+}

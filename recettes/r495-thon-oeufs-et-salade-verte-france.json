@@ -1,0 +1,77 @@
+{
+ "id": "r495-thon-oeufs-et-salade-verte-france",
+ "nom": "Thon, œufs et salade verte (France)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 446,
+ "tags": [
+  "lowcarb",
+  "France",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 130
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20031",
+   "nom": "Laitue",
+   "g": 100
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 100
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 6
+  }
+ ],
+ "etapes": [
+  "Composez la salade.",
+  "Ajoutez thon, œufs et huile."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 381.1,
+  "proteines": 51.49,
+  "glucides": 5.49,
+  "lipides": 16.2,
+  "sucres": 4.1,
+  "fibres": 2.2,
+  "satures": 3.85,
+  "sel": 1.32,
+  "fer": 4.03,
+  "calcium": 124.64,
+  "magnesium": 68.5,
+  "potassium": 811.1,
+  "zinc": 2.26,
+  "iode": 76.69,
+  "vitd": 7.84,
+  "vitc": 28.1,
+  "b12": 4.51,
+  "b9": 126.59,
+  "alcool": 0.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "r421-antipasti-de-legumes-grilles-et-mozzarella-itali",
+ "nom": "Antipasti de légumes grillés et mozzarella (Italie)",
+ "categorie": "collation",
+ "moments": [
+  "COLLATION"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 183,
+ "tags": [
+  "lowcarb",
+  "Italie",
+  "vegetarien"
+ ],
+ "allergenes": [
+  "lactose"
+ ],
+ "vegetarien": true,
+ "ingredients": [
+  {
+   "ciqual": "20021",
+   "nom": "Courgette cuite",
+   "g": 80
+  },
+  {
+   "ciqual": "20002",
+   "nom": "Aubergine cuite",
+   "g": 60
+  },
+  {
+   "ciqual": "19590",
+   "nom": "Mozzarella",
+   "g": 40
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 3
+  }
+ ],
+ "etapes": [
+  "Grillez les légumes en tranches avec l'huile.",
+  "Ajoutez la mozzarella."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 150.06,
+  "proteines": 8.14,
+  "glucides": 3.92,
+  "lipides": 10.53,
+  "sucres": 3.44,
+  "fibres": 3.78,
+  "satures": 5.25,
+  "sel": 0.33,
+  "fer": 0.58,
+  "calcium": 245.5,
+  "magnesium": 34.84,
+  "potassium": 294.6,
+  "zinc": 1.4,
+  "iode": 15.48,
+  "vitd": 0.16,
+  "vitc": 3.1,
+  "b12": 0.91,
+  "b9": 37.44,
+  "alcool": 0.0
+ }
+}

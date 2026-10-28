@@ -1,0 +1,83 @@
+{
+ "id": "r481-horiatiki-aux-oeufs-durs-et-au-thon-grece",
+ "nom": "Horiatiki aux œufs durs et au thon (Grèce)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 535,
+ "tags": [
+  "lowcarb",
+  "Grèce",
+  "poisson",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "lactose",
+  "oeufs",
+  "poisson"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "26039",
+   "nom": "Thon au naturel égoutté",
+   "g": 120
+  },
+  {
+   "ciqual": "22010",
+   "nom": "Œuf dur",
+   "g": 110
+  },
+  {
+   "ciqual": "20276",
+   "nom": "Tomate",
+   "g": 150
+  },
+  {
+   "ciqual": "20019",
+   "nom": "Concombre",
+   "g": 100
+  },
+  {
+   "ciqual": "12066",
+   "nom": "Feta",
+   "g": 40
+  },
+  {
+   "ciqual": "13033",
+   "nom": "Olives vertes",
+   "g": 15
+  }
+ ],
+ "etapes": [
+  "Composez la salade de tomate et concombre.",
+  "Ajoutez thon, œufs, feta et olives."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 463.9,
+  "proteines": 54.64,
+  "glucides": 8.76,
+  "lipides": 22.15,
+  "sucres": 6.44,
+  "fibres": 2.64,
+  "satures": 10.02,
+  "sel": 2.62,
+  "fer": 3.24,
+  "calcium": 178.71,
+  "magnesium": 76.7,
+  "potassium": 883.45,
+  "zinc": 2.65,
+  "iode": 106.17,
+  "vitd": 7.33,
+  "vitc": 32.7,
+  "b12": 4.47,
+  "b9": 108.07,
+  "alcool": 0.0
+ }
+}

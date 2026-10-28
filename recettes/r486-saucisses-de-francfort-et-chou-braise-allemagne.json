@@ -1,0 +1,74 @@
+{
+ "id": "r486-saucisses-de-francfort-et-chou-braise-allemagne",
+ "nom": "Saucisses de Francfort et chou braisé (Allemagne)",
+ "categorie": "plat",
+ "moments": [
+  "DEJEUNER",
+  "DINER"
+ ],
+ "tempsMin": 30,
+ "portions": 1,
+ "poidsG": 500,
+ "tags": [
+  "lowcarb",
+  "Allemagne",
+  "viande"
+ ],
+ "allergenes": [
+  "moutarde"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "30134",
+   "nom": "Saucisse de Francfort",
+   "g": 140
+  },
+  {
+   "ciqual": "28913",
+   "nom": "Jambon blanc découenné dégraissé",
+   "g": 70
+  },
+  {
+   "ciqual": "20116",
+   "nom": "Chou blanc",
+   "g": 250
+  },
+  {
+   "ciqual": "11013",
+   "nom": "Moutarde",
+   "g": 10
+  },
+  {
+   "ciqual": "20239",
+   "nom": "Oignon",
+   "g": 30
+  }
+ ],
+ "etapes": [
+  "Braisez le chou et l'oignon 15 minutes.",
+  "Poêlez les saucisses, servez avec la moutarde."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 576.99,
+  "proteines": 37.4,
+  "glucides": 16.79,
+  "lipides": 37.65,
+  "sucres": 13.05,
+  "fibres": 9.63,
+  "satures": 14.18,
+  "sel": 4.88,
+  "fer": 2.24,
+  "calcium": 190.13,
+  "magnesium": 50.61,
+  "potassium": 1140.2,
+  "zinc": 2.46,
+  "iode": 19.9,
+  "vitd": 0.36,
+  "vitc": 22.85,
+  "b12": 0.59,
+  "b9": 180.89,
+  "alcool": 0.0
+ }
+}

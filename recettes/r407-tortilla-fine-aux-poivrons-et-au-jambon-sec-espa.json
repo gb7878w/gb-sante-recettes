@@ -1,0 +1,69 @@
+{
+ "id": "r407-tortilla-fine-aux-poivrons-et-au-jambon-sec-espa",
+ "nom": "Tortilla fine aux poivrons et au jambon sec (Espagne)",
+ "categorie": "petit-dejeuner",
+ "moments": [
+  "PETIT_DEJEUNER"
+ ],
+ "tempsMin": 15,
+ "portions": 1,
+ "poidsG": 225,
+ "tags": [
+  "lowcarb",
+  "Espagne",
+  "oeufs",
+  "rapide"
+ ],
+ "allergenes": [
+  "oeufs"
+ ],
+ "vegetarien": false,
+ "ingredients": [
+  {
+   "ciqual": "22000",
+   "nom": "Œuf",
+   "g": 130
+  },
+  {
+   "ciqual": "20087",
+   "nom": "Poivron rouge",
+   "g": 60
+  },
+  {
+   "ciqual": "28845",
+   "nom": "Jambon sec serrano",
+   "g": 30
+  },
+  {
+   "ciqual": "17270",
+   "nom": "Huile d'olive",
+   "g": 5
+  }
+ ],
+ "etapes": [
+  "Poêlez les poivrons dans l'huile.",
+  "Ajoutez les œufs battus et le jambon sec, cuisez des deux côtés."
+ ],
+ "astuce": "",
+ "nutrition": {
+  "kcal": 319.46,
+  "proteines": 26.27,
+  "glucides": 4.17,
+  "lipides": 21.46,
+  "sucres": 3.34,
+  "fibres": 1.92,
+  "satures": 5.75,
+  "sel": 1.91,
+  "fer": 2.57,
+  "calcium": 102.72,
+  "magnesium": 19.22,
+  "potassium": 282.2,
+  "zinc": 1.4,
+  "iode": 27.3,
+  "vitd": 2.44,
+  "vitc": 72.6,
+  "b12": 1.89,
+  "b9": 93.28,
+  "alcool": 0.0
+ }
+}
